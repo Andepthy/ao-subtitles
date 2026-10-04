@@ -1,17 +1,17 @@
-01 https://youtu.be/810P7FwtaZw
-02 https://youtu.be/Gm9RiWBs6f0
-03 https://youtu.be/-9Wb3qsLpjQ (Friday Special)
-04 https://youtu.be/fsYfh7jFI6k
-05 https://youtu.be/cOuiX7HKI4c
-06 https://youtu.be/7LrWtMftCzk
-07 https://youtu.be/tsY0MWJTHRs (Saturday Special)
-08 https://youtu.be/YJEUt0Z-Ywo
-09 https://youtu.be/BV4GT388jz8
-10 https://youtu.be/v4PUsEZfywk
-11 https://youtu.be/KyeI-SXPD1Y
-12 https://youtu.be/nqo-DWrbLmc
-13 https://youtu.be/Hu2IYwXRBQ8
-14 https://youtu.be/g0fyLiKUsFU
-15 https://youtu.be/MWF5ibPr4tA
-16 https://youtu.be/9Uv5D77Ti7I
-17 https://youtu.be/6saQ-VT2Vho
+01 https://youtube.com/watch?v=810P7FwtaZw 24-03-31
+02 https://youtube.com/watch?v=Gm9RiWBs6f0 24-04-03
+03 https://youtube.com/watch?v=-9Wb3qsLpjQ 24-04-05
+04 https://youtube.com/watch?v=fsYfh7jFI6k 24-04-07
+05 https://youtube.com/watch?v=cOuiX7HKI4c 24-04-09
+06 https://youtube.com/watch?v=7LrWtMftCzk 24-04-10
+07 https://youtube.com/watch?v=tsY0MWJTHRs 24-04-13
+08 https://youtube.com/watch?v=YJEUt0Z-Ywo 24-04-18
+09 https://youtube.com/watch?v=BV4GT388jz8 24-04-20
+10 https://youtube.com/watch?v=v4PUsEZfywk 24-04-22
+11 https://youtube.com/watch?v=KyeI-SXPD1Y 24-04-26
+12 https://youtube.com/watch?v=nqo-DWrbLmc 24-04-29
+13 https://youtube.com/watch?v=Hu2IYwXRBQ8 24-05-03
+14 https://youtube.com/watch?v=g0fyLiKUsFU 24-05-04
+15 https://youtube.com/watch?v=MWF5ibPr4tA 24-05-05
+16 https://youtube.com/watch?v=9Uv5D77Ti7I 24-05-07
+17 https://youtube.com/watch?v=6saQ-VT2Vho 24-05-17

@@ -1,5 +1,5 @@
-01 https://youtu.be/tYgVrj4tOmw 25-10-13
-02 https://youtu.be/EKJGHmg_cb0 25-10-20
-03 https://youtu.be/t-2X11BKr68 25-10-23
-04 https://youtu.be/5PCNudNjUA0 25-10-29
-05 https://youtu.be/m_3bZm54LEY 25-11-04
+01 https://youtube.com/watch?v=tYgVrj4tOmw 25-10-13
+02 https://youtube.com/watch?v=EKJGHmg_cb0 25-10-20
+03 https://youtube.com/watch?v=t-2X11BKr68 25-10-23
+04 https://youtube.com/watch?v=5PCNudNjUA0 25-10-29
+05 https://youtube.com/watch?v=m_3bZm54LEY 25-11-04

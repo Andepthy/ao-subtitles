@@ -1,36 +1,36 @@
-01 Lapsuudenmuisto 童年回忆
-02 Mahtava Runi 超强的一局
-03 Verta, verta, verta!! 血，血，血！！
-04 Parhaat sauvani 我最好的魔杖
-05 Jumalat ovat vihaisia 众神发怒了
-06 Lukki Lukki
-07 Konekivääri!!! 机枪！！！
-08 Ensimmäinen voittoni? 我的第一次胜利？
-09 Vaeltelua 闲逛
-10 Yksi 一个
-11 Kohti 向着前方
-12 Niin lähellä, mutta niin kaukana... 那么近，却又那么远……
-13 Edistystä!!! 有进展了！！！
-14 Kaksi askelta eteenpäin, kaksi askelta taaksepäin 前进两步，后退两步
-15 Suuri Taikasauvavarkaus 魔杖大盗窃
-16 Viholliseni on nyt ystäväni 我的敌人如今是朋友
-17 Miten se alkoi: 事情是怎么开始的：
-18 Miten se sujuu nyt: 现在进展如何：
-19 Ukkoskivi 雷石
-20 Lisää 更多
-21 Stuart Troubles Stuart 的麻烦
-22 Glass is glass and glass breaks 玻璃就是玻璃，玻璃会碎
-23 Off Road Adventures 越野冒险
-24 Horizontal Exploration 水平探索
-25 THIS. IS. INSANE. 这。太。离。谱。了。
-26 Vertical Exploration 垂直探索
-27 Rosetta Stone 罗塞塔石碑
-28 Impatient Pacifist 没耐心的和平主义者
-29 The gods are VERY angry 众神非常愤怒
-30 The gods play dice 众神掷骰子
-31 Knowledge through gain 从收获中获得知识
-32 Wisdom through sacrifice 从牺牲中获得智慧
-33 Lessons 教训
-34 Party like it's 04/08 像在 04/08 那样狂欢
-35 I didn't choose the Vampire Life, the Vampire Life chose me 不是我选择了吸血鬼生活，而是吸血鬼生活选择了我
-36 Many-worlds interpretation 多世界诠释
+01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
