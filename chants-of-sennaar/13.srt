@@ -1,0 +1,4043 @@
+1
+00:00:00,620 --> 00:00:01,300
+Welcome back.
+
+2
+00:00:01,800 --> 00:00:03,360
+I think I've managed to un-motion my brain.
+
+3
+00:00:04,000 --> 00:00:05,320
+It took me a day, okay?
+
+4
+00:00:06,400 --> 00:00:09,940
+I remember at the very end of last time I had some real issues.
+
+5
+00:00:10,040 --> 00:00:11,680
+I was just stumbling around with some words.
+
+6
+00:00:14,300 --> 00:00:17,460
+Let's just go in with this with a fresh mind now and have a look at things.
+
+7
+00:00:18,880 --> 00:00:19,400
+So, yeah.
+
+8
+00:00:19,820 --> 00:00:20,640
+Let's go back up here.
+
+9
+00:00:22,320 --> 00:00:24,400
+The problem was I didn't know where to go next.
+
+10
+00:00:25,620 --> 00:00:26,680
+I was sort of lost.
+
+11
+00:00:28,000 --> 00:00:29,420
+Let's go back up to where we were.
+
+12
+00:00:32,860 --> 00:00:38,900
+We found the labs and we deciphered the whole number system and all that, you know, base 10, all that stuff.
+
+13
+00:00:40,420 --> 00:00:41,620
+But then things went downhill.
+
+14
+00:00:43,520 --> 00:00:45,420
+Let's see if we can't rectify it a little bit.
+
+15
+00:00:48,760 --> 00:00:49,700
+Let's look at this map again.
+
+16
+00:00:50,180 --> 00:00:52,640
+So, okay, right now I just came from the bottom, right?
+
+17
+00:00:54,180 --> 00:00:58,280
+I just don't understand why this one is saying out of order or closed.
+
+18
+00:00:58,480 --> 00:00:59,240
+It's clearly not.
+
+19
+00:01:01,480 --> 00:01:02,640
+I just took it.
+
+20
+00:01:06,620 --> 00:01:08,260
+Oh yeah, this was supposed to be refinery.
+
+21
+00:01:11,820 --> 00:01:13,800
+Wait, mine?
+
+22
+00:01:18,230 --> 00:01:19,270
+Hold on, which one am I looking at?
+
+23
+00:01:19,690 --> 00:01:20,170
+That one.
+
+24
+00:01:21,130 --> 00:01:21,970
+This one, refinery.
+
+25
+00:01:23,550 --> 00:01:23,730
+Yeah.
+
+26
+00:01:24,210 --> 00:01:26,470
+That one is pretty much confirmed, right?
+
+27
+00:01:27,630 --> 00:01:29,990
+And I don't think I understand this map entirely.
+
+28
+00:01:30,970 --> 00:01:33,050
+Because this is clearly a vertical map, right?
+
+29
+00:01:33,590 --> 00:01:35,870
+I'm going up to the next level.
+
+30
+00:01:37,090 --> 00:01:39,490
+So this means this is also higher than this.
+
+31
+00:01:41,810 --> 00:01:43,090
+And then this goes up again.
+
+32
+00:01:43,770 --> 00:01:44,650
+And this is higher.
+
+33
+00:01:46,530 --> 00:01:47,850
+Like higher up vertically.
+
+34
+00:01:50,570 --> 00:01:53,010
+Refinery, silver, gold, copper.
+
+35
+00:01:54,290 --> 00:01:55,090
+This is the lab.
+
+36
+00:01:57,170 --> 00:02:00,430
+Cafeteria, machine, fairy gate.
+
+37
+00:02:03,550 --> 00:02:06,830
+I just seem to remember the mine being over here somewhere.
+
+38
+00:02:07,350 --> 00:02:08,430
+Wasn't it close to the lab?
+
+39
+00:02:09,370 --> 00:02:14,110
+And why is the whatever the mine is not over here on the map?
+
+40
+00:02:16,130 --> 00:02:17,870
+That's the thing that's confusing me right now.
+
+41
+00:02:21,100 --> 00:02:22,760
+I need to go back over here and see.
+
+42
+00:02:24,660 --> 00:02:25,980
+I need to see this lab again.
+
+43
+00:02:27,640 --> 00:02:29,580
+Oh, and let's see if we can actually figure this out.
+
+44
+00:02:29,680 --> 00:02:31,220
+So right now we are on this level.
+
+45
+00:02:32,600 --> 00:02:35,680
+So in order to get to the lab, we just have to keep going this way.
+
+46
+00:02:39,580 --> 00:02:39,940
+Right?
+
+47
+00:02:39,940 --> 00:02:41,380
+Oh, but not down here apparently.
+
+48
+00:02:42,920 --> 00:02:43,640
+It's upstairs.
+
+49
+00:02:43,940 --> 00:02:45,240
+Oh, the cafeteria has just opened.
+
+50
+00:02:46,180 --> 00:02:47,280
+I wonder what they're serving today.
+
+51
+00:02:48,620 --> 00:02:49,600
+Probably meatloaf.
+
+52
+00:02:49,600 --> 00:02:52,700
+I imagine these people eating meatloaf.
+
+53
+00:02:53,940 --> 00:02:58,080
+Not sure why, but it's just what I think.
+
+54
+00:03:00,740 --> 00:03:02,040
+I thought he was running to the cafeteria.
+
+55
+00:03:03,520 --> 00:03:05,960
+Labs, lab one, lab two, right?
+
+56
+00:03:07,140 --> 00:03:09,000
+Ah, but then there's also this extra one here.
+
+57
+00:03:11,200 --> 00:03:12,980
+Lab one, lab two, and then this.
+
+58
+00:03:14,660 --> 00:03:16,260
+This, I think, is mine.
+
+59
+00:03:18,360 --> 00:03:20,440
+So it's the little circle with the thing down.
+
+60
+00:03:29,350 --> 00:03:35,930
+The problem here is though, if I'm over here, then the one on the left can't be a mine, obviously.
+
+61
+00:03:38,190 --> 00:03:39,310
+So I'm missing something.
+
+62
+00:03:40,530 --> 00:03:42,350
+It just fits so well though, you know?
+
+63
+00:03:43,070 --> 00:03:44,930
+Mine, it has the line going up and this thing.
+
+64
+00:03:45,530 --> 00:03:47,730
+But of course, the bottom part could be different.
+
+65
+00:03:48,450 --> 00:03:54,150
+Maybe there's a glyph I haven't discovered yet that has the same properties, right?
+
+66
+00:03:56,590 --> 00:03:57,110
+Oh, wait a minute!
+
+67
+00:04:00,460 --> 00:04:02,360
+This could actually mean lab three.
+
+68
+00:04:03,340 --> 00:04:07,060
+Because look, the labs also have a circle going down and this going up.
+
+69
+00:04:08,600 --> 00:04:10,180
+Maybe there is no mine at all.
+
+70
+00:04:12,440 --> 00:04:13,660
+Oh, I'm so dumb!
+
+71
+00:04:16,000 --> 00:04:25,540
+Lab one, lab two, of course, because the number... it has to be lab three.
+
+72
+00:04:26,260 --> 00:04:27,580
+But we don't know where lab three is.
+
+73
+00:04:28,860 --> 00:04:30,020
+I couldn't see it.
+
+74
+00:04:30,720 --> 00:04:32,160
+It's either lab three or mine.
+
+75
+00:04:33,020 --> 00:04:34,640
+Let me actually go back in here to lab two.
+
+76
+00:04:35,940 --> 00:04:39,720
+According to this sign, this should lead to either a mine or a lab three.
+
+77
+00:04:40,720 --> 00:04:42,040
+That's lab two up there.
+
+78
+00:04:47,500 --> 00:04:48,020
+Wait a minute.
+
+79
+00:04:48,660 --> 00:04:49,800
+There's also a path over here.
+
+80
+00:04:53,590 --> 00:04:54,350
+Oh, right.
+
+81
+00:04:54,690 --> 00:04:55,370
+That's true.
+
+82
+00:04:55,730 --> 00:04:56,670
+Why is it covered up, though?
+
+83
+00:04:59,910 --> 00:05:03,130
+Yeah, this could be lab.
+
+84
+00:05:04,710 --> 00:05:06,910
+Actually, to assume it's a lab makes more sense here.
+
+85
+00:05:08,650 --> 00:05:09,950
+This is like the lab area.
+
+86
+00:05:13,090 --> 00:05:15,010
+Oh, maybe this lab was overrun by monsters.
+
+87
+00:05:18,360 --> 00:05:18,840
+Right?
+
+88
+00:05:19,900 --> 00:05:20,540
+Monsters fear fire.
+
+89
+00:05:20,920 --> 00:05:21,000
+Yeah.
+
+90
+00:05:22,500 --> 00:05:23,360
+That one we got.
+
+91
+00:05:26,990 --> 00:05:29,670
+Why did I assume this to be a mine anyway?
+
+92
+00:05:29,870 --> 00:05:30,450
+Oh, wait a minute.
+
+93
+00:05:34,430 --> 00:05:35,970
+I didn't even see this.
+
+94
+00:05:38,050 --> 00:05:39,630
+Oh, but I guess I still need fire.
+
+95
+00:05:41,730 --> 00:05:42,130
+Right.
+
+96
+00:05:43,510 --> 00:05:44,970
+Yeah, we got to find fire somehow.
+
+97
+00:05:47,150 --> 00:05:47,890
+That's the next step.
+
+98
+00:05:48,170 --> 00:05:51,170
+Find fire so we can go into, well, the lab or the mine.
+
+99
+00:05:54,620 --> 00:05:55,020
+Right.
+
+100
+00:05:55,180 --> 00:05:55,780
+And what's upstairs?
+
+101
+00:06:00,000 --> 00:06:02,740
+Now we're just going up on the map to the second level.
+
+102
+00:06:06,190 --> 00:06:06,410
+Yeah.
+
+103
+00:06:06,490 --> 00:06:06,770
+You know what?
+
+104
+00:06:06,870 --> 00:06:11,460
+I'm going to call this one.
+
+105
+00:06:11,480 --> 00:06:12,120
+I don't know what is.
+
+106
+00:06:15,100 --> 00:06:16,140
+I don't know what that is.
+
+107
+00:06:17,220 --> 00:06:18,160
+Let's go upstairs.
+
+108
+00:06:22,740 --> 00:06:24,640
+There's also the library.
+
+109
+00:06:25,640 --> 00:06:28,420
+Well, the place that's just called books, which is super weird.
+
+110
+00:06:33,210 --> 00:06:35,170
+Uh, that's the cafeteria.
+
+111
+00:06:36,010 --> 00:06:36,810
+No doubt about it.
+
+112
+00:06:36,930 --> 00:06:38,470
+That one is irrefutable.
+
+113
+00:06:43,180 --> 00:06:44,900
+OK, this guy is counting barrels.
+
+114
+00:06:46,960 --> 00:06:48,960
+And currently we are on the second floor.
+
+115
+00:06:50,000 --> 00:06:50,800
+Let's see the map again.
+
+116
+00:06:54,210 --> 00:06:54,690
+Right.
+
+117
+00:06:58,200 --> 00:06:59,660
+Fairygate is up there, apparently.
+
+118
+00:07:00,940 --> 00:07:02,440
+And this is verticality, right?
+
+119
+00:07:03,520 --> 00:07:04,740
+So if I go left now...
+
+120
+00:07:06,700 --> 00:07:07,480
+Or is it?
+
+121
+00:07:07,620 --> 00:07:08,020
+I don't know.
+
+122
+00:07:08,060 --> 00:07:08,580
+It's so confusing.
+
+123
+00:07:08,740 --> 00:07:09,780
+This map is so confusing.
+
+124
+00:07:14,340 --> 00:07:17,620
+Like that would mean that this this is the library, right?
+
+125
+00:07:18,660 --> 00:07:23,080
+That would suggest that the fairygate is above the library somewhere up here that I can't get to.
+
+126
+00:07:24,180 --> 00:07:25,120
+But what is over here?
+
+127
+00:07:26,380 --> 00:07:27,600
+Isn't that the fairygate, though?
+
+128
+00:07:30,830 --> 00:07:32,190
+Yeah, this has to be the fairygate.
+
+129
+00:07:33,510 --> 00:07:35,070
+There's just no other way around it.
+
+130
+00:07:35,710 --> 00:07:37,770
+And I guess it is technically a little up.
+
+131
+00:07:41,500 --> 00:07:43,800
+But to me, it's more like this is north and this is more south.
+
+132
+00:07:43,980 --> 00:07:44,760
+You know, it's so confusing.
+
+133
+00:07:45,280 --> 00:07:49,820
+That map is combining height, so elevation and directions.
+
+134
+00:07:50,060 --> 00:07:50,660
+It's super weird.
+
+135
+00:07:54,310 --> 00:07:59,370
+Do I really not have a word for library in any way?
+
+136
+00:08:03,200 --> 00:08:04,380
+Also, what am I missing here?
+
+137
+00:08:07,100 --> 00:08:07,800
+Oh, yeah.
+
+138
+00:08:09,320 --> 00:08:12,160
+Oh, that's why I was guessing mine, right?
+
+139
+00:08:17,330 --> 00:08:17,810
+Oh.
+
+140
+00:08:17,810 --> 00:08:19,670
+Oh, wait, wait, wait, wait, wait, wait.
+
+141
+00:08:19,730 --> 00:08:20,850
+I think I just got it.
+
+142
+00:08:21,930 --> 00:08:23,510
+We're not dealing with refineries.
+
+143
+00:08:23,910 --> 00:08:25,690
+This is the mine slash refinery.
+
+144
+00:08:26,930 --> 00:08:27,950
+Gold mine, silver mine.
+
+145
+00:08:28,170 --> 00:08:29,030
+Oh, that makes so much more sense.
+
+146
+00:08:32,700 --> 00:08:33,920
+This is probably mine.
+
+147
+00:08:37,540 --> 00:08:37,900
+Cafeteria.
+
+148
+00:08:39,920 --> 00:08:40,440
+Lab.
+
+149
+00:08:40,680 --> 00:08:42,160
+These two are 100% confirmed.
+
+150
+00:08:43,600 --> 00:08:46,380
+And then mine is pretty much confirmed.
+
+151
+00:08:48,240 --> 00:08:51,880
+This has to be, well, library.
+
+152
+00:08:56,520 --> 00:08:58,540
+They wouldn't give us this unless we had all the glyphs, right?
+
+153
+00:08:59,580 --> 00:09:00,100
+Okay.
+
+154
+00:09:01,860 --> 00:09:02,620
+Thank the Lord.
+
+155
+00:09:04,100 --> 00:09:04,100
+Library.
+
+156
+00:09:05,260 --> 00:09:05,420
+Mine.
+
+157
+00:09:08,600 --> 00:09:09,120
+Refractory?
+
+158
+00:09:09,120 --> 00:09:15,680
+I have no idea what that means, but I'm assuming it's cafeteria related.
+
+159
+00:09:19,200 --> 00:09:19,760
+Okay.
+
+160
+00:09:19,980 --> 00:09:21,400
+Oh, we still have this one.
+
+161
+00:09:24,980 --> 00:09:25,820
+Man, what could that be?
+
+162
+00:09:26,860 --> 00:09:28,620
+So what did I call that one?
+
+163
+00:09:29,740 --> 00:09:30,540
+Elements combination.
+
+164
+00:09:33,400 --> 00:09:37,040
+Could be alchemy, actually.
+
+165
+00:09:39,780 --> 00:09:41,120
+Monster and fear.
+
+166
+00:09:44,730 --> 00:09:45,710
+Man, what is that?
+
+167
+00:09:50,280 --> 00:09:51,300
+Create, make.
+
+168
+00:09:53,760 --> 00:09:56,020
+Caterpillar makes a butterfly.
+
+169
+00:10:00,800 --> 00:10:02,540
+Nope, it does not make a butterfly.
+
+170
+00:10:05,200 --> 00:10:08,100
+The thing is, though, I must have the glyph for this at the moment.
+
+171
+00:10:09,880 --> 00:10:10,980
+I must have it.
+
+172
+00:10:13,440 --> 00:10:14,680
+Fear and monster.
+
+173
+00:10:17,360 --> 00:10:18,000
+Machine.
+
+174
+00:10:19,400 --> 00:10:19,960
+What else could it be?
+
+175
+00:10:20,480 --> 00:10:20,480
+Close?
+
+176
+00:10:23,790 --> 00:10:25,390
+It's not greetings.
+
+177
+00:10:26,930 --> 00:10:27,230
+Open.
+
+178
+00:10:28,650 --> 00:10:30,970
+Is this somehow fire or heat?
+
+179
+00:10:36,030 --> 00:10:36,670
+Machine?
+
+180
+00:10:38,610 --> 00:10:40,030
+The machine of life?
+
+181
+00:10:42,090 --> 00:10:44,430
+I am so confused by that one.
+
+182
+00:10:45,410 --> 00:10:47,850
+And I'm still kind of lost because I need to find fire.
+
+183
+00:10:50,270 --> 00:10:52,030
+Because I know I need to combine it.
+
+184
+00:10:54,210 --> 00:10:55,330
+Oh, now I'm up here.
+
+185
+00:10:58,890 --> 00:11:02,310
+Well, now that we know it's a mine, let's try and go to the mines again.
+
+186
+00:11:03,730 --> 00:11:04,610
+Let's take the elevator.
+
+187
+00:11:09,450 --> 00:11:10,610
+Let's see the map now.
+
+188
+00:11:13,430 --> 00:11:14,030
+Silver mine.
+
+189
+00:11:14,390 --> 00:11:15,290
+Okay, good, good, good.
+
+190
+00:11:16,090 --> 00:11:16,470
+Copper mine.
+
+191
+00:11:17,990 --> 00:11:18,250
+Nice.
+
+192
+00:11:18,390 --> 00:11:21,610
+So all of these places are pretty much confirmed now, except the machine.
+
+193
+00:11:24,800 --> 00:11:25,200
+Yes.
+
+194
+00:11:27,940 --> 00:11:29,040
+Okay, let's go down.
+
+195
+00:11:33,640 --> 00:11:36,080
+I guess that's why I was at the bottom last time.
+
+196
+00:11:36,480 --> 00:11:37,940
+Because I couldn't find anything else up here.
+
+197
+00:11:38,720 --> 00:11:40,540
+That's why I went down to, well, the mines.
+
+198
+00:11:43,360 --> 00:11:44,540
+Okay, now I'm on level one.
+
+199
+00:11:45,820 --> 00:11:49,340
+In fact, we can go left now and go to the other two mines.
+
+200
+00:11:49,420 --> 00:11:51,260
+That is not copper, so silver and gold.
+
+201
+00:11:52,400 --> 00:11:53,120
+Which should be here.
+
+202
+00:11:53,240 --> 00:11:53,820
+Yeah, this is it.
+
+203
+00:11:54,780 --> 00:11:55,120
+Gold mine.
+
+204
+00:11:55,940 --> 00:11:57,540
+I still need an access card.
+
+205
+00:11:57,660 --> 00:11:59,260
+Where the hell do I get that?
+
+206
+00:12:02,900 --> 00:12:07,400
+I think the thing I'm struggling most with in this area is just knowing where to go.
+
+207
+00:12:07,480 --> 00:12:08,060
+I'm kind of stuck.
+
+208
+00:12:13,360 --> 00:12:14,100
+And this thing.
+
+209
+00:12:23,900 --> 00:12:26,140
+I need to fill this one up with something.
+
+210
+00:12:30,330 --> 00:12:32,450
+This was gold mine.
+
+211
+00:12:34,570 --> 00:12:35,190
+Silver mine.
+
+212
+00:12:35,330 --> 00:12:36,870
+Why are there two light bulbs on?
+
+213
+00:12:36,970 --> 00:12:38,030
+Does that mean anything at all?
+
+214
+00:12:38,910 --> 00:12:39,810
+It's just lights.
+
+215
+00:12:41,190 --> 00:12:42,970
+I think I needed an access card here as well.
+
+216
+00:12:43,090 --> 00:12:44,570
+Yeah, look, I need an access card.
+
+217
+00:12:46,670 --> 00:12:48,850
+Can I can I put the silver on this thing?
+
+218
+00:12:52,940 --> 00:12:55,660
+Maybe it gets processed into a bar or something.
+
+219
+00:12:56,700 --> 00:13:00,160
+Oh, are you kidding me?
+
+220
+00:13:06,520 --> 00:13:09,360
+Okay, there was no prompt for it when I held middle mouse.
+
+221
+00:13:15,220 --> 00:13:16,640
+Oh my god, look at him.
+
+222
+00:13:18,440 --> 00:13:19,500
+Why would I do this?
+
+223
+00:13:26,920 --> 00:13:28,730
+Oh my god, look at that.
+
+224
+00:13:31,480 --> 00:13:32,560
+They are processing.
+
+225
+00:13:35,060 --> 00:13:36,000
+Monsters ahead.
+
+226
+00:13:42,270 --> 00:13:43,510
+Actually, this could mean danger.
+
+227
+00:13:46,670 --> 00:13:48,330
+Danger or warning.
+
+228
+00:13:51,460 --> 00:13:53,240
+You know, a classic danger sign.
+
+229
+00:13:57,530 --> 00:13:59,210
+I could walk across here.
+
+230
+00:13:59,230 --> 00:14:01,010
+There's a little gap in between this.
+
+231
+00:14:02,230 --> 00:14:04,810
+Man, I'm just happy I finally figured out a new area to go to.
+
+232
+00:14:05,850 --> 00:14:05,930
+Go.
+
+233
+00:14:07,130 --> 00:14:07,170
+Run.
+
+234
+00:14:08,430 --> 00:14:08,690
+Jesus.
+
+235
+00:14:09,750 --> 00:14:10,990
+Yeah, this is definitely dangerous.
+
+236
+00:14:13,310 --> 00:14:13,370
+Go.
+
+237
+00:14:15,890 --> 00:14:16,350
+Go.
+
+238
+00:14:19,730 --> 00:14:20,770
+Oh, nice.
+
+239
+00:14:21,210 --> 00:14:21,630
+Not bad.
+
+240
+00:14:23,750 --> 00:14:24,390
+And go.
+
+241
+00:14:25,170 --> 00:14:25,510
+Oh, fuck.
+
+242
+00:14:26,490 --> 00:14:26,950
+Back, back, back.
+
+243
+00:14:27,410 --> 00:14:27,790
+Wait, what?
+
+244
+00:14:32,080 --> 00:14:32,340
+Go.
+
+245
+00:14:34,540 --> 00:14:35,080
+Wait here.
+
+246
+00:14:36,400 --> 00:14:36,720
+Go.
+
+247
+00:14:37,560 --> 00:14:37,940
+Oh, man.
+
+248
+00:14:38,980 --> 00:14:39,440
+Wait here.
+
+249
+00:14:40,340 --> 00:14:40,520
+Go.
+
+250
+00:14:43,220 --> 00:14:50,280
+Again, would it be funny if there was a cut scene where you get hit by those rocks and you just get fucking blasted by them.
+
+251
+00:14:50,900 --> 00:14:59,620
+You know, limbs falling everywhere, blood, you're just crushed, the head is split in half, organs coming out, guts everywhere.
+
+252
+00:15:00,920 --> 00:15:03,800
+It was not fit with the game at all, but it would be funny.
+
+253
+00:15:05,880 --> 00:15:07,020
+Okay, what do we have here?
+
+254
+00:15:11,710 --> 00:15:14,750
+Oh, this is the thing from the drawing.
+
+255
+00:15:15,390 --> 00:15:22,070
+First, we open it until something.
+
+256
+00:15:24,910 --> 00:15:25,870
+I forgot the order.
+
+257
+00:15:29,410 --> 00:15:32,870
+Okay, now we put in silver.
+
+258
+00:15:34,710 --> 00:15:36,710
+And I think we do.
+
+259
+00:15:41,000 --> 00:15:42,200
+Yeah, until it's in that.
+
+260
+00:15:46,230 --> 00:15:46,670
+Go.
+
+261
+00:15:48,630 --> 00:15:50,470
+Yes, we're making an ingot.
+
+262
+00:15:51,710 --> 00:15:52,770
+I call that so early.
+
+263
+00:15:55,130 --> 00:15:55,910
+Very nice.
+
+264
+00:15:57,230 --> 00:15:57,670
+Yay.
+
+265
+00:15:58,890 --> 00:15:59,510
+There it is.
+
+266
+00:15:59,630 --> 00:16:00,130
+Look at that.
+
+267
+00:16:00,650 --> 00:16:01,190
+So pretty.
+
+268
+00:16:01,990 --> 00:16:03,370
+Doesn't look like silver at all.
+
+269
+00:16:03,590 --> 00:16:05,070
+Okay, in this angle, it does.
+
+270
+00:16:06,250 --> 00:16:07,630
+In this angle, it doesn't.
+
+271
+00:16:08,430 --> 00:16:09,550
+It's a little bit funny with the colors.
+
+272
+00:16:10,850 --> 00:16:12,230
+Okay, we got new stuff.
+
+273
+00:16:13,890 --> 00:16:15,250
+This has to be water or pipe.
+
+274
+00:16:19,370 --> 00:16:19,950
+Death.
+
+275
+00:16:22,860 --> 00:16:24,660
+Oh, open, close.
+
+276
+00:16:28,700 --> 00:16:30,620
+Open, close, and then this one.
+
+277
+00:16:32,400 --> 00:16:33,060
+Danger warning.
+
+278
+00:16:34,700 --> 00:16:35,680
+Yeah, come on.
+
+279
+00:16:36,700 --> 00:16:37,820
+Okay, death or dead.
+
+280
+00:16:37,820 --> 00:16:41,320
+I like that they just have a sign that says death.
+
+281
+00:16:42,400 --> 00:16:43,900
+Yeah, don't go this way or you'll die.
+
+282
+00:16:47,490 --> 00:16:48,450
+Man, what could that be then?
+
+283
+00:16:54,360 --> 00:16:56,620
+I mean, I don't know.
+
+284
+00:16:57,000 --> 00:16:58,440
+We don't have any options here, really.
+
+285
+00:17:00,080 --> 00:17:01,060
+What does this even mean?
+
+286
+00:17:01,280 --> 00:17:01,640
+So hold on.
+
+287
+00:17:02,160 --> 00:17:02,160
+Nature.
+
+288
+00:17:03,920 --> 00:17:08,140
+Uh, yeah, nature, maybe.
+
+289
+00:17:11,480 --> 00:17:11,480
+Hmm.
+
+290
+00:17:13,040 --> 00:17:17,860
+So we have science, monster, fear,
+
+291
+00:17:22,310 --> 00:17:23,370
+life.
+
+292
+00:17:25,390 --> 00:17:27,470
+I have zero clue.
+
+293
+00:17:28,610 --> 00:17:29,570
+No idea.
+
+294
+00:17:31,030 --> 00:17:31,890
+Let's go this way.
+
+295
+00:17:36,000 --> 00:17:38,200
+Oh, that's a lot of ingots.
+
+296
+00:17:47,320 --> 00:17:48,820
+It's a gold ingot.
+
+297
+00:17:50,360 --> 00:17:50,580
+Beautiful.
+
+298
+00:17:53,950 --> 00:17:54,490
+That's it.
+
+299
+00:17:55,710 --> 00:18:00,210
+Can I not pocket a couple extra for later so I can spend it at the refectory?
+
+300
+00:18:01,370 --> 00:18:05,030
+Get some nice pasta, some salad on the side.
+
+301
+00:18:09,420 --> 00:18:09,700
+Oh.
+
+302
+00:18:18,680 --> 00:18:20,480
+Oh, would you look at that?
+
+303
+00:18:26,420 --> 00:18:28,480
+Oh, yes, access cards.
+
+304
+00:18:30,860 --> 00:18:31,380
+Finally.
+
+305
+00:18:32,620 --> 00:18:34,360
+We now have access to the other two mines.
+
+306
+00:18:36,980 --> 00:18:37,500
+Beautiful.
+
+307
+00:18:39,360 --> 00:18:39,680
+Okay.
+
+308
+00:18:42,200 --> 00:18:42,580
+Nice.
+
+309
+00:18:42,820 --> 00:18:44,220
+Let's, let's slot it in.
+
+310
+00:18:48,370 --> 00:18:53,010
+Uh, well, I don't know where we're going, but I guess it doesn't matter.
+
+311
+00:18:53,150 --> 00:18:54,430
+Maybe just choose these.
+
+312
+00:18:55,850 --> 00:18:57,190
+Yes, beep it up.
+
+313
+00:18:58,690 --> 00:18:59,410
+Look at that.
+
+314
+00:19:03,740 --> 00:19:06,180
+Okay, but what's this all about then?
+
+315
+00:19:08,540 --> 00:19:09,820
+What was the point of this?
+
+316
+00:19:12,300 --> 00:19:13,700
+How come this one was closed?
+
+317
+00:19:18,470 --> 00:19:21,650
+Like, okay, this one was really weird to me.
+
+318
+00:19:22,150 --> 00:19:26,130
+The fact that I had to go inside of here, because I held middle mouse button, there was no prompt for this.
+
+319
+00:19:27,970 --> 00:19:34,030
+But I guess maybe the timer being like, dick, dick, dick, was like an indicator in my mind a little bit.
+
+320
+00:19:35,530 --> 00:19:38,290
+But I could easily have missed this for three hours more.
+
+321
+00:19:39,790 --> 00:19:40,270
+Weird.
+
+322
+00:19:41,890 --> 00:19:43,550
+Okay, let's head down here now.
+
+323
+00:19:44,610 --> 00:19:46,730
+So now we have gold and we have silver.
+
+324
+00:19:49,730 --> 00:19:57,970
+Actually, no, this is, yeah, this should be silver, except it doesn't have a engraving on it.
+
+325
+00:19:59,050 --> 00:20:00,130
+Let's just go in here.
+
+326
+00:20:06,780 --> 00:20:08,100
+Oh, not that one, of course.
+
+327
+00:20:09,260 --> 00:20:09,760
+This one.
+
+328
+00:20:11,280 --> 00:20:11,800
+Beep me in.
+
+329
+00:20:15,100 --> 00:20:15,520
+Uh, go in.
+
+330
+00:20:16,920 --> 00:20:17,800
+Uh, go in.
+
+331
+00:20:18,840 --> 00:20:19,520
+Come on, in.
+
+332
+00:20:19,940 --> 00:20:20,360
+There we go.
+
+333
+00:20:23,620 --> 00:20:24,140
+Hello?
+
+334
+00:20:26,100 --> 00:20:26,880
+Who spoke?
+
+335
+00:20:31,860 --> 00:20:34,120
+Oh, oh my God, you're stuck.
+
+336
+00:20:40,340 --> 00:20:42,280
+You, okay, I got greetings wrong.
+
+337
+00:20:42,760 --> 00:20:43,360
+You help me?
+
+338
+00:20:43,840 --> 00:20:45,640
+I'm sorry, I'll help you.
+
+339
+00:20:48,160 --> 00:20:48,740
+There you go.
+
+340
+00:20:57,130 --> 00:20:58,070
+Then he walks off.
+
+341
+00:21:01,710 --> 00:21:04,530
+Oh, what do we got here?
+
+342
+00:21:09,340 --> 00:21:11,460
+Yes, there it is.
+
+343
+00:21:12,600 --> 00:21:13,500
+There it is.
+
+344
+00:21:13,540 --> 00:21:14,580
+We can now make fire.
+
+345
+00:21:16,520 --> 00:21:17,040
+Incredible.
+
+346
+00:21:18,500 --> 00:21:20,220
+Okay, so that has to mean help, right?
+
+347
+00:21:23,340 --> 00:21:25,640
+But I'm thinking, maybe it's this one?
+
+348
+00:21:27,740 --> 00:21:29,180
+Does this make any sense with help?
+
+349
+00:21:30,020 --> 00:21:30,900
+You help me?
+
+350
+00:21:31,660 --> 00:21:32,980
+You rescue me?
+
+351
+00:21:34,260 --> 00:21:37,000
+Um, you assist me?
+
+352
+00:21:38,800 --> 00:21:40,900
+That does not make sense with any of these.
+
+353
+00:21:41,060 --> 00:21:43,760
+So if it's not that one, it needs to be one of these three.
+
+354
+00:21:44,560 --> 00:21:46,060
+Why did I call this one create make?
+
+355
+00:21:46,220 --> 00:21:48,420
+I know it doesn't work here because I tried it.
+
+356
+00:21:51,900 --> 00:21:55,060
+Yeah, I don't know.
+
+357
+00:21:58,060 --> 00:21:59,340
+Oh, I wanted to rename this.
+
+358
+00:22:00,280 --> 00:22:01,100
+Oh, I did already, right.
+
+359
+00:22:01,640 --> 00:22:03,840
+Okay, um, we got the fire.
+
+360
+00:22:05,460 --> 00:22:06,920
+There was a staircase over here.
+
+361
+00:22:13,510 --> 00:22:14,090
+Down this way.
+
+362
+00:22:16,310 --> 00:22:17,230
+Oh,
+
+363
+00:22:21,920 --> 00:22:23,780
+I knew there was going to be another terminal.
+
+364
+00:22:27,410 --> 00:22:31,430
+Okay, warriors don't something.
+
+365
+00:22:34,170 --> 00:22:35,050
+That means warrior.
+
+366
+00:22:40,700 --> 00:22:40,700
+Warrior.
+
+367
+00:22:44,560 --> 00:22:46,040
+Oh, that's the other one.
+
+368
+00:22:47,500 --> 00:22:48,700
+Unreadable plants.
+
+369
+00:22:50,240 --> 00:22:56,080
+Oh, devotees plant plants.
+
+370
+00:22:58,480 --> 00:22:58,760
+Right.
+
+371
+00:23:01,360 --> 00:23:03,400
+That has to mean devotee.
+
+372
+00:23:07,230 --> 00:23:08,730
+Man, we got them all now.
+
+373
+00:23:14,040 --> 00:23:16,820
+Warriors don't play music.
+
+374
+00:23:19,220 --> 00:23:21,620
+What do the warriors not do?
+
+375
+00:23:21,620 --> 00:23:25,960
+No, they don't.
+
+376
+00:23:26,160 --> 00:23:29,000
+Um, I don't know.
+
+377
+00:23:30,720 --> 00:23:31,840
+They don't do science.
+
+378
+00:23:37,120 --> 00:23:37,120
+Warriors.
+
+379
+00:23:41,240 --> 00:23:42,500
+Oh, I get it.
+
+380
+00:23:42,560 --> 00:23:45,240
+I thought this was the unreadable part that confused me a little bit.
+
+381
+00:23:45,300 --> 00:23:46,720
+There's something missing here.
+
+382
+00:23:49,000 --> 00:23:52,280
+So this means don't or not.
+
+383
+00:23:58,630 --> 00:23:59,190
+Not.
+
+384
+00:24:02,720 --> 00:24:03,240
+Right.
+
+385
+00:24:05,440 --> 00:24:06,480
+That makes sense.
+
+386
+00:24:12,230 --> 00:24:14,470
+Something plants unreadable.
+
+387
+00:24:16,530 --> 00:24:20,790
+Oh, wait, wait, wait, wait, wait, wait, wait, wait, wait.
+
+388
+00:24:20,790 --> 00:24:21,170
+Look at this.
+
+389
+00:24:21,250 --> 00:24:25,350
+There's like a little outline of a glyph.
+
+390
+00:24:27,750 --> 00:24:28,150
+Okay.
+
+391
+00:24:30,310 --> 00:24:31,830
+That is that one.
+
+392
+00:24:35,060 --> 00:24:35,540
+No, it's not.
+
+393
+00:24:35,640 --> 00:24:35,900
+It's not.
+
+394
+00:24:35,960 --> 00:24:36,580
+It's not a light.
+
+395
+00:24:39,020 --> 00:24:39,760
+It is.
+
+396
+00:24:43,100 --> 00:24:44,600
+Oh, maybe we don't have that glyph.
+
+397
+00:24:44,780 --> 00:24:50,560
+Is this another one of those situations where they show a glyph that I actually don't possess, but it's still part of the language.
+
+398
+00:24:56,920 --> 00:24:57,640
+I think so.
+
+399
+00:25:00,400 --> 00:25:03,160
+So it has these two lines going through in the center there.
+
+400
+00:25:03,280 --> 00:25:05,060
+And we know it's one of those that go around.
+
+401
+00:25:06,260 --> 00:25:08,060
+Similar to these ones, right?
+
+402
+00:25:08,240 --> 00:25:09,320
+So it's like an action.
+
+403
+00:25:10,440 --> 00:25:10,980
+It's a verb.
+
+404
+00:25:16,480 --> 00:25:19,020
+What other glyphs do we have with lines going like this one?
+
+405
+00:25:19,480 --> 00:25:19,520
+Carbon.
+
+406
+00:25:23,440 --> 00:25:24,840
+There's a couple options here.
+
+407
+00:25:30,240 --> 00:25:30,680
+Devotees.
+
+408
+00:25:39,080 --> 00:25:39,520
+Hmm.
+
+409
+00:25:40,620 --> 00:25:42,540
+Oh, wait, wait, wait, wait, wait, wait, wait.
+
+410
+00:25:43,260 --> 00:25:43,700
+Unreadable.
+
+411
+00:25:44,780 --> 00:25:45,680
+Plants unreadable.
+
+412
+00:25:46,960 --> 00:25:48,300
+So this means plants, of course.
+
+413
+00:25:48,580 --> 00:25:49,100
+What am I doing?
+
+414
+00:25:52,200 --> 00:25:52,340
+Plant.
+
+415
+00:25:55,550 --> 00:25:55,990
+Yeah.
+
+416
+00:25:57,310 --> 00:25:59,290
+I thought it meant planting something.
+
+417
+00:25:59,890 --> 00:26:00,450
+Like a flower.
+
+418
+00:26:00,670 --> 00:26:01,710
+You know, planting a flower.
+
+419
+00:26:02,130 --> 00:26:02,690
+I was confused.
+
+420
+00:26:04,190 --> 00:26:05,190
+But that's not what it means.
+
+421
+00:26:05,930 --> 00:26:06,830
+These are just plants.
+
+422
+00:26:08,170 --> 00:26:11,570
+Warriors don't.
+
+423
+00:26:11,730 --> 00:26:11,850
+Yeah.
+
+424
+00:26:12,570 --> 00:26:12,610
+Okay.
+
+425
+00:26:12,890 --> 00:26:13,990
+This one we got now.
+
+426
+00:26:15,770 --> 00:26:15,810
+Plants.
+
+427
+00:26:19,800 --> 00:26:21,560
+Oh, plants could be similar to nature.
+
+428
+00:26:22,420 --> 00:26:24,600
+I have a feeling it may be what needs to go in here.
+
+429
+00:26:27,300 --> 00:26:29,100
+Nature and plants, right?
+
+430
+00:26:36,220 --> 00:26:37,240
+God, I don't know.
+
+431
+00:26:40,880 --> 00:26:43,820
+So I have one, two, three, four, five, six left.
+
+432
+00:26:44,020 --> 00:26:53,380
+But I don't have many options here, which of course means that we still have things to find that we haven't found yet.
+
+433
+00:26:55,180 --> 00:26:56,500
+I just want to keep exploring.
+
+434
+00:27:05,960 --> 00:27:07,500
+Oh, nice.
+
+435
+00:27:07,840 --> 00:27:08,700
+That feels good.
+
+436
+00:27:11,800 --> 00:27:12,340
+Okay, good.
+
+437
+00:27:13,200 --> 00:27:14,320
+We're closing in here.
+
+438
+00:27:16,580 --> 00:27:19,420
+This one is still kind of annoying.
+
+439
+00:27:21,500 --> 00:27:23,040
+This one I'm very unsure of, actually.
+
+440
+00:27:23,740 --> 00:27:27,660
+I mean, I'm sure it needs to be here, but I don't know what it means.
+
+441
+00:27:29,280 --> 00:27:29,800
+Okay.
+
+442
+00:27:30,840 --> 00:27:32,300
+Let's engage the Zoom terminal.
+
+443
+00:27:37,800 --> 00:27:39,460
+Also, I'm the one powering it.
+
+444
+00:27:39,880 --> 00:27:43,500
+That power is emanating from me when they come on.
+
+445
+00:27:44,080 --> 00:27:55,280
+Not sure that matters, but... Okay, so alchemists are communicating with the bards.
+
+446
+00:27:55,420 --> 00:27:57,840
+Or technically, these are the slaves, actually.
+
+447
+00:28:00,720 --> 00:28:01,360
+Brothers I'm seeking.
+
+448
+00:28:06,240 --> 00:28:07,500
+Ooh, brothers, huh?
+
+449
+00:28:09,680 --> 00:28:11,480
+I think I had a word for that.
+
+450
+00:28:13,100 --> 00:28:13,420
+Somewhere.
+
+451
+00:28:17,770 --> 00:28:18,370
+It's not these.
+
+452
+00:28:19,450 --> 00:28:19,930
+Alchemists.
+
+453
+00:28:23,670 --> 00:28:24,590
+Copper.
+
+454
+00:28:24,590 --> 00:28:25,510
+Bard.
+
+455
+00:28:25,910 --> 00:28:25,910
+Brother.
+
+456
+00:28:27,250 --> 00:28:28,170
+I'm seeking brothers.
+
+457
+00:28:29,670 --> 00:28:29,810
+I.
+
+458
+00:28:30,490 --> 00:28:31,250
+Me.
+
+459
+00:28:32,890 --> 00:28:33,330
+Abba, wait.
+
+460
+00:28:34,590 --> 00:28:35,710
+I'm seeking brothers.
+
+461
+00:28:35,950 --> 00:28:36,910
+Brothers is plural.
+
+462
+00:28:38,210 --> 00:28:39,210
+So, right.
+
+463
+00:28:39,810 --> 00:28:40,630
+So, me.
+
+464
+00:28:42,790 --> 00:28:43,470
+Seek.
+
+465
+00:28:44,470 --> 00:28:45,290
+That one I have.
+
+466
+00:28:46,890 --> 00:28:47,170
+There.
+
+467
+00:28:48,070 --> 00:28:48,610
+Me seek.
+
+468
+00:28:50,130 --> 00:28:50,650
+Brothers.
+
+469
+00:28:53,930 --> 00:28:55,710
+Plural, which is that one.
+
+470
+00:28:57,010 --> 00:28:57,010
+Yes.
+
+471
+00:28:59,010 --> 00:29:00,150
+The warriors are not brothers.
+
+472
+00:29:01,710 --> 00:29:04,570
+I mean, that's because you don't make music.
+
+473
+00:29:08,420 --> 00:29:14,680
+Or maybe you're not happy with the warriors, and you would rather be friends with the alchemists, huh?
+
+474
+00:29:18,360 --> 00:29:20,320
+Um, okay.
+
+475
+00:29:20,620 --> 00:29:21,840
+The warriors are not brothers.
+
+476
+00:29:22,820 --> 00:29:25,960
+So, we need to do warrior.
+
+477
+00:29:27,240 --> 00:29:27,640
+Plural.
+
+478
+00:29:28,980 --> 00:29:32,020
+Not brothers.
+
+479
+00:29:33,600 --> 00:29:34,780
+And plural.
+
+480
+00:29:38,000 --> 00:29:38,860
+There we go.
+
+481
+00:29:40,080 --> 00:29:43,360
+Okay, and now you're saying, I found a book.
+
+482
+00:29:44,560 --> 00:29:45,760
+You did, huh?
+
+483
+00:29:46,540 --> 00:29:46,940
+Okay.
+
+484
+00:29:48,320 --> 00:29:48,320
+I.
+
+485
+00:29:49,320 --> 00:29:51,500
+Oh, I don't remember which one of these is I.
+
+486
+00:29:53,080 --> 00:29:53,480
+You.
+
+487
+00:29:56,040 --> 00:29:57,900
+It's one of those things where they go through the middle.
+
+488
+00:29:58,040 --> 00:29:58,420
+So, that one.
+
+489
+00:29:59,240 --> 00:29:59,240
+I.
+
+490
+00:30:00,160 --> 00:30:00,560
+Find.
+
+491
+00:30:07,220 --> 00:30:07,780
+Oh, god.
+
+492
+00:30:08,180 --> 00:30:08,300
+Seek.
+
+493
+00:30:08,580 --> 00:30:08,660
+What?
+
+494
+00:30:08,800 --> 00:30:08,940
+No.
+
+495
+00:30:10,760 --> 00:30:11,940
+Not quite the same, is it?
+
+496
+00:30:12,180 --> 00:30:12,380
+Find.
+
+497
+00:30:14,160 --> 00:30:14,440
+Book.
+
+498
+00:30:18,090 --> 00:30:20,850
+I don't remember if we even had a word for book here.
+
+499
+00:30:20,990 --> 00:30:21,910
+We must have.
+
+500
+00:30:29,260 --> 00:30:29,840
+Oh, god.
+
+501
+00:30:30,020 --> 00:30:30,500
+Where is it?
+
+502
+00:30:31,700 --> 00:30:32,320
+Oh, we do.
+
+503
+00:30:32,640 --> 00:30:32,640
+Okay.
+
+504
+00:30:33,700 --> 00:30:34,040
+Huh?
+
+505
+00:30:36,340 --> 00:30:38,460
+Oh, it's the reverse order, of course.
+
+506
+00:30:38,720 --> 00:30:39,340
+I'm a dumbass.
+
+507
+00:30:40,340 --> 00:30:41,300
+It's book I found.
+
+508
+00:30:42,520 --> 00:30:42,900
+Damn it.
+
+509
+00:30:43,580 --> 00:30:43,700
+Book.
+
+510
+00:30:44,240 --> 00:30:44,380
+I.
+
+511
+00:30:45,920 --> 00:30:45,960
+Found.
+
+512
+00:30:48,020 --> 00:30:48,600
+There we go.
+
+513
+00:30:49,080 --> 00:30:49,540
+Okay, now.
+
+514
+00:30:50,140 --> 00:30:50,820
+We are brothers.
+
+515
+00:30:52,220 --> 00:30:52,480
+Really?
+
+516
+00:30:52,620 --> 00:30:53,520
+You found that in the book?
+
+517
+00:30:53,520 --> 00:31:02,590
+Does the book reveal your, like, the origin of your species or something?
+
+518
+00:31:04,250 --> 00:31:05,230
+Share a common ancestor?
+
+519
+00:31:05,610 --> 00:31:06,230
+Something like that?
+
+520
+00:31:06,310 --> 00:31:07,150
+I mean, they probably do.
+
+521
+00:31:07,470 --> 00:31:07,990
+They're all humans.
+
+522
+00:31:09,210 --> 00:31:09,770
+So.
+
+523
+00:31:11,390 --> 00:31:11,870
+Evolution.
+
+524
+00:31:13,430 --> 00:31:13,790
+Right?
+
+525
+00:31:14,710 --> 00:31:18,190
+Ties into the image we have of the caterpillar and the butterfly.
+
+526
+00:31:19,790 --> 00:31:21,390
+Oh, that could mean brothers.
+
+527
+00:31:22,770 --> 00:31:23,330
+I don't know.
+
+528
+00:31:23,410 --> 00:31:24,690
+We already tied that into the book.
+
+529
+00:31:24,830 --> 00:31:25,250
+So, never mind.
+
+530
+00:31:26,250 --> 00:31:29,310
+You could say the caterpillar and the butterfly are brothers, right?
+
+531
+00:31:30,450 --> 00:31:31,170
+A brother fly.
+
+532
+00:31:32,650 --> 00:31:33,050
+Okay.
+
+533
+00:31:33,330 --> 00:31:33,930
+We are brothers.
+
+534
+00:31:34,110 --> 00:31:35,270
+So, brothers, we are.
+
+535
+00:31:36,590 --> 00:31:36,890
+Brother.
+
+536
+00:31:37,950 --> 00:31:38,490
+Oh, god.
+
+537
+00:31:38,550 --> 00:31:39,270
+I don't know what that is.
+
+538
+00:31:42,390 --> 00:31:44,510
+It's gotta be one of the... Nope.
+
+539
+00:31:44,930 --> 00:31:45,010
+Nope.
+
+540
+00:31:45,170 --> 00:31:45,270
+Nope.
+
+541
+00:31:45,430 --> 00:31:45,490
+Nope.
+
+542
+00:31:45,690 --> 00:31:46,270
+It's gotta be...
+
+543
+00:31:50,560 --> 00:31:51,280
+Oh, man.
+
+544
+00:31:52,560 --> 00:31:52,580
+Monster.
+
+545
+00:31:55,880 --> 00:31:56,700
+Man, human.
+
+546
+00:31:58,320 --> 00:32:00,400
+I'm looking for the ones that look like these.
+
+547
+00:32:02,340 --> 00:32:03,480
+Like, I have no idea.
+
+548
+00:32:03,660 --> 00:32:04,440
+Where the hell is it?
+
+549
+00:32:06,660 --> 00:32:06,980
+All right.
+
+550
+00:32:07,000 --> 00:32:08,160
+I'm going through everyone.
+
+551
+00:32:09,520 --> 00:32:10,140
+There it is.
+
+552
+00:32:11,120 --> 00:32:12,080
+This makes no sense.
+
+553
+00:32:12,260 --> 00:32:14,700
+This should be a glyph that looks like these.
+
+554
+00:32:14,900 --> 00:32:16,880
+I mean, these, where they go through the line at the bottom.
+
+555
+00:32:16,880 --> 00:32:18,240
+You know?
+
+556
+00:32:18,920 --> 00:32:19,300
+Like, warrior.
+
+557
+00:32:20,100 --> 00:32:20,180
+Brother.
+
+558
+00:32:21,340 --> 00:32:22,040
+It's a person.
+
+559
+00:32:24,560 --> 00:32:25,440
+Maybe that's just me.
+
+560
+00:32:26,580 --> 00:32:27,120
+We are brothers.
+
+561
+00:32:27,320 --> 00:32:27,460
+Okay.
+
+562
+00:32:27,600 --> 00:32:27,920
+So, brother.
+
+563
+00:32:31,950 --> 00:32:32,690
+We are.
+
+564
+00:32:33,670 --> 00:32:34,600
+So, that would be...
+
+565
+00:32:38,520 --> 00:32:39,280
+uh... me.
+
+566
+00:32:41,200 --> 00:32:41,720
+Plural.
+
+567
+00:32:43,620 --> 00:32:44,660
+R or to be.
+
+568
+00:32:45,540 --> 00:32:45,680
+Boom.
+
+569
+00:32:46,280 --> 00:32:46,620
+Nice.
+
+570
+00:32:47,980 --> 00:32:48,520
+We are brothers.
+
+571
+00:32:49,620 --> 00:32:50,680
+Holy shit, you're right.
+
+572
+00:32:50,880 --> 00:32:51,240
+We are.
+
+573
+00:32:51,420 --> 00:32:52,460
+I can see it in your eyes.
+
+574
+00:32:53,260 --> 00:32:54,280
+Or through your glasses.
+
+575
+00:32:55,480 --> 00:32:56,240
+We are brothers.
+
+576
+00:33:00,970 --> 00:33:01,670
+Where's we?
+
+577
+00:33:02,630 --> 00:33:02,950
+Me.
+
+578
+00:33:03,890 --> 00:33:06,530
+Uh, brothers.
+
+579
+00:33:09,430 --> 00:33:09,990
+Yeah.
+
+580
+00:33:11,270 --> 00:33:12,310
+Look at that.
+
+581
+00:33:14,090 --> 00:33:15,570
+The connection has been established.
+
+582
+00:33:16,190 --> 00:33:17,590
+Something has changed in the tower.
+
+583
+00:33:18,690 --> 00:33:23,290
+So, the slaves of the bards are now friends or brothers with the alchemists.
+
+584
+00:33:25,510 --> 00:33:26,250
+Very cool.
+
+585
+00:33:26,350 --> 00:33:27,410
+We just need one more connection.
+
+586
+00:33:28,970 --> 00:33:29,610
+That one.
+
+587
+00:33:30,110 --> 00:33:30,590
+And this one.
+
+588
+00:33:30,990 --> 00:33:31,690
+Actually, there's two more.
+
+589
+00:33:32,910 --> 00:33:33,350
+Huh.
+
+590
+00:33:34,190 --> 00:33:35,950
+I think I can do them right now, actually.
+
+591
+00:33:36,170 --> 00:33:40,390
+But I may wait until I have every single one of the glyphs in this language first.
+
+592
+00:33:42,430 --> 00:33:43,150
+Very cool.
+
+593
+00:33:44,350 --> 00:33:44,810
+Back up.
+
+594
+00:33:45,390 --> 00:33:46,290
+I know where to go now.
+
+595
+00:33:46,710 --> 00:33:47,410
+We have the fire.
+
+596
+00:33:48,910 --> 00:33:49,550
+Easy peasy time.
+
+597
+00:33:53,510 --> 00:33:53,930
+Okay.
+
+598
+00:33:54,650 --> 00:33:59,270
+So, from here we are going to go up here.
+
+599
+00:33:59,270 --> 00:34:00,510
+We need one more ingot as well.
+
+600
+00:34:03,340 --> 00:34:04,640
+Yeah, I hit all the way up.
+
+601
+00:34:05,280 --> 00:34:06,280
+Because we had a mine up here.
+
+602
+00:34:07,200 --> 00:34:07,800
+If I'm not mistaken.
+
+603
+00:34:08,000 --> 00:34:08,780
+Oh, actually, no, no.
+
+604
+00:34:09,400 --> 00:34:12,000
+We had fairy gate and library up here.
+
+605
+00:34:12,980 --> 00:34:13,940
+I'm missing something.
+
+606
+00:34:16,100 --> 00:34:17,980
+I have gold and I have silver.
+
+607
+00:34:25,310 --> 00:34:27,110
+Oh, wait a minute.
+
+608
+00:34:29,970 --> 00:34:32,990
+Oh, I was about to say this is carbon-based life forms.
+
+609
+00:34:33,970 --> 00:34:35,430
+But we already used carbon.
+
+610
+00:34:36,670 --> 00:34:36,890
+Damn.
+
+611
+00:34:41,370 --> 00:34:42,450
+I don't know what it could be.
+
+612
+00:34:42,530 --> 00:34:43,170
+What could it be?
+
+613
+00:34:43,210 --> 00:34:43,910
+I don't understand.
+
+614
+00:34:44,110 --> 00:34:45,030
+There's not many options.
+
+615
+00:34:48,810 --> 00:34:49,810
+This makes no sense.
+
+616
+00:34:51,630 --> 00:34:54,290
+I must have gotten one of these extremely wrong.
+
+617
+00:34:56,330 --> 00:34:57,610
+Like this... could this mean life?
+
+618
+00:35:02,560 --> 00:35:04,900
+Life is made up of elements, right?
+
+619
+00:35:05,720 --> 00:35:06,540
+It's made of carbon.
+
+620
+00:35:07,200 --> 00:35:08,340
+It's made of some metals.
+
+621
+00:35:08,780 --> 00:35:10,020
+There's all kinds of stuff in life.
+
+622
+00:35:12,100 --> 00:35:13,880
+Is that what they're all getting at here?
+
+623
+00:35:13,980 --> 00:35:15,060
+Hey, we alchemists.
+
+624
+00:35:16,060 --> 00:35:18,560
+You know, we all originate from star stuff.
+
+625
+00:35:20,020 --> 00:35:24,940
+The stars out there in the universe are the true brothers that made us.
+
+626
+00:35:26,640 --> 00:35:33,900
+You know, and that involves butterflies too and caterpillars and warriors, bards, devotees, everyone.
+
+627
+00:35:35,680 --> 00:35:39,060
+The table that I'm sitting at is made of the same stuff.
+
+628
+00:35:40,020 --> 00:35:41,480
+As you and I.
+
+629
+00:35:42,520 --> 00:35:45,800
+I honestly think... Oh, look at that.
+
+630
+00:35:50,360 --> 00:35:54,060
+Art and science come together.
+
+631
+00:35:55,140 --> 00:35:56,100
+It's beautiful.
+
+632
+00:35:59,890 --> 00:36:03,370
+Maybe they teach the alchemists to play some music now as well.
+
+633
+00:36:09,080 --> 00:36:09,680
+Nice.
+
+634
+00:36:11,220 --> 00:36:15,060
+Oh, is that how they came up here?
+
+635
+00:36:16,180 --> 00:36:18,540
+Wait, wait a minute.
+
+636
+00:36:22,150 --> 00:36:22,810
+A gondola.
+
+637
+00:36:31,890 --> 00:36:33,630
+Oh, my God.
+
+638
+00:36:36,410 --> 00:36:39,150
+You just know that the alchemists made this.
+
+639
+00:36:40,530 --> 00:36:44,010
+You know, it's a little bit shoddy design here.
+
+640
+00:36:44,010 --> 00:36:45,050
+Actually, it's made of metal.
+
+641
+00:36:45,190 --> 00:36:45,730
+I thought it was wood.
+
+642
+00:36:45,930 --> 00:36:47,530
+I thought they hastily put this together.
+
+643
+00:36:48,830 --> 00:36:49,130
+No, no, no.
+
+644
+00:36:49,190 --> 00:36:49,870
+These guys are pros.
+
+645
+00:36:52,190 --> 00:36:55,130
+Yeah, alchemists are hanging out here among the bards.
+
+646
+00:36:55,930 --> 00:36:58,070
+The bards are hanging out with the alchemists.
+
+647
+00:36:58,130 --> 00:36:58,610
+That's cool.
+
+648
+00:36:58,990 --> 00:36:59,950
+Okay, I want to go back, actually.
+
+649
+00:37:02,090 --> 00:37:03,270
+Maybe there's more to see here.
+
+650
+00:37:03,330 --> 00:37:04,090
+We can check that later.
+
+651
+00:37:05,250 --> 00:37:07,210
+I am itching to get that last ingot.
+
+652
+00:37:07,950 --> 00:37:09,670
+Ingot of carbon or whatever.
+
+653
+00:37:18,040 --> 00:37:20,620
+Uh, and I think I know how to get it.
+
+654
+00:37:27,850 --> 00:37:30,810
+So we got silver, we got gold.
+
+655
+00:37:35,550 --> 00:37:36,210
+Oh, wait a minute.
+
+656
+00:37:37,490 --> 00:37:38,090
+What am I doing?
+
+657
+00:37:40,980 --> 00:37:42,740
+I'm being stupid right now.
+
+658
+00:37:43,780 --> 00:37:44,620
+Hold on a minute.
+
+659
+00:37:46,100 --> 00:37:47,360
+Wait a sec.
+
+660
+00:37:50,020 --> 00:37:50,680
+Hold on.
+
+661
+00:37:51,960 --> 00:37:53,420
+Gold, silver, copper.
+
+662
+00:37:54,480 --> 00:38:01,620
+Why the fuck was I under the imagination that we needed carbon ingots?
+
+663
+00:38:02,320 --> 00:38:03,640
+Because of course that makes no sense.
+
+664
+00:38:04,220 --> 00:38:05,800
+I forgot we had four in total.
+
+665
+00:38:07,960 --> 00:38:10,240
+You know, we have the metals and we have carbon.
+
+666
+00:38:13,000 --> 00:38:13,960
+Oh my god.
+
+667
+00:38:15,320 --> 00:38:17,780
+Okay, well, we got the we got these two.
+
+668
+00:38:17,880 --> 00:38:18,620
+Now we need copper.
+
+669
+00:38:18,780 --> 00:38:20,120
+So we got to go back down here.
+
+670
+00:38:23,660 --> 00:38:25,540
+Yeah, that's how we're going to get that.
+
+671
+00:38:30,650 --> 00:38:31,490
+Take me down.
+
+672
+00:38:38,950 --> 00:38:41,370
+This solves so many problems I had in my head.
+
+673
+00:38:43,130 --> 00:38:43,830
+Very nice.
+
+674
+00:38:44,030 --> 00:38:44,570
+Oh, this way.
+
+675
+00:38:44,810 --> 00:38:45,930
+No, no, no, no, no, wait, wait, wait.
+
+676
+00:38:45,930 --> 00:38:46,390
+We are here.
+
+677
+00:38:46,650 --> 00:38:51,790
+We need to take the elevator over here.
+
+678
+00:38:52,170 --> 00:38:53,970
+The one that is closed apparently, right?
+
+679
+00:38:56,190 --> 00:38:58,110
+Oh, I could have just teleported by the terminal.
+
+680
+00:38:59,350 --> 00:39:00,810
+Because there's a terminal down here.
+
+681
+00:39:06,740 --> 00:39:09,260
+Ah, but we have an issue down here.
+
+682
+00:39:09,360 --> 00:39:13,380
+There's monsters, which is why they closed the elevator, right?
+
+683
+00:39:14,220 --> 00:39:16,500
+We need to get the fire first.
+
+684
+00:39:18,380 --> 00:39:18,740
+Shit.
+
+685
+00:39:20,340 --> 00:39:20,720
+Back up.
+
+686
+00:39:24,170 --> 00:39:24,530
+Goddammit.
+
+687
+00:39:26,290 --> 00:39:27,830
+Well, at least I know what to do now.
+
+688
+00:39:28,010 --> 00:39:28,610
+I get it.
+
+689
+00:39:32,060 --> 00:39:35,380
+We're not going to be able to traverse down there without having the lantern.
+
+690
+00:39:38,750 --> 00:39:40,390
+The way to do this is to go up here.
+
+691
+00:39:41,130 --> 00:39:42,090
+We got to go through the laps.
+
+692
+00:39:43,090 --> 00:39:46,410
+Ah, we don't actually... No, we just take this immediately.
+
+693
+00:39:47,090 --> 00:39:48,910
+Because we got to go up right to here.
+
+694
+00:39:55,330 --> 00:39:56,810
+And then we head to the right.
+
+695
+00:40:03,890 --> 00:40:04,250
+Yeah.
+
+696
+00:40:04,250 --> 00:40:09,330
+And I wonder what I'm going to be finding in this place over here.
+
+697
+00:40:09,510 --> 00:40:09,650
+Wait.
+
+698
+00:40:13,810 --> 00:40:14,470
+Oh my God.
+
+699
+00:40:14,530 --> 00:40:15,250
+I'm lost again.
+
+700
+00:40:17,350 --> 00:40:17,510
+Shit.
+
+701
+00:40:18,130 --> 00:40:18,670
+Let me see the map.
+
+702
+00:40:19,250 --> 00:40:20,510
+I wish I had the map in my book.
+
+703
+00:40:25,890 --> 00:40:26,790
+Show me that map.
+
+704
+00:40:28,890 --> 00:40:30,510
+Oh, it was down here.
+
+705
+00:40:31,890 --> 00:40:35,310
+Oh, I suck.
+
+706
+00:40:38,320 --> 00:40:39,280
+Get back down.
+
+707
+00:40:42,790 --> 00:40:47,590
+I think if that map hadn't been there, I would have been better in this area.
+
+708
+00:40:47,770 --> 00:40:49,550
+I think the map only served to confuse me.
+
+709
+00:40:52,570 --> 00:40:53,370
+Oh my God.
+
+710
+00:40:54,210 --> 00:40:55,010
+Head to the laps.
+
+711
+00:40:55,690 --> 00:40:56,870
+Because it was lap three, right?
+
+712
+00:40:56,870 --> 00:40:57,050
+Wait.
+
+713
+00:40:59,530 --> 00:41:00,090
+Over here.
+
+714
+00:41:01,730 --> 00:41:02,270
+This way.
+
+715
+00:41:05,090 --> 00:41:05,850
+Up here.
+
+716
+00:41:08,550 --> 00:41:09,830
+No, down here, down here, down here.
+
+717
+00:41:10,690 --> 00:41:11,730
+This was lap two.
+
+718
+00:41:12,530 --> 00:41:13,230
+This is the one.
+
+719
+00:41:13,470 --> 00:41:13,790
+Lap three.
+
+720
+00:41:15,030 --> 00:41:17,630
+I bet you that's going to connect to downstairs somehow.
+
+721
+00:41:18,150 --> 00:41:18,890
+Okay, here we go.
+
+722
+00:41:19,550 --> 00:41:19,950
+Here we go.
+
+723
+00:41:20,290 --> 00:41:20,850
+Combine the shit.
+
+724
+00:41:22,510 --> 00:41:23,110
+Boom.
+
+725
+00:41:23,950 --> 00:41:24,950
+Not with that.
+
+726
+00:41:25,350 --> 00:41:26,050
+With this place.
+
+727
+00:41:31,200 --> 00:41:31,600
+Beautiful.
+
+728
+00:41:32,980 --> 00:41:33,540
+Very nice.
+
+729
+00:41:33,920 --> 00:41:34,020
+Ooh.
+
+730
+00:41:35,940 --> 00:41:36,480
+Okay.
+
+731
+00:41:36,640 --> 00:41:36,820
+Okay.
+
+732
+00:41:37,560 --> 00:41:37,900
+Create.
+
+733
+00:41:39,660 --> 00:41:40,260
+Fire.
+
+734
+00:41:43,920 --> 00:41:44,460
+Help.
+
+735
+00:41:46,420 --> 00:41:46,820
+Yep.
+
+736
+00:41:49,240 --> 00:41:50,400
+We only hit... Okay.
+
+737
+00:41:50,560 --> 00:41:51,820
+So I guess I was right.
+
+738
+00:41:51,860 --> 00:41:52,460
+This means life.
+
+739
+00:41:53,460 --> 00:41:54,460
+It has to mean life.
+
+740
+00:41:57,910 --> 00:41:59,470
+Or life or nature.
+
+741
+00:41:59,910 --> 00:42:01,710
+Nature consists of all the elements, right?
+
+742
+00:42:04,690 --> 00:42:05,170
+Yep.
+
+743
+00:42:06,250 --> 00:42:07,150
+Yep, yep, yep.
+
+744
+00:42:07,250 --> 00:42:08,610
+I can't wait to see what it says.
+
+745
+00:42:14,570 --> 00:42:15,050
+Ha!
+
+746
+00:42:15,050 --> 00:42:15,530
+Okay.
+
+747
+00:42:16,970 --> 00:42:17,430
+Transformation.
+
+748
+00:42:20,010 --> 00:42:21,310
+Okay, I can see that.
+
+749
+00:42:22,730 --> 00:42:23,670
+I can see that.
+
+750
+00:42:23,690 --> 00:42:24,550
+That makes sense as well.
+
+751
+00:42:25,570 --> 00:42:27,170
+Yeah, because that's what life is.
+
+752
+00:42:27,770 --> 00:42:28,210
+You know?
+
+753
+00:42:28,790 --> 00:42:30,230
+It is actually just a transformation.
+
+754
+00:42:30,790 --> 00:42:30,790
+Evolution.
+
+755
+00:42:33,210 --> 00:42:34,930
+We go from one state to another.
+
+756
+00:42:37,920 --> 00:42:39,540
+As well as everything else in the universe.
+
+757
+00:42:40,560 --> 00:42:41,820
+It's just a bunch of state changes.
+
+758
+00:42:42,480 --> 00:42:42,760
+Okay.
+
+759
+00:42:43,720 --> 00:42:44,600
+Let's go inside.
+
+760
+00:42:47,870 --> 00:42:48,390
+Laboratory three.
+
+761
+00:42:48,550 --> 00:42:50,610
+Oh god, what happened in laboratory three?
+
+762
+00:42:51,870 --> 00:42:52,810
+Evil experiments.
+
+763
+00:42:54,590 --> 00:42:55,550
+Of transformation.
+
+764
+00:42:58,790 --> 00:42:59,570
+Oh god.
+
+765
+00:43:01,710 --> 00:43:02,610
+A password.
+
+766
+00:43:02,890 --> 00:43:03,030
+Really?
+
+767
+00:43:06,290 --> 00:43:08,110
+Wait a sec.
+
+768
+00:43:09,430 --> 00:43:10,350
+Is this it?
+
+769
+00:43:12,470 --> 00:43:15,070
+This is... Let me see if I remember.
+
+770
+00:43:15,430 --> 00:43:18,190
+5,309.
+
+771
+00:43:25,310 --> 00:43:27,070
+5,300.
+
+772
+00:43:29,190 --> 00:43:30,250
+And nine.
+
+773
+00:43:32,350 --> 00:43:33,110
+Wrong.
+
+774
+00:43:34,610 --> 00:43:35,370
+Hmm.
+
+775
+00:43:39,100 --> 00:43:39,580
+Okay.
+
+776
+00:43:42,860 --> 00:43:47,240
+Did I have some other note regarding that stuff?
+
+777
+00:43:49,580 --> 00:43:50,720
+Am I misremembering actually?
+
+778
+00:43:52,480 --> 00:43:57,810
+5,039.
+
+779
+00:43:58,250 --> 00:43:58,890
+Is that not nine?
+
+780
+00:44:00,070 --> 00:44:01,030
+It is.
+
+781
+00:44:03,270 --> 00:44:04,290
+Is that not five?
+
+782
+00:44:05,230 --> 00:44:06,130
+It is.
+
+783
+00:44:06,530 --> 00:44:07,370
+And this is three.
+
+784
+00:44:12,390 --> 00:44:15,530
+Maybe the other way.
+
+785
+00:44:17,810 --> 00:44:20,030
+Do we need to click a button to confirm my input?
+
+786
+00:44:26,590 --> 00:44:27,710
+Laboratory three.
+
+787
+00:44:31,030 --> 00:44:32,730
+Laboratory it says here, right?
+
+788
+00:44:33,030 --> 00:44:33,370
+Yeah, yeah.
+
+789
+00:44:33,790 --> 00:44:33,830
+Laboratory.
+
+790
+00:44:38,010 --> 00:44:41,250
+Maybe it's simply three or five, three, nine.
+
+791
+00:44:42,930 --> 00:44:43,970
+Without the zero?
+
+792
+00:44:47,630 --> 00:44:51,790
+Five, three, nine.
+
+793
+00:44:53,690 --> 00:44:54,250
+Ha!
+
+794
+00:45:00,330 --> 00:45:01,150
+That's weird.
+
+795
+00:45:06,580 --> 00:45:07,320
+Wait, wait, wait, wait.
+
+796
+00:45:09,800 --> 00:45:11,560
+Am I not remembering this right?
+
+797
+00:45:11,960 --> 00:45:13,260
+I need to go back to the calculator.
+
+798
+00:45:14,020 --> 00:45:16,320
+Maybe I'm actually misremembering everything.
+
+799
+00:45:18,260 --> 00:45:19,460
+Wasn't it base ten?
+
+800
+00:45:23,310 --> 00:45:23,890
+Let me see here.
+
+801
+00:45:24,470 --> 00:45:25,890
+So if I go 5,000...
+
+802
+00:45:28,730 --> 00:45:31,370
+Oh, wait a sec, actually.
+
+803
+00:45:41,000 --> 00:45:42,240
+5,300.
+
+804
+00:45:43,800 --> 00:45:44,560
+And nine.
+
+805
+00:45:51,260 --> 00:45:52,960
+Oh, 5,039.
+
+806
+00:45:54,500 --> 00:45:54,980
+Of course.
+
+807
+00:46:03,420 --> 00:46:04,060
+5,039.
+
+808
+00:46:06,580 --> 00:46:06,900
+Right?
+
+809
+00:46:08,100 --> 00:46:10,500
+Oh, did I just... I think I just put the zero in the wrong spot, actually.
+
+810
+00:46:10,620 --> 00:46:12,060
+I did mean 5,039.
+
+811
+00:46:12,760 --> 00:46:13,500
+Maybe I said it wrong.
+
+812
+00:46:15,120 --> 00:46:15,760
+Let's see again.
+
+813
+00:46:19,120 --> 00:46:19,760
+5,039.
+
+814
+00:46:26,550 --> 00:46:26,870
+Five?
+
+815
+00:46:28,150 --> 00:46:30,250
+Oh yeah, I think I did do it in the wrong order here.
+
+816
+00:46:31,010 --> 00:46:31,310
+39.
+
+817
+00:46:32,150 --> 00:46:32,310
+Yes!
+
+818
+00:46:33,430 --> 00:46:33,750
+Nice!
+
+819
+00:46:38,610 --> 00:46:40,010
+I'm a little bit worried though.
+
+820
+00:46:40,670 --> 00:46:42,050
+We found that in a hat, right?
+
+821
+00:46:43,770 --> 00:46:45,090
+So where did the guy go?
+
+822
+00:46:45,630 --> 00:46:46,590
+Oh, what happened here?
+
+823
+00:46:49,770 --> 00:46:54,770
+A very violent transformation happened here, which is what an explosion is.
+
+824
+00:46:55,550 --> 00:46:59,490
+A very quick transformation and release of energy.
+
+825
+00:47:00,970 --> 00:47:01,990
+I found the formula!
+
+826
+00:47:02,970 --> 00:47:03,970
+I found the transformation!
+
+827
+00:47:04,490 --> 00:47:05,250
+Oh, shit.
+
+828
+00:47:06,730 --> 00:47:15,970
+So that is... I forgot this one exactly, but there is 1,400...
+
+829
+00:47:17,930 --> 00:47:19,090
+Actually, I forgot the numbers.
+
+830
+00:47:20,090 --> 00:47:20,490
+Let me see.
+
+831
+00:47:21,170 --> 00:47:22,010
+No, no, I'm right.
+
+832
+00:47:22,530 --> 00:47:28,250
+1,405 times this element, and then this times that element.
+
+833
+00:47:28,350 --> 00:47:29,510
+Are we going to be noting this down?
+
+834
+00:47:29,610 --> 00:47:31,330
+Because that's very important.
+
+835
+00:47:33,970 --> 00:47:34,550
+Okay, good.
+
+836
+00:47:35,630 --> 00:47:39,290
+So we need this many gold, this many silver, and that many carbon.
+
+837
+00:47:40,330 --> 00:47:40,850
+Gotcha.
+
+838
+00:47:41,510 --> 00:47:41,510
+Formula.
+
+839
+00:47:42,610 --> 00:47:43,050
+Wonderful.
+
+840
+00:47:45,410 --> 00:47:45,930
+Cool.
+
+841
+00:47:49,480 --> 00:47:51,320
+Yeah, something happened in here for sure.
+
+842
+00:47:51,400 --> 00:47:52,520
+I don't want to jump down there!
+
+843
+00:47:52,700 --> 00:47:53,520
+Okay, I just look.
+
+844
+00:47:55,060 --> 00:47:56,500
+It's not Silent Hill, is it?
+
+845
+00:48:00,810 --> 00:48:02,970
+Yep, there's monsters down there.
+
+846
+00:48:04,610 --> 00:48:05,750
+Look at this, too.
+
+847
+00:48:07,070 --> 00:48:07,390
+Handprints.
+
+848
+00:48:08,590 --> 00:48:09,430
+Death Stranding style.
+
+849
+00:48:12,090 --> 00:48:16,590
+Someone started walking on their hands, and then transitioned to feet.
+
+850
+00:48:18,750 --> 00:48:19,950
+Very concerning.
+
+851
+00:48:21,390 --> 00:48:22,430
+You know what I think?
+
+852
+00:48:24,150 --> 00:48:28,590
+I think that those monsters were created by the alchemists.
+
+853
+00:48:29,310 --> 00:48:29,590
+Accidentally.
+
+854
+00:48:30,290 --> 00:48:31,510
+I mean, that's what this looks like, right?
+
+855
+00:48:38,330 --> 00:48:40,210
+An experiment gone wrong.
+
+856
+00:48:41,750 --> 00:48:43,030
+Trying to create life.
+
+857
+00:48:44,590 --> 00:48:49,030
+Trying to transform elements into creatures.
+
+858
+00:48:50,690 --> 00:48:52,390
+Well, okay.
+
+859
+00:48:54,630 --> 00:49:00,990
+Well, I guess I always have a light now, so we can head down to the lower levels and explore that mine.
+
+860
+00:49:04,200 --> 00:49:05,080
+No, this way.
+
+861
+00:49:06,620 --> 00:49:08,700
+I need to go to the copper mine.
+
+862
+00:49:10,020 --> 00:49:16,220
+And the best way to go there is... I guess we could take stairs from here?
+
+863
+00:49:17,980 --> 00:49:19,500
+That's one way to do it.
+
+864
+00:49:21,140 --> 00:49:21,540
+No?
+
+865
+00:49:21,940 --> 00:49:22,160
+Right?
+
+866
+00:49:22,400 --> 00:49:23,320
+Aren't there stairs over here?
+
+867
+00:49:27,130 --> 00:49:27,950
+There isn't.
+
+868
+00:49:28,230 --> 00:49:29,310
+God damn it.
+
+869
+00:49:32,850 --> 00:49:33,130
+Yeah.
+
+870
+00:49:33,450 --> 00:49:35,610
+For some reason, this map is so confusing to me.
+
+871
+00:49:36,210 --> 00:49:37,430
+Not the map on the wall.
+
+872
+00:49:37,510 --> 00:49:40,890
+Well, that one, too, but the layout of this place really messes with my mind.
+
+873
+00:49:42,010 --> 00:49:43,490
+I've never been good with directions.
+
+874
+00:49:44,750 --> 00:49:46,270
+Definitely one of my weak points.
+
+875
+00:49:49,470 --> 00:49:51,470
+This was the staircase down there.
+
+876
+00:49:53,830 --> 00:49:54,370
+Let's take that.
+
+877
+00:49:55,030 --> 00:49:57,530
+Or actually, it makes more sense to take the elevator here.
+
+878
+00:50:02,140 --> 00:50:02,620
+Wait.
+
+879
+00:50:04,260 --> 00:50:04,560
+Nope.
+
+880
+00:50:05,000 --> 00:50:05,380
+Back up.
+
+881
+00:50:08,400 --> 00:50:09,420
+I forgot where we were.
+
+882
+00:50:10,820 --> 00:50:11,960
+This is the elevator, right?
+
+883
+00:50:13,380 --> 00:50:13,560
+Jesus.
+
+884
+00:50:17,130 --> 00:50:18,710
+Well, I got the whole language.
+
+885
+00:50:19,690 --> 00:50:21,430
+Reading anything now should be a breeze.
+
+886
+00:50:22,670 --> 00:50:23,690
+As long as I can read English.
+
+887
+00:50:27,630 --> 00:50:27,810
+Okay.
+
+888
+00:50:27,970 --> 00:50:31,070
+And now, since we have the whole language, we can also translate the remaining terminals.
+
+889
+00:50:34,210 --> 00:50:35,570
+Let's head down here first, though.
+
+890
+00:50:39,750 --> 00:50:40,030
+Go.
+
+891
+00:50:42,960 --> 00:50:44,060
+Can I open this again?
+
+892
+00:50:44,220 --> 00:50:45,140
+I don't think I want to.
+
+893
+00:50:52,510 --> 00:50:52,970
+That way.
+
+894
+00:51:02,470 --> 00:51:03,570
+There's no monster here.
+
+895
+00:51:10,890 --> 00:51:11,770
+Wait a minute.
+
+896
+00:51:14,070 --> 00:51:14,970
+Where's the mine?
+
+897
+00:51:27,770 --> 00:51:28,650
+What about this way?
+
+898
+00:51:32,200 --> 00:51:32,960
+Is it in here?
+
+899
+00:51:34,540 --> 00:51:35,500
+It has to be.
+
+900
+00:51:37,940 --> 00:51:39,520
+Oh my god.
+
+901
+00:51:45,940 --> 00:51:46,880
+What the?
+
+902
+00:51:47,580 --> 00:51:49,320
+I am so lost.
+
+903
+00:51:50,820 --> 00:51:53,240
+Is there not supposed to be a copper mine down here?
+
+904
+00:51:54,980 --> 00:51:57,500
+Do I click on...
+
+905
+00:51:59,200 --> 00:51:59,840
+What?
+
+906
+00:52:06,790 --> 00:52:08,990
+I don't know.
+
+907
+00:52:09,710 --> 00:52:10,530
+Go back up.
+
+908
+00:52:12,590 --> 00:52:14,230
+Also, where are the monsters down here?
+
+909
+00:52:23,320 --> 00:52:24,280
+Very weird.
+
+910
+00:52:28,970 --> 00:52:29,650
+Let's see this.
+
+911
+00:52:38,610 --> 00:52:39,830
+I have no idea.
+
+912
+00:52:42,590 --> 00:52:42,970
+Gold, silver.
+
+913
+00:52:43,310 --> 00:52:44,050
+We have those.
+
+914
+00:52:45,450 --> 00:52:46,570
+We need copper now.
+
+915
+00:52:48,930 --> 00:52:51,230
+I mean, I could just try go back up to the machine.
+
+916
+00:52:54,300 --> 00:52:56,220
+But am I not going to be missing carbon?
+
+917
+00:52:58,300 --> 00:52:59,580
+Yeah, look, we don't have any carbon.
+
+918
+00:53:02,940 --> 00:53:03,480
+Oh, wait a minute.
+
+919
+00:53:03,860 --> 00:53:06,140
+Why would I expect to get carbon in the copper mine anyway?
+
+920
+00:53:06,300 --> 00:53:07,160
+That doesn't make any sense.
+
+921
+00:53:09,360 --> 00:53:10,080
+Oh my god.
+
+922
+00:53:10,820 --> 00:53:13,280
+Once again, I get these elements mixed up in my mind.
+
+923
+00:53:15,140 --> 00:53:16,040
+Let's just get up there.
+
+924
+00:53:16,940 --> 00:53:18,020
+It's not copper we need.
+
+925
+00:53:18,040 --> 00:53:18,540
+It's carbon.
+
+926
+00:53:19,420 --> 00:53:21,180
+Maybe we can find it in a different spot.
+
+927
+00:53:28,030 --> 00:53:31,730
+Okay, so now we go up.
+
+928
+00:53:34,520 --> 00:53:36,900
+Up here, it's going to take us to the transformation.
+
+929
+00:53:39,020 --> 00:53:41,280
+No, no, go back up this way.
+
+930
+00:53:42,920 --> 00:53:44,340
+Up here through the door.
+
+931
+00:53:49,630 --> 00:53:50,790
+Okay, here we are.
+
+932
+00:54:01,720 --> 00:54:03,420
+I forgot which element this was.
+
+933
+00:54:04,280 --> 00:54:05,420
+Okay, that was the right one.
+
+934
+00:54:07,160 --> 00:54:09,600
+Oh, wait, we already had carbon.
+
+935
+00:54:12,660 --> 00:54:14,240
+God damn it.
+
+936
+00:54:21,390 --> 00:54:22,070
+Unbelievable.
+
+937
+00:54:23,550 --> 00:54:24,970
+I did not remember this.
+
+938
+00:54:26,110 --> 00:54:28,630
+I just assumed that I needed to find carbon somewhere.
+
+939
+00:54:29,410 --> 00:54:31,250
+In some form or fashion, you know?
+
+940
+00:54:32,810 --> 00:54:34,150
+Um, okay.
+
+941
+00:54:34,150 --> 00:54:47,030
+Okay, so now we need 1,405 gold.
+
+942
+00:54:49,770 --> 00:54:50,810
+So 1,000.
+
+943
+00:54:52,850 --> 00:54:54,610
+These have to be the thousands.
+
+944
+00:54:55,110 --> 00:54:56,250
+This is hundreds.
+
+945
+00:54:56,670 --> 00:54:57,330
+No, wait, hold on a minute.
+
+946
+00:54:59,730 --> 00:55:05,670
+There's one, two, three, four, five different weights here.
+
+947
+00:55:11,790 --> 00:55:12,970
+Maybe this is more than five.
+
+948
+00:55:15,450 --> 00:55:16,170
+Ones, tens.
+
+949
+00:55:20,270 --> 00:55:21,290
+I don't know.
+
+950
+00:55:22,590 --> 00:55:23,350
+Oh, let's not forget.
+
+951
+00:55:24,190 --> 00:55:25,290
+These are flipped, right?
+
+952
+00:55:27,110 --> 00:55:28,310
+Oh, yeah, yeah, yeah, yeah.
+
+953
+00:55:28,310 --> 00:55:28,550
+Okay.
+
+954
+00:55:29,270 --> 00:55:29,750
+Makes sense.
+
+955
+00:55:30,250 --> 00:55:30,830
+I get it now.
+
+956
+00:55:31,550 --> 00:55:32,930
+These are actually precise weights.
+
+957
+00:55:34,030 --> 00:55:35,950
+So we need that, we need that, and we need that.
+
+958
+00:55:36,150 --> 00:55:36,230
+Okay.
+
+959
+00:55:37,270 --> 00:55:38,590
+So the first thing we need is this.
+
+960
+00:55:39,690 --> 00:55:41,330
+Oh, no, this.
+
+961
+00:55:42,670 --> 00:55:44,910
+Then we need that.
+
+962
+00:55:45,310 --> 00:55:47,170
+No, that.
+
+963
+00:55:48,470 --> 00:55:50,490
+And what was the last one?
+
+964
+00:55:51,410 --> 00:55:52,170
+Five.
+
+965
+00:55:53,590 --> 00:55:53,990
+That one.
+
+966
+00:55:55,350 --> 00:55:57,670
+And that was for gold.
+
+967
+00:55:59,470 --> 00:56:00,450
+Was that gold?
+
+968
+00:56:00,790 --> 00:56:01,630
+The circular one?
+
+969
+00:56:01,890 --> 00:56:01,990
+Yep.
+
+970
+00:56:03,670 --> 00:56:04,030
+Gold.
+
+971
+00:56:09,210 --> 00:56:09,970
+Nice.
+
+972
+00:56:11,010 --> 00:56:11,670
+Very good.
+
+973
+00:56:13,170 --> 00:56:17,730
+And then we needed this much of silver.
+
+974
+00:56:19,170 --> 00:56:22,830
+Okay, so that one and those two.
+
+975
+00:56:24,830 --> 00:56:25,550
+Got it.
+
+976
+00:56:26,590 --> 00:56:30,070
+That one and... Oh, but whoa, whoa, whoa, whoa.
+
+977
+00:56:30,670 --> 00:56:32,330
+This one is, I believe, eight.
+
+978
+00:56:33,210 --> 00:56:33,750
+Let's see.
+
+979
+00:56:35,830 --> 00:56:37,070
+Eight, eight, eight, eight, eight.
+
+980
+00:56:37,910 --> 00:56:38,650
+Where are you?
+
+981
+00:56:38,650 --> 00:56:40,450
+Oh, yes.
+
+982
+00:56:41,630 --> 00:56:45,410
+But it's like weirdly changed.
+
+983
+00:56:46,690 --> 00:56:47,250
+It's eight.
+
+984
+00:56:48,990 --> 00:56:50,830
+We don't have an eight here, so we have to combine.
+
+985
+00:56:52,370 --> 00:56:53,370
+And these ones are...
+
+986
+00:56:55,210 --> 00:56:55,950
+Let's see here.
+
+987
+00:56:56,050 --> 00:56:56,590
+These are the hundreds.
+
+988
+00:57:01,330 --> 00:57:01,730
+Eight.
+
+989
+00:57:02,490 --> 00:57:03,270
+We have five.
+
+990
+00:57:06,070 --> 00:57:07,470
+Six, seven, and eight.
+
+991
+00:57:09,350 --> 00:57:10,730
+Isn't that way too much, though?
+
+992
+00:57:12,230 --> 00:57:13,270
+Am I crazy?
+
+993
+00:57:14,330 --> 00:57:15,230
+That seems like a lot.
+
+994
+00:57:16,270 --> 00:57:17,570
+Well, in any case, we are going to need...
+
+995
+00:57:19,110 --> 00:57:23,470
+Oh, we also have two down here, of course, which is the ones.
+
+996
+00:57:27,150 --> 00:57:27,550
+Okay.
+
+997
+00:57:29,250 --> 00:57:30,490
+How am I going to get that?
+
+998
+00:57:38,940 --> 00:57:39,920
+Wait a minute.
+
+999
+00:57:43,950 --> 00:57:45,530
+How am I going to do that?
+
+1000
+00:57:46,950 --> 00:57:48,610
+So we can only work with...
+
+1001
+00:57:51,440 --> 00:58:00,080
+Actually, maybe it's better if we just think of it as a normal addition, because we only have these to work with, right?
+
+1002
+00:58:00,700 --> 00:58:01,740
+We got to combine them.
+
+1003
+00:58:02,960 --> 00:58:04,760
+So the thing I'm looking for is...
+
+1004
+00:58:07,100 --> 00:58:07,860
+What is that?
+
+1005
+00:58:10,680 --> 00:58:12,200
+812, right?
+
+1006
+00:58:12,780 --> 00:58:14,900
+So we just have to combine it to make 812.
+
+1007
+00:58:16,060 --> 00:58:16,420
+Yeah.
+
+1008
+00:58:17,120 --> 00:58:20,080
+But I also want to go back to the Zoom terminals, now that I know the whole language.
+
+1009
+00:58:20,860 --> 00:58:21,660
+I'm going to stop it here.
+
+1010
+00:58:21,900 --> 00:58:22,420
+Thanks for watching.
+
+1011
+00:58:22,600 --> 00:58:23,100
+I'll see you in the next.
