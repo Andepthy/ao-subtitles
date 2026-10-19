@@ -21,4 +21,4 @@ The subtitles are derivative works of the original videos, whose rights belong t
 
 ## License
 
-The original contributions in this repository's subtitle files are offered under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). This license applies only to rights the repository owner is authorized to license. It does **not** cover the original videos, dialogue, or other material owned by About Oliver or other rights holders; those rights remain with their respective owners. See [LICENSE](LICENSE) for details.
+The original contributions in this repository's subtitle files are offered under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). This license applies only to rights the repository owner is authorized to license. It does **not** cover the original videos, dialogue, or other material owned by About Oliver or other rights holders; those rights remain with their respective owners. See [LICENSE](LICENSE) for details.
