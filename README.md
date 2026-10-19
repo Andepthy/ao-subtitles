@@ -18,3 +18,7 @@ This is an archive of some self-made subtitles for [About Oliver](https://www.yo
 The Chinese subtitles were produced with **LLM translation**, and only some of them were lightly proofread by hand; **neither translation accuracy nor timing is guaranteed**.
 
 The subtitles are derivative works of the original videos, whose rights belong to About Oliver. Please do not use them for commercial purposes; if a rights holder does not want this content to be public, contact me and it will be removed.
+
+## License
+
+The original contributions in this repository's subtitle files are offered under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). This license applies only to rights the repository owner is authorized to license. It does **not** cover the original videos, dialogue, or other material owned by About Oliver or other rights holders; those rights remain with their respective owners. See [LICENSE](LICENSE) for details.
