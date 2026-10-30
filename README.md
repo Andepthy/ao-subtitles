@@ -19,6 +19,12 @@ The Chinese subtitles were produced with **LLM translation**, and only some of t
 
 The subtitles are derivative works of the original videos, whose rights belong to About Oliver. Please do not use them for commercial purposes; if a rights holder does not want this content to be public, contact me and it will be removed.
 
-## License
+## License and Copyright
 
-The original contributions in this repository's subtitle files are offered under the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). This license applies only to rights the repository owner is authorized to license. It does **not** cover the original videos, dialogue, or other material owned by About Oliver or other rights holders; those rights remain with their respective owners. See [LICENSE](LICENSE) for details.
+Original contributions are licensed under CC BY-NC 4.0,
+to the extent the repository owner has the rights to license them.
+
+The original videos and dialogue remain the property of their
+respective rights holders.
+
+See [RIGHTS.md](RIGHTS.md) for details.
