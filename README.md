@@ -15,7 +15,7 @@ This is an archive of some self-made subtitles for [About Oliver](https://www.yo
 
 ## Disclaimer
 
-The Chinese subtitles were produced with **LLM translation**, and only some of them were lightly proofread by hand; **neither translation accuracy nor timing is guaranteed**.
+The subtitles were produced with programs or LLMs, and only some of them were proofread; **accuracy is not guaranteed**.
 
 The subtitles are derivative works of the original videos, whose rights belong to About Oliver. Please do not use them for commercial purposes; if a rights holder does not want this content to be public, contact me and it will be removed.
 
