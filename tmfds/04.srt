@@ -1,0 +1,5159 @@
+1
+00:00:00,000 --> 00:00:02,180
+Welcome back to the math from space.
+
+2
+00:00:02,560 --> 00:00:04,900
+It's math, but it's from space.
+
+3
+00:00:05,360 --> 00:00:06,520
+Deep space, actually.
+
+4
+00:00:07,060 --> 00:00:08,700
+And we got two new signals.
+
+5
+00:00:09,060 --> 00:00:10,580
+Minus 14 and minus 15.
+
+6
+00:00:11,440 --> 00:00:12,500
+And, yeah.
+
+7
+00:00:12,720 --> 00:00:13,660
+What did I do last night?
+
+8
+00:00:15,620 --> 00:00:17,100
+Function... Right.
+
+9
+00:00:17,620 --> 00:00:18,580
+We're doing that.
+
+10
+00:00:19,880 --> 00:00:22,940
+Transmissions... Functions, exponents, and no clue.
+
+11
+00:00:26,200 --> 00:00:28,780
+I guess this is Carrie who put this in here, right?
+
+12
+00:00:28,920 --> 00:00:30,140
+Because she's the one who's grouping them.
+
+13
+00:00:33,310 --> 00:00:34,870
+I mean, these are just a bunch of functions.
+
+14
+00:00:35,330 --> 00:00:37,670
+Part of me wants to just try and plot them and see what we get.
+
+15
+00:00:38,530 --> 00:00:40,670
+It's probably some kind of pattern or something funny.
+
+16
+00:00:42,610 --> 00:00:44,470
+Anyway, so we got some new signals here.
+
+17
+00:00:45,290 --> 00:00:45,650
+X03.
+
+18
+00:00:47,510 --> 00:00:50,910
+I can't even read them because these are obfuscating it.
+
+19
+00:00:51,450 --> 00:00:52,850
+But I guess it's just undefined.
+
+20
+00:00:54,490 --> 00:00:54,850
+X03.
+
+21
+00:00:55,790 --> 00:00:56,830
+X0 equals 3.
+
+22
+00:00:56,950 --> 00:00:58,970
+Okay, so they're just giving us that.
+
+23
+00:01:00,300 --> 00:01:01,260
+x1, 5.
+
+24
+00:01:01,580 --> 00:01:02,380
+I don't know what these mean.
+
+25
+00:01:04,260 --> 00:01:05,720
+x1 equals question mark.
+
+26
+00:01:05,820 --> 00:01:06,580
+So what is x1?
+
+27
+00:01:11,540 --> 00:01:12,140
+X03.
+
+28
+00:01:13,720 --> 00:01:15,300
+I mean, following the logic.
+
+29
+00:01:17,880 --> 00:01:19,560
+Or not the logic, the pattern.
+
+30
+00:01:19,900 --> 00:01:20,840
+It's not just five.
+
+31
+00:01:23,280 --> 00:01:23,880
+Okay.
+
+32
+00:01:24,740 --> 00:01:26,940
+I don't know why, but here we go.
+
+33
+00:01:27,700 --> 00:01:29,380
+Okay, so X0, new one.
+
+34
+00:01:30,180 --> 00:01:30,480
+Three.
+
+35
+00:01:30,900 --> 00:01:31,660
+Eight times.
+
+36
+00:01:32,140 --> 00:01:34,340
+So three times eight is 24.
+
+37
+00:01:38,240 --> 00:01:41,180
+So x0, 24, x0, 24?
+
+38
+00:01:41,640 --> 00:01:42,720
+But what are these?
+
+39
+00:01:43,680 --> 00:01:44,380
+24?
+
+40
+00:01:46,160 --> 00:01:47,400
+Okay, it works.
+
+41
+00:01:50,880 --> 00:01:51,720
+Okay.
+
+42
+00:01:53,460 --> 00:01:57,180
+x0, 1, 2.
+
+43
+00:02:03,140 --> 00:02:04,620
+X0... Man, what are these?
+
+44
+00:02:05,420 --> 00:02:08,100
+I feel like I've just been ignoring them so far and it has worked.
+
+45
+00:02:12,860 --> 00:02:13,780
+Okay, whatever.
+
+46
+00:02:13,960 --> 00:02:14,660
+So 1, 2.
+
+47
+00:02:15,900 --> 00:02:18,140
+So x0 is this, apparently.
+
+48
+00:02:18,640 --> 00:02:18,820
+Right?
+
+49
+00:02:19,420 --> 00:02:22,740
+It's 1, 2.
+
+50
+00:02:23,780 --> 00:02:27,860
+So x0 is 1, 2?
+
+51
+00:02:30,140 --> 00:02:31,720
+x1 is question mark.
+
+52
+00:02:32,580 --> 00:02:33,800
+3, 11.
+
+53
+00:02:35,920 --> 00:02:37,460
+Just by copying it.
+
+54
+00:02:39,340 --> 00:02:40,040
+Okay.
+
+55
+00:02:42,240 --> 00:02:42,940
+Transmissions grouped.
+
+56
+00:02:43,100 --> 00:02:43,660
+Let's see what they're called.
+
+57
+00:02:45,400 --> 00:02:46,200
+Grouping symbols.
+
+58
+00:02:47,280 --> 00:02:50,860
+Do you remember when someone bet that minus nine would be the last signal we define?
+
+59
+00:02:51,840 --> 00:02:52,820
+Oh yeah, I remember.
+
+60
+00:02:53,680 --> 00:02:55,140
+Akers, I'll take you on that bet again.
+
+61
+00:02:56,040 --> 00:02:57,900
+I thought you didn't care for making bets, Collins.
+
+62
+00:02:58,780 --> 00:03:00,260
+Well, I'm not against making money.
+
+63
+00:03:00,820 --> 00:03:01,140
+Hmm.
+
+64
+00:03:01,500 --> 00:03:02,660
+I've created a monster.
+
+65
+00:03:03,320 --> 00:03:04,520
+You sure did, Bautista.
+
+66
+00:03:04,680 --> 00:03:05,160
+You sure did.
+
+67
+00:03:06,660 --> 00:03:07,880
+She's never gonna be the same.
+
+68
+00:03:10,480 --> 00:03:11,440
+Okay, x02x.
+
+69
+00:03:11,520 --> 00:03:12,520
+So this is a function now.
+
+70
+00:03:13,500 --> 00:03:16,860
+And then we have... Oh, a new signal!
+
+71
+00:03:18,640 --> 00:03:19,620
+Oh, my God.
+
+72
+00:03:22,380 --> 00:03:23,660
+What is this crap?
+
+73
+00:03:26,360 --> 00:03:28,820
+I don't like the fact that the comma is here on one line.
+
+74
+00:03:30,540 --> 00:03:33,000
+Let's try... Okay, let's try and call this something, actually.
+
+75
+00:03:33,320 --> 00:03:33,920
+Something shorter.
+
+76
+00:03:35,700 --> 00:03:36,700
+Let's call this...
+
+77
+00:03:39,220 --> 00:03:40,140
+Unknown 1.
+
+78
+00:03:40,480 --> 00:03:41,480
+Oh, I can't type numbers.
+
+79
+00:03:41,680 --> 00:03:42,160
+God damn it.
+
+80
+00:03:43,080 --> 00:03:43,700
+Okay, just unknown.
+
+81
+00:03:44,560 --> 00:03:46,180
+This will be unknown 2.
+
+82
+00:03:46,600 --> 00:03:47,860
+Oh, T for 2.
+
+83
+00:03:48,220 --> 00:03:48,440
+Okay.
+
+84
+00:03:50,700 --> 00:03:51,480
+Is that better?
+
+85
+00:03:55,560 --> 00:03:56,020
+Kinda.
+
+86
+00:03:57,620 --> 00:03:58,480
+It's kinda better.
+
+87
+00:03:58,600 --> 00:03:59,720
+What about my transmission?
+
+88
+00:04:06,350 --> 00:04:08,570
+One... I think we need to format those.
+
+89
+00:04:10,730 --> 00:04:15,110
+Make it so that there is no space.
+
+90
+00:04:20,590 --> 00:04:21,170
+Wait.
+
+91
+00:04:21,410 --> 00:04:22,650
+And then this one, no space.
+
+92
+00:04:25,910 --> 00:04:26,930
+I mean, space.
+
+93
+00:04:27,190 --> 00:04:28,510
+What I mean is no new line.
+
+94
+00:04:29,630 --> 00:04:30,350
+We compile.
+
+95
+00:04:38,320 --> 00:04:39,120
+Looks better.
+
+96
+00:04:40,740 --> 00:04:42,320
+But let me see the transmission here.
+
+97
+00:04:49,020 --> 00:04:50,080
+Yeah, it's better now.
+
+98
+00:04:50,180 --> 00:04:51,660
+Now comma is at least in line.
+
+99
+00:04:55,060 --> 00:04:56,520
+So there's something going on there.
+
+100
+00:04:58,600 --> 00:04:59,900
+So we have a function, right?
+
+101
+00:05:00,020 --> 00:05:00,600
+What is the function?
+
+102
+00:05:00,700 --> 00:05:01,300
+It's 2x.
+
+103
+00:05:01,780 --> 00:05:02,020
+Okay.
+
+104
+00:05:02,880 --> 00:05:03,880
+Something undefined.
+
+105
+00:05:04,020 --> 00:05:06,300
+This looks like a separator again.
+
+106
+00:05:11,350 --> 00:05:15,930
+Separator, and then 0 onc... 0,0 onc2.
+
+107
+00:05:16,390 --> 00:05:18,270
+So there's a system there.
+
+108
+00:05:20,150 --> 00:05:21,970
+And this number just counts up.
+
+109
+00:05:23,750 --> 00:05:25,610
+So they're saying, what is the next one?
+
+110
+00:05:25,910 --> 00:05:27,710
+It's 2x, so it's 10, right?
+
+111
+00:05:28,510 --> 00:05:31,490
+I mean... Sure.
+
+112
+00:05:33,190 --> 00:05:34,350
+Whatever you say.
+
+113
+00:05:36,790 --> 00:05:37,430
+Okay.
+
+114
+00:05:38,650 --> 00:05:39,290
+So...
+
+115
+00:05:39,290 --> 00:05:40,950
+That's 2x plus 1.
+
+116
+00:05:43,230 --> 00:05:46,910
+I feel like I'm just ignoring all these things and it's working.
+
+117
+00:05:48,310 --> 00:05:50,390
+So that's 16 plus 1 is 17.
+
+118
+00:05:55,680 --> 00:05:58,180
+I've developed a decent strategy for isolating definitions.
+
+119
+00:05:58,400 --> 00:05:58,580
+Oh, yeah?
+
+120
+00:05:58,820 --> 00:05:59,640
+Please, let me know.
+
+121
+00:06:00,600 --> 00:06:02,060
+Choose a definition for a signal.
+
+122
+00:06:02,860 --> 00:06:06,320
+Check the transmissions and see if that definition remains consistent with the signal's use.
+
+123
+00:06:06,900 --> 00:06:09,260
+If not, pick a new definition for the signal and start again.
+
+124
+00:06:10,360 --> 00:06:11,920
+Right, so qualified guesses.
+
+125
+00:06:12,180 --> 00:06:13,200
+Isn't that what we've been doing, though?
+
+126
+00:06:14,320 --> 00:06:15,400
+Repeat until we prosper.
+
+127
+00:06:16,180 --> 00:06:16,580
+Good.
+
+128
+00:06:16,740 --> 00:06:19,580
+Maybe you can use that to make sense of that weird transmission a couple back.
+
+129
+00:06:20,420 --> 00:06:22,860
+Because, ooh, I sure ain't understanding it.
+
+130
+00:06:23,600 --> 00:06:24,260
+Nor I.
+
+131
+00:06:24,940 --> 00:06:27,040
+I will try, but it doesn't feel approachable to me.
+
+132
+00:06:28,680 --> 00:06:29,600
+Only time will tell.
+
+133
+00:06:31,160 --> 00:06:31,540
+Okay.
+
+134
+00:06:32,680 --> 00:06:33,060
+Okay.
+
+135
+00:06:33,820 --> 00:06:34,860
+So what do we got here?
+
+136
+00:06:35,860 --> 00:06:38,220
+Man, it's really just like boom, boom, boom with these.
+
+137
+00:06:38,280 --> 00:06:39,460
+You don't get any breathing room.
+
+138
+00:06:39,760 --> 00:06:41,840
+I wish there was more lore in between this.
+
+139
+00:06:42,020 --> 00:06:43,720
+Also, I thought we were done with math.
+
+140
+00:06:44,160 --> 00:06:46,740
+I thought Act 1 was like, oh, math.
+
+141
+00:06:46,980 --> 00:06:48,060
+It said math, didn't it?
+
+142
+00:06:49,340 --> 00:06:55,300
+I thought Act 2 would be about something else, like maybe we could learn about the aliens or... I don't know.
+
+143
+00:06:55,880 --> 00:06:56,320
+Something.
+
+144
+00:06:57,460 --> 00:06:59,140
+Oh, we also have a whiteboard now, I forgot.
+
+145
+00:07:00,380 --> 00:07:01,060
+Let's see here.
+
+146
+00:07:01,180 --> 00:07:03,880
+So x1 equals x0, so that's x minus 3.
+
+147
+00:07:05,880 --> 00:07:06,320
+Undefined.
+
+148
+00:07:07,320 --> 00:07:08,980
+Unc0 comma minus 3.
+
+149
+00:07:11,320 --> 00:07:13,080
+I mean, these are just coordinates, aren't they?
+
+150
+00:07:13,700 --> 00:07:14,680
+It's just a function.
+
+151
+00:07:15,100 --> 00:07:16,240
+x0, why is that?
+
+152
+00:07:18,400 --> 00:07:19,920
+And then we have numbers over here.
+
+153
+00:07:19,980 --> 00:07:21,140
+Oh, now they're asking for that.
+
+154
+00:07:22,420 --> 00:07:23,780
+But that's just three, isn't it?
+
+155
+00:07:26,180 --> 00:07:26,580
+No?
+
+156
+00:07:28,000 --> 00:07:28,600
+Why not?
+
+157
+00:07:30,120 --> 00:07:30,780
+Why not?
+
+158
+00:07:32,960 --> 00:07:33,360
+Oh!
+
+159
+00:07:33,540 --> 00:07:34,780
+I need this in front first.
+
+160
+00:07:34,880 --> 00:07:35,640
+Okay, so I see.
+
+161
+00:07:36,580 --> 00:07:41,420
+Let's do dictionary, call this one... I don't know, for separator.
+
+162
+00:07:43,060 --> 00:07:44,060
+Just anything, really.
+
+163
+00:07:44,200 --> 00:07:44,780
+It doesn't really matter.
+
+164
+00:07:45,820 --> 00:07:49,780
+So now I want to say SEP3.
+
+165
+00:07:53,360 --> 00:07:54,160
+Okay, good.
+
+166
+00:07:57,570 --> 00:07:58,470
+What's this now?
+
+167
+00:07:58,990 --> 00:07:59,930
+So we got sep0.
+
+168
+00:08:01,010 --> 00:08:03,250
+Actually, I kind of want this to be together.
+
+169
+00:08:03,570 --> 00:08:04,990
+It feels like they belong together.
+
+170
+00:08:06,850 --> 00:08:07,390
+Right?
+
+171
+00:08:09,250 --> 00:08:10,110
+Let's do that.
+
+172
+00:08:10,910 --> 00:08:13,970
+Let's do a space, or even no space.
+
+173
+00:08:14,130 --> 00:08:14,690
+No, space.
+
+174
+00:08:17,470 --> 00:08:19,350
+Okay, this looks much better.
+
+175
+00:08:21,230 --> 00:08:23,130
+Unc3.5 UncT.
+
+176
+00:08:24,920 --> 00:08:29,460
+Step 0, x0 is 3.
+
+177
+00:08:30,980 --> 00:08:33,080
+Step 0, x1 is 5.
+
+178
+00:08:37,630 --> 00:08:38,770
+Yeah, three and five.
+
+179
+00:08:41,470 --> 00:08:45,170
+Oh, so this is not just 12, 2.
+
+180
+00:08:49,650 --> 00:08:52,130
+Dude, I'm breezing through these without understanding shit.
+
+181
+00:08:57,930 --> 00:09:00,090
+What the fuck am I even saying?
+
+182
+00:09:00,630 --> 00:09:01,890
+This is getting ridiculous.
+
+183
+00:09:05,140 --> 00:09:10,820
+Unc, eight comma two, unc... Oh, wait, it's fucking parentheses, isn't it?
+
+184
+00:09:12,160 --> 00:09:13,160
+I know what that is.
+
+185
+00:09:16,740 --> 00:09:17,140
+Yes!
+
+186
+00:09:17,580 --> 00:09:17,920
+Yes!
+
+187
+00:09:18,160 --> 00:09:18,640
+Okay, good.
+
+188
+00:09:20,740 --> 00:09:21,500
+Parenthesis symbol.
+
+189
+00:09:21,640 --> 00:09:22,280
+That's not a word.
+
+190
+00:09:22,940 --> 00:09:23,940
+Does it have to be?
+
+191
+00:09:24,660 --> 00:09:25,520
+No, it doesn't.
+
+192
+00:09:26,020 --> 00:09:26,720
+I disagree.
+
+193
+00:09:27,100 --> 00:09:28,660
+We're building a vocabulary, are we not?
+
+194
+00:09:29,360 --> 00:09:32,680
+Why have you not been, you know, protesting the rest that we've been doing then?
+
+195
+00:09:33,960 --> 00:09:35,900
+Yes, but formatting, structure, syntax.
+
+196
+00:09:36,380 --> 00:09:37,480
+That's all part of language.
+
+197
+00:09:38,160 --> 00:09:40,060
+If this definition holds, all the merrier.
+
+198
+00:09:41,640 --> 00:09:42,040
+Okay.
+
+199
+00:09:43,540 --> 00:09:44,840
+I'm gonna call this one...
+
+200
+00:09:47,720 --> 00:09:49,160
+That... Yes, okay.
+
+201
+00:09:51,260 --> 00:09:53,200
+Dr. Akers, you're unusually quiet.
+
+202
+00:09:54,060 --> 00:09:55,540
+Oh no, I've said my piece.
+
+203
+00:09:56,060 --> 00:09:58,840
+A word named parenthesis makes sense, I guess.
+
+204
+00:09:59,520 --> 00:10:00,500
+What a diva.
+
+205
+00:10:01,000 --> 00:10:01,900
+Got that right.
+
+206
+00:10:02,480 --> 00:10:04,520
+Why are they, you know, ganging up on my boy?
+
+207
+00:10:04,840 --> 00:10:06,000
+I can't believe it.
+
+208
+00:10:07,640 --> 00:10:09,480
+Collins, what is happening to you?
+
+209
+00:10:09,560 --> 00:10:10,500
+You're not the same anymore.
+
+210
+00:10:12,080 --> 00:10:13,580
+Alright, let's see here.
+
+211
+00:10:16,300 --> 00:10:17,440
+Oh, that looks so good.
+
+212
+00:10:17,600 --> 00:10:19,000
+Yeah, we have to change it, though.
+
+213
+00:10:19,120 --> 00:10:24,380
+We have to make this no space after.
+
+214
+00:10:27,120 --> 00:10:27,480
+Recompile.
+
+215
+00:10:29,320 --> 00:10:31,940
+Yes, and then we go back and we say this one.
+
+216
+00:10:33,900 --> 00:10:35,720
+Needs to have no space in front.
+
+217
+00:10:37,920 --> 00:10:39,840
+See, that's what I'm talking about, baby.
+
+218
+00:10:40,500 --> 00:10:41,260
+Now, what is sep?
+
+219
+00:10:43,600 --> 00:10:45,000
+CEP0...
+
+220
+00:10:50,290 --> 00:10:51,490
+I don't know.
+
+221
+00:10:53,010 --> 00:10:54,390
+I don't know.
+
+222
+00:10:55,850 --> 00:10:56,430
+Whatever.
+
+223
+00:10:57,190 --> 00:10:57,790
+8, 2.
+
+224
+00:10:58,510 --> 00:11:00,070
+7, 5.
+
+225
+00:11:01,030 --> 00:11:02,130
+SEP 0.
+
+226
+00:11:03,970 --> 00:11:05,110
+X1.
+
+227
+00:11:05,650 --> 00:11:07,290
+SEP 1X0.
+
+228
+00:11:07,510 --> 00:11:07,810
+Times.
+
+229
+00:11:09,690 --> 00:11:11,890
+So we are multiplying previous.
+
+230
+00:11:16,490 --> 00:11:18,190
+So X1.
+
+231
+00:11:22,100 --> 00:11:23,740
+Is this, right?
+
+232
+00:11:24,960 --> 00:11:26,380
+Because this is x0.
+
+233
+00:11:30,400 --> 00:11:32,080
+So it's 16?
+
+234
+00:11:34,920 --> 00:11:36,080
+No.
+
+235
+00:11:39,310 --> 00:11:41,550
+X1, X... Oh, wait, SEP0.
+
+236
+00:11:43,470 --> 00:11:44,910
+Oh, wait a minute.
+
+237
+00:11:45,310 --> 00:11:46,690
+X1 is 2.
+
+238
+00:11:47,590 --> 00:11:49,210
+From SEP0.
+
+239
+00:11:49,550 --> 00:11:51,370
+SEP1 is that one.
+
+240
+00:11:52,390 --> 00:11:54,490
+So it's 7, so it's 14.
+
+241
+00:11:56,470 --> 00:11:57,230
+Right?
+
+242
+00:11:57,850 --> 00:11:58,870
+Okay, good.
+
+243
+00:12:01,310 --> 00:12:02,070
+Alright.
+
+244
+00:12:03,870 --> 00:12:04,970
+New update.
+
+245
+00:12:05,840 --> 00:12:08,340
+Bautista, tell me we don't have to go over this again.
+
+246
+00:12:10,180 --> 00:12:11,240
+What's in the update?
+
+247
+00:12:12,620 --> 00:12:13,720
+The reference tab.
+
+248
+00:12:14,540 --> 00:12:16,180
+Oh, the one I asked for.
+
+249
+00:12:16,640 --> 00:12:17,160
+Thanks.
+
+250
+00:12:17,680 --> 00:12:19,080
+I appreciate that, actually.
+
+251
+00:12:19,740 --> 00:12:20,480
+Happy to help.
+
+252
+00:12:22,240 --> 00:12:22,760
+Alrighty.
+
+253
+00:12:23,580 --> 00:12:24,320
+Reference tab.
+
+254
+00:12:26,060 --> 00:12:26,720
+Hold on.
+
+255
+00:12:27,180 --> 00:12:27,540
+There's more.
+
+256
+00:12:27,960 --> 00:12:28,380
+Whoa!
+
+257
+00:12:28,760 --> 00:12:29,860
+We got more apprentices!
+
+258
+00:12:31,100 --> 00:12:33,000
+So their use isn't unique to Sep.
+
+259
+00:12:33,260 --> 00:12:33,740
+Intriguing.
+
+260
+00:12:34,000 --> 00:12:34,900
+Good catch, Akers.
+
+261
+00:12:35,740 --> 00:12:36,800
+Well, leave it to me.
+
+262
+00:12:37,300 --> 00:12:38,820
+I am the expert after all.
+
+263
+00:12:39,520 --> 00:12:41,420
+Does he make you regret being nice sometimes?
+
+264
+00:12:42,460 --> 00:12:43,340
+Unfortunately, yes.
+
+265
+00:12:44,400 --> 00:12:46,280
+Why are they ganging up on my homeboy?
+
+266
+00:12:46,740 --> 00:12:47,660
+I can't believe it.
+
+267
+00:12:54,220 --> 00:12:55,160
+Oh my god.
+
+268
+00:12:58,060 --> 00:12:59,840
+It's like a freaking textbook here.
+
+269
+00:13:02,100 --> 00:13:02,600
+Rounding.
+
+270
+00:13:04,900 --> 00:13:06,300
+I guess it's just references.
+
+271
+00:13:06,940 --> 00:13:07,720
+2D geometry.
+
+272
+00:13:09,580 --> 00:13:10,820
+Dude, what is this game?
+
+273
+00:13:10,940 --> 00:13:12,920
+Is this actually just math all the way through?
+
+274
+00:13:14,780 --> 00:13:16,760
+Spheres, cubes, pyramids.
+
+275
+00:13:16,880 --> 00:13:18,300
+I've never had to use a pyramid ever.
+
+276
+00:13:19,740 --> 00:13:23,000
+Apparently that's the formula for the volume of a pyramid.
+
+277
+00:13:23,280 --> 00:13:23,780
+Okay, that's cool.
+
+278
+00:13:24,800 --> 00:13:25,280
+Prism.
+
+279
+00:13:27,560 --> 00:13:28,160
+Cube.
+
+280
+00:13:28,160 --> 00:13:28,760
+Logic.
+
+281
+00:13:28,960 --> 00:13:30,100
+Oh, I'm so terrible at this.
+
+282
+00:13:32,220 --> 00:13:32,820
+Distance.
+
+283
+00:13:33,200 --> 00:13:34,160
+Distance formula.
+
+284
+00:13:35,320 --> 00:13:35,920
+Pythagoras.
+
+285
+00:13:40,550 --> 00:13:41,030
+Alright.
+
+286
+00:13:41,730 --> 00:13:43,290
+Am I really gonna have to use all that?
+
+287
+00:13:43,930 --> 00:13:45,550
+Brother, I thought we were done with math!
+
+288
+00:13:45,810 --> 00:13:46,290
+Come on.
+
+289
+00:13:46,610 --> 00:13:48,050
+I wanna talk to the aliens!
+
+290
+00:13:49,430 --> 00:13:50,430
+Okay, let's see here.
+
+291
+00:13:50,990 --> 00:13:52,270
+We got a new signal.
+
+292
+00:13:53,590 --> 00:13:54,430
+Undefined zero.
+
+293
+00:13:54,830 --> 00:13:56,530
+You know what, let's call this new.
+
+294
+00:13:57,090 --> 00:13:57,770
+Fucking hell.
+
+295
+00:13:59,230 --> 00:14:00,010
+Call it new.
+
+296
+00:14:01,150 --> 00:14:02,410
+Already much better looking.
+
+297
+00:14:02,810 --> 00:14:06,870
+I'm even gonna say new zero, so we're gonna say new.
+
+298
+00:14:12,180 --> 00:14:14,100
+Space... There we go, okay.
+
+299
+00:14:15,440 --> 00:14:24,480
+So, new zero, parentheses, step zero, one comma two, step one, three comma five.
+
+300
+00:14:29,810 --> 00:14:31,150
+New one, new two.
+
+301
+00:14:32,050 --> 00:14:33,390
+So there's three news.
+
+302
+00:14:34,830 --> 00:14:39,790
+New zero equals... Is that not just zero?
+
+303
+00:14:41,790 --> 00:14:42,910
+Are they fooling me?
+
+304
+00:14:43,010 --> 00:14:43,250
+Okay.
+
+305
+00:14:43,710 --> 00:14:44,270
+It's not.
+
+306
+00:14:46,110 --> 00:14:46,930
+There's an idea.
+
+307
+00:14:47,150 --> 00:14:47,510
+Let's see it.
+
+308
+00:14:48,630 --> 00:14:49,470
+Oh, I missed one.
+
+309
+00:14:49,530 --> 00:14:49,850
+You know what?
+
+310
+00:14:50,710 --> 00:14:51,390
+Okay, fine.
+
+311
+00:14:51,450 --> 00:14:52,430
+Let's just hear it.
+
+312
+00:14:54,810 --> 00:14:57,430
+I see times, but what are we even multiplying?
+
+313
+00:14:58,310 --> 00:15:01,990
+We know factors always precede the... what's that symbol?
+
+314
+00:15:03,170 --> 00:15:03,610
+Times?
+
+315
+00:15:04,110 --> 00:15:07,890
+So I suspect that SEP0X1 would be the first factor.
+
+316
+00:15:08,030 --> 00:15:08,910
+What are we talking about right now?
+
+317
+00:15:10,130 --> 00:15:11,050
+What about this one, right?
+
+318
+00:15:13,690 --> 00:15:15,070
+SEP0X1 would be the first factor.
+
+319
+00:15:15,290 --> 00:15:15,590
+Oh, yeah.
+
+320
+00:15:15,950 --> 00:15:16,050
+Okay.
+
+321
+00:15:16,990 --> 00:15:18,670
+And SEP1X0 would be the second.
+
+322
+00:15:19,350 --> 00:15:22,370
+And those two things would be... that remains uncertain.
+
+323
+00:15:23,130 --> 00:15:25,590
+I'll check the previous few transmissions for something of value.
+
+324
+00:15:26,530 --> 00:15:27,270
+All right.
+
+325
+00:15:28,490 --> 00:15:29,450
+Thank you, Collins.
+
+326
+00:15:31,710 --> 00:15:33,350
+We also have an idea here.
+
+327
+00:15:37,980 --> 00:15:38,440
+What?
+
+328
+00:15:38,820 --> 00:15:40,740
+But New Zero is New Zero.
+
+329
+00:15:41,540 --> 00:15:42,480
+Yeah, that's what I said.
+
+330
+00:15:43,240 --> 00:15:44,880
+I think the meteorite glitched.
+
+331
+00:15:45,740 --> 00:15:49,580
+Though it is logically true, it does not mean we gave the transmission the meteor is awaiting.
+
+332
+00:15:50,360 --> 00:15:51,740
+Which is a good thing, really.
+
+333
+00:15:52,440 --> 00:15:52,900
+Why?
+
+334
+00:15:53,160 --> 00:15:55,560
+I wish the meteor would always accept true statements.
+
+335
+00:15:56,200 --> 00:15:57,780
+Not just some exact response.
+
+336
+00:15:58,720 --> 00:16:03,760
+By rejecting statements that are always true, each transmission compels us to get at the core meaning.
+
+337
+00:16:04,570 --> 00:16:07,250
+Hmm, no tautologies accepted by the Meteor.
+
+338
+00:16:07,810 --> 00:16:10,770
+We have to demonstrate some understanding or mastery to advance.
+
+339
+00:16:11,490 --> 00:16:13,590
+Unless they write, question mark equals zero.
+
+340
+00:16:14,390 --> 00:16:16,090
+Then our response will just be zero.
+
+341
+00:16:17,110 --> 00:16:18,010
+Right, okay.
+
+342
+00:16:18,710 --> 00:16:21,330
+So let's demonstrate some understanding, even though we don't have any understanding.
+
+343
+00:16:24,950 --> 00:16:27,530
+New 0 is this, I guess.
+
+344
+00:16:29,870 --> 00:16:32,470
+New 0 contains step 0 and step 1.
+
+345
+00:16:34,150 --> 00:16:36,630
+New 1 contains step 0 and step 1.
+
+346
+00:16:38,850 --> 00:16:42,150
+New 2 contains step 0 and step 1.
+
+347
+00:16:42,230 --> 00:16:46,250
+Oh, these are all the same, but... the points are different, right?
+
+348
+00:16:48,770 --> 00:16:49,970
+These are the same, though.
+
+349
+00:16:50,750 --> 00:16:51,350
+Oh!
+
+350
+00:16:53,020 --> 00:16:54,300
+Oh, it's actually so simple.
+
+351
+00:16:54,460 --> 00:16:56,000
+It's new 0 equals new 2, then.
+
+352
+00:16:57,860 --> 00:16:58,320
+Right?
+
+353
+00:17:02,600 --> 00:17:02,940
+Okay.
+
+354
+00:17:05,420 --> 00:17:07,240
+So, Bautista, how did you make the info tab?
+
+355
+00:17:07,380 --> 00:17:08,360
+Did you just know all that stuff?
+
+356
+00:17:09,360 --> 00:17:09,700
+No.
+
+357
+00:17:10,040 --> 00:17:11,820
+Doppler gave me money to buy encyclopedias.
+
+358
+00:17:12,480 --> 00:17:13,160
+You can do that?
+
+359
+00:17:13,880 --> 00:17:17,020
+Yeah, Dr. Doppler will pretty much give you money to do anything if you just ask.
+
+360
+00:17:17,640 --> 00:17:17,920
+Whoa.
+
+361
+00:17:19,060 --> 00:17:19,680
+Oh, good.
+
+362
+00:17:19,960 --> 00:17:22,420
+I think the noble Dr. Akers is due for a pay raise.
+
+363
+00:17:22,920 --> 00:17:23,720
+Not like that.
+
+364
+00:17:24,760 --> 00:17:25,680
+Ah, worth a shot.
+
+365
+00:17:26,500 --> 00:17:27,080
+Wait, why not?
+
+366
+00:17:27,460 --> 00:17:29,060
+We're doing important work here, are we not?
+
+367
+00:17:29,880 --> 00:17:31,620
+The work is important and mysterious.
+
+368
+00:17:34,060 --> 00:17:36,920
+Okay, so here it's just... Let's see.
+
+369
+00:17:37,800 --> 00:17:39,100
+New 0, 1, 2, 3.
+
+370
+00:17:39,520 --> 00:17:41,080
+New 1 equals new 3.
+
+371
+00:17:41,780 --> 00:17:44,580
+So that's that, which means this is going to be that.
+
+372
+00:17:44,980 --> 00:17:45,940
+Step 0, step 2.
+
+373
+00:17:50,440 --> 00:17:51,480
+Come on, come on, come on.
+
+374
+00:17:52,520 --> 00:17:52,940
+Good.
+
+375
+00:17:54,140 --> 00:17:54,560
+Next.
+
+376
+00:17:54,760 --> 00:17:55,280
+Come on, quick.
+
+377
+00:17:58,400 --> 00:18:00,240
+Oh, our newest term is minus 20.
+
+378
+00:18:00,980 --> 00:18:01,400
+Hmm.
+
+379
+00:18:01,680 --> 00:18:02,920
+We are missing 18 and 19.
+
+380
+00:18:03,540 --> 00:18:04,860
+Oh no, you know what that means?
+
+381
+00:18:05,160 --> 00:18:05,620
+Let me guess.
+
+382
+00:18:05,720 --> 00:18:06,420
+Unhappy dictionary?
+
+383
+00:18:07,540 --> 00:18:08,280
+Unhappy dictionary.
+
+384
+00:18:09,040 --> 00:18:09,700
+Unhappy life.
+
+385
+00:18:10,400 --> 00:18:11,460
+I don't understand.
+
+386
+00:18:12,960 --> 00:18:14,100
+It's just a guy's thing.
+
+387
+00:18:14,400 --> 00:18:14,920
+Don't worry about it.
+
+388
+00:18:15,540 --> 00:18:16,780
+Okay, so minus 20.
+
+389
+00:18:17,500 --> 00:18:18,300
+Call it...
+
+390
+00:18:18,540 --> 00:18:19,540
+Oh, we already have new.
+
+391
+00:18:20,460 --> 00:18:21,160
+New two.
+
+392
+00:18:22,520 --> 00:18:23,380
+Oh god.
+
+393
+00:18:26,260 --> 00:18:27,100
+New zero.
+
+394
+00:18:28,480 --> 00:18:29,900
+So we got that and that.
+
+395
+00:18:31,520 --> 00:18:33,500
+Oh, maybe they are actually just points.
+
+396
+00:18:34,060 --> 00:18:34,900
+Like these.
+
+397
+00:18:35,280 --> 00:18:36,060
+Because these are points.
+
+398
+00:18:36,840 --> 00:18:38,000
+Let's just call it that.
+
+399
+00:18:39,440 --> 00:18:42,100
+Because so far, we have pretty much just ignored what they are.
+
+400
+00:18:42,840 --> 00:18:43,600
+Where are they?
+
+401
+00:18:44,940 --> 00:18:45,420
+Sep.
+
+402
+00:18:47,660 --> 00:18:48,540
+Call it point.
+
+403
+00:18:52,260 --> 00:18:53,080
+Coordinates, whatever.
+
+404
+00:18:54,340 --> 00:18:58,100
+Oh, actually, let's make them... like this.
+
+405
+00:19:00,400 --> 00:19:01,260
+I like that.
+
+406
+00:19:02,740 --> 00:19:03,980
+Now we have this one, though.
+
+407
+00:19:04,120 --> 00:19:04,520
+New T.
+
+408
+00:19:05,180 --> 00:19:05,920
+And new.
+
+409
+00:19:08,640 --> 00:19:10,840
+Something in front and after the zero.
+
+410
+00:19:13,600 --> 00:19:14,520
+What could that be?
+
+411
+00:19:21,810 --> 00:19:23,110
+Hmm, what is this even?
+
+412
+00:19:23,230 --> 00:19:24,110
+So we have two points.
+
+413
+00:19:25,750 --> 00:19:27,290
+Could it just be like a line?
+
+414
+00:19:28,830 --> 00:19:30,310
+A line between two points?
+
+415
+00:19:37,370 --> 00:19:38,930
+Is that what we're getting at here?
+
+416
+00:19:41,210 --> 00:19:45,330
+Because then new zero... something else equals five.
+
+417
+00:19:49,660 --> 00:19:51,620
+0, 0, 0, 0, 5.
+
+418
+00:19:55,500 --> 00:19:56,720
+Oh, wait a minute.
+
+419
+00:19:56,840 --> 00:19:57,500
+I understand.
+
+420
+00:19:57,500 --> 00:19:58,780
+I understand fully, I think.
+
+421
+00:20:00,440 --> 00:20:04,500
+New is actually... a line.
+
+422
+00:20:09,080 --> 00:20:11,240
+Let's make it so that there's no space.
+
+423
+00:20:14,700 --> 00:20:15,580
+Line zero.
+
+424
+00:20:17,660 --> 00:20:18,540
+Two points.
+
+425
+00:20:18,960 --> 00:20:21,040
+Line zero, something equals five.
+
+426
+00:20:21,440 --> 00:20:22,300
+It's got to be the length.
+
+427
+00:20:23,700 --> 00:20:24,480
+That's the length.
+
+428
+00:20:25,180 --> 00:20:25,940
+Let me check.
+
+429
+00:20:27,140 --> 00:20:28,400
+One, zero, eight, zero.
+
+430
+00:20:28,580 --> 00:20:29,300
+Seven, yes.
+
+431
+00:20:29,940 --> 00:20:30,420
+100%.
+
+432
+00:20:30,420 --> 00:20:33,320
+Length.
+
+433
+00:20:35,240 --> 00:20:36,340
+Yeah, there we go.
+
+434
+00:20:36,480 --> 00:20:36,640
+Good.
+
+435
+00:20:38,300 --> 00:20:39,140
+Hey, length.
+
+436
+00:20:39,320 --> 00:20:40,180
+That's what I was thinking, Doctor.
+
+437
+00:20:40,340 --> 00:20:40,520
+David?
+
+438
+00:20:41,720 --> 00:20:42,340
+Oh, yeah?
+
+439
+00:20:43,120 --> 00:20:43,900
+Well, good.
+
+440
+00:20:46,000 --> 00:20:48,460
+Okay, so now it's saying length is 5.
+
+441
+00:20:49,420 --> 00:20:50,500
+Okay, got it.
+
+442
+00:20:52,160 --> 00:20:57,240
+Line 2 equals... Line 2 length is gonna be between that and that.
+
+443
+00:20:59,040 --> 00:21:01,080
+So that is 1, isn't it?
+
+444
+00:21:03,520 --> 00:21:04,120
+Okay.
+
+445
+00:21:04,780 --> 00:21:05,380
+Wonderful.
+
+446
+00:21:09,800 --> 00:21:10,340
+Alright.
+
+447
+00:21:11,500 --> 00:21:14,480
+x0... 2 to the power of x1.
+
+448
+00:21:15,120 --> 00:21:15,800
+No, wait.
+
+449
+00:21:16,040 --> 00:21:24,860
+It's x0... to the power of 2... x1... to the power of 2?
+
+450
+00:21:26,340 --> 00:21:27,060
+Add it.
+
+451
+00:21:27,500 --> 00:21:28,460
+Wait, holy shit.
+
+452
+00:21:28,600 --> 00:21:29,320
+I need to write this down.
+
+453
+00:21:29,380 --> 00:21:32,820
+I can't fucking... I can't with this formatting.
+
+454
+00:21:34,840 --> 00:21:37,760
+x0... to the power of 2...
+
+455
+00:21:38,850 --> 00:21:43,330
+Then we had x1 to the power of 2 added, so it's actually like this.
+
+456
+00:21:46,010 --> 00:21:46,530
+Right?
+
+457
+00:21:49,090 --> 00:21:52,570
+Equals... x2 to the power of... Oh!
+
+458
+00:21:53,510 --> 00:21:54,030
+Pythagoras.
+
+459
+00:21:57,200 --> 00:21:57,760
+Right.
+
+460
+00:21:59,640 --> 00:22:00,680
+X0 is 5.
+
+461
+00:22:00,900 --> 00:22:01,700
+X1 is 12.
+
+462
+00:22:03,540 --> 00:22:04,620
+So that's 25.
+
+463
+00:22:05,080 --> 00:22:06,060
+That's 144.
+
+464
+00:22:08,140 --> 00:22:09,220
+Square root of that.
+
+465
+00:22:09,460 --> 00:22:10,300
+Hold on, what is that?
+
+466
+00:22:10,380 --> 00:22:13,120
+That is... 169.
+
+467
+00:22:13,840 --> 00:22:15,060
+We have a calculator.
+
+468
+00:22:15,800 --> 00:22:18,680
+I don't fucking know how to do that in my head.
+
+469
+00:22:19,780 --> 00:22:20,340
+169.
+
+470
+00:22:22,020 --> 00:22:24,700
+I guess we would say... square root.
+
+471
+00:22:24,750 --> 00:22:29,390
+I guess we would say .5 power... 13!
+
+472
+00:22:29,650 --> 00:22:30,070
+Oh, okay.
+
+473
+00:22:31,050 --> 00:22:31,530
+13.
+
+474
+00:22:33,190 --> 00:22:33,670
+Good.
+
+475
+00:22:34,950 --> 00:22:36,390
+Also, we just had a something.
+
+476
+00:22:42,710 --> 00:22:43,850
+U3, take a look at this.
+
+477
+00:22:44,610 --> 00:22:48,110
+I rewrote it from x's to letters, because that gels better in my head.
+
+478
+00:22:49,110 --> 00:22:50,330
+Here's the math equation I got.
+
+479
+00:22:51,170 --> 00:22:53,490
+x squared plus y squared equals c squared, yeah.
+
+480
+00:22:55,030 --> 00:22:55,890
+Any bells ringing?
+
+481
+00:22:56,930 --> 00:22:57,010
+Hmm.
+
+482
+00:22:57,930 --> 00:22:58,210
+Hmm.
+
+483
+00:22:59,270 --> 00:23:00,590
+Akers, you made a good find.
+
+484
+00:23:01,010 --> 00:23:01,590
+Oh, yeah?
+
+485
+00:23:02,410 --> 00:23:03,830
+That is the Pythagorean theorem.
+
+486
+00:23:04,270 --> 00:23:04,990
+Oh, yeah!
+
+487
+00:23:07,280 --> 00:23:10,640
+I wrote about it earlier in the reference tab, under math, under distance.
+
+488
+00:23:11,400 --> 00:23:12,160
+But, hm?
+
+489
+00:23:12,540 --> 00:23:13,660
+Good find, Akers, good find.
+
+490
+00:23:14,220 --> 00:23:15,140
+Thanks, Bautista.
+
+491
+00:23:16,620 --> 00:23:18,280
+So can you call me Eagle Eye Allen?
+
+492
+00:23:18,460 --> 00:23:19,600
+I think I've earned the title now.
+
+493
+00:23:19,980 --> 00:23:20,420
+No.
+
+494
+00:23:21,380 --> 00:23:22,280
+It's worth a shot.
+
+495
+00:23:24,440 --> 00:23:24,880
+Goddammit.
+
+496
+00:23:25,620 --> 00:23:27,980
+Okay, so line 0.0.
+
+497
+00:23:28,780 --> 00:23:31,980
+They haven't commented on this yet, but that could also just not mean anything.
+
+498
+00:23:33,490 --> 00:23:35,690
+Point zero is that, point one is that.
+
+499
+00:23:36,370 --> 00:23:37,390
+What is the length?
+
+500
+00:23:38,650 --> 00:23:43,490
+So that's three, that's, what is that, nine, sixteen, twenty-five, square root is five.
+
+501
+00:23:50,100 --> 00:23:50,540
+Okay.
+
+502
+00:23:51,400 --> 00:23:55,000
+Dude, are they actually gonna make us go through, like, all the fucking shit in here?
+
+503
+00:23:57,420 --> 00:23:58,280
+I hope not.
+
+504
+00:23:58,980 --> 00:24:01,080
+That last transmission was tough to piece together.
+
+505
+00:24:01,780 --> 00:24:02,940
+Nice solve, Dr. David.
+
+506
+00:24:03,680 --> 00:24:04,820
+Nice solve to me, too.
+
+507
+00:24:06,400 --> 00:24:06,840
+What?
+
+508
+00:24:06,960 --> 00:24:07,500
+I helped, too.
+
+509
+00:24:08,180 --> 00:24:08,700
+Yeah, you did.
+
+510
+00:24:09,900 --> 00:24:10,340
+Definitely.
+
+511
+00:24:11,140 --> 00:24:13,200
+Okay, so line zero length is eight.
+
+512
+00:24:14,120 --> 00:24:17,200
+Line zero point is four comma zero.
+
+513
+00:24:18,010 --> 00:24:19,570
+Four, comma, something.
+
+514
+00:24:24,050 --> 00:24:24,830
+So it's eight.
+
+515
+00:24:25,990 --> 00:24:27,430
+Because they're both... hold on.
+
+516
+00:24:27,710 --> 00:24:27,950
+Right?
+
+517
+00:24:30,490 --> 00:24:32,110
+If this is two, this is four.
+
+518
+00:24:36,050 --> 00:24:36,890
+Yeah, it's eight.
+
+519
+00:24:41,580 --> 00:24:41,980
+Good.
+
+520
+00:24:41,980 --> 00:24:43,140
+I'm seeing these as half.
+
+521
+00:24:43,360 --> 00:24:45,420
+Or like, this is one, this is two, this is three, this is four.
+
+522
+00:24:47,000 --> 00:24:49,520
+Uh, line zero, length is one.
+
+523
+00:24:50,620 --> 00:24:51,900
+Point zero is that.
+
+524
+00:24:52,120 --> 00:24:53,200
+Point one is that.
+
+525
+00:24:54,320 --> 00:24:56,880
+Point two is... that.
+
+526
+00:24:58,720 --> 00:24:59,300
+Wait, what?
+
+527
+00:24:59,880 --> 00:25:01,400
+Hold on, so we have one... I need two.
+
+528
+00:25:02,100 --> 00:25:02,940
+We got one here.
+
+529
+00:25:04,760 --> 00:25:06,380
+We got one at 1.3.
+
+530
+00:25:08,660 --> 00:25:10,880
+That would be here.
+
+531
+00:25:13,060 --> 00:25:13,740
+There.
+
+532
+00:25:15,160 --> 00:25:17,680
+We got one at 2 and minus 2.
+
+533
+00:25:18,500 --> 00:25:22,180
+So that would be 2 and minus 2.
+
+534
+00:25:22,340 --> 00:25:23,040
+So that's like here.
+
+535
+00:25:25,300 --> 00:25:29,560
+We got a 0.3 at 0 and minus 1.
+
+536
+00:25:30,640 --> 00:25:31,700
+That's here.
+
+537
+00:25:34,080 --> 00:25:36,220
+And a 4 at 8,8.
+
+538
+00:25:39,650 --> 00:25:40,270
+Wait, what?
+
+539
+00:25:40,470 --> 00:25:41,010
+8,8.
+
+540
+00:25:41,170 --> 00:25:43,770
+So that's 1, 2, 3, 4, 5, 6, 7, 8.
+
+541
+00:25:45,230 --> 00:25:46,210
+What are we looking at?
+
+542
+00:25:50,770 --> 00:25:51,890
+The length is 1.
+
+543
+00:25:55,570 --> 00:25:56,010
+What?
+
+544
+00:25:57,710 --> 00:25:58,670
+1,3.
+
+545
+00:25:59,410 --> 00:26:04,650
+0.2.
+
+546
+00:26:05,850 --> 00:26:07,130
+2, minus 2.
+
+547
+00:26:12,820 --> 00:26:14,800
+0.3, 0, minus 1.
+
+548
+00:26:16,800 --> 00:26:18,020
+Wait, what am I looking at?
+
+549
+00:26:19,740 --> 00:26:21,480
+Line 0, question mark.
+
+550
+00:26:26,020 --> 00:26:28,180
+So something goes inside this parenthesis?
+
+551
+00:26:30,620 --> 00:26:31,320
+But what?
+
+552
+00:26:37,840 --> 00:26:40,600
+The fact that the length is 1 has to tell us something.
+
+553
+00:26:46,120 --> 00:26:46,860
+Oh, wait a minute.
+
+554
+00:26:47,000 --> 00:26:47,560
+I think I get it.
+
+555
+00:26:47,640 --> 00:26:47,960
+I get it.
+
+556
+00:26:49,660 --> 00:26:51,340
+Which one has a length of 1 here?
+
+557
+00:26:51,460 --> 00:26:52,800
+Is what we need to ask ourselves.
+
+558
+00:26:54,600 --> 00:26:55,580
+It's this one, isn't it?
+
+559
+00:26:56,000 --> 00:26:56,840
+It's this line here.
+
+560
+00:26:57,400 --> 00:26:58,700
+Oh god, that was a terribly drawn line.
+
+561
+00:27:00,320 --> 00:27:01,040
+There, right?
+
+562
+00:27:02,320 --> 00:27:06,420
+Which is between 0 and... 0, 0 and 0 and minus 1.
+
+563
+00:27:06,840 --> 00:27:08,240
+So I just have to type that, I guess?
+
+564
+00:27:08,340 --> 00:27:11,120
+I have to type... point...
+
+565
+00:27:12,100 --> 00:27:14,480
+Wait, do I have to type .0 with the parentheses stuff?
+
+566
+00:27:14,640 --> 00:27:15,240
+Let's try it.
+
+567
+00:27:16,400 --> 00:27:21,300
+Let's see if I can just type .0, .3.
+
+568
+00:27:27,060 --> 00:27:28,000
+Okay, that works.
+
+569
+00:27:28,240 --> 00:27:28,380
+Great.
+
+570
+00:27:28,840 --> 00:27:29,520
+Very nice.
+
+571
+00:27:30,480 --> 00:27:31,380
+Okay, there we go.
+
+572
+00:27:32,840 --> 00:27:34,240
+Let's see what's on the docket.
+
+573
+00:27:35,220 --> 00:27:38,200
+We finally encountered signal minus 18, and I didn't get to read it.
+
+574
+00:27:40,080 --> 00:27:40,560
+Wow.
+
+575
+00:27:40,780 --> 00:27:41,440
+Wait, new music!
+
+576
+00:27:42,260 --> 00:27:43,160
+What the hell?
+
+577
+00:27:44,300 --> 00:27:45,520
+Alright, team, give me something.
+
+578
+00:27:45,760 --> 00:27:46,300
+Oh, wait a minute.
+
+579
+00:27:46,980 --> 00:27:47,820
+Cat found!
+
+580
+00:27:50,140 --> 00:27:50,620
+Nice!
+
+581
+00:27:50,960 --> 00:27:51,640
+That's good news.
+
+582
+00:27:52,620 --> 00:27:53,740
+Transmission 7-4.
+
+583
+00:27:56,000 --> 00:27:56,800
+Oh, okay.
+
+584
+00:27:57,540 --> 00:28:01,820
+That's probably what you get if you plot those functions that we had in there.
+
+585
+00:28:02,860 --> 00:28:04,100
+I think I had the right idea.
+
+586
+00:28:04,300 --> 00:28:06,840
+I mean, I haven't tested it, but I'm pretty sure that's what that is.
+
+587
+00:28:08,160 --> 00:28:12,420
+We got one, two, three, four straight lines and one circle, right?
+
+588
+00:28:13,360 --> 00:28:14,480
+What is even going on there?
+
+589
+00:28:16,100 --> 00:28:17,260
+All right, team, give me something.
+
+590
+00:28:17,800 --> 00:28:18,800
+I'm begging you.
+
+591
+00:28:19,340 --> 00:28:21,840
+Tell me, are they a silicon-based life form?
+
+592
+00:28:22,140 --> 00:28:23,880
+Do they come with a gift of knowledge?
+
+593
+00:28:24,640 --> 00:28:26,140
+Have you all become unstuck from time?
+
+594
+00:28:26,860 --> 00:28:27,820
+Is it all a circle?
+
+595
+00:28:28,780 --> 00:28:29,860
+It is a torus.
+
+596
+00:28:30,760 --> 00:28:31,500
+Dobler, please.
+
+597
+00:28:31,780 --> 00:28:32,960
+Might I suggest more sleep?
+
+598
+00:28:33,980 --> 00:28:36,280
+Ah, there's no amount of sleep coffee can fix.
+
+599
+00:28:37,460 --> 00:28:38,700
+I think you said that wrong.
+
+600
+00:28:39,560 --> 00:28:40,000
+Never mind.
+
+601
+00:28:40,020 --> 00:28:42,540
+We do have quite some demonstrable progress now.
+
+602
+00:28:43,100 --> 00:28:46,740
+We have eclipsed 80 transmissions, and I've organized what we've gathered thus far.
+
+603
+00:28:47,770 --> 00:28:49,790
+We've started from some baseline understanding.
+
+604
+00:28:50,750 --> 00:28:52,730
+Bautista insists that I call this Hello World.
+
+605
+00:28:53,530 --> 00:29:01,430
+Then we learned how to format numbers, perform basic math operations, group items, work with unknown values, graph equations, and use exponents.
+
+606
+00:29:02,330 --> 00:29:02,770
+Good.
+
+607
+00:29:03,410 --> 00:29:03,950
+Dr. Collins?
+
+608
+00:29:04,310 --> 00:29:05,390
+Is there more on your mind?
+
+609
+00:29:06,250 --> 00:29:07,950
+I feel we're chipping away towards something.
+
+610
+00:29:08,610 --> 00:29:14,310
+It's still math for now, but I sense these transmissions, the meteor, it's bridging us towards a more conventional communication.
+
+611
+00:29:15,260 --> 00:29:15,800
+Thank God.
+
+612
+00:29:16,520 --> 00:29:18,840
+Soon the meteor's transmissions will really mean something.
+
+613
+00:29:19,700 --> 00:29:20,180
+Keep it up.
+
+614
+00:29:20,480 --> 00:29:21,880
+The translation has come quite far.
+
+615
+00:29:22,700 --> 00:29:23,580
+Continue to do good.
+
+616
+00:29:24,780 --> 00:29:28,660
+Not quite as thrilling as your progress, but tonight I bring another Employee of the Week trophy.
+
+617
+00:29:29,720 --> 00:29:31,260
+Bradley Doppler, Knight of Honor.
+
+618
+00:29:33,440 --> 00:29:35,040
+Bradley Doppler, Knight of Honor.
+
+619
+00:29:35,960 --> 00:29:37,140
+Those are my kids' trophies.
+
+620
+00:29:37,320 --> 00:29:37,720
+They earned them.
+
+621
+00:29:38,220 --> 00:29:39,800
+And now, so have some of you.
+
+622
+00:29:40,660 --> 00:29:42,760
+So he just went in there and stole them from his kids?
+
+623
+00:29:43,320 --> 00:29:44,760
+So who gets the trophy for this week?
+
+624
+00:29:45,540 --> 00:29:46,820
+Oh, I'm holding my breath.
+
+625
+00:29:47,440 --> 00:29:50,180
+Is it for Dr. David, the driving force of this whole mission?
+
+626
+00:29:50,960 --> 00:29:53,500
+Is it for the astronomer, the astrophysics consultant?
+
+627
+00:29:54,220 --> 00:29:56,460
+Is it our reigning champion, Dr. Bautista?
+
+628
+00:29:57,220 --> 00:29:58,960
+Nope, this is for Dr. Carrie Collins.
+
+629
+00:29:59,600 --> 00:30:02,300
+For her incredible work in analyzing each and every transmission.
+
+630
+00:30:02,880 --> 00:30:05,520
+As well as grouping similar transmissions together in the log.
+
+631
+00:30:06,380 --> 00:30:07,240
+Thank you, Dr. Doppler.
+
+632
+00:30:07,340 --> 00:30:08,640
+I will proudly take it home with me.
+
+633
+00:30:09,600 --> 00:30:11,380
+Actually, no, we gotta keep those here.
+
+634
+00:30:12,000 --> 00:30:12,960
+Those are my kidses.
+
+635
+00:30:13,680 --> 00:30:14,980
+I gotta bring them back home eventually.
+
+636
+00:30:15,820 --> 00:30:18,520
+It'd be quite sad if they visited home to find their trophy shelves barren.
+
+637
+00:30:19,160 --> 00:30:21,140
+Speaking of home, you four should head home.
+
+638
+00:30:21,800 --> 00:30:22,220
+Will do.
+
+639
+00:30:23,520 --> 00:30:24,280
+Uh, Dob?
+
+640
+00:30:24,840 --> 00:30:25,320
+Akers?
+
+641
+00:30:26,180 --> 00:30:27,640
+I wanna see the meteorite again.
+
+642
+00:30:28,440 --> 00:30:29,520
+Then let's try next week.
+
+643
+00:30:30,060 --> 00:30:31,080
+Now let's get some rest.
+
+644
+00:30:32,080 --> 00:30:32,560
+Alright.
+
+645
+00:30:34,200 --> 00:30:34,680
+Alright.
+
+646
+00:30:36,740 --> 00:30:39,040
+So we're gonna get something other than math now.
+
+647
+00:30:45,430 --> 00:30:48,590
+Grouping symbols, geometric points, points and lines.
+
+648
+00:30:51,470 --> 00:30:53,690
+Exhausted, but the good kind, I reckon.
+
+649
+00:30:54,130 --> 00:30:57,110
+Long week, capped off by an even longer day, somehow.
+
+650
+00:30:57,390 --> 00:30:59,170
+But we've come far, I can feel it.
+
+651
+00:31:00,770 --> 00:31:04,630
+Making the reference tab is less interesting than confetti, but probably more important.
+
+652
+00:31:06,150 --> 00:31:09,430
+Dear diary, why are signals minus 18 and minus 19 missing?
+
+653
+00:31:09,750 --> 00:31:12,910
+Whenever signals are introduced non-sequentially, I wonder why.
+
+654
+00:31:14,550 --> 00:31:16,730
+Finally found a good burger place.
+
+655
+00:31:17,230 --> 00:31:17,770
+Alright.
+
+656
+00:31:18,450 --> 00:31:40,030
+My thoughts are... I... really wish... these aliens... were smart enough... to just... give us... math... formatted... in the way... humans know.
+
+657
+00:31:40,810 --> 00:31:42,810
+It would make...
+
+658
+00:31:42,970 --> 00:31:45,570
+This... much easier.
+
+659
+00:31:46,230 --> 00:31:49,350
+It would make... it's... easier.
+
+660
+00:31:51,430 --> 00:31:52,310
+Okay.
+
+661
+00:31:54,130 --> 00:31:56,250
+View the hypotheses, yeah, yeah, yeah.
+
+662
+00:31:56,850 --> 00:31:57,270
+Sure.
+
+663
+00:31:59,390 --> 00:32:00,850
+Let's see what we get now.
+
+664
+00:32:04,160 --> 00:32:05,480
+Jesus fucking Christ.
+
+665
+00:32:05,960 --> 00:32:06,960
+On a bicycle.
+
+666
+00:32:09,380 --> 00:32:10,320
+Oh my god.
+
+667
+00:32:11,280 --> 00:32:12,900
+Minus 18.
+
+668
+00:32:15,020 --> 00:32:15,660
+Alright.
+
+669
+00:32:16,020 --> 00:32:17,100
+So it's something.
+
+670
+00:32:18,960 --> 00:32:20,120
+I can't see shit.
+
+671
+00:32:20,240 --> 00:32:20,860
+Please get away from me.
+
+672
+00:32:21,780 --> 00:32:23,080
+Okay, so undefined, zero.
+
+673
+00:32:23,260 --> 00:32:24,680
+Let's just put those together.
+
+674
+00:32:26,220 --> 00:32:28,340
+Standard, procedure, new.
+
+675
+00:32:29,480 --> 00:32:31,420
+And we're gonna call this...
+
+676
+00:32:32,170 --> 00:32:33,230
+Uh, space.
+
+677
+00:32:35,790 --> 00:32:37,730
+Okay, so they're adding new stuff here.
+
+678
+00:32:38,250 --> 00:32:38,850
+Again.
+
+679
+00:32:40,150 --> 00:32:41,850
+New zero, line zero.
+
+680
+00:32:42,250 --> 00:32:44,030
+So that's a line and a point.
+
+681
+00:32:46,410 --> 00:32:47,410
+And a line.
+
+682
+00:32:50,260 --> 00:32:51,100
+And a point.
+
+683
+00:32:52,040 --> 00:32:52,640
+Oh, no, wait.
+
+684
+00:32:52,720 --> 00:32:53,840
+The line has these points.
+
+685
+00:32:55,600 --> 00:32:57,740
+God, I wish this monitor was bigger.
+
+686
+00:32:58,520 --> 00:32:59,920
+Or the font was smaller.
+
+687
+00:33:01,660 --> 00:33:02,540
+Something like that.
+
+688
+00:33:03,640 --> 00:33:06,060
+Okay, so we got a bunch of, I guess, lines.
+
+689
+00:33:06,940 --> 00:33:09,100
+And all these lines make up whatever new is.
+
+690
+00:33:09,320 --> 00:33:10,040
+I imagine.
+
+691
+00:33:13,560 --> 00:33:15,340
+Okay, let's try and graph it.
+
+692
+00:33:18,200 --> 00:33:18,980
+Delete that.
+
+693
+00:33:19,180 --> 00:33:25,220
+So we got one line between origin and 0.3.
+
+694
+00:33:25,400 --> 00:33:27,420
+Okay, so... So it's here.
+
+695
+00:33:28,320 --> 00:33:29,760
+That's one line there.
+
+696
+00:33:30,760 --> 00:33:35,920
+And then we have another line between 0.1.
+
+697
+00:33:36,120 --> 00:33:36,860
+So that's this one.
+
+698
+00:33:37,100 --> 00:33:38,780
+0.3 and 4,3.
+
+699
+00:33:39,260 --> 00:33:41,740
+So that would be 1, 2, 3, 4.
+
+700
+00:33:43,480 --> 00:33:44,860
+We're making a box.
+
+701
+00:33:45,670 --> 00:33:56,690
+Then we have a line two, which is point two and point three, which is four comma three and four comma zero.
+
+702
+00:33:58,530 --> 00:33:59,630
+So it's down here.
+
+703
+00:33:59,750 --> 00:34:00,710
+Yeah, it's definitely that.
+
+704
+00:34:01,290 --> 00:34:04,290
+And then between point zero again and point three.
+
+705
+00:34:04,390 --> 00:34:04,770
+Yeah, okay.
+
+706
+00:34:05,490 --> 00:34:05,870
+Cool.
+
+707
+00:34:06,910 --> 00:34:10,810
+So maybe this is just like rectangle or something.
+
+708
+00:34:13,630 --> 00:34:14,550
+Let's call it Rekt.
+
+709
+00:34:21,140 --> 00:34:22,040
+And we have this.
+
+710
+00:34:22,360 --> 00:34:24,120
+You know what, I'm just gonna... I'm gonna trust this.
+
+711
+00:34:24,800 --> 00:34:26,000
+We gotta find question mark.
+
+712
+00:34:27,880 --> 00:34:28,920
+Alright, let's fill it out.
+
+713
+00:34:30,040 --> 00:34:30,480
+Whiteboard.
+
+714
+00:34:32,320 --> 00:34:36,320
+So that's point zero, that's origin, point... Oh, that's the same point, I guess.
+
+715
+00:34:36,940 --> 00:34:37,300
+Shit.
+
+716
+00:34:39,380 --> 00:34:41,100
+Zero point four says here.
+
+717
+00:34:42,240 --> 00:34:44,120
+So that's one, two, three, four.
+
+718
+00:34:45,760 --> 00:34:50,220
+And then we have line 1, which is 0.1 and 1,4.
+
+719
+00:34:50,900 --> 00:34:53,500
+So that would be 1,4.
+
+720
+00:34:53,520 --> 00:34:54,200
+It's like here.
+
+721
+00:34:56,280 --> 00:35:01,740
+And then we have line 2, which is between 0.2 and 1,0.
+
+722
+00:35:02,800 --> 00:35:04,280
+That would be here.
+
+723
+00:35:04,560 --> 00:35:06,240
+Okay, so that's the rectangle there.
+
+724
+00:35:07,540 --> 00:35:13,800
+So the last one would be line 3, which contains... which is between...
+
+725
+00:35:14,320 --> 00:35:16,020
+Well, I guess, does it matter which order I do it?
+
+726
+00:35:16,500 --> 00:35:17,180
+Maybe it does.
+
+727
+00:35:17,880 --> 00:35:21,700
+I'll say 0.3 and 0.0.
+
+728
+00:35:31,180 --> 00:35:31,680
+Let's see.
+
+729
+00:35:33,300 --> 00:35:33,700
+Okay.
+
+730
+00:35:38,170 --> 00:35:38,650
+Alright.
+
+731
+00:35:38,650 --> 00:35:39,430
+What do we got?
+
+732
+00:35:39,690 --> 00:35:41,950
+Come to think of it, the happy dictionary idea.
+
+733
+00:35:42,910 --> 00:35:44,070
+It's telling of something.
+
+734
+00:35:44,350 --> 00:35:46,450
+Why aren't the signals all just in numerical order?
+
+735
+00:35:46,750 --> 00:35:48,410
+That's what I asked very early on.
+
+736
+00:35:49,050 --> 00:35:49,870
+What do you mean?
+
+737
+00:35:50,650 --> 00:35:55,190
+Why isn't minus three the third sub-zero signal we encounter and minus four the fourth?
+
+738
+00:35:55,930 --> 00:35:57,130
+The holes in our dictionary.
+
+739
+00:35:57,750 --> 00:35:58,750
+Hmm, no clue.
+
+740
+00:35:59,830 --> 00:36:02,090
+There's definitely like an underlying mystery there.
+
+741
+00:36:02,750 --> 00:36:10,430
+Where if you later on perhaps combine all those missing ones in order or something, you can make out a message or something.
+
+742
+00:36:10,550 --> 00:36:11,310
+That's what I imagine.
+
+743
+00:36:12,970 --> 00:36:13,090
+Okay.
+
+744
+00:36:13,810 --> 00:36:14,330
+Rect zero.
+
+745
+00:36:14,690 --> 00:36:15,630
+So we got to do this again.
+
+746
+00:36:15,790 --> 00:36:16,770
+So zero here.
+
+747
+00:36:18,690 --> 00:36:19,590
+What do you got to say?
+
+748
+00:36:20,470 --> 00:36:24,210
+It seems to me they're broadening the definition of rect through varying examples.
+
+749
+00:36:25,270 --> 00:36:25,470
+Uh-huh.
+
+750
+00:36:26,110 --> 00:36:29,310
+Any chance you could broaden the meaning of that sentence through varying examples?
+
+751
+00:36:30,040 --> 00:36:31,200
+Sorry, that was wordy.
+
+752
+00:36:31,620 --> 00:36:34,020
+The transmission is displaying the flexibility of rect.
+
+753
+00:36:34,740 --> 00:36:37,520
+Last transmission, the rect was constructed from four lines.
+
+754
+00:36:38,060 --> 00:36:39,500
+This time, only three lines.
+
+755
+00:36:39,740 --> 00:36:40,280
+Wait, what?
+
+756
+00:36:41,160 --> 00:36:42,840
+So rect can take different forms.
+
+757
+00:36:43,760 --> 00:36:44,900
+I could have told you that.
+
+758
+00:36:46,400 --> 00:36:47,320
+Just trying to help.
+
+759
+00:36:48,120 --> 00:36:50,340
+Alright, so it's actually more like a general thing.
+
+760
+00:36:51,140 --> 00:36:52,600
+It's like a shape, I guess.
+
+761
+00:36:56,970 --> 00:36:57,790
+There we go.
+
+762
+00:37:00,330 --> 00:37:01,550
+Points, lines, and shapes.
+
+763
+00:37:01,950 --> 00:37:04,130
+Can we get a clean from Dr. Bautista for this?
+
+764
+00:37:04,590 --> 00:37:05,830
+I feel like we've nailed it.
+
+765
+00:37:06,370 --> 00:37:06,690
+No.
+
+766
+00:37:07,530 --> 00:37:10,130
+Is clean only reserved signals named one character long?
+
+767
+00:37:10,430 --> 00:37:10,910
+Yes.
+
+768
+00:37:11,870 --> 00:37:13,350
+Ah, picky Bautista.
+
+769
+00:37:14,530 --> 00:37:15,010
+Fine.
+
+770
+00:37:15,290 --> 00:37:15,850
+Be that way.
+
+771
+00:37:16,790 --> 00:37:17,270
+S.
+
+772
+00:37:18,830 --> 00:37:20,350
+Oh, he's not gonna comment on it?
+
+773
+00:37:20,930 --> 00:37:21,410
+Pussy!
+
+774
+00:37:22,810 --> 00:37:23,290
+Shape.
+
+775
+00:37:24,210 --> 00:37:25,570
+Alright, now...
+
+776
+00:37:27,540 --> 00:37:30,540
+Okay, so... She just said three points, right?
+
+777
+00:37:30,640 --> 00:37:31,240
+Or three lines.
+
+778
+00:37:31,340 --> 00:37:32,140
+That's gotta be a triangle.
+
+779
+00:37:32,680 --> 00:37:34,220
+So we're doing triangle shit now.
+
+780
+00:37:36,000 --> 00:37:36,520
+Alright.
+
+781
+00:37:38,080 --> 00:37:40,780
+Line zero between zero zero and one zero.
+
+782
+00:37:42,340 --> 00:37:44,100
+Okay, so it's here and here.
+
+783
+00:37:46,080 --> 00:37:48,080
+And we have line one.
+
+784
+00:37:49,340 --> 00:37:50,900
+Consisting of these two points.
+
+785
+00:37:51,060 --> 00:37:52,040
+Point one and point two.
+
+786
+00:37:54,280 --> 00:37:55,820
+Point one is that.
+
+787
+00:37:56,460 --> 00:37:58,000
+And that's zero comma one.
+
+788
+00:38:00,440 --> 00:38:01,200
+Yeah.
+
+789
+00:38:01,820 --> 00:38:03,260
+That is zero comma one.
+
+790
+00:38:03,400 --> 00:38:04,820
+It's like here.
+
+791
+00:38:06,820 --> 00:38:09,080
+Line two is point two.
+
+792
+00:38:11,000 --> 00:38:13,060
+And... probably that one.
+
+793
+00:38:15,100 --> 00:38:18,440
+I'm gonna say minus one comma zero.
+
+794
+00:38:19,960 --> 00:38:20,720
+Right.
+
+795
+00:38:30,860 --> 00:38:31,220
+No?
+
+796
+00:38:31,220 --> 00:38:32,760
+Oh, is it maybe these two connecting?
+
+797
+00:38:33,000 --> 00:38:33,980
+No, it's probably from here to here.
+
+798
+00:38:34,180 --> 00:38:34,720
+Oh, I see.
+
+799
+00:38:36,180 --> 00:38:36,960
+So it's origin.
+
+800
+00:38:39,700 --> 00:38:43,740
+Point two is gonna be... Wait, what?
+
+801
+00:38:43,820 --> 00:38:44,060
+Hold on.
+
+802
+00:38:44,240 --> 00:38:45,180
+Point two is that, right?
+
+803
+00:38:45,320 --> 00:38:45,940
+Zero comma one.
+
+804
+00:38:47,440 --> 00:38:49,720
+So now they're saying... Wait, what are we being asked for here?
+
+805
+00:38:50,160 --> 00:38:50,780
+Line two?
+
+806
+00:38:51,890 --> 00:38:58,850
+It's between 0.2, which is that one, 0,1, and 0,0.
+
+807
+00:39:00,010 --> 00:39:03,370
+So that would be 0.0.
+
+808
+00:39:03,690 --> 00:39:04,250
+Right.
+
+809
+00:39:09,310 --> 00:39:13,890
+Right, okay, so .0, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, come on.
+
+810
+00:39:16,890 --> 00:39:17,290
+Alrighty!
+
+811
+00:39:18,430 --> 00:39:20,670
+Line 0, .0, .1.
+
+812
+00:39:23,410 --> 00:39:23,810
+Man!
+
+813
+00:39:25,650 --> 00:39:26,910
+This is getting kind of old.
+
+814
+00:39:29,810 --> 00:39:32,070
+And you know what's bugging me right now?
+
+815
+00:39:32,210 --> 00:39:32,850
+It's this reference.
+
+816
+00:39:35,030 --> 00:39:37,410
+Are they going to make us go through all of this?
+
+817
+00:39:40,030 --> 00:39:42,410
+Because I've got to be honest, I don't know if I want to do that.
+
+818
+00:39:46,750 --> 00:39:51,290
+Line 0 is .0, .1.
+
+819
+00:39:53,670 --> 00:39:54,550
+Wait, hold on.
+
+820
+00:39:56,150 --> 00:39:59,230
+Line 1, line 2, line 3.
+
+821
+00:40:00,090 --> 00:40:00,970
+Three lines.
+
+822
+00:40:09,660 --> 00:40:11,300
+Line zero...
+
+823
+00:40:15,460 --> 00:40:20,520
+Oh, maybe it's just saying we can say it's made up of these lines.
+
+824
+00:40:20,940 --> 00:40:24,720
+So line zero, line one, line two.
+
+825
+00:40:24,840 --> 00:40:25,400
+How many were there?
+
+826
+00:40:27,140 --> 00:40:28,120
+Line three.
+
+827
+00:40:29,620 --> 00:40:30,920
+Oops, wait.
+
+828
+00:40:32,640 --> 00:40:33,860
+It starts at one.
+
+829
+00:40:36,280 --> 00:40:38,740
+Two, one.
+
+830
+00:40:41,920 --> 00:40:43,500
+And we don't need to do anything else, right?
+
+831
+00:40:43,600 --> 00:40:44,380
+That was it.
+
+832
+00:40:48,420 --> 00:40:49,440
+No, it's wrong.
+
+833
+00:40:51,320 --> 00:40:52,060
+Line one.
+
+834
+00:40:52,580 --> 00:40:53,380
+Line two.
+
+835
+00:40:54,020 --> 00:40:54,740
+Line three.
+
+836
+00:40:56,200 --> 00:40:57,100
+Shape zero.
+
+837
+00:40:58,740 --> 00:41:00,480
+Oh, no, they do... Oh, shit.
+
+838
+00:41:00,720 --> 00:41:01,180
+I forgot.
+
+839
+00:41:01,440 --> 00:41:02,780
+They did use a line zero.
+
+840
+00:41:05,200 --> 00:41:06,060
+It's a square.
+
+841
+00:41:06,260 --> 00:41:06,960
+Or a rectangle.
+
+842
+00:41:07,180 --> 00:41:07,260
+Whatever.
+
+843
+00:41:09,730 --> 00:41:10,870
+That doesn't have to be, I guess.
+
+844
+00:41:11,010 --> 00:41:11,110
+What?
+
+845
+00:41:11,290 --> 00:41:11,810
+What is wrong?
+
+846
+00:41:15,310 --> 00:41:15,930
+Tell me.
+
+847
+00:41:17,570 --> 00:41:18,470
+Wait, there's two of them.
+
+848
+00:41:20,870 --> 00:41:22,730
+I suspect we're working with parts of a whole.
+
+849
+00:41:23,530 --> 00:41:25,970
+And it's looking like they've given us four parts in one whole.
+
+850
+00:41:28,210 --> 00:41:30,330
+So we have to make one shape from the four line.
+
+851
+00:41:31,430 --> 00:41:33,370
+But we might not even need one of these lines.
+
+852
+00:41:34,370 --> 00:41:34,770
+Oh?
+
+853
+00:41:35,370 --> 00:41:36,050
+Take a look.
+
+854
+00:41:36,750 --> 00:41:41,430
+If a line contains a point that doesn't match with any others, then they can't even connect.
+
+855
+00:41:41,830 --> 00:41:43,410
+Oh god, they want me to plot it.
+
+856
+00:41:44,210 --> 00:41:45,590
+Good observation, Dr. Akers.
+
+857
+00:41:46,070 --> 00:41:48,370
+Dr. David, let's figure out how these line pieces together.
+
+858
+00:41:49,490 --> 00:41:50,450
+Yeah, alright.
+
+859
+00:41:52,010 --> 00:41:53,210
+I was trying to take a shortcut.
+
+860
+00:41:55,410 --> 00:41:58,450
+Let's see, it's a .0... oh no, we don't have to plot it, we just have to think.
+
+861
+00:41:58,570 --> 00:41:59,770
+So .0, .1.
+
+862
+00:42:00,850 --> 00:42:03,770
+So, let's just say this is .0, this is .1.
+
+863
+00:42:05,370 --> 00:42:06,270
+That's the first line.
+
+864
+00:42:07,050 --> 00:42:10,030
+Then we have line one, which is .1 and .2.
+
+865
+00:42:10,470 --> 00:42:12,170
+So it's this one, and maybe that one.
+
+866
+00:42:13,040 --> 00:42:15,880
+Then we have line 2, which is 0.3 and 0.4.
+
+867
+00:42:16,520 --> 00:42:19,960
+And we've not had those before, so it's like... there.
+
+868
+00:42:20,900 --> 00:42:23,440
+Then we have line 3, which is 0.2 and 0.0.
+
+869
+00:42:24,460 --> 00:42:27,020
+Which is that one, and that one.
+
+870
+00:42:28,020 --> 00:42:28,540
+Right?
+
+871
+00:42:29,660 --> 00:42:31,860
+So this one doesn't actually matter.
+
+872
+00:42:32,520 --> 00:42:34,160
+Which was line 2.
+
+873
+00:42:34,780 --> 00:42:37,840
+So it's actually... we remove that, I guess.
+
+874
+00:42:40,410 --> 00:42:41,450
+Like that.
+
+875
+00:42:45,210 --> 00:42:46,030
+Okay.
+
+876
+00:42:48,090 --> 00:42:49,210
+It's good.
+
+877
+00:42:50,310 --> 00:42:51,410
+Minus 21.
+
+878
+00:42:51,730 --> 00:42:52,650
+Centimeter line.
+
+879
+00:42:53,510 --> 00:42:54,070
+Alright.
+
+880
+00:42:54,910 --> 00:42:56,310
+Let's call it new.
+
+881
+00:42:56,710 --> 00:42:58,030
+As is customary.
+
+882
+00:42:59,030 --> 00:43:02,310
+I'm also gonna immediately... You know what, actually?
+
+883
+00:43:02,410 --> 00:43:04,550
+Let's make a global space here.
+
+884
+00:43:06,250 --> 00:43:08,010
+So that it always...
+
+885
+00:43:08,080 --> 00:43:09,180
+Becomes like that, right?
+
+886
+00:43:10,480 --> 00:43:12,140
+Let's also turn this into a space.
+
+887
+00:43:14,440 --> 00:43:15,720
+Okay, so where's the new one?
+
+888
+00:43:16,260 --> 00:43:17,680
+New, new, new, new, new, new, new.
+
+889
+00:43:18,580 --> 00:43:19,140
+That one.
+
+890
+00:43:19,640 --> 00:43:19,960
+Okay.
+
+891
+00:43:21,440 --> 00:43:24,140
+So line zero, we got a bunch of shit happening there.
+
+892
+00:43:25,260 --> 00:43:25,980
+Shape zero.
+
+893
+00:43:27,200 --> 00:43:28,920
+Man, I look at this, I don't want to do it.
+
+894
+00:43:29,080 --> 00:43:29,520
+You know what I mean?
+
+895
+00:43:31,760 --> 00:43:32,640
+I don't want to do it.
+
+896
+00:43:33,780 --> 00:43:34,440
+Shape zero.
+
+897
+00:43:36,850 --> 00:43:38,130
+So line zero.
+
+898
+00:43:38,330 --> 00:43:39,330
+We got a bunch of lines.
+
+899
+00:43:39,450 --> 00:43:39,770
+How many lines?
+
+900
+00:43:39,870 --> 00:43:41,050
+Line zero, line one.
+
+901
+00:43:41,690 --> 00:43:43,130
+Line two, line three.
+
+902
+00:43:44,470 --> 00:43:44,990
+Okay.
+
+903
+00:43:45,590 --> 00:43:46,530
+So four lines.
+
+904
+00:43:47,410 --> 00:43:49,050
+Should I just go ahead and do this?
+
+905
+00:43:49,470 --> 00:43:50,210
+Let's do it.
+
+906
+00:43:51,070 --> 00:43:51,790
+Zero comma zero.
+
+907
+00:43:52,470 --> 00:43:53,210
+Zero comma one.
+
+908
+00:43:54,330 --> 00:43:55,190
+It's there.
+
+909
+00:43:55,950 --> 00:43:57,990
+Line one is point one and point two.
+
+910
+00:43:58,310 --> 00:43:59,030
+Three comma one.
+
+911
+00:43:59,750 --> 00:44:01,870
+That's one, two, three comma one.
+
+912
+00:44:02,780 --> 00:44:05,140
+Then we have 0.2 and 0.3.
+
+913
+00:44:05,260 --> 00:44:06,000
+3, 0.
+
+914
+00:44:06,860 --> 00:44:08,240
+So that is down here.
+
+915
+00:44:08,400 --> 00:44:09,400
+So we're doing that again.
+
+916
+00:44:10,760 --> 00:44:11,140
+Okay.
+
+917
+00:44:12,000 --> 00:44:14,040
+And line 3, 0.3, 0.
+
+918
+00:44:14,260 --> 00:44:15,760
+So that's that one and that one.
+
+919
+00:44:16,120 --> 00:44:16,200
+Good.
+
+920
+00:44:17,280 --> 00:44:18,200
+Shape 0.
+
+921
+00:44:18,800 --> 00:44:20,100
+It's line 0.
+
+922
+00:44:20,720 --> 00:44:21,600
+Line 1.
+
+923
+00:44:24,000 --> 00:44:25,120
+Line 2, line 3.
+
+924
+00:44:25,180 --> 00:44:25,340
+Yeah.
+
+925
+00:44:26,100 --> 00:44:26,400
+Yes.
+
+926
+00:44:26,660 --> 00:44:27,220
+It's a shape.
+
+927
+00:44:28,180 --> 00:44:29,120
+Shape 0.
+
+928
+00:44:29,880 --> 00:44:30,440
+New.
+
+929
+00:44:30,990 --> 00:44:32,450
+Equals line zero length.
+
+930
+00:44:34,390 --> 00:44:37,550
+So maybe... No, wait, what?
+
+931
+00:44:38,370 --> 00:44:39,270
+There's more.
+
+932
+00:44:40,010 --> 00:44:44,550
+Shape zero new equals... Line zero length.
+
+933
+00:44:45,070 --> 00:44:46,370
+Line one length.
+
+934
+00:44:47,250 --> 00:44:51,030
+Oh, it's a... It's a conference, I guess.
+
+935
+00:44:53,190 --> 00:44:54,310
+They're adding them.
+
+936
+00:44:55,370 --> 00:44:55,990
+Okay.
+
+937
+00:44:58,360 --> 00:45:04,240
+Let's call it... circumf.
+
+938
+00:45:09,660 --> 00:45:13,420
+And then we have shape 0, new... Oh wait, recompile.
+
+939
+00:45:16,750 --> 00:45:18,990
+Okay, so what is the circumference of Shape Zero?
+
+940
+00:45:19,790 --> 00:45:21,610
+It is... Let's see.
+
+941
+00:45:24,170 --> 00:45:25,090
+Let's see here.
+
+942
+00:45:26,070 --> 00:45:32,630
+So that was between... 1, 2, 3... So that's 3, that's 1, that's 6, that's 8, right?
+
+943
+00:45:33,570 --> 00:45:35,930
+Did we just write it like 8, or... Yeah, I think so.
+
+944
+00:45:38,750 --> 00:45:39,230
+Okay.
+
+945
+00:45:42,560 --> 00:45:43,640
+My goodness.
+
+946
+00:45:45,260 --> 00:45:48,240
+0.0, minus 4, minus 4.
+
+947
+00:45:50,300 --> 00:45:51,360
+This is here.
+
+948
+00:45:53,000 --> 00:45:56,320
+0.2, 4 and 4 minus 4.
+
+949
+00:45:57,580 --> 00:45:58,460
+No, wait.
+
+950
+00:46:02,440 --> 00:46:04,740
+Point one is minus four, four.
+
+951
+00:46:05,480 --> 00:46:06,460
+So it's like here.
+
+952
+00:46:06,840 --> 00:46:08,040
+Oh, it's a big square or something?
+
+953
+00:46:09,080 --> 00:46:10,160
+Point two is four, four.
+
+954
+00:46:11,060 --> 00:46:12,280
+Four minus four.
+
+955
+00:46:14,360 --> 00:46:15,640
+And we have another shape.
+
+956
+00:46:15,920 --> 00:46:16,700
+Line zero.
+
+957
+00:46:18,280 --> 00:46:19,300
+Point zero.
+
+958
+00:46:19,720 --> 00:46:20,640
+Point one.
+
+959
+00:46:22,380 --> 00:46:23,660
+Right, so that's this.
+
+960
+00:46:25,600 --> 00:46:27,860
+I mean, I'm assuming... I'm just gonna assume here.
+
+961
+00:46:28,220 --> 00:46:28,720
+Whatever.
+
+962
+00:46:29,290 --> 00:46:30,930
+Shape zero, circumference, okay.
+
+963
+00:46:31,350 --> 00:46:36,190
+So that is... 16, right?
+
+964
+00:46:39,730 --> 00:46:40,290
+No?
+
+965
+00:46:42,630 --> 00:46:43,190
+Okay.
+
+966
+00:46:45,030 --> 00:46:46,510
+One, two, three, four.
+
+967
+00:46:49,600 --> 00:46:52,980
+Unless I got this one wrong, maybe it's not circumference, but it almost has to be.
+
+968
+00:46:54,440 --> 00:46:56,100
+Maybe I went a little too far there.
+
+969
+00:46:56,320 --> 00:46:57,380
+Maybe I need to actually think.
+
+970
+00:46:59,140 --> 00:47:00,720
+Shape 0, line 0.
+
+971
+00:47:03,660 --> 00:47:05,520
+Containing 0.0 and 0.1.
+
+972
+00:47:07,080 --> 00:47:08,160
+So that's these two.
+
+973
+00:47:08,340 --> 00:47:10,100
+So that's minus 4 and minus 4.
+
+974
+00:47:10,280 --> 00:47:10,900
+It's that one.
+
+975
+00:47:11,420 --> 00:47:13,420
+And it's minus 4 and 4, so it's that one.
+
+976
+00:47:13,640 --> 00:47:13,860
+Yes.
+
+977
+00:47:15,520 --> 00:47:17,540
+Line 1 is 0.1, 0.2.
+
+978
+00:47:18,700 --> 00:47:21,260
+Minus 4, 4 to 4, 4.
+
+979
+00:47:21,380 --> 00:47:22,080
+That is that one.
+
+980
+00:47:23,540 --> 00:47:30,780
+Next one is 0.2, 0.3, which is 4, 4 to 4, minus 4.
+
+981
+00:47:31,000 --> 00:47:32,200
+That is indeed that one.
+
+982
+00:47:33,060 --> 00:47:36,900
+And the last one, line 3, is 0.3 to 0.3.
+
+983
+00:47:36,980 --> 00:47:37,600
+I mean, that is correct.
+
+984
+00:47:37,740 --> 00:47:38,100
+Okay, good.
+
+985
+00:47:38,340 --> 00:47:39,040
+So that was correct.
+
+986
+00:47:39,500 --> 00:47:40,660
+So why is this not right?
+
+987
+00:47:43,720 --> 00:47:44,380
+Oh, wait.
+
+988
+00:47:44,720 --> 00:47:45,580
+This is 4.
+
+989
+00:47:45,900 --> 00:47:46,620
+It's 32.
+
+990
+00:47:47,040 --> 00:47:47,280
+Oops.
+
+991
+00:47:48,360 --> 00:47:49,560
+I can't count.
+
+992
+00:47:54,740 --> 00:47:56,080
+Signal minus 22.
+
+993
+00:47:56,380 --> 00:47:57,040
+Let's call it new.
+
+994
+00:48:00,100 --> 00:48:02,520
+We are going to say dictionary, new.
+
+995
+00:48:03,740 --> 00:48:04,560
+Yeah, just new.
+
+996
+00:48:07,180 --> 00:48:08,300
+Okay, so what now?
+
+997
+00:48:08,520 --> 00:48:11,080
+0.0... I'm going to have to go back to this.
+
+998
+00:48:12,800 --> 00:48:13,740
+0.1.
+
+999
+00:48:14,720 --> 00:48:15,880
+So that's there.
+
+1000
+00:48:16,600 --> 00:48:17,800
+0.2 is 1,1.
+
+1001
+00:48:18,100 --> 00:48:19,040
+Straight line, maybe.
+
+1002
+00:48:19,260 --> 00:48:19,840
+1,0.
+
+1003
+00:48:21,360 --> 00:48:22,020
+Wait, what?
+
+1004
+00:48:24,630 --> 00:48:25,590
+Oh no, I did it wrong.
+
+1005
+00:48:26,830 --> 00:48:27,410
+Hold on.
+
+1006
+00:48:28,770 --> 00:48:30,330
+0,1 is here.
+
+1007
+00:48:31,550 --> 00:48:33,390
+0,2 is 1,1 is there.
+
+1008
+00:48:34,070 --> 00:48:35,170
+1,0 is there.
+
+1009
+00:48:35,390 --> 00:48:35,450
+Okay.
+
+1010
+00:48:36,450 --> 00:48:40,450
+Shape 0 contains line 0.
+
+1011
+00:48:41,790 --> 00:48:44,450
+I'm just going to assume that this is just, you know, that.
+
+1012
+00:48:44,710 --> 00:48:46,690
+I don't want to fucking do all that.
+
+1013
+00:48:46,850 --> 00:48:47,770
+Okay, so shape 1.
+
+1014
+00:48:48,670 --> 00:48:49,850
+That's a different shape, I guess.
+
+1015
+00:48:50,050 --> 00:48:50,670
+Line 0.
+
+1016
+00:48:52,210 --> 00:48:53,850
+0.0 and 0.1.
+
+1017
+00:48:57,270 --> 00:49:01,030
+These two... Wait a minute.
+
+1018
+00:49:01,610 --> 00:49:02,970
+Let me draw this correctly.
+
+1019
+00:49:07,640 --> 00:49:08,100
+What?
+
+1020
+00:49:08,260 --> 00:49:08,800
+Come on, draw it.
+
+1021
+00:49:09,940 --> 00:49:11,080
+It's like not drawing.
+
+1022
+00:49:13,780 --> 00:49:15,080
+Oh, that's ugly as hell.
+
+1023
+00:49:15,940 --> 00:49:17,520
+Whatever, so this is shape one here.
+
+1024
+00:49:17,820 --> 00:49:19,180
+No, sorry, line zero.
+
+1025
+00:49:20,640 --> 00:49:23,820
+And line two, no, line one is point one and point two.
+
+1026
+00:49:24,080 --> 00:49:25,100
+So that's this one.
+
+1027
+00:49:27,440 --> 00:49:29,780
+Line two is point two and point three.
+
+1028
+00:49:31,580 --> 00:49:33,800
+Line three is point zero and point three.
+
+1029
+00:49:38,800 --> 00:49:39,320
+What?
+
+1030
+00:49:41,000 --> 00:49:44,220
+Shape 0 nu is 0.5?
+
+1031
+00:49:48,300 --> 00:49:54,140
+Shape 1 nu... I mean, it's the same shape, isn't it?
+
+1032
+00:49:57,400 --> 00:49:58,600
+No, it's not the same shape.
+
+1033
+00:49:59,160 --> 00:50:00,260
+There's a difference, it seems.
+
+1034
+00:50:01,140 --> 00:50:02,220
+Fine, I'll go through it.
+
+1035
+00:50:03,300 --> 00:50:06,260
+Line 0 is 0.0.1.
+
+1036
+00:50:06,480 --> 00:50:07,780
+Okay, so that is that first line.
+
+1037
+00:50:08,380 --> 00:50:10,040
+Line 1 is 0.1, 0.2.
+
+1038
+00:50:10,200 --> 00:50:12,760
+Line 2 is 0.0.2.
+
+1039
+00:50:13,560 --> 00:50:15,520
+Oh, okay, so the first one is like that.
+
+1040
+00:50:15,940 --> 00:50:17,080
+The other one is a square.
+
+1041
+00:50:18,860 --> 00:50:20,620
+That's what I get for taking shortcuts.
+
+1042
+00:50:21,920 --> 00:50:25,160
+Okay, so if shape is 0.5...
+
+1043
+00:50:25,660 --> 00:50:27,080
+It's probably area then.
+
+1044
+00:50:28,300 --> 00:50:29,300
+It's one.
+
+1045
+00:50:30,880 --> 00:50:31,720
+Okay.
+
+1046
+00:50:35,710 --> 00:50:36,910
+Let me put that in.
+
+1047
+00:50:38,410 --> 00:50:40,690
+Hey, Bautista, I was playing around with the calculator.
+
+1048
+00:50:41,170 --> 00:50:42,950
+I want to deal with the round function.
+
+1049
+00:50:43,490 --> 00:50:43,770
+Hmm?
+
+1050
+00:50:44,350 --> 00:50:49,330
+I rounded 50.1235555555 to four digits, and look what I got.
+
+1051
+00:50:50,550 --> 00:50:53,350
+It was 50.1200012 or something.
+
+1052
+00:50:54,150 --> 00:50:55,830
+Oh, rounding floats is difficult.
+
+1053
+00:50:56,570 --> 00:50:57,050
+Floats?
+
+1054
+00:50:57,570 --> 00:50:58,050
+Hmm?
+
+1055
+00:50:58,360 --> 00:50:59,080
+Think decimals.
+
+1056
+00:50:59,800 --> 00:51:01,560
+Computers struggle with floating point precision.
+
+1057
+00:51:02,120 --> 00:51:03,240
+So use some discretion.
+
+1058
+00:51:03,900 --> 00:51:06,040
+So we gotta ignore that junk at the end.
+
+1059
+00:51:06,600 --> 00:51:06,780
+Yep.
+
+1060
+00:51:07,700 --> 00:51:11,040
+Computers struggle to represent precise values with a limited number of binary digits.
+
+1061
+00:51:11,780 --> 00:51:13,460
+So you and your computers aren't perfect!
+
+1062
+00:51:14,180 --> 00:51:15,280
+Eat it, Bautista!
+
+1063
+00:51:16,180 --> 00:51:18,140
+Now restricting your access to the calculator.
+
+1064
+00:51:18,820 --> 00:51:19,840
+No, no, no, no, wait, I'm sorry.
+
+1065
+00:51:22,180 --> 00:51:23,200
+Show him, Bautista.
+
+1066
+00:51:24,500 --> 00:51:24,940
+Okay.
+
+1067
+00:51:26,450 --> 00:51:27,530
+What did I just say?
+
+1068
+00:51:27,690 --> 00:51:27,850
+Area.
+
+1069
+00:51:33,330 --> 00:51:39,030
+I don't want to do this.
+
+1070
+00:51:42,110 --> 00:51:42,750
+Fine.
+
+1071
+00:51:45,550 --> 00:51:46,790
+Zero comma zero.
+
+1072
+00:51:49,050 --> 00:51:50,270
+Zero comma two.
+
+1073
+00:51:54,600 --> 00:51:55,680
+3, 2.
+
+1074
+00:51:58,280 --> 00:51:59,940
+And we have 3, 0.
+
+1075
+00:52:02,040 --> 00:52:03,000
+Shape 0.
+
+1076
+00:52:04,660 --> 00:52:05,220
+What?
+
+1077
+00:52:10,420 --> 00:52:12,140
+Hold on, we need to fix something here.
+
+1078
+00:52:14,060 --> 00:52:15,960
+Shape needs to be formatted here.
+
+1079
+00:52:24,100 --> 00:52:25,620
+Actually, maybe even two new lines.
+
+1080
+00:52:29,240 --> 00:52:30,220
+That's more like it.
+
+1081
+00:52:30,940 --> 00:52:31,380
+Alright.
+
+1082
+00:52:35,220 --> 00:52:36,640
+Also, you know what, line zero?
+
+1083
+00:52:37,360 --> 00:52:44,220
+We can probably... format this as well, like no space.
+
+1084
+00:52:45,420 --> 00:52:46,660
+No, wait, wait, wait.
+
+1085
+00:52:48,740 --> 00:52:49,760
+Yeah, no space.
+
+1086
+00:52:52,760 --> 00:52:54,020
+Make it look a little better.
+
+1087
+00:52:54,840 --> 00:52:55,900
+Yeah, that looks better.
+
+1088
+00:52:57,480 --> 00:52:58,480
+That's not good though.
+
+1089
+00:53:00,100 --> 00:53:04,720
+Maybe after parentheses we add a little... no space?
+
+1090
+00:53:13,160 --> 00:53:14,500
+No, no, no, no.
+
+1091
+00:53:14,660 --> 00:53:14,860
+Whatever.
+
+1092
+00:53:15,180 --> 00:53:15,640
+That's fine.
+
+1093
+00:53:17,800 --> 00:53:23,280
+Okay, so point zero is that... Did I already draw something?
+
+1094
+00:53:23,900 --> 00:53:24,780
+I did, okay.
+
+1095
+00:53:26,200 --> 00:53:27,540
+So this is what I just drew, right?
+
+1096
+00:53:28,100 --> 00:53:40,400
+Now we have a shape zero, which consists of line zero of those two, line one of those two, line two of those two, line three of... So that is that one.
+
+1097
+00:53:40,580 --> 00:53:40,900
+Got it.
+
+1098
+00:53:41,740 --> 00:53:42,860
+Area of that.
+
+1099
+00:53:43,040 --> 00:53:47,240
+Well, that is going to be 3 times 2, right?
+
+1100
+00:53:47,580 --> 00:53:48,460
+Which is 6.
+
+1101
+00:53:52,440 --> 00:53:53,120
+Nice.
+
+1102
+00:53:58,460 --> 00:53:59,740
+Man, it just never stops.
+
+1103
+00:53:59,980 --> 00:54:00,660
+Shape zero.
+
+1104
+00:54:03,340 --> 00:54:06,240
+Line zero is point zero here.
+
+1105
+00:54:07,040 --> 00:54:08,140
+Point one.
+
+1106
+00:54:08,560 --> 00:54:09,240
+Oh, wait, what?
+
+1107
+00:54:09,760 --> 00:54:11,280
+Oh, we got a variable in there now.
+
+1108
+00:54:12,800 --> 00:54:13,400
+Okay.
+
+1109
+00:54:13,900 --> 00:54:16,200
+So we know that that is at zero up here.
+
+1110
+00:54:16,560 --> 00:54:17,500
+Oh, sorry, zero here.
+
+1111
+00:54:17,760 --> 00:54:20,060
+So somewhere on the x-axis.
+
+1112
+00:54:21,360 --> 00:54:21,960
+Great.
+
+1113
+00:54:22,300 --> 00:54:25,580
+Line one is point one, point two.
+
+1114
+00:54:26,900 --> 00:54:28,420
+And point one is that.
+
+1115
+00:54:28,820 --> 00:54:30,200
+And point two is that.
+
+1116
+00:54:31,580 --> 00:54:33,000
+Okay, so that's the same.
+
+1117
+00:54:34,720 --> 00:54:37,560
+Line two is point two, point three.
+
+1118
+00:54:39,080 --> 00:54:40,760
+Zero and x zero.
+
+1119
+00:54:44,040 --> 00:54:46,180
+Shape, zero circumference is 20.
+
+1120
+00:54:47,900 --> 00:54:49,720
+Okay, we gotta work backwards on this.
+
+1121
+00:54:50,780 --> 00:54:53,520
+I hate to say it, but we gotta do that.
+
+1122
+00:54:54,560 --> 00:54:57,580
+Now, apparently, whatever we go this way, we also go up.
+
+1123
+00:54:57,680 --> 00:55:06,080
+So if it's 20... Um... I guess we would say it is... 5, right?
+
+1124
+00:55:06,180 --> 00:55:07,000
+So it should be 5.
+
+1125
+00:55:11,440 --> 00:55:12,140
+Yes.
+
+1126
+00:55:13,420 --> 00:55:14,120
+Alright.
+
+1127
+00:55:15,980 --> 00:55:16,920
+Now what?
+
+1128
+00:55:17,240 --> 00:55:19,720
+X0 over and out?
+
+1129
+00:55:19,920 --> 00:55:20,100
+Okay.
+
+1130
+00:55:21,760 --> 00:55:24,900
+Oh, just like saying we're dealing with an X0, maybe?
+
+1131
+00:55:25,840 --> 00:55:28,080
+Shape 0 is going to be line 0.
+
+1132
+00:55:28,240 --> 00:55:31,900
+That consists of 0, 0 and 4, 0.
+
+1133
+00:55:31,900 --> 00:55:32,640
+That's here.
+
+1134
+00:55:33,140 --> 00:55:34,540
+And that's here.
+
+1135
+00:55:35,940 --> 00:55:37,260
+That's line 0.
+
+1136
+00:55:37,500 --> 00:55:38,380
+Then we have line 1.
+
+1137
+00:55:39,310 --> 00:55:42,730
+It's 0.1 and 2, between 4 and x0.
+
+1138
+00:55:43,030 --> 00:55:46,410
+So it's like here, and somewhere up or down.
+
+1139
+00:55:47,210 --> 00:55:52,570
+Line 2 is 0.2 and 0.3.
+
+1140
+00:55:54,390 --> 00:55:57,990
+And 0.2 is 4x0 and 0x0.
+
+1141
+00:56:02,250 --> 00:56:02,810
+0x0.
+
+1142
+00:56:03,010 --> 00:56:03,690
+It's like here?
+
+1143
+00:56:04,230 --> 00:56:05,650
+It's like a line like that, maybe?
+
+1144
+00:56:07,890 --> 00:56:08,790
+Oh, hold on.
+
+1145
+00:56:08,930 --> 00:56:09,790
+The area is 12.
+
+1146
+00:56:11,270 --> 00:56:11,710
+Alright.
+
+1147
+00:56:12,890 --> 00:56:17,290
+So if this is 2... Um...
+
+1148
+00:56:19,770 --> 00:56:20,750
+Let me think.
+
+1149
+00:56:22,690 --> 00:56:26,990
+The area is... How many lines do we have?
+
+1150
+00:56:27,670 --> 00:56:31,850
+One, two, three, four.
+
+1151
+00:56:32,050 --> 00:56:37,450
+Okay, so I'm thinking a square, assuming none of these are, like, outliers like earlier.
+
+1152
+00:56:40,210 --> 00:56:47,250
+So if this is 2, then we go 6... up, I guess.
+
+1153
+00:56:47,690 --> 00:56:49,850
+Even though, you know... yeah, up.
+
+1154
+00:56:54,530 --> 00:57:02,270
+So that would be... 12... and then... 4, a 16.
+
+1155
+00:57:05,820 --> 00:57:06,200
+No.
+
+1156
+00:57:07,760 --> 00:57:08,840
+Let me see what you have to say.
+
+1157
+00:57:09,800 --> 00:57:11,040
+I also have one from 92.
+
+1158
+00:57:12,780 --> 00:57:13,420
+What is that?
+
+1159
+00:57:15,320 --> 00:57:15,900
+I'm stuck.
+
+1160
+00:57:16,100 --> 00:57:17,840
+Collins, Bautista, Dr. David, anybody.
+
+1161
+00:57:18,980 --> 00:57:20,100
+Based on the question mark?
+
+1162
+00:57:20,680 --> 00:57:22,720
+We have to supply the lines that make shape zero.
+
+1163
+00:57:23,100 --> 00:57:23,380
+Right.
+
+1164
+00:57:23,880 --> 00:57:26,420
+So we enter all four lines and we're on our merry way.
+
+1165
+00:57:27,440 --> 00:57:27,940
+Mm-hmm.
+
+1166
+00:57:30,930 --> 00:57:33,190
+I feel like I can hear the numbers crunching.
+
+1167
+00:57:33,810 --> 00:57:35,570
+All four lines may not be necessary.
+
+1168
+00:57:36,170 --> 00:57:37,990
+At least three are required to make one shape.
+
+1169
+00:57:38,530 --> 00:57:42,830
+But if one line does not share any points, then it cannot connect to form the one shape.
+
+1170
+00:57:43,590 --> 00:57:46,750
+So Dr. David's got to ignore the odd one out when building the transmission.
+
+1171
+00:57:47,590 --> 00:57:48,910
+Right, so I remember that one.
+
+1172
+00:57:49,650 --> 00:57:50,290
+What is this?
+
+1173
+00:57:52,910 --> 00:57:53,650
+Oh-ho-ho!
+
+1174
+00:57:53,790 --> 00:57:54,670
+I see the dealio!
+
+1175
+00:57:55,330 --> 00:58:00,970
+We've got to solve for a circumference of the rectangle when we're given the area.
+
+1176
+00:58:01,830 --> 00:58:03,070
+Tricky little Martians.
+
+1177
+00:58:03,790 --> 00:58:05,290
+Really, they're probably not from Mars.
+
+1178
+00:58:05,670 --> 00:58:08,250
+I think we'd see signs of advanced intelligent life over there.
+
+1179
+00:58:08,810 --> 00:58:10,970
+Like spaceships or megastructures or something.
+
+1180
+00:58:11,590 --> 00:58:13,010
+What if they made a space elevator?
+
+1181
+00:58:13,790 --> 00:58:14,850
+Boy, that'd be something.
+
+1182
+00:58:15,110 --> 00:58:16,570
+But we'd see it from Earth, no problem.
+
+1183
+00:58:17,050 --> 00:58:18,430
+So I don't think they're from Mars.
+
+1184
+00:58:20,410 --> 00:58:21,870
+Got a little bit off track there.
+
+1185
+00:58:22,650 --> 00:58:23,090
+Yep.
+
+1186
+00:58:25,100 --> 00:58:25,720
+All right, then.
+
+1187
+00:58:26,620 --> 00:58:28,300
+Okay, so what am I getting wrong here?
+
+1188
+00:58:28,460 --> 00:58:29,500
+Let me see my thingy.
+
+1189
+00:58:31,240 --> 00:58:32,300
+What did I say just now?
+
+1190
+00:58:32,640 --> 00:58:39,920
+Oh, yeah, so we had to go... So if the area is 12 and this is 2, that's why I argued we would have to go up 6, you know?
+
+1191
+00:58:40,980 --> 00:58:42,060
+So what's that?
+
+1192
+00:58:42,320 --> 00:58:44,320
+That's 2, 4, that's like here.
+
+1193
+00:58:44,880 --> 00:58:47,480
+So this is like the rectangle, no?
+
+1194
+00:58:48,080 --> 00:58:49,720
+We have 2, that's 6, that's 12.
+
+1195
+00:58:50,880 --> 00:58:51,480
+14, 16.
+
+1196
+00:58:53,560 --> 00:58:54,340
+But I guess not.
+
+1197
+00:58:55,020 --> 00:58:55,700
+But why not?
+
+1198
+00:58:59,870 --> 00:59:02,210
+Maybe that's another way to get an area of 12.
+
+1199
+00:59:04,670 --> 00:59:06,090
+I have to go through these points, don't I?
+
+1200
+00:59:07,770 --> 00:59:09,410
+Oh, we have to figure out what x0 is, I guess.
+
+1201
+00:59:09,510 --> 00:59:13,130
+But I think x0 is... Wait, if this is indeed 6, let's see if it makes sense.
+
+1202
+00:59:14,370 --> 00:59:15,530
+Why didn't I check that earlier?
+
+1203
+00:59:16,050 --> 00:59:17,250
+So 0, 0 and 4, 0.
+
+1204
+00:59:19,090 --> 00:59:20,390
+2, 4, 0.
+
+1205
+00:59:20,510 --> 00:59:21,170
+Yeah, 4, 0.
+
+1206
+00:59:21,830 --> 00:59:24,770
+4 and x0, so that would be 4 and... that's 6.
+
+1207
+00:59:25,290 --> 00:59:26,710
+And then the next one would be...
+
+1208
+00:59:27,050 --> 00:59:28,290
+0 and x0.
+
+1209
+00:59:28,410 --> 00:59:29,050
+Yeah, that makes sense.
+
+1210
+00:59:29,430 --> 00:59:29,850
+That's 6.
+
+1211
+00:59:30,750 --> 00:59:31,910
+And then line 3.
+
+1212
+00:59:32,610 --> 00:59:34,010
+Point 3 and point 0.
+
+1213
+00:59:38,660 --> 00:59:39,280
+Wait, what?
+
+1214
+00:59:40,680 --> 00:59:41,720
+There's something off here.
+
+1215
+00:59:42,300 --> 00:59:44,680
+We go from 0-0 to 4-0.
+
+1216
+00:59:44,840 --> 00:59:45,380
+That's this one.
+
+1217
+00:59:46,660 --> 00:59:51,460
+And then we say line 1 is then 0.1 and 0.2.
+
+1218
+00:59:51,720 --> 00:59:54,020
+And 0.1 is that, and 0.2 is that.
+
+1219
+00:59:54,780 --> 00:59:55,700
+That's this one.
+
+1220
+00:59:56,240 --> 00:59:59,360
+And then line 2 is 0.2 and 0.3 is this one.
+
+1221
+01:00:00,980 --> 01:00:03,820
+And line 3 is 0.3 and 0.0.
+
+1222
+01:00:03,880 --> 01:00:04,740
+Okay, I guess it makes sense.
+
+1223
+01:00:05,700 --> 01:00:06,560
+Am I just not...
+
+1224
+01:00:06,560 --> 01:00:07,020
+Counting?
+
+1225
+01:00:07,180 --> 01:00:07,720
+Correctly.
+
+1226
+01:00:08,320 --> 01:00:08,980
+Hello?
+
+1227
+01:00:10,540 --> 01:00:11,920
+It's 16.
+
+1228
+01:00:16,960 --> 01:00:18,620
+What the hell?
+
+1229
+01:00:23,990 --> 01:00:24,670
+That's weird.
+
+1230
+01:00:26,910 --> 01:00:27,630
+Wait a minute!
+
+1231
+01:00:27,790 --> 01:00:28,330
+This ain't two!
+
+1232
+01:00:28,470 --> 01:00:29,150
+This is four!
+
+1233
+01:00:31,710 --> 01:00:32,890
+Oh my god, bro.
+
+1234
+01:00:33,790 --> 01:00:37,270
+So if this is four... Oh, I can't believe it.
+
+1235
+01:00:37,530 --> 01:00:38,530
+I can't believe it.
+
+1236
+01:00:40,230 --> 01:00:40,990
+That's crazy.
+
+1237
+01:00:43,710 --> 01:00:49,310
+I messed up because I made the decision to say that this was two earlier, you know?
+
+1238
+01:00:49,610 --> 01:00:51,310
+And now I forgot that I did that.
+
+1239
+01:00:51,470 --> 01:00:52,350
+So it's actually...
+
+1240
+01:00:52,540 --> 01:00:53,040
+Here.
+
+1241
+01:00:53,380 --> 01:00:54,520
+This is wrong up there.
+
+1242
+01:00:55,320 --> 01:01:00,340
+So it's actually 12 there, and then it's gonna be... What is that?
+
+1243
+01:01:00,560 --> 01:01:02,920
+4 times... No, 4.
+
+1244
+01:01:03,180 --> 01:01:03,900
+4, that's 8.
+
+1245
+01:01:04,860 --> 01:01:07,880
+And then 6 is gonna be 12.
+
+1246
+01:01:08,500 --> 01:01:09,020
+Right?
+
+1247
+01:01:13,700 --> 01:01:14,180
+No?
+
+1248
+01:01:14,560 --> 01:01:16,960
+Wait, what am I... Oh, God, I'm losing my mind.
+
+1249
+01:01:18,780 --> 01:01:20,520
+I'm going too fast here, I think.
+
+1250
+01:01:21,040 --> 01:01:23,540
+The area is 12, so that's 4.
+
+1251
+01:01:25,380 --> 01:01:26,240
+Right, hold on.
+
+1252
+01:01:26,320 --> 01:01:26,780
+1, 2, 3.
+
+1253
+01:01:26,840 --> 01:01:27,320
+Yeah, it's 4.
+
+1254
+01:01:27,700 --> 01:01:30,160
+And then now I say x0 is 3.
+
+1255
+01:01:31,340 --> 01:01:31,820
+Right?
+
+1256
+01:01:32,180 --> 01:01:32,460
+Why?
+
+1257
+01:01:32,700 --> 01:01:34,060
+Because 4 times 3 is 12.
+
+1258
+01:01:35,660 --> 01:01:36,380
+Okay, good.
+
+1259
+01:01:36,940 --> 01:01:39,900
+So now I say 4 plus 4 is 8.
+
+1260
+01:01:40,620 --> 01:01:41,800
+Plus 3...
+
+1261
+01:01:42,040 --> 01:01:43,300
+Oh my god, I can't count.
+
+1262
+01:01:43,520 --> 01:01:45,040
+Yeah, it's literally what it is.
+
+1263
+01:01:45,520 --> 01:01:46,300
+That's incredible.
+
+1264
+01:01:46,840 --> 01:01:48,480
+It's 8 plus 6, which is 14.
+
+1265
+01:01:51,280 --> 01:01:53,620
+Oh my god.
+
+1266
+01:01:57,420 --> 01:01:58,920
+It just keeps going!
+
+1267
+01:02:00,400 --> 01:02:00,980
+Stop!
+
+1268
+01:02:05,360 --> 01:02:05,940
+X0.
+
+1269
+01:02:06,500 --> 01:02:07,740
+Okay, we need an area.
+
+1270
+01:02:09,640 --> 01:02:10,220
+Alright.
+
+1271
+01:02:13,190 --> 01:02:18,990
+We got 0, 0.1 is 0, x0, so it's somewhere along here.
+
+1272
+01:02:20,910 --> 01:02:22,290
+No, somewhere along here, I mean.
+
+1273
+01:02:23,450 --> 01:02:26,650
+I'm assuming it's positive, so let's just say it's like there.
+
+1274
+01:02:27,830 --> 01:02:32,110
+Line 1 is 0.1 and 0.2, which is 6 and x0.
+
+1275
+01:02:32,730 --> 01:02:36,590
+Just like 2, 4, 6 and x0.
+
+1276
+01:02:37,590 --> 01:02:41,030
+Line 2 is 0.2 and 0.3, which is 6.0.
+
+1277
+01:02:43,960 --> 01:02:46,220
+Six points... Yeah, that makes sense.
+
+1278
+01:02:46,780 --> 01:02:49,260
+And line three is 0.3 and 0.0.
+
+1279
+01:02:49,440 --> 01:02:49,900
+Boom, yeah.
+
+1280
+01:02:50,700 --> 01:03:01,040
+The area is going to be... Oh, if the circumference is 20, that would mean... So 246, that's 12, that's 8, so it has to be 4.
+
+1281
+01:03:01,660 --> 01:03:05,160
+So 4 times 6 is 24.
+
+1282
+01:03:07,500 --> 01:03:10,200
+Man... I don't know.
+
+1283
+01:03:11,350 --> 01:03:12,230
+It's been an hour anyway.
+
+1284
+01:03:12,310 --> 01:03:13,170
+I'm gonna take a break here.
+
+1285
+01:03:13,330 --> 01:03:15,570
+I don't know if I wanna play this anymore.
+
+1286
+01:03:16,950 --> 01:03:19,150
+It's getting extremely tedious to do this.
+
+1287
+01:03:19,250 --> 01:03:19,890
+I'm not gonna lie.
+
+1288
+01:03:21,710 --> 01:03:22,690
+I mean, look at all this.
+
+1289
+01:03:25,030 --> 01:03:25,890
+Maybe I'll see you next time.
+
+1290
+01:03:26,070 --> 01:03:26,330
+Bye-bye.
