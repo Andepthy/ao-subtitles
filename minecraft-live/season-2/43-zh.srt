@@ -6092,7 +6092,7 @@ Taters 我就收下了
 
 1524
 01:46:06,090 --> 01:46:15,710
-Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q
+Q Q Q
 
 1525
 01:46:21,130 --> 01:46:23,830
@@ -11708,7 +11708,7 @@ Billy Bob！
 
 2928
 03:13:39,030 --> 03:13:39,590
-这样吧 
+这样吧
 
 2929
 03:13:39,650 --> 03:13:40,630
@@ -15237,3 +15237,4 @@ Oliver 看看游戏 确认你是不是真的在挂机
 3810
 04:06:34,230 --> 04:06:34,610
 拜拜
+

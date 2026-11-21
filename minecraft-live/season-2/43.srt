@@ -1,4 +1,4 @@
-1
+﻿1
 00:08:10,160 --> 00:08:10,740
 People!
 
@@ -6092,7 +6092,7 @@ I forgot.
 
 1524
 01:46:06,090 --> 01:46:15,710
-Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q
+Q Q Q
 
 1525
 01:46:21,130 --> 01:46:23,830
@@ -15237,3 +15237,4 @@ Also, Cyberpunk coming out now.
 3810
 04:06:34,230 --> 04:06:34,610
 Bye-bye.
+

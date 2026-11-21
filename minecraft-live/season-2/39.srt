@@ -12340,7 +12340,7 @@ This is a huge upgrade now.
 
 3086
 03:26:19,020 --> 03:26:38,040
-Do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-do-
+Do-do-do-do-do-do-do-do-
 
 3087
 03:26:51,400 --> 03:26:52,140

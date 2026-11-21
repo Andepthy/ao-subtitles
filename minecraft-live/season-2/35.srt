@@ -1,4 +1,4 @@
-1
+﻿1
 00:12:50,360 --> 00:12:50,800
 Fantastic.
 
@@ -3371,7315 +3371,7316 @@ This is terrible documentation.
 What have I been doing?
 
 844
-00:52:01,970 --> 00:52:06,130
+00:52:01,970 --> 00:52:06,090
 Yeah, okay, so this was connected to a dispenser with a...
 
 845
-00:52:06,090 --> 00:52:06,650
+00:52:06,090 --> 00:52:06,130
 What was in there?
+Yeah, okay, so this was connected to a dispenser with a...
 
 846
+00:52:06,130 --> 00:52:06,650
+What was in there?
+
+847
 00:52:08,570 --> 00:52:09,810
 I think it was just bone meal.
 
-847
+848
 00:52:10,590 --> 00:52:12,510
 Actually, the bone meal made the tree grow, right?
 
-848
+849
 00:52:13,070 --> 00:52:13,530
 Oh, dude.
 
-849
+850
 00:52:14,590 --> 00:52:15,250
 Oh, dude.
 
-850
+851
 00:52:16,230 --> 00:52:16,830
 That's sick.
 
-851
+852
 00:52:17,010 --> 00:52:18,470
 That's exactly what I'm gonna do, actually.
 
-852
+853
 00:52:19,090 --> 00:52:20,630
 It's gonna work the same way, right?
 
-853
+854
 00:52:22,070 --> 00:52:23,150
 It's the same thing.
 
-854
+855
 00:52:26,470 --> 00:52:28,770
 Um... Observers?
 
-855
+856
 00:52:28,850 --> 00:52:29,770
 I need two of these.
 
-856
+857
 00:52:31,230 --> 00:52:32,530
 I'm gonna need...
 
-857
+858
 00:52:33,280 --> 00:52:34,520
 Probably some redstone dust.
 
-858
+859
 00:52:35,640 --> 00:52:36,780
 Let me also deposit some of this.
 
-859
+860
 00:52:36,860 --> 00:52:37,660
 We don't need all of it.
 
-860
+861
 00:52:38,700 --> 00:52:40,500
 We are going to need a dispenser.
 
-861
+862
 00:52:43,260 --> 00:52:43,640
 Dispenserinos.
 
-862
+863
 00:52:45,020 --> 00:52:48,560
 And then we're going to buy some chinos, because I just broke my chinos.
 
-863
+864
 00:52:52,380 --> 00:52:52,700
 Nice.
 
-864
+865
 00:52:53,420 --> 00:52:54,760
 I need some kind of elevator here.
 
-865
+866
 00:52:55,580 --> 00:52:56,460
 How am I gonna do that?
 
-866
+867
 00:52:56,760 --> 00:52:57,020
 Fuck.
 
-867
+868
 00:52:57,280 --> 00:52:58,160
 I need to think about it.
 
-868
+869
 00:52:58,260 --> 00:52:58,980
 There's a guy down here.
 
-869
+870
 00:52:59,080 --> 00:52:59,380
 You know what?
 
-870
+871
 00:53:00,100 --> 00:53:01,640
 Maybe I'll name him and keep him as a pet.
 
-871
+872
 00:53:02,460 --> 00:53:07,700
 You, sir, or ma'am, madame, you will be known as Jessica.
 
-872
+873
 00:53:08,800 --> 00:53:09,300
 That's you.
 
-873
+874
 00:53:10,120 --> 00:53:11,040
 Your name is Jessica.
 
-874
+875
 00:53:12,900 --> 00:53:14,680
 You have a nice block of dirt.
 
-875
+876
 00:53:15,020 --> 00:53:15,560
 Stay down here, okay?
 
-876
+877
 00:53:15,700 --> 00:53:15,960
 Don't leave.
 
-877
+878
 00:53:16,820 --> 00:53:19,080
 As soon as you leave these hallowed grounds...
 
-878
+879
 00:53:19,240 --> 00:53:21,320
 You will lose the right to the name.
 
-879
+880
 00:53:21,580 --> 00:53:22,300
 Just so you know.
 
-880
+881
 00:53:22,400 --> 00:53:23,840
 I wonder if I can use a nameplate on him.
 
-881
+882
 00:53:24,620 --> 00:53:25,620
 Or not a nameplate.
 
-882
+883
 00:53:25,700 --> 00:53:26,020
 What's it called?
 
-883
+884
 00:53:26,120 --> 00:53:26,820
 A name tag.
 
-884
+885
 00:53:30,420 --> 00:53:31,200
 Let's see here.
 
-885
+886
 00:53:32,960 --> 00:53:33,720
 You know what?
 
-886
+887
 00:53:34,140 --> 00:53:36,160
 Let's just start organizing the crap here.
 
-887
+888
 00:53:36,560 --> 00:53:38,200
 These books belong upstairs anyway.
 
-888
+889
 00:53:38,900 --> 00:53:40,040
 Why did I come down here?
 
-889
+890
 00:53:40,880 --> 00:53:41,900
 I needed something.
 
-890
+891
 00:53:44,240 --> 00:53:44,720
 Dispenser.
 
-891
+892
 00:53:46,440 --> 00:53:47,220
 There it is.
 
-892
+893
 00:53:47,500 --> 00:53:48,980
 It may actually have been this one.
 
-893
+894
 00:53:49,060 --> 00:53:49,900
 I forgot which one is which.
 
-894
+895
 00:53:51,360 --> 00:53:52,580
 Do I need anything else?
 
-895
+896
 00:53:57,160 --> 00:53:58,260
 Crafter, maybe.
 
-896
+897
 00:53:58,460 --> 00:53:58,920
 Oh, actually.
 
-897
+898
 00:54:00,360 --> 00:54:00,840
 No.
 
-898
+899
 00:54:01,260 --> 00:54:01,620
 Nope.
 
-899
+900
 00:54:02,500 --> 00:54:03,340
 We don't need that.
 
-900
+901
 00:54:03,540 --> 00:54:03,780
 Okay.
 
-901
+902
 00:54:05,040 --> 00:54:05,900
 Off we go!
 
-902
+903
 00:54:06,320 --> 00:54:07,800
 I'm actually kind of excited about this.
 
-903
+904
 00:54:08,520 --> 00:54:13,040
 I probably forgot some components, but I'll realize it when I make it.
 
-904
+905
 00:54:14,460 --> 00:54:18,300
 Okay, we're gonna have a trial run somewhere to the side here.
 
-905
+906
 00:54:18,740 --> 00:54:20,300
 This right here will be the trial run.
 
-906
+907
 00:54:21,920 --> 00:54:23,100
 I don't know why I broke that.
 
-907
+908
 00:54:25,170 --> 00:54:25,570
 Shit.
 
-908
+909
 00:54:27,070 --> 00:54:28,830
 No, you know, this is the trial run.
 
-909
+910
 00:54:29,010 --> 00:54:30,310
 No, this is the trial run.
 
-910
+911
 00:54:31,610 --> 00:54:33,050
 First off, we're going to need two observers.
 
-911
+912
 00:54:35,270 --> 00:54:35,850
 Like that.
 
-912
+913
 00:54:37,270 --> 00:54:38,610
 They are doing that now.
 
-913
+914
 00:54:39,650 --> 00:54:41,690
 So now I need to... let's see.
 
-914
+915
 00:54:42,830 --> 00:54:43,910
 Do a bit of this.
 
-915
+916
 00:54:46,150 --> 00:54:46,970
 Spencer, I believe.
 
-916
+917
 00:54:48,030 --> 00:54:48,710
 The other way.
 
-917
+918
 00:54:49,510 --> 00:54:50,530
 Yeah, see how it's working?
 
-918
+919
 00:54:54,550 --> 00:54:55,530
 Shit!
 
-919
+920
 00:54:55,850 --> 00:54:56,590
 Wait...
 
-920
+921
 00:55:01,880 --> 00:55:02,240
 Huh.
 
-921
+922
 00:55:02,240 --> 00:55:03,200
 There we go.
 
-922
+923
 00:55:04,180 --> 00:55:04,540
 Okay.
 
-923
+924
 00:55:06,820 --> 00:55:09,800
 And now... I need a way to turn this on and off.
 
-924
+925
 00:55:11,500 --> 00:55:11,980
 Hold on.
 
-925
+926
 00:55:12,380 --> 00:55:13,520
 What is the best way to do this?
 
-926
+927
 00:55:13,680 --> 00:55:18,600
 The best way to do... that would be to have a... comparator.
 
-927
+928
 00:55:20,820 --> 00:55:21,940
 I'm making it too complicated.
 
-928
+929
 00:55:22,060 --> 00:55:22,760
 I'm just testing here.
 
-929
+930
 00:55:22,880 --> 00:55:23,140
 Fuck it.
 
-930
+931
 00:55:23,220 --> 00:55:24,180
 I don't need this shit right now.
 
-931
+932
 00:55:24,280 --> 00:55:25,600
 I'm making it way too complicated.
 
-932
+933
 00:55:26,460 --> 00:55:27,200
 Keep it simple.
 
-933
+934
 00:55:28,640 --> 00:55:31,920
 And when I need to activate, I just put down... yeah, that's how I'm gonna turn it on.
 
-934
+935
 00:55:32,020 --> 00:55:33,140
 I'm just gonna put down redstone dust.
 
-935
+936
 00:55:34,060 --> 00:55:37,120
 Now fill this up with a bunch of bone meal.
 
-936
+937
 00:55:38,660 --> 00:55:40,040
 Oh, but wait a minute!
 
-937
+938
 00:55:40,600 --> 00:55:44,260
 Fuck, this ain't gonna... I need to plant stuff all the time then.
 
-938
+939
 00:55:46,280 --> 00:55:46,660
 Unless...
 
-939
+940
 00:55:49,790 --> 00:55:50,790
 Alternating sequence.
 
-940
+941
 00:55:51,530 --> 00:55:54,090
 Of one weed seed, three bone meals.
 
-941
+942
 00:55:54,450 --> 00:55:55,870
 One weed seed, three bone meals.
 
-942
+943
 00:56:01,930 --> 00:56:02,530
 Wait.
 
-943
+944
 00:56:06,270 --> 00:56:08,210
 Why can't I... Oh, no!
 
-944
+945
 00:56:11,330 --> 00:56:11,930
 No.
 
-945
+946
 00:56:14,690 --> 00:56:15,910
 Please don't let it be.
 
-946
+947
 00:56:16,630 --> 00:56:17,470
 Like that.
 
-947
+948
 00:56:20,520 --> 00:56:21,780
 Oh wait, I'm dumb, I'm dumb, I'm dumb.
 
-948
+949
 00:56:23,180 --> 00:56:23,440
 What?
 
-949
+950
 00:56:27,690 --> 00:56:28,910
 I'm dumb as hell.
 
-950
+951
 00:56:29,450 --> 00:56:30,570
 I'm dumb as hell.
 
-951
+952
 00:56:31,150 --> 00:56:33,610
 I need a hole, not a shovel.
 
-952
+953
 00:56:34,150 --> 00:56:34,910
 Oh my god.
 
-953
+954
 00:56:36,130 --> 00:56:37,890
 Oh, Christ almighty.
 
-954
+955
 00:56:39,010 --> 00:56:40,750
 Give me the fucking hole, will ya?
 
-955
+956
 00:56:41,290 --> 00:56:42,310
 What am I doing?
 
-956
+957
 00:56:43,290 --> 00:56:48,170
 I thought it was because the block was right in front of the dispenser, so it wouldn't work or something.
 
-957
+958
 00:56:48,290 --> 00:56:48,670
 I don't know.
 
-958
+959
 00:56:50,250 --> 00:56:51,790
 I was so wrong about that.
 
-959
+960
 00:56:51,890 --> 00:56:52,630
 Holy crap.
 
-960
+961
 00:56:52,850 --> 00:56:53,410
 That's embarrassing.
 
-961
+962
 00:56:54,910 --> 00:56:55,390
 Yeah.
 
-962
+963
 00:56:58,760 --> 00:56:59,180
 Alright.
 
-963
+964
 00:56:59,180 --> 00:57:00,080
 This should work now.
 
-964
+965
 00:57:00,320 --> 00:57:00,420
 So.
 
-965
+966
 00:57:01,600 --> 00:57:01,940
 Ho.
 
-966
+967
 00:57:03,320 --> 00:57:04,020
 There we go.
 
-967
+968
 00:57:04,780 --> 00:57:05,540
 And now.
 
-968
+969
 00:57:07,680 --> 00:57:08,300
 You ready?
 
-969
+970
 00:57:09,040 --> 00:57:10,040
 Oh, wait, wait, wait, wait.
 
-970
+971
 00:57:10,940 --> 00:57:11,520
 Here we go.
 
-971
+972
 00:57:12,360 --> 00:57:12,920
 Let's see.
 
-972
+973
 00:57:13,640 --> 00:57:14,260
 Is he gonna plant it?
 
-973
+974
 00:57:15,540 --> 00:57:15,960
 No!
 
-974
+975
 00:57:18,320 --> 00:57:18,740
 No!
 
-975
+976
 00:57:18,980 --> 00:57:20,160
 That's not what it's supposed to do!
 
-976
+977
 00:57:21,100 --> 00:57:22,260
 Why doesn't it do it?
 
-977
+978
 00:57:23,200 --> 00:57:23,740
 What the f***?
 
-978
+979
 00:57:23,760 --> 00:57:24,380
 Fuck, man!
 
-979
+980
 00:57:24,940 --> 00:57:25,540
 Uh-oh.
 
-980
+981
 00:57:25,960 --> 00:57:29,460
 Okay, this blows the whole... thing to shreds.
 
-981
+982
 00:57:32,460 --> 00:57:32,900
 Fuck.
 
-982
+983
 00:57:33,060 --> 00:57:34,380
 But it's gonna work with bone meal, no?
 
-983
+984
 00:57:34,680 --> 00:57:41,920
 So if I plant... here... Fuck yeah!
 
-984
+985
 00:57:42,440 --> 00:57:42,880
 Okay.
 
-985
+986
 00:57:46,520 --> 00:57:47,080
 Yo!
 
-986
+987
 00:57:47,820 --> 00:57:48,380
 Okay!
 
-987
+988
 00:57:49,100 --> 00:57:50,100
 I like it!
 
-988
+989
 00:57:50,720 --> 00:57:51,960
 I like it!
 
-989
+990
 00:57:53,860 --> 00:57:55,220
 I need to be active, though.
 
-990
+991
 00:57:55,340 --> 00:57:59,120
 I need to be here, but... Wow.
 
-991
+992
 00:57:59,420 --> 00:58:01,900
 I did it so hard that I actually broke the earth.
 
-992
+993
 00:58:03,100 --> 00:58:04,320
 How does that even happen?
 
-993
+994
 00:58:07,640 --> 00:58:08,200
 Okay.
 
-994
+995
 00:58:09,560 --> 00:58:10,300
 Try again.
 
-995
+996
 00:58:24,680 --> 00:58:26,180
 Wait, am I slowly destroying the earth?
 
-996
+997
 00:58:30,140 --> 00:58:31,500
 Wait, why does it not reset?
 
-997
+998
 00:58:31,700 --> 00:58:31,860
 Look!
 
-998
+999
 00:58:37,900 --> 00:58:39,080
 Oh, it ran out, it ran out.
 
-999
+1000
 00:58:43,330 --> 00:58:45,050
 Why is the earth not resetting?
 
-1000
+1001
 00:58:47,170 --> 00:58:47,650
 Huh?
 
-1001
+1002
 00:58:48,470 --> 00:58:49,970
 Okay, that's weird.
 
-1002
+1003
 00:58:52,790 --> 00:58:53,970
 Why does it do that?
 
-1003
+1004
 00:58:54,690 --> 00:58:56,970
 That is a very interesting interaction there.
 
-1004
+1005
 00:59:01,190 --> 00:59:02,350
 Anyway, I have some wheat.
 
-1005
+1006
 00:59:03,370 --> 00:59:04,430
 Where are you, sir?
 
-1006
+1007
 00:59:04,990 --> 00:59:06,150
 Have you gone to bed?
 
-1007
+1008
 00:59:08,730 --> 00:59:09,250
 There you are.
 
-1008
+1009
 00:59:09,430 --> 00:59:10,270
 I need you right now.
 
-1009
+1010
 00:59:10,450 --> 00:59:13,950
 Sorry, in the middle of the night, but I need to... make money.
 
-1010
+1011
 00:59:14,690 --> 00:59:15,790
 Okay, three emeralds.
 
-1011
+1012
 00:59:16,350 --> 00:59:18,610
 We're slowly ramping up the money production.
 
-1012
+1013
 00:59:19,390 --> 00:59:21,210
 We're printing money at this point, basically.
 
-1013
+1014
 00:59:22,290 --> 00:59:23,030
 Um, okay.
 
-1014
+1015
 00:59:24,990 --> 00:59:30,850
 Interestingly, when I do this... Like, see how... See when I do this?
 
-1015
+1016
 00:59:31,690 --> 00:59:33,410
 It resets when I release my mouse.
 
-1016
+1017
 00:59:34,050 --> 00:59:35,650
 That's not the case when this is active.
 
-1017
+1018
 00:59:36,570 --> 00:59:37,350
 What the hell?
 
-1018
+1019
 00:59:42,110 --> 00:59:45,130
 I thought I just heard a... Phantom.
 
-1019
+1020
 00:59:46,230 --> 00:59:47,770
 But I was hearing things.
 
-1020
+1021
 00:59:48,550 --> 00:59:50,150
 That is so weird why it does that.
 
-1021
+1022
 00:59:52,670 --> 00:59:53,030
 Hmm.
 
-1022
+1023
 00:59:59,550 --> 01:00:00,270
 Okay, wait a minute.
 
-1023
+1024
 01:00:00,530 --> 01:00:01,850
 How can I do this even better?
 
-1024
+1025
 01:00:01,970 --> 01:00:03,550
 This is still kind of slow, though.
 
-1025
+1026
 01:00:03,650 --> 01:00:05,370
 And it kind of sucks because of this problem.
 
-1026
+1027
 01:00:07,450 --> 01:00:09,870
 I need a way to automatically harvest it, too.
 
-1027
+1028
 01:00:14,080 --> 01:00:15,640
 Maybe the shear will do it?
 
-1028
+1029
 01:00:17,100 --> 01:00:19,020
 I know it works on sheep, right?
 
-1029
+1030
 01:00:20,540 --> 01:00:25,900
 So if I now... do this... Oh, I need to do that first.
 
-1030
+1031
 01:00:28,460 --> 01:00:29,080
 This one.
 
-1031
+1032
 01:00:30,460 --> 01:00:31,440
 Let's just grow it.
 
-1032
+1033
 01:00:32,460 --> 01:00:33,520
 There, it's full, right?
 
-1033
+1034
 01:00:33,720 --> 01:00:33,960
 Now.
 
-1034
+1035
 01:00:38,740 --> 01:00:39,920
 Okay, that doesn't work.
 
-1035
+1036
 01:00:42,640 --> 01:00:43,440
 Maybe a hole?
 
-1036
+1037
 01:00:43,660 --> 01:00:44,560
 Is it that simple?
 
-1037
+1038
 01:00:46,680 --> 01:00:48,020
 Get shot out immediately!
 
-1038
+1039
 01:00:48,640 --> 01:00:49,720
 Of course it does.
 
-1039
+1040
 01:00:52,980 --> 01:00:53,780
 Get shot.
 
-1040
+1041
 01:00:54,420 --> 01:00:55,820
 I don't even know why I'm trying that.
 
-1041
+1042
 01:00:59,920 --> 01:01:00,640
 Hold on.
 
-1042
+1043
 01:01:03,540 --> 01:01:04,040
 Dropper?
 
-1043
+1044
 01:01:06,060 --> 01:01:09,660
 But, I mean... Ah, shit, it's facing the wrong way.
 
-1044
+1045
 01:01:14,620 --> 01:01:16,280
 Nah, it shoots it out.
 
-1045
+1046
 01:01:16,620 --> 01:01:17,980
 The pooping is happening.
 
-1046
+1047
 01:01:19,060 --> 01:01:20,420
 Stop making noise.
 
-1047
+1048
 01:01:21,220 --> 01:01:21,660
 Hmm.
 
-1048
+1049
 01:01:22,620 --> 01:01:23,980
 I need something else.
 
-1049
+1050
 01:01:26,120 --> 01:01:29,560
 What can I use to actually harvest?
 
-1050
+1051
 01:01:31,440 --> 01:01:32,120
 Harvest.
 
-1051
+1052
 01:01:34,880 --> 01:01:35,560
 Hopper.
 
-1052
+1053
 01:01:36,000 --> 01:01:40,120
 Yeah, so if I can harvest it, the hopper can collect it.
 
-1053
+1054
 01:01:44,140 --> 01:01:49,440
 Maybe if I push on it... I don't have any.
 
-1054
+1055
 01:01:49,700 --> 01:01:50,500
 Fuck, I gotta go down.
 
-1055
+1056
 01:01:52,140 --> 01:01:55,960
 If I push on it, it's technically like me punching it with my fist, right?
 
-1056
+1057
 01:01:56,400 --> 01:01:57,340
 It could be the same.
 
-1057
+1058
 01:02:02,300 --> 01:02:03,640
 Actually, I do wonder what happens here.
 
-1058
+1059
 01:02:03,780 --> 01:02:05,260
 Is it gonna displace it?
 
-1059
+1060
 01:02:05,420 --> 01:02:07,080
 Because it can't displace it, right?
 
-1060
+1061
 01:02:08,140 --> 01:02:10,620
 Because the ground next to it is not gonna be fertile.
 
-1061
+1062
 01:02:14,560 --> 01:02:15,900
 ODB, doing tricks again.
 
-1062
+1063
 01:02:21,540 --> 01:02:24,700
 Okay, so if I have this here... No.
 
-1063
+1064
 01:02:25,200 --> 01:02:25,720
 This way?
 
-1064
+1065
 01:02:26,940 --> 01:02:27,300
 Shit.
 
-1065
+1066
 01:02:35,240 --> 01:02:37,100
 Okay, plant, plant, plant, plant.
 
-1066
+1067
 01:02:38,600 --> 01:02:39,460
 And then make it grow.
 
-1067
+1068
 01:02:40,460 --> 01:02:41,500
 Simulating... there we go, it's done.
 
-1068
+1069
 01:02:47,450 --> 01:02:47,810
 Yay!
 
-1069
+1070
 01:02:47,810 --> 01:02:50,270
 It's a little violent, but it works.
 
-1070
+1071
 01:02:51,030 --> 01:02:52,270
 It's a little bit violent.
 
-1071
+1072
 01:02:53,550 --> 01:02:54,630
 Okay, that's actually huge.
 
-1072
+1073
 01:02:56,510 --> 01:02:57,890
 That is actually massive.
 
-1073
+1074
 01:02:58,330 --> 01:03:02,370
 So now I need to have a dispenser with bone meal.
 
-1074
+1075
 01:03:03,230 --> 01:03:05,430
 Oh, but wait, I still don't know how to plant new seeds.
 
-1075
+1076
 01:03:05,810 --> 01:03:06,170
 Shit.
 
-1076
+1077
 01:03:07,450 --> 01:03:08,690
 How do I plant new seeds?
 
-1077
+1078
 01:03:08,770 --> 01:03:09,570
 I gotta think about this one.
 
-1078
+1079
 01:03:11,070 --> 01:03:12,130
 What else do I have at home?
 
-1079
+1080
 01:03:14,790 --> 01:03:16,110
 How do I plant new seeds?
 
-1080
+1081
 01:03:20,490 --> 01:03:22,370
 I'm thinking, it's gotta be the dispenser somehow.
 
-1081
+1082
 01:03:22,510 --> 01:03:24,130
 What if I place it right above, you know?
 
-1082
+1083
 01:03:24,230 --> 01:03:24,930
 Maybe that will do it?
 
-1083
+1084
 01:03:26,050 --> 01:03:26,850
 Gotta try that.
 
-1084
+1085
 01:03:30,550 --> 01:03:36,290
 Target... TNT... Oh yeah, I gotta try the stone button, by the way.
 
-1085
+1086
 01:03:40,380 --> 01:03:41,500
 Actually, let me try that now.
 
-1086
+1087
 01:03:42,880 --> 01:03:44,040
 I'm actually too curious.
 
-1087
+1088
 01:03:56,010 --> 01:03:57,110
 I love Jim.
 
-1088
+1089
 01:04:00,290 --> 01:04:02,910
 Dude, it's gonna say that every time I walk through the door.
 
-1089
+1090
 01:04:03,750 --> 01:04:04,710
 That's amazing.
 
-1090
+1091
 01:04:05,030 --> 01:04:06,670
 That's actually fucking hilarious.
 
-1091
+1092
 01:04:07,810 --> 01:04:08,090
 Okay.
 
-1092
+1093
 01:04:10,370 --> 01:04:10,770
 Right.
 
-1093
+1094
 01:04:12,030 --> 01:04:13,270
 So here's my plan, okay?
 
-1094
+1095
 01:04:13,410 --> 01:04:17,890
 This is the ultimate... I like how I said I was gonna earn money, and now I'm straight back to redstoning.
 
-1095
+1096
 01:04:18,750 --> 01:04:20,070
 You know what it is?
 
-1096
+1097
 01:04:20,450 --> 01:04:23,810
 It's whenever I have an idea like this where I'm... Okay, I need a lot of money, right?
 
-1097
+1098
 01:04:24,480 --> 01:04:33,860
 So I realize I gotta do the villager thing, I gotta give him wheat, and then it becomes tedious, because I'm doing it so much, you know, and then I'm like, fuck, how can I make this easier?
 
-1098
+1099
 01:04:34,080 --> 01:04:36,360
 And then automatically you end up doing redstone.
 
-1099
+1100
 01:04:38,060 --> 01:04:39,820
 I don't know why I just destroyed that.
 
-1100
+1101
 01:04:40,320 --> 01:04:40,740
 Put it back.
 
-1101
+1102
 01:04:42,140 --> 01:04:45,180
 Okay, so my plan is the following.
 
-1102
+1103
 01:04:45,420 --> 01:04:49,000
 I need to find a way to automatically plant seeds.
 
-1103
+1104
 01:04:49,590 --> 01:04:52,750
 Then I need to use three bone meals in a row.
 
-1104
+1105
 01:04:54,070 --> 01:04:56,510
 After that, I need to trigger a piston.
 
-1105
+1106
 01:04:57,490 --> 01:04:58,610
 The thing is released.
 
-1106
+1107
 01:04:58,830 --> 01:05:00,950
 I collect it with a hopper into a chest.
 
-1107
+1108
 01:05:01,490 --> 01:05:01,970
 Boom!
 
-1108
+1109
 01:05:02,610 --> 01:05:03,410
 Bob's your uncle.
 
-1109
+1110
 01:05:04,250 --> 01:05:05,910
 The only problem is the first step.
 
-1110
+1111
 01:05:06,190 --> 01:05:07,410
 How do I plant the seeds?
 
-1111
+1112
 01:05:08,110 --> 01:05:09,150
 This is the big one.
 
-1112
+1113
 01:05:09,850 --> 01:05:13,030
 The seeds need to be planted with a machine.
 
-1113
+1114
 01:05:17,070 --> 01:05:18,130
 Hold on, maybe I fucked it up.
 
-1114
+1115
 01:05:18,210 --> 01:05:18,630
 Let me try again.
 
-1115
+1116
 01:05:18,790 --> 01:05:19,870
 I can't believe this didn't work.
 
-1116
+1117
 01:05:20,550 --> 01:05:21,330
 There's no way.
 
-1117
+1118
 01:05:24,090 --> 01:05:26,130
 Maybe I put weed in there last time, like an idiot.
 
-1118
+1119
 01:05:29,090 --> 01:05:30,750
 Guys, can you shut the hell up?
 
-1119
+1120
 01:05:32,350 --> 01:05:33,410
 I'm working here!
 
-1120
+1121
 01:05:37,200 --> 01:05:38,020
 There we go.
 
-1121
+1122
 01:05:38,380 --> 01:05:40,140
 I should put... There's lights here!
 
-1122
+1123
 01:05:40,220 --> 01:05:41,040
 Why are they even here?
 
-1123
+1124
 01:05:41,860 --> 01:05:42,380
 Assholes.
 
-1124
+1125
 01:05:45,020 --> 01:05:45,540
 Nah.
 
-1125
+1126
 01:05:46,540 --> 01:05:47,540
 It's a disaster.
 
-1126
+1127
 01:05:49,100 --> 01:05:54,580
 It's a dis... You know what?
 
-1127
+1128
 01:05:55,780 --> 01:06:00,400
 Maybe if I put a comparator next to a dispenser, something may happen.
 
-1128
+1129
 01:06:00,460 --> 01:06:01,860
 I forgot if I tried that or not.
 
-1129
+1130
 01:06:02,420 --> 01:06:03,720
 There's definitely...
 
-1130
+1131
 01:06:04,080 --> 01:06:06,020
 Weird interactions with the comparator, right?
 
-1131
+1132
 01:06:07,380 --> 01:06:09,040
 Let me just grab some torches as well.
 
-1132
+1133
 01:06:14,560 --> 01:06:15,460
 Get rid of all this.
 
-1133
+1134
 01:06:21,820 --> 01:06:22,220
 Comparator.
 
-1134
+1135
 01:06:24,480 --> 01:06:27,620
 So if I... Actually, I completely forgot what this did.
 
-1135
+1136
 01:06:27,820 --> 01:06:29,420
 So if I have a dispenser...
 
-1136
+1137
 01:06:32,990 --> 01:06:33,690
 Like that.
 
-1137
+1138
 01:06:34,670 --> 01:06:36,810
 And it is powered by, let's say, a torch.
 
-1138
+1139
 01:06:38,310 --> 01:06:39,410
 There, it goes, right?
 
-1139
+1140
 01:06:39,750 --> 01:06:41,910
 But if I now put a comparator...
 
-1140
+1141
 01:06:54,080 --> 01:06:55,400
 Okay, there's a light on it now.
 
-1141
+1142
 01:06:57,420 --> 01:06:58,100
 Okay, you know what?
 
-1142
+1143
 01:06:58,140 --> 01:06:58,700
 I gotta go to bed.
 
-1143
+1144
 01:06:58,920 --> 01:07:00,740
 I can't stand listening to these zombies.
 
-1144
+1145
 01:07:02,080 --> 01:07:03,240
 Hey, we got a second one!
 
-1145
+1146
 01:07:04,420 --> 01:07:04,960
 You know what?
 
-1146
+1147
 01:07:04,960 --> 01:07:05,840
 You can go outside if you want.
 
-1147
+1148
 01:07:09,000 --> 01:07:09,500
 Kill him.
 
-1148
+1149
 01:07:09,640 --> 01:07:10,080
 Thank you.
 
-1149
+1150
 01:07:10,180 --> 01:07:11,240
 That's actually really nice.
 
-1150
+1151
 01:07:11,920 --> 01:07:13,380
 I have these protectors here.
 
-1151
+1152
 01:07:15,360 --> 01:07:15,720
 Sleep.
 
-1152
+1153
 01:07:20,910 --> 01:07:23,310
 Good thing I didn't put the red stuff on the sheets, huh?
 
-1153
+1154
 01:07:24,050 --> 01:07:25,650
 People would think the wrong thing the next day.
 
-1154
+1155
 01:07:28,490 --> 01:07:30,570
 I need proper potatoes, not the shitty ones.
 
-1155
+1156
 01:07:33,230 --> 01:07:33,590
 Now!
 
-1156
+1157
 01:07:34,930 --> 01:07:35,970
 How does this even help me?
 
-1157
+1158
 01:07:36,010 --> 01:07:36,650
 Why am I doing this?
 
-1158
+1159
 01:07:38,010 --> 01:07:38,870
 Why am I doing this?
 
-1159
+1160
 01:07:38,970 --> 01:07:42,210
 Actually, what did the observer do when I put a comparator?
 
-1160
+1161
 01:07:42,270 --> 01:07:43,010
 I already forgot.
 
-1161
+1162
 01:07:50,700 --> 01:07:51,540
 Wait, nothing?
 
-1162
+1163
 01:07:51,800 --> 01:07:52,380
 There's no way.
 
-1163
+1164
 01:07:57,380 --> 01:07:58,460
 No way.
 
-1164
+1165
 01:07:58,860 --> 01:07:59,200
 What?
 
-1165
+1166
 01:08:06,040 --> 01:08:06,860
 Just one.
 
-1166
+1167
 01:08:07,620 --> 01:08:08,240
 Like that.
 
-1167
+1168
 01:08:11,080 --> 01:08:11,660
 Huh.
 
-1168
+1169
 01:08:12,260 --> 01:08:14,460
 Maybe that one didn't do anything, actually.
 
-1169
+1170
 01:08:14,680 --> 01:08:15,100
 Yeah, okay.
 
-1170
+1171
 01:08:20,090 --> 01:08:21,530
 Oh, actually, wait a minute.
 
-1171
+1172
 01:08:25,450 --> 01:08:28,310
 When these grow, the model changes, right?
 
-1172
+1173
 01:08:30,610 --> 01:08:31,530
 Wait a second.
 
-1173
+1174
 01:08:33,830 --> 01:08:34,230
 Observer.
 
-1174
+1175
 01:08:36,530 --> 01:08:37,670
 Or even this one, I guess.
 
-1175
+1176
 01:08:39,370 --> 01:08:41,410
 Wait a minute, I need to check something real fast here.
 
-1176
+1177
 01:08:41,510 --> 01:08:42,390
 This is actually kind of huge.
 
-1177
+1178
 01:08:45,610 --> 01:08:48,090
 If I now put down seeds, right?
 
-1178
+1179
 01:08:51,240 --> 01:08:53,100
 Okay, watch the signal over here now.
 
-1179
+1180
 01:08:55,140 --> 01:08:55,920
 Oh, no.
 
-1180
+1181
 01:08:56,540 --> 01:09:01,680
 Wait, did it actually... Nope, there's no signal.
 
-1181
+1182
 01:09:05,400 --> 01:09:05,800
 What?
 
-1182
+1183
 01:09:06,120 --> 01:09:06,780
 Come on!
 
-1183
+1184
 01:09:07,120 --> 01:09:08,940
 Why does... Oh, wait, maybe it's because it's elevated.
 
-1184
+1185
 01:09:09,820 --> 01:09:10,940
 Hold on, I'm an idiot, maybe.
 
-1185
+1186
 01:09:11,200 --> 01:09:11,820
 Maybe I'm an idiot.
 
-1186
+1187
 01:09:12,900 --> 01:09:14,540
 I need dirt.
 
-1187
+1188
 01:09:16,400 --> 01:09:17,160
 Dirt me up!
 
-1188
+1189
 01:09:20,280 --> 01:09:21,140
 Tell me this is it.
 
-1189
+1190
 01:09:23,200 --> 01:09:23,860
 Okay, let's go.
 
-1190
+1191
 01:09:24,400 --> 01:09:25,160
 So this one first.
 
-1191
+1192
 01:09:25,700 --> 01:09:26,640
 Oh, that sent the signal!
 
-1192
+1193
 01:09:26,740 --> 01:09:27,680
 Okay, it's gotta work, it's gotta work.
 
-1193
+1194
 01:09:31,100 --> 01:09:32,560
 Yeah, okay, okay!
 
-1194
+1195
 01:09:35,140 --> 01:09:35,740
 That's huge!
 
-1195
+1196
 01:09:38,460 --> 01:09:39,560
 That's actually mega.
 
-1196
+1197
 01:09:44,340 --> 01:09:45,500
 By the way, I just had another idea.
 
-1197
+1198
 01:09:48,540 --> 01:09:57,780
 If I had... if I have a dispenser here, looking at this, and that one has... uh, bone meal?
 
-1198
+1199
 01:09:59,060 --> 01:10:02,240
 The other... no wait, I can't plant seeds like that.
 
-1199
+1200
 01:10:05,560 --> 01:10:06,020
 No, no.
 
-1200
+1201
 01:10:06,280 --> 01:10:09,200
 Over here, I have a... a pusher.
 
-1201
+1202
 01:10:09,380 --> 01:10:12,000
 No, a... Fuck, what's the name?
 
-1202
+1203
 01:10:14,280 --> 01:10:14,640
 Piston.
 
-1203
+1204
 01:10:14,860 --> 01:10:15,960
 I have a piston here, right?
 
-1204
+1205
 01:10:16,640 --> 01:10:20,540
 And they are wired up in such a way that they are never in sync.
 
-1205
+1206
 01:10:20,720 --> 01:10:22,600
 You know, there's like pop, pop, pop, pop, pop, pop, pop.
 
-1206
+1207
 01:10:22,820 --> 01:10:25,020
 Just that it grows, one destroys.
 
-1207
+1208
 01:10:25,280 --> 01:10:25,880
 Grows, one destroys.
 
-1208
+1209
 01:10:26,020 --> 01:10:30,340
 And then I'm standing here, just spamming left click on my button to plant by myself.
 
-1209
+1210
 01:10:30,800 --> 01:10:32,500
 I serve the role as the planter.
 
-1210
+1211
 01:10:33,030 --> 01:10:36,450
 And these guys simply harvest it and grow it.
 
-1211
+1212
 01:10:36,690 --> 01:10:38,310
 This is a grower, this is a harvester.
 
-1212
+1213
 01:10:38,610 --> 01:10:40,190
 And I'm the planter.
 
-1213
+1214
 01:10:40,710 --> 01:10:42,010
 And then it's all automatic.
 
-1214
+1215
 01:10:42,330 --> 01:10:50,650
 Then I'm just gonna put one of those birds that go up and down with their head, you know, on my mouse, so that it automatically pushes my mouse.
 
-1215
+1216
 01:10:51,110 --> 01:10:52,430
 And then I'm home free?
 
-1216
+1217
 01:10:53,430 --> 01:10:53,870
 Automated!
 
-1217
+1218
 01:10:55,050 --> 01:10:55,650
 That's it?
 
-1218
+1219
 01:10:57,050 --> 01:10:58,390
 I don't have one of those, though.
 
-1219
+1220
 01:10:59,010 --> 01:10:59,690
 But that's okay.
 
-1220
+1221
 01:11:00,230 --> 01:11:01,870
 Now, it's probably gonna work on this as well, right?
 
-1221
+1222
 01:11:03,550 --> 01:11:04,330
 Uh, observer?
 
-1222
+1223
 01:11:09,790 --> 01:11:15,370
 Ah, shit, I gotta... Oh my god!
 
-1223
+1224
 01:11:15,910 --> 01:11:16,870
 How does that even happen?
 
-1224
+1225
 01:11:20,390 --> 01:11:23,190
 Uh, maybe even, uh... Actually, here.
 
-1225
+1226
 01:11:23,470 --> 01:11:24,090
 What am I doing?
 
-1226
+1227
 01:11:25,910 --> 01:11:26,590
 Come on!
 
-1227
+1228
 01:11:30,520 --> 01:11:31,460
 Oh, it's the other way.
 
-1228
+1229
 01:11:33,160 --> 01:11:34,100
 Ah, there we go.
 
-1229
+1230
 01:11:34,540 --> 01:11:34,740
 Okay.
 
-1230
+1231
 01:11:37,280 --> 01:11:38,460
 So, oh, whoa, whoa, whoa.
 
-1231
+1232
 01:11:38,620 --> 01:11:38,960
 Actually.
 
-1232
+1233
 01:11:41,180 --> 01:11:44,800
 I can always destroy the sugar cane when it grows one.
 
-1233
+1234
 01:11:46,100 --> 01:11:47,200
 It's gonna use a piston.
 
-1234
+1235
 01:11:47,780 --> 01:11:48,420
 Destroy it.
 
-1235
+1236
 01:11:48,940 --> 01:11:50,180
 But I still need to plant.
 
-1236
+1237
 01:11:52,060 --> 01:11:53,620
 Maybe it'll work with the dispenser here.
 
-1237
+1238
 01:11:53,720 --> 01:11:53,960
 Who knows?
 
-1238
+1239
 01:11:54,120 --> 01:11:57,420
 Maybe, uh... Maybe this one is different.
 
-1239
+1240
 01:11:59,590 --> 01:12:00,870
 Oh, wait with that, wait with that.
 
-1240
+1241
 01:12:08,150 --> 01:12:11,050
 Uh, in here we're gonna put, uh... Oh, no, no, what am I doing, what am I doing?
 
-1241
+1242
 01:12:14,450 --> 01:12:14,690
 Seats.
 
-1242
+1243
 01:12:16,030 --> 01:12:16,270
 Shit!
 
-1243
+1244
 01:12:18,450 --> 01:12:20,030
 Oh wait, no, no, no, not seats, what am I doing?
 
-1244
+1245
 01:12:25,520 --> 01:12:26,880
 God damn it.
 
-1245
+1246
 01:12:27,440 --> 01:12:31,580
 I still haven't solved this big problem here of planting.
 
-1246
+1247
 01:12:34,740 --> 01:12:37,180
 How could I possibly plant something?
 
-1247
+1248
 01:12:38,020 --> 01:12:39,320
 Maybe from below.
 
-1248
+1249
 01:12:40,540 --> 01:12:42,860
 Maybe it's facing upwards somehow.
 
-1249
+1250
 01:12:44,940 --> 01:12:50,340
 If I do that... and I put dirt...
 
-1250
+1251
 01:12:54,700 --> 01:12:55,700
 Who knows?
 
-1251
+1252
 01:13:01,500 --> 01:13:02,360
 Wait, what?
 
-1252
+1253
 01:13:07,520 --> 01:13:08,220
 Hmm.
 
-1253
+1254
 01:13:14,080 --> 01:13:14,780
 What?
 
-1254
+1255
 01:13:15,480 --> 01:13:16,660
 Why doesn't this work?
 
-1255
+1256
 01:13:21,710 --> 01:13:22,750
 Oh!
 
-1256
+1257
 01:13:22,990 --> 01:13:23,670
 Okay.
 
-1257
+1258
 01:13:25,670 --> 01:13:26,710
 Weird.
 
-1258
+1259
 01:13:29,250 --> 01:13:31,030
 Nope, didn't plant it.
 
-1259
+1260
 01:13:34,070 --> 01:13:35,110
 Hmm...
 
-1260
+1261
 01:13:41,420 --> 01:13:41,820
 Motherfucker.
 
-1261
+1262
 01:13:43,800 --> 01:13:47,520
 How the hell... Dude, if I... Aw, man, this is such a bottleneck.
 
-1262
+1263
 01:13:47,600 --> 01:13:49,160
 I could do wondrous things.
 
-1263
+1264
 01:13:49,740 --> 01:13:51,420
 If only I knew how to plant.
 
-1264
+1265
 01:13:54,380 --> 01:13:55,040
 Unless... Wait a minute.
 
-1265
+1266
 01:13:57,920 --> 01:13:59,120
 Oh, wait a second here.
 
-1266
+1267
 01:14:00,320 --> 01:14:05,300
 If I pissed in the second floor... Hold on.
 
-1267
+1268
 01:14:06,620 --> 01:14:08,560
 Ah... Ah, fuck, I need, um...
 
-1268
+1269
 01:14:11,000 --> 01:14:13,680
 I need, uh... dirt.
 
-1269
+1270
 01:14:17,200 --> 01:14:17,520
 Here.
 
-1270
+1271
 01:14:18,700 --> 01:14:19,020
 Nope.
 
-1271
+1272
 01:14:19,400 --> 01:14:19,720
 Other way.
 
-1272
+1273
 01:14:19,940 --> 01:14:20,900
 Fuck, how am I gonna do this now?
 
-1273
+1274
 01:14:21,500 --> 01:14:23,960
 I need to have this, uh, not be destroyed right now.
 
-1274
+1275
 01:14:25,040 --> 01:14:25,780
 Ah, okay, there we go.
 
-1275
+1276
 01:14:27,100 --> 01:14:27,840
 I need more dirt.
 
-1276
+1277
 01:14:31,790 --> 01:14:35,630
 Because if I go over here with my hand, I destroy only the top part.
 
-1277
+1278
 01:14:35,890 --> 01:14:41,370
 So that means if I can plant it only once, I can continuously grab the second part of it, right?
 
-1278
+1279
 01:14:44,970 --> 01:14:46,910
 Fuck, I need dirt, dammit!
 
-1279
+1280
 01:14:46,990 --> 01:14:47,510
 Where's my shovel?
 
-1280
+1281
 01:14:50,550 --> 01:14:51,690
 Stop looking at me like that.
 
-1281
+1282
 01:14:55,630 --> 01:14:56,990
 Alright, that's fine.
 
-1282
+1283
 01:14:57,670 --> 01:15:03,870
 And then... on this one, we're gonna have... No, no, we're just gonna test it.
 
-1283
+1284
 01:15:06,430 --> 01:15:06,910
 Yes!
 
-1284
+1285
 01:15:07,250 --> 01:15:12,330
 And then... then we're gonna have... watch... dispenser down here.
 
-1285
+1286
 01:15:13,870 --> 01:15:14,490
 Fuck you.
 
-1286
+1287
 01:15:14,650 --> 01:15:15,610
 It's gonna look over this way.
 
-1287
+1288
 01:15:16,150 --> 01:15:16,670
 Wrong way.
 
-1288
+1289
 01:15:19,390 --> 01:15:20,610
 It's gonna...
 
-1289
+1290
 01:15:24,070 --> 01:15:24,590
 No!
 
-1290
+1291
 01:15:27,210 --> 01:15:27,730
 Yes!
 
-1291
+1292
 01:15:29,390 --> 01:15:30,930
 This one's gonna have bone meal?
 
-1292
+1293
 01:15:34,610 --> 01:15:36,790
 And it's gonna run over to... Oh, these need to be synced.
 
-1293
+1294
 01:15:37,390 --> 01:15:38,270
 So hold on, hold on, hold on.
 
-1294
+1295
 01:15:39,030 --> 01:15:41,010
 Ooh, okay, wait, wait, wait, wait, wait, wait, wait.
 
-1295
+1296
 01:15:41,290 --> 01:15:42,090
 I know how to do this.
 
-1296
+1297
 01:15:43,270 --> 01:15:43,730
 Observer now.
 
-1297
+1298
 01:15:45,910 --> 01:15:48,350
 And we're gonna observe the top part, not the bottom part.
 
-1298
+1299
 01:15:49,490 --> 01:15:50,570
 Oh, dude, I'm gonna put it here.
 
-1299
+1300
 01:15:51,990 --> 01:15:52,470
 Observer there.
 
-1300
+1301
 01:15:53,390 --> 01:15:55,810
 Oh, but wait, how am I gonna... This is a little bit awkward.
 
-1301
+1302
 01:15:56,210 --> 01:15:57,430
 Maybe I need to do it from another angle.
 
-1302
+1303
 01:16:01,230 --> 01:16:01,710
 Like here.
 
-1303
+1304
 01:16:03,670 --> 01:16:03,910
 Observer.
 
-1304
+1305
 01:16:05,810 --> 01:16:06,590
 No, no, what am I doing?
 
-1305
+1306
 01:16:06,710 --> 01:16:06,950
 What am I doing?
 
-1306
+1307
 01:16:07,030 --> 01:16:07,330
 What am I doing?
 
-1307
+1308
 01:16:08,810 --> 01:16:09,490
 I'm a dumbass.
 
-1308
+1309
 01:16:09,630 --> 01:16:10,230
 It needs to be down here.
 
-1309
+1310
 01:16:11,770 --> 01:16:12,010
 There.
 
-1310
+1311
 01:16:15,410 --> 01:16:15,850
 Fuck off.
 
-1311
+1312
 01:16:19,000 --> 01:16:19,360
 Okay.
 
-1312
+1313
 01:16:21,560 --> 01:16:23,340
 So as soon as... Wait.
 
-1313
+1314
 01:16:23,920 --> 01:16:25,140
 No, no, no, no, I'm gonna need it.
 
-1314
+1315
 01:16:25,200 --> 01:16:25,720
 It needs to be up here.
 
-1315
+1316
 01:16:25,780 --> 01:16:26,180
 It needs to be up here.
 
-1316
+1317
 01:16:26,360 --> 01:16:28,120
 I'm messing around it.
 
-1317
+1318
 01:16:28,180 --> 01:16:29,980
 This is totally... I'm fucking around right now.
 
-1318
+1319
 01:16:30,260 --> 01:16:31,880
 It needs to see the top part, of course.
 
-1319
+1320
 01:16:34,380 --> 01:16:34,740
 Okay.
 
-1320
+1321
 01:16:35,120 --> 01:16:37,700
 So when that grows... Okay, hold on.
 
-1321
+1322
 01:16:38,620 --> 01:16:43,120
 So obviously everything needs to be on the observer, observer on-off signal.
 
-1322
+1323
 01:16:45,300 --> 01:16:46,300
 We're gonna need more observers.
 
-1323
+1324
 01:16:48,200 --> 01:16:52,040
 We need two observers to constantly keep the thing running.
 
-1324
+1325
 01:16:54,740 --> 01:16:55,640
 Sure, take these as well.
 
-1325
+1326
 01:16:55,740 --> 01:16:56,280
 Maybe we'll need it.
 
-1326
+1327
 01:16:56,920 --> 01:16:58,840
 Probably not, but, you know, who knows.
 
-1327
+1328
 01:17:01,910 --> 01:17:04,890
 So what we're gonna have is this situation over here.
 
-1328
+1329
 01:17:05,490 --> 01:17:06,490
 Turn it around, actually.
 
-1329
+1330
 01:17:07,510 --> 01:17:09,110
 By the way, this is just for testing.
 
-1330
+1331
 01:17:09,310 --> 01:17:11,630
 We're gonna remove all this when it's done, so we can actually make something prop.
 
-1331
+1332
 01:17:12,070 --> 01:17:12,650
 Come on.
 
-1332
+1333
 01:17:13,370 --> 01:17:13,730
 There.
 
-1333
+1334
 01:17:15,090 --> 01:17:19,450
 This one will need to... Okay, hold on.
 
-1334
+1335
 01:17:19,570 --> 01:17:20,430
 Let me actually think about this.
 
-1335
+1336
 01:17:21,010 --> 01:17:22,390
 This is super simple, actually.
 
-1336
+1337
 01:17:23,050 --> 01:17:24,670
 We need bone meal in here.
 
-1337
+1338
 01:17:24,830 --> 01:17:26,990
 It's gonna grow this once.
 
-1338
+1339
 01:17:27,470 --> 01:17:29,030
 Oh, but we can't have it grow too fast.
 
-1339
+1340
 01:17:31,460 --> 01:17:33,420
 Oh, wait, wait, wait, wait, wait, wait, wait, wait.
 
-1340
+1341
 01:17:33,860 --> 01:17:34,660
 We have an issue.
 
-1341
+1342
 01:17:36,820 --> 01:17:58,420
 Oh, but actually, maybe we can have... The action of growing it is going to send a signal, which is going to destroy it, and right after destroying it, that will have to send a signal to grow it again, which will send a signal to destroy it, which will send a signal to grow it again,
 
-1342
+1343
 01:17:58,580 --> 01:17:59,840
 which will send a signal...
 
-1343
+1344
 01:17:59,870 --> 01:18:01,530
 You know what I mean?
 
-1344
+1345
 01:18:02,450 --> 01:18:06,270
 I can have this, like, if I start it once, it's just gonna go.
 
-1345
+1346
 01:18:07,710 --> 01:18:11,310
 The only problem I have here, how do I send a signal when this one moves?
 
-1346
+1347
 01:18:11,550 --> 01:18:12,850
 I need to test this real fast.
 
-1347
+1348
 01:18:13,890 --> 01:18:18,810
 If I do that... Maybe it's actually just a comparator.
 
-1348
+1349
 01:18:21,950 --> 01:18:23,150
 If I do this...
 
-1349
+1350
 01:18:27,160 --> 01:18:29,180
 Okay, wait.
 
-1350
+1351
 01:18:29,940 --> 01:18:33,280
 Can I observe the piston movement?
 
-1351
+1352
 01:18:39,650 --> 01:18:40,390
 Yes, I can!
 
-1352
+1353
 01:18:41,590 --> 01:18:42,430
 Okay, okay.
 
-1353
+1354
 01:18:43,830 --> 01:18:44,890
 Even when it retracts.
 
-1354
+1355
 01:18:44,990 --> 01:18:46,350
 All right, all right, all right, all right, all right, okay.
 
-1355
+1356
 01:18:47,770 --> 01:18:48,090
 Interesting.
 
-1356
+1357
 01:18:49,770 --> 01:18:55,590
 So that means as soon... Wait, okay, so it starts like this, right?
 
-1357
+1358
 01:18:56,090 --> 01:18:56,850
 It starts like that.
 
-1358
+1359
 01:18:58,810 --> 01:18:59,590
 We're gonna grow it.
 
-1359
+1360
 01:18:59,710 --> 01:18:59,870
 Boop!
 
-1360
+1361
 01:18:59,990 --> 01:19:02,210
 It's gonna go up one, which will trigger this one.
 
-1361
+1362
 01:19:03,610 --> 01:19:04,490
 Because it grows, right?
 
-1362
+1363
 01:19:04,650 --> 01:19:05,730
 Something appears in front of his eyes.
 
-1363
+1364
 01:19:05,790 --> 01:19:06,710
 It goes, whoa, I see something!
 
-1364
+1365
 01:19:07,070 --> 01:19:08,090
 It's going to poop out a signal.
 
-1365
+1366
 01:19:08,250 --> 01:19:09,970
 That signal needs to go to this guy.
 
-1366
+1367
 01:19:12,710 --> 01:19:17,110
 To... Oh, is it going to... We need to figure it out.
 
-1367
+1368
 01:19:18,090 --> 01:19:19,290
 Let's quickly test that.
 
-1368
+1369
 01:19:19,390 --> 01:19:19,850
 I need more dirt.
 
-1369
+1370
 01:19:20,350 --> 01:19:20,830
 Fucking hell.
 
-1370
+1371
 01:19:22,350 --> 01:19:23,450
 I'm going to go home and grab dirt.
 
-1371
+1372
 01:19:25,950 --> 01:19:27,150
 I'm going to grab dirt.
 
-1372
+1373
 01:19:29,270 --> 01:19:29,910
 Right here.
 
-1373
+1374
 01:19:36,500 --> 01:19:45,060
 Okay, um... I'm totally butchering my farm here, but it's fine.
 
-1374
+1375
 01:19:49,980 --> 01:19:51,460
 Just gonna go around like this.
 
-1375
+1376
 01:19:55,820 --> 01:19:56,380
 Shit.
 
-1376
+1377
 01:19:57,140 --> 01:19:58,340
 Wait, that doesn't work.
 
-1377
+1378
 01:19:59,260 --> 01:20:01,280
 But this... wait, why doesn't this work?
 
-1378
+1379
 01:20:03,300 --> 01:20:03,860
 What?!
 
-1379
+1380
 01:20:10,880 --> 01:20:12,480
 Oh, that's... that's annoying.
 
-1380
+1381
 01:20:14,540 --> 01:20:15,740
 Okay, I do like this, though.
 
-1381
+1382
 01:20:15,900 --> 01:20:16,220
 That's fine.
 
-1382
+1383
 01:20:17,640 --> 01:20:20,120
 Oh, no, it's gonna... No, we're gonna need to have it, like, here.
 
-1383
+1384
 01:20:23,760 --> 01:20:24,480
 There we go.
 
-1384
+1385
 01:20:24,560 --> 01:20:24,720
 Okay.
 
-1385
+1386
 01:20:25,460 --> 01:20:27,400
 A little bit ugly, but it is what it is.
 
-1386
+1387
 01:20:27,960 --> 01:20:36,700
 So what's gonna happen is that as soon as this guy is activated, it's gonna feed it... Uh, hopefully... Yeah, just one bone meal, right?
 
-1387
+1388
 01:20:36,780 --> 01:20:37,580
 It's gonna grow up one.
 
-1388
+1389
 01:20:38,120 --> 01:20:38,560
 Hold on.
 
-1389
+1390
 01:20:38,910 --> 01:20:39,930
 Does this actually work?
 
-1390
+1391
 01:20:40,950 --> 01:20:41,730
 Oh, no.
 
-1391
+1392
 01:20:44,590 --> 01:20:50,570
 No... FUUUUUUUCK!
 
-1392
+1393
 01:20:55,430 --> 01:20:57,330
 It doesn't even work on it!
 
-1393
+1394
 01:20:57,450 --> 01:20:58,770
 Are you kidding me?
 
-1394
+1395
 01:21:06,600 --> 01:21:08,440
 Why didn't I test this beforehand?
 
-1395
+1396
 01:21:08,480 --> 01:21:09,380
 I'm such an idiot.
 
-1396
+1397
 01:21:11,120 --> 01:21:12,600
 Of course it wouldn't work.
 
-1397
+1398
 01:21:13,660 --> 01:21:14,120
 Right?
 
-1398
+1399
 01:21:14,300 --> 01:21:15,080
 Just a fuck me.
 
-1399
+1400
 01:21:18,800 --> 01:21:22,600
 But maybe it doesn't matter, actually, because over time it's just gonna grow, right?
 
-1400
+1401
 01:21:24,000 --> 01:21:24,820
 Ooh, wait a minute.
 
-1401
+1402
 01:21:25,960 --> 01:21:26,860
 Imagine this.
 
-1402
+1403
 01:21:28,340 --> 01:21:29,820
 Right here, but a lot.
 
-1403
+1404
 01:21:32,300 --> 01:21:33,140
 Over time?
 
-1404
+1405
 01:21:34,240 --> 01:21:34,680
 Right?
 
-1405
+1406
 01:21:34,900 --> 01:21:36,640
 This is gonna automatically grow.
 
-1406
+1407
 01:21:37,260 --> 01:21:38,380
 As long as it's near water.
 
-1407
+1408
 01:21:41,450 --> 01:21:43,990
 And that way we don't need bone meal at all!
 
-1408
+1409
 01:21:44,210 --> 01:21:45,370
 Hold on, this may even be better.
 
-1409
+1410
 01:21:45,850 --> 01:21:46,490
 We're back!
 
-1410
+1411
 01:21:46,750 --> 01:21:47,150
 We're back!
 
-1411
+1412
 01:21:47,450 --> 01:21:47,990
 Wait, wait, wait.
 
-1412
+1413
 01:21:48,330 --> 01:21:49,170
 We're so back.
 
-1413
+1414
 01:21:49,910 --> 01:21:51,210
 I thought it was all gone.
 
-1414
+1415
 01:21:52,030 --> 01:21:53,790
 This may actually be even better.
 
-1415
+1416
 01:21:55,610 --> 01:21:57,150
 I need to get rid of some shit here.
 
-1416
+1417
 01:21:58,190 --> 01:21:59,050
 Fuck the bone meal.
 
-1417
+1418
 01:21:59,130 --> 01:21:59,710
 We don't need that anymore.
 
-1418
+1419
 01:22:00,170 --> 01:22:00,850
 We're done with that.
 
-1419
+1420
 01:22:01,670 --> 01:22:02,910
 Friendship ended with bone meal.
 
-1420
+1421
 01:22:03,210 --> 01:22:04,250
 Time is now my best friend.
 
-1421
+1422
 01:22:06,930 --> 01:22:08,050
 I do need...
 
-1422
+1423
 01:22:08,530 --> 01:22:09,670
 I don't need this either, actually.
 
-1423
+1424
 01:22:09,790 --> 01:22:10,750
 Holy shit, I need nothing.
 
-1424
+1425
 01:22:11,690 --> 01:22:12,710
 I need nothing.
 
-1425
+1426
 01:22:16,350 --> 01:22:17,210
 Put this in here.
 
-1426
+1427
 01:22:19,830 --> 01:22:20,310
 That's fine.
 
-1427
+1428
 01:22:21,730 --> 01:22:24,770
 Also, put this guy in here, and this guy, and what else, what else, what else?
 
-1428
+1429
 01:22:25,070 --> 01:22:26,090
 This one can go in here as well.
 
-1429
+1430
 01:22:27,310 --> 01:22:28,010
 Yeah, that's fine.
 
-1430
+1431
 01:22:28,210 --> 01:22:28,410
 Okay.
 
-1431
+1432
 01:22:30,070 --> 01:22:31,570
 I think I have solved it.
 
-1432
+1433
 01:22:34,980 --> 01:22:35,960
 So what's going to happen?
 
-1433
+1434
 01:22:36,680 --> 01:22:38,000
 This motherfucker is just going to grow.
 
-1434
+1435
 01:22:38,160 --> 01:22:39,440
 It's just going to go up, right?
 
-1435
+1436
 01:22:39,620 --> 01:22:42,220
 As soon as it goes up... I see it has grown!
 
-1436
+1437
 01:22:43,020 --> 01:22:43,980
 Poop out the signal.
 
-1437
+1438
 01:22:44,580 --> 01:22:46,560
 Immediately make this guy react.
 
-1438
+1439
 01:22:46,860 --> 01:22:47,920
 And destroy it.
 
-1439
+1440
 01:22:48,400 --> 01:22:49,120
 What happens?
 
-1440
+1441
 01:22:49,860 --> 01:22:52,520
 This item that is now being destroyed is going to fall down.
 
-1441
+1442
 01:22:56,150 --> 01:22:57,010
 We have a problem.
 
-1442
+1443
 01:22:57,570 --> 01:22:58,770
 Hold on, we have a problem?
 
-1443
+1444
 01:23:00,670 --> 01:23:01,630
 We have a problem.
 
-1444
+1445
 01:23:03,090 --> 01:23:04,530
 It was almost perfect.
 
-1445
+1446
 01:23:05,810 --> 01:23:07,510
 Ah, shit.
 
-1446
+1447
 01:23:08,230 --> 01:23:12,270
 Unless we surround it with a bunch of hoppers.
 
-1447
+1448
 01:23:12,450 --> 01:23:13,630
 Wait a minute, we need to test this.
 
-1448
+1449
 01:23:16,450 --> 01:23:18,030
 We need a lot of them, then.
 
-1449
+1450
 01:23:18,930 --> 01:23:21,750
 The problem is, they're not gonna be exactly where they need to be.
 
-1450
+1451
 01:23:23,050 --> 01:23:23,670
 You know what?
 
-1451
+1452
 01:23:23,670 --> 01:23:24,330
 I'm gonna make some.
 
-1452
+1453
 01:23:27,070 --> 01:23:29,210
 Hoppers require iron and chests.
 
-1453
+1454
 01:23:31,710 --> 01:23:35,670
 I'm gonna need to go ahead and cannibalize a little bit of our iron supply.
 
-1454
+1455
 01:23:38,090 --> 01:23:39,170
 It is what it is.
 
-1455
+1456
 01:23:40,830 --> 01:23:41,490
 Thank you!
 
-1456
+1457
 01:23:41,810 --> 01:23:42,910
 Great iron supply!
 
-1457
+1458
 01:23:44,000 --> 01:23:45,540
 Always appreciate it.
 
-1458
+1459
 01:23:53,240 --> 01:23:55,720
 Now make iron for me.
 
-1459
+1460
 01:23:58,720 --> 01:23:59,560
 Boxes.
 
-1460
+1461
 01:24:00,280 --> 01:24:01,820
 Chests, chests, chests.
 
-1461
+1462
 01:24:02,360 --> 01:24:03,880
 That needed wood.
 
-1462
+1463
 01:24:08,920 --> 01:24:12,700
 I forgot what I was making.
 
-1463
+1464
 01:24:16,540 --> 01:24:18,200
 I was making, uh, fuck!
 
-1464
+1465
 01:24:18,460 --> 01:24:18,900
 Hoppers!
 
-1465
+1466
 01:24:19,000 --> 01:24:19,260
 Hoppers!
 
-1466
+1467
 01:24:19,500 --> 01:24:19,940
 Hoppers.
 
-1467
+1468
 01:24:22,360 --> 01:24:23,240
 Okay, I need more.
 
-1468
+1469
 01:24:25,500 --> 01:24:26,920
 Give me... spruce.
 
-1469
+1470
 01:24:27,380 --> 01:24:27,960
 That's okay.
 
-1470
+1471
 01:24:29,700 --> 01:24:30,320
 That's a lot.
 
-1471
+1472
 01:24:30,480 --> 01:24:31,540
 That's a lot of planks.
 
-1472
+1473
 01:24:34,120 --> 01:24:35,320
 Ooh, maybe that's too much.
 
-1473
+1474
 01:24:35,940 --> 01:24:37,500
 Let's make, like, ten.
 
-1474
+1475
 01:24:38,760 --> 01:24:40,180
 And now we're gonna have hopper.
 
-1475
+1476
 01:24:42,540 --> 01:24:42,980
 Eight.
 
-1476
+1477
 01:24:43,200 --> 01:24:43,920
 Okay, beautiful.
 
-1477
+1478
 01:24:44,670 --> 01:24:45,750
 Actually, the perfect amount.
 
-1478
+1479
 01:24:47,430 --> 01:24:50,330
 Because now, the idea is the following.
 
-1479
+1480
 01:24:51,470 --> 01:24:52,870
 We're gonna need to do this.
 
-1480
+1481
 01:24:53,050 --> 01:24:54,550
 Oh, but what about the water then?
 
-1481
+1482
 01:24:56,830 --> 01:24:59,330
 Oh, I guess a bit of RNG is okay.
 
-1482
+1483
 01:24:59,530 --> 01:25:00,510
 Some of them are gonna get lost.
 
-1483
+1484
 01:25:00,670 --> 01:25:01,470
 It's not a big deal.
 
-1484
+1485
 01:25:04,450 --> 01:25:07,450
 Hold on, we need to test whether or not something is consistent here.
 
-1485
+1486
 01:25:08,390 --> 01:25:15,690
 We need to test whether or not the direction they fall is consistent.
 
-1486
+1487
 01:25:18,610 --> 01:25:23,390
 So what I need to do is simply have a piston.
 
-1487
+1488
 01:25:24,530 --> 01:25:26,430
 Let's have a piston right here, actually.
 
-1488
+1489
 01:25:28,970 --> 01:25:29,590
 Piston.
 
-1489
+1490
 01:25:30,490 --> 01:25:31,310
 Give me that.
 
-1490
+1491
 01:25:34,220 --> 01:25:35,060
 Oh, I have seven.
 
-1491
+1492
 01:25:36,400 --> 01:25:36,940
 Wrong way.
 
-1492
+1493
 01:25:37,680 --> 01:25:38,520
 Ah, actually, that's perfect.
 
-1493
+1494
 01:25:38,740 --> 01:25:38,840
 Perfect.
 
-1494
+1495
 01:25:39,400 --> 01:25:39,800
 Like that.
 
-1495
+1496
 01:25:42,600 --> 01:25:43,600
 We're gonna power it.
 
-1496
+1497
 01:25:47,060 --> 01:25:47,740
 Let's see here.
 
-1497
+1498
 01:25:48,640 --> 01:25:49,640
 Oh, but you know what I can do?
 
-1498
+1499
 01:25:49,760 --> 01:25:53,700
 I can use... sugarcane on it.
 
-1499
+1500
 01:26:01,720 --> 01:26:02,080
 Uh...
 
-1500
+1501
 01:26:10,210 --> 01:26:11,730
 That actually makes sense.
 
-1501
+1502
 01:26:12,450 --> 01:26:13,930
 That actually makes sense.
 
-1502
+1503
 01:26:14,130 --> 01:26:15,950
 I just... I did not expect that at all.
 
-1503
+1504
 01:26:19,280 --> 01:26:19,820
 Hold on.
 
-1504
+1505
 01:26:20,600 --> 01:26:21,820
 Wow, that's actually kind of cool.
 
-1505
+1506
 01:26:22,540 --> 01:26:28,320
 So, Observer sees the piston moving, which then powers the piston, which then sees the piston moving, and so on and so forth.
 
-1506
+1507
 01:26:30,760 --> 01:26:31,600
 That's kind of cool.
 
-1507
+1508
 01:26:31,600 --> 01:26:32,220
 I like it.
 
-1508
+1509
 01:26:32,980 --> 01:26:33,640
 Not bad.
 
-1509
+1510
 01:26:34,980 --> 01:26:37,200
 But actually, not what I was looking for.
 
-1510
+1511
 01:26:37,300 --> 01:26:37,780
 Get rid of this.
 
-1511
+1512
 01:26:38,180 --> 01:26:39,120
 That's a cool interaction.
 
-1512
+1513
 01:26:39,340 --> 01:26:39,960
 Let's keep that in mind.
 
-1513
+1514
 01:26:40,760 --> 01:26:42,220
 I was just going to do this.
 
-1514
+1515
 01:26:45,260 --> 01:26:45,860
 There we go.
 
-1515
+1516
 01:26:46,200 --> 01:26:46,560
 Now.
 
-1516
+1517
 01:26:48,950 --> 01:26:50,150
 Throws it there.
 
-1517
+1518
 01:26:50,510 --> 01:26:51,330
 Okay, now watch.
 
-1518
+1519
 01:26:57,970 --> 01:26:58,730
 Ooh, okay.
 
-1519
+1520
 01:27:00,950 --> 01:27:03,330
 Let me get rid of this, just to give it some more space.
 
-1520
+1521
 01:27:03,750 --> 01:27:04,350
 And also these.
 
-1521
+1522
 01:27:06,570 --> 01:27:07,890
 I need to see where it lands.
 
-1522
+1523
 01:27:10,030 --> 01:27:12,670
 Need to have, like, a probability distribution of landings.
 
-1523
+1524
 01:27:14,830 --> 01:27:15,150
 Oops.
 
-1524
+1525
 01:27:15,970 --> 01:27:18,950
 Also, I should probably put a, uh... Oh, you know what?
 
-1525
+1526
 01:27:18,990 --> 01:27:19,650
 We should have a button.
 
-1526
+1527
 01:27:21,330 --> 01:27:22,670
 We need a button for that one.
 
-1527
+1528
 01:27:25,620 --> 01:27:26,200
 Buton.
 
-1528
+1529
 01:27:31,820 --> 01:27:32,400
 Fuck.
 
-1529
+1530
 01:27:33,520 --> 01:27:35,980
 I hate having a full inventory.
 
-1530
+1531
 01:27:36,420 --> 01:27:36,980
 It sucks, ass.
 
-1531
+1532
 01:27:40,660 --> 01:27:41,980
 I'll take some more sugarcane.
 
-1532
+1533
 01:27:45,340 --> 01:27:46,660
 Don't eat torches right now.
 
-1533
+1534
 01:27:50,320 --> 01:27:51,140
 One of these.
 
-1534
+1535
 01:27:54,060 --> 01:27:55,100
 Get out of the way!
 
-1535
+1536
 01:28:03,140 --> 01:28:03,640
 Okay.
 
-1536
+1537
 01:28:09,080 --> 01:28:10,460
 Fuck, I picked it up immediately.
 
-1537
+1538
 01:28:12,140 --> 01:28:13,880
 Oh, the button got the... what?
 
-1538
+1539
 01:28:16,320 --> 01:28:17,340
 Okay, it's over here.
 
-1539
+1540
 01:28:21,940 --> 01:28:23,320
 No, don't pick it up, don't pick it up.
 
-1540
+1541
 01:28:26,220 --> 01:28:27,540
 Okay, Lance there, let's see.
 
-1541
+1542
 01:28:41,180 --> 01:28:42,080
 Let's see the distribution.
 
-1542
+1543
 01:28:58,340 --> 01:28:58,860
 Oh, wait a minute.
 
-1543
+1544
 01:28:58,940 --> 01:29:00,280
 Are they being picked up by each other?
 
-1544
+1545
 01:29:02,640 --> 01:29:03,140
 Wait a minute.
 
-1545
+1546
 01:29:06,440 --> 01:29:07,080
 That's interesting.
 
-1546
+1547
 01:29:07,400 --> 01:29:10,160
 So if I... A little off.
 
-1547
+1548
 01:29:10,340 --> 01:29:10,800
 Oh, yeah, look!
 
-1548
+1549
 01:29:15,840 --> 01:29:17,360
 They scoop up each other.
 
-1549
+1550
 01:29:19,220 --> 01:29:20,360
 Isn't that interesting?
 
-1550
+1551
 01:29:21,780 --> 01:29:23,120
 I actually had no idea.
 
-1551
+1552
 01:29:25,640 --> 01:29:26,140
 Look.
 
-1552
+1553
 01:29:28,160 --> 01:29:28,660
 Huh.
 
-1553
+1554
 01:29:29,760 --> 01:29:32,580
 In any case, it's like this area here, right?
 
-1554
+1555
 01:29:34,600 --> 01:29:35,660
 That's the distribution.
 
-1555
+1556
 01:29:35,900 --> 01:29:40,400
 So what I need to have... I need to have hoppers here.
 
-1556
+1557
 01:29:41,320 --> 01:29:42,900
 Oh, actually, I can have them up top.
 
-1557
+1558
 01:29:43,400 --> 01:29:45,280
 They don't have to fall all the way down.
 
-1558
+1559
 01:29:47,020 --> 01:29:49,160
 I DEPOSITED ALL MY DIRT!
 
-1559
+1560
 01:29:50,360 --> 01:29:50,960
 Fuck!
 
-1560
+1561
 01:29:53,480 --> 01:29:55,060
 One of the few things I needed.
 
-1561
+1562
 01:29:56,600 --> 01:29:57,480
 Gimme half.
 
-1562
+1563
 01:29:59,460 --> 01:30:00,200
 That's good.
 
-1563
+1564
 01:30:04,260 --> 01:30:04,860
 Okay.
 
-1564
+1565
 01:30:08,440 --> 01:30:09,240
 Hopper time?
 
-1565
+1566
 01:30:13,840 --> 01:30:14,320
 Oh!
 
-1566
+1567
 01:30:14,320 --> 01:30:14,800
 Okay.
 
-1567
+1568
 01:30:16,160 --> 01:30:17,420
 Actually, it needs to be like this.
 
-1568
+1569
 01:30:19,360 --> 01:30:21,040
 They're all gonna link into that guy.
 
-1569
+1570
 01:30:22,660 --> 01:30:24,080
 This is gonna link into here.
 
-1570
+1571
 01:30:24,660 --> 01:30:27,340
 This one is gonna link into... Yeah, sure, it doesn't matter at this point.
 
-1571
+1572
 01:30:27,940 --> 01:30:28,220
 Sure.
 
-1572
+1573
 01:30:29,500 --> 01:30:29,980
 There.
 
-1573
+1574
 01:30:30,740 --> 01:30:31,220
 Right.
 
-1574
+1575
 01:30:31,780 --> 01:30:32,480
 Down below.
 
-1575
+1576
 01:30:34,000 --> 01:30:34,840
 Very simple.
 
-1576
+1577
 01:30:34,960 --> 01:30:36,100
 We're gonna have a chest right here.
 
-1577
+1578
 01:30:37,180 --> 01:30:37,660
 There!
 
-1578
+1579
 01:30:39,620 --> 01:30:44,320
 So now... You ready?
 
-1579
+1580
 01:30:50,540 --> 01:30:51,860
 We're simulating.
 
-1580
+1581
 01:30:56,280 --> 01:30:57,520
 Get out of here!
 
-1581
+1582
 01:31:02,520 --> 01:31:02,940
 Hey!
 
-1582
+1583
 01:31:02,940 --> 01:31:04,040
 Not bad, eh?
 
-1583
+1584
 01:31:05,900 --> 01:31:09,340
 Okay, so that's... but this is like a lot, isn't it?
 
-1584
+1585
 01:31:09,940 --> 01:31:10,920
 That is a lot.
 
-1585
+1586
 01:31:11,200 --> 01:31:11,560
 Oh, wait.
 
-1586
+1587
 01:31:11,780 --> 01:31:13,240
 Unless I can constrict the movement.
 
-1587
+1588
 01:31:13,440 --> 01:31:14,840
 Hold on, am I being super dumb?
 
-1588
+1589
 01:31:15,960 --> 01:31:17,440
 What if I just block the path?
 
-1589
+1590
 01:31:19,560 --> 01:31:20,760
 Wait, wait, wait, wait, wait, wait, wait.
 
-1590
+1591
 01:31:22,880 --> 01:31:23,640
 Fuck off!
 
-1591
+1592
 01:31:28,240 --> 01:31:29,720
 It punched it above the wall.
 
-1592
+1593
 01:31:30,740 --> 01:31:31,860
 Block it off even more.
 
-1593
+1594
 01:31:37,320 --> 01:31:37,760
 Nice!
 
-1594
+1595
 01:31:40,950 --> 01:31:42,630
 God, I'm so annoyed with you already again.
 
-1595
+1596
 01:31:42,670 --> 01:31:43,830
 I want to kill you so bad.
 
-1596
+1597
 01:31:44,850 --> 01:31:46,110
 I want to murder you.
 
-1597
+1598
 01:31:47,450 --> 01:31:48,090
 Oh, no!
 
-1598
+1599
 01:31:48,550 --> 01:31:49,250
 It escaped.
 
-1599
+1600
 01:31:49,970 --> 01:31:51,430
 So we need to do like this instead.
 
-1600
+1601
 01:31:53,890 --> 01:31:55,330
 Don't even think about coming up here.
 
-1601
+1602
 01:31:57,910 --> 01:31:58,850
 Shit, I can't reach.
 
-1602
+1603
 01:32:00,230 --> 01:32:00,850
 Don't... No!
 
-1603
+1604
 01:32:01,530 --> 01:32:02,250
 Fuck off!
 
-1604
+1605
 01:32:02,390 --> 01:32:03,990
 Why you want to be up here?!
 
-1605
+1606
 01:32:03,990 --> 01:32:07,210
 Oh, I understand why.
 
-1606
+1607
 01:32:08,970 --> 01:32:10,030
 Let's get rid of this shit.
 
-1607
+1608
 01:32:11,070 --> 01:32:11,490
 There.
 
-1608
+1609
 01:32:11,930 --> 01:32:12,870
 You have a day off.
 
-1609
+1610
 01:32:16,010 --> 01:32:17,270
 I leveled him!
 
-1610
+1611
 01:32:17,450 --> 01:32:18,370
 He's not gonna leave!
 
-1611
+1612
 01:32:22,330 --> 01:32:26,170
 Unless... Unless... Unless... Where did it go?
 
-1612
+1613
 01:32:30,710 --> 01:32:31,570
 Where did it go?
 
-1613
+1614
 01:32:32,710 --> 01:32:33,350
 There it is.
 
-1614
+1615
 01:32:35,330 --> 01:32:36,650
 Sir, you are now over here.
 
-1615
+1616
 01:32:36,970 --> 01:32:37,590
 You hear me?
 
-1616
+1617
 01:32:37,870 --> 01:32:38,450
 Have fun.
 
-1617
+1618
 01:32:39,510 --> 01:32:40,750
 Yeah, go play over there.
 
-1618
+1619
 01:32:40,970 --> 01:32:41,570
 That's right.
 
-1619
+1620
 01:32:43,370 --> 01:32:44,110
 Good stuff.
 
-1620
+1621
 01:32:45,350 --> 01:32:46,070
 Okay, here we go.
 
-1621
+1622
 01:32:52,150 --> 01:32:52,830
 Yeah, look!
 
-1622
+1623
 01:32:54,110 --> 01:32:57,370
 It's constricted, it's not... Oh, but how am I gonna collect it, though?
 
-1623
+1624
 01:32:58,070 --> 01:33:00,310
 Maybe if I have the surrounding walls, it's enough.
 
-1624
+1625
 01:33:00,490 --> 01:33:02,650
 Maybe it'll be scooped up regardless.
 
-1625
+1626
 01:33:04,290 --> 01:33:05,050
 So, hold on.
 
-1626
+1627
 01:33:05,870 --> 01:33:07,010
 Where is it right now?
 
-1627
+1628
 01:33:07,910 --> 01:33:10,010
 One, two, three.
 
-1628
+1629
 01:33:11,770 --> 01:33:12,710
 One, two, three.
 
-1629
+1630
 01:33:12,810 --> 01:33:13,990
 It's right over there.
 
-1630
+1631
 01:33:15,890 --> 01:33:17,650
 Oh, no, it's not being picked up.
 
-1631
+1632
 01:33:17,810 --> 01:33:18,670
 It would... Like, look.
 
-1632
+1633
 01:33:20,700 --> 01:33:23,240
 It's right on the other side of that edge right there.
 
-1633
+1634
 01:33:23,500 --> 01:33:23,940
 You see it?
 
-1634
+1635
 01:33:23,940 --> 01:33:25,020
 You can actually see it through the earth.
 
-1635
+1636
 01:33:27,080 --> 01:33:27,520
 Fuck.
 
-1636
+1637
 01:33:30,420 --> 01:33:32,000
 But I guess that's fine, maybe.
 
-1637
+1638
 01:33:34,820 --> 01:33:35,740
 Maybe that's fine.
 
-1638
+1639
 01:33:37,380 --> 01:33:38,700
 So it's there now.
 
-1639
+1640
 01:33:42,820 --> 01:33:44,880
 Now I need to find a way to scoop it out.
 
-1640
+1641
 01:33:45,000 --> 01:33:46,780
 So I collect them all in one spot.
 
-1641
+1642
 01:33:46,920 --> 01:33:51,200
 Now I need to scoop them all into one hopper, right?
 
-1642
+1643
 01:33:53,860 --> 01:33:56,740
 I could make it a little bit bigger at the bottom, right?
 
-1643
+1644
 01:33:57,540 --> 01:33:58,780
 If I just do this...
 
-1644
+1645
 01:34:09,180 --> 01:34:10,800
 Oh no, it's not being picked up.
 
-1645
+1646
 01:34:12,860 --> 01:34:14,540
 Even though it's so close to the edge.
 
-1646
+1647
 01:34:16,980 --> 01:34:18,560
 Maybe it's because it needs to be in movement.
 
-1647
+1648
 01:34:20,160 --> 01:34:20,700
 Hold on.
 
-1648
+1649
 01:34:20,900 --> 01:34:23,380
 So if I now do this... Close it off.
 
-1649
+1650
 01:34:32,320 --> 01:34:32,720
 Shit.
 
-1650
+1651
 01:34:35,020 --> 01:34:36,200
 It's not being picked up.
 
-1651
+1652
 01:34:41,220 --> 01:34:43,420
 What happens if I... Oh, this is going to destroy two of them, isn't it?
 
-1652
+1653
 01:34:45,280 --> 01:34:46,380
 Yeah, nice.
 
-1653
+1654
 01:34:46,560 --> 01:34:49,040
 At least I understand the principle there.
 
-1654
+1655
 01:34:53,260 --> 01:34:56,400
 I mean, at this point, I already had it working, right?
 
-1655
+1656
 01:34:57,120 --> 01:35:01,180
 I'm just trying to find out a way to reduce the amount of hoppers I need, I guess.
 
-1656
+1657
 01:35:01,660 --> 01:35:03,140
 I mean, I found a way to make it work.
 
-1657
+1658
 01:35:03,280 --> 01:35:04,360
 I already solved it.
 
-1658
+1659
 01:35:04,960 --> 01:35:06,780
 Now we're just optimizing the code, right?
 
-1659
+1660
 01:35:10,430 --> 01:35:14,030
 Maybe we can... I don't know.
 
-1660
+1661
 01:35:14,110 --> 01:35:14,750
 I don't know, actually.
 
-1661
+1662
 01:35:16,150 --> 01:35:18,250
 I don't know what we have at our disposal.
 
-1662
+1663
 01:35:24,160 --> 01:35:24,480
 Yeah.
 
-1663
+1664
 01:35:24,480 --> 01:35:25,420
 Let me see what I got.
 
-1664
+1665
 01:35:26,280 --> 01:35:28,060
 Is there anything I could utilize, maybe?
 
-1665
+1666
 01:35:31,080 --> 01:35:32,460
 Maybe a pressure... no.
 
-1666
+1667
 01:35:32,920 --> 01:35:35,240
 Wait, is that actually gonna cause an effect on the pressure plate?
 
-1667
+1668
 01:35:35,340 --> 01:35:37,200
 I don't know how that would help me, even.
 
-1668
+1669
 01:35:39,460 --> 01:35:42,200
 Like, when it falls down, it hits a pressure plate?
 
-1669
+1670
 01:35:42,340 --> 01:35:44,880
 No, but I need to have fertile ground there.
 
-1670
+1671
 01:35:44,940 --> 01:35:45,780
 I can't change that.
 
-1671
+1672
 01:35:50,300 --> 01:35:52,100
 Ooh, wait, wait, wait, wait, wait, wait, wait.
 
-1672
+1673
 01:35:52,160 --> 01:35:52,900
 I have an idea.
 
-1673
+1674
 01:35:53,060 --> 01:35:53,480
 I have an idea.
 
-1674
+1675
 01:35:53,620 --> 01:35:53,860
 I have an idea.
 
-1675
+1676
 01:35:55,040 --> 01:35:56,560
 We're going to need a sticky piston for this one.
 
-1676
+1677
 01:35:58,380 --> 01:35:59,360
 It's actually so smart.
 
-1677
+1678
 01:36:00,780 --> 01:36:01,100
 Wait.
 
-1678
+1679
 01:36:01,980 --> 01:36:03,600
 I need to test something real fast first.
 
-1679
+1680
 01:36:03,780 --> 01:36:04,780
 Otherwise, this is not going to work.
 
-1680
+1681
 01:36:05,340 --> 01:36:06,460
 This ain't going to work otherwise.
 
-1681
+1682
 01:36:08,720 --> 01:36:18,620
 Piston... If I put a piston here... And I have dirt here... And that dirt has been... Hold.
 
-1682
+1683
 01:36:23,300 --> 01:36:24,880
 No, it's unhoad now.
 
-1683
+1684
 01:36:25,460 --> 01:36:27,160
 Oh, we don't need hoad.
 
-1684
+1685
 01:36:27,300 --> 01:36:28,040
 We don't need hose.
 
-1685
+1686
 01:36:28,420 --> 01:36:29,040
 No hose here.
 
-1686
+1687
 01:36:30,700 --> 01:36:32,320
 We're doing sugar cane.
 
-1687
+1688
 01:36:35,300 --> 01:36:36,380
 Oh, but wait, we need water.
 
-1688
+1689
 01:36:39,740 --> 01:36:40,860
 See, this is why we need sticky.
 
-1689
+1690
 01:36:42,820 --> 01:36:43,940
 We need the sticky one.
 
-1690
+1691
 01:36:45,220 --> 01:36:46,340
 This may actually work.
 
-1691
+1692
 01:36:49,960 --> 01:36:51,700
 I guess I gotta test it here.
 
-1692
+1693
 01:36:59,240 --> 01:37:01,860
 Shit, I'm gonna need to... Hold on.
 
-1693
+1694
 01:37:05,900 --> 01:37:08,440
 It is... this one.
 
-1694
+1695
 01:37:11,260 --> 01:37:12,920
 Oh, how am I gonna place the piston though?
 
-1695
+1696
 01:37:15,320 --> 01:37:17,220
 Oh, nice, that works.
 
-1696
+1697
 01:37:19,220 --> 01:37:20,180
 Okay.
 
-1697
+1698
 01:37:30,000 --> 01:37:30,960
 Shit.
 
-1698
+1699
 01:37:32,720 --> 01:37:34,660
 Ah, crapcakes.
 
-1699
+1700
 01:37:38,740 --> 01:37:41,480
 Unless we only... No, no, no, that's not gonna work.
 
-1700
+1701
 01:37:42,340 --> 01:37:47,700
 I thought maybe I could move the... the actual earth out of the way.
 
-1701
+1702
 01:37:48,700 --> 01:37:51,200
 So that I can expose a piston.
 
-1702
+1703
 01:37:51,660 --> 01:37:53,720
 No, expose a hopper somewhere.
 
-1703
+1704
 01:37:55,320 --> 01:37:55,720
 Instead.
 
-1704
+1705
 01:37:55,920 --> 01:37:57,620
 I could also... Yo, yo, yo, yo, wait, wait, wait, wait, wait.
 
-1705
+1706
 01:37:58,720 --> 01:38:01,480
 What if I move a hopper... Oh, dude!
 
-1706
+1707
 01:38:02,760 --> 01:38:03,880
 I maybe have a solution.
 
-1707
+1708
 01:38:05,110 --> 01:38:07,990
 It's gonna break this thing, and notice what happens when it breaks, okay?
 
-1708
+1709
 01:38:08,130 --> 01:38:08,690
 I'm gonna show you.
 
-1709
+1710
 01:38:10,470 --> 01:38:12,250
 This is some really technical stuff now.
 
-1710
+1711
 01:38:15,190 --> 01:38:16,370
 Let me just confirm here.
 
-1711
+1712
 01:38:16,590 --> 01:38:16,990
 Let me do that.
 
-1712
+1713
 01:38:17,110 --> 01:38:17,810
 Ah, no, no, no, no.
 
-1713
+1714
 01:38:18,170 --> 01:38:18,430
 Here.
 
-1714
+1715
 01:38:19,050 --> 01:38:19,770
 Stop that.
 
-1715
+1716
 01:38:21,530 --> 01:38:21,970
 There.
 
-1716
+1717
 01:38:23,230 --> 01:38:23,670
 Okay.
 
-1717
+1718
 01:38:24,870 --> 01:38:29,090
 So notice what happens when I do that, and I press.
 
-1718
+1719
 01:38:34,380 --> 01:38:35,420
 Wait, let me try again.
 
-1719
+1720
 01:38:37,440 --> 01:38:39,560
 Notice how it gets shot up along the walls.
 
-1720
+1721
 01:38:39,700 --> 01:38:41,340
 It goes up, right?
 
-1721
+1722
 01:38:42,540 --> 01:38:46,500
 So what I need to do... Oh, you know what?
 
-1722
+1723
 01:38:46,620 --> 01:38:47,260
 Actually, I'm an idiot.
 
-1723
+1724
 01:38:48,920 --> 01:38:50,240
 Would you need to guide it this way?
 
-1724
+1725
 01:38:50,260 --> 01:38:51,060
 I'm so dumb!
 
-1725
+1726
 01:38:52,560 --> 01:38:53,520
 What am I doing?
 
-1726
+1727
 01:38:57,620 --> 01:38:59,080
 We still only need one hopper.
 
-1727
+1728
 01:38:59,180 --> 01:38:59,820
 This is so easy.
 
-1728
+1729
 01:38:59,960 --> 01:39:00,220
 Look at that.
 
-1729
+1730
 01:39:00,380 --> 01:39:01,700
 It's gonna fall in there for sure now.
 
-1730
+1731
 01:39:02,740 --> 01:39:03,520
 Oh my god.
 
-1731
+1732
 01:39:07,480 --> 01:39:07,840
 Yay!
 
-1732
+1733
 01:39:13,580 --> 01:39:13,940
 Ah!
 
-1733
+1734
 01:39:14,880 --> 01:39:15,580
 Actually, wait a minute.
 
-1734
+1735
 01:39:16,980 --> 01:39:18,480
 I gotta test this for sure.
 
-1735
+1736
 01:39:19,320 --> 01:39:22,820
 So this one is gonna be... Yeah, okay.
 
-1736
+1737
 01:39:22,960 --> 01:39:23,400
 Now we test.
 
-1737
+1738
 01:39:30,340 --> 01:39:31,060
 Wait, what?
 
-1738
+1739
 01:39:31,360 --> 01:39:31,960
 Oh!
 
-1739
+1740
 01:39:32,180 --> 01:39:33,620
 Oh, I can't do it while I'm crouching!
 
-1740
+1741
 01:39:36,680 --> 01:39:37,840
 Alright, two for two?
 
-1741
+1742
 01:39:44,240 --> 01:39:44,840
 Nice!
 
-1742
+1743
 01:39:46,620 --> 01:39:47,220
 Yes!
 
-1743
+1744
 01:39:47,960 --> 01:39:48,540
 Okay!
 
-1744
+1745
 01:39:49,880 --> 01:39:50,880
 Hashtag optimized!
 
-1745
+1746
 01:39:51,860 --> 01:39:52,600
 Nailed it!
 
-1746
+1747
 01:39:55,580 --> 01:39:56,440
 Very cool.
 
-1747
+1748
 01:40:02,460 --> 01:40:04,980
 I'm just double testing that nothing gets lost.
 
-1748
+1749
 01:40:05,780 --> 01:40:10,980
 But I mean, already the percentage, statistically, the amount that gets accepted is already so high, right?
 
-1749
+1750
 01:40:11,380 --> 01:40:13,500
 Even if one gets lost, whatever.
 
-1750
+1751
 01:40:14,440 --> 01:40:15,480
 That's fine with me.
 
-1751
+1752
 01:40:16,040 --> 01:40:16,820
 Totally fine.
 
-1752
+1753
 01:40:17,760 --> 01:40:18,000
 Okay.
 
-1753
+1754
 01:40:18,500 --> 01:40:20,980
 Now to think how we can do this more efficiently.
 
-1754
+1755
 01:40:22,720 --> 01:40:27,280
 So I'm imagining... I'm imagining... I'm imagining... Water.
 
-1755
+1756
 01:40:27,620 --> 01:40:29,360
 In fact, I'm going to use this water that we have right here.
 
-1756
+1757
 01:40:29,620 --> 01:40:30,760
 This will be the testing.
 
-1757
+1758
 01:40:31,130 --> 01:40:31,670
 Grounds.
 
-1758
+1759
 01:40:32,710 --> 01:40:33,870
 Similar to what I have here.
 
-1759
+1760
 01:40:37,810 --> 01:40:38,530
 Oh, dude!
 
-1760
+1761
 01:40:39,290 --> 01:40:45,450
 And all the hoppers are gonna be going into each other along one line into a chest at the end.
 
-1761
+1762
 01:40:46,110 --> 01:40:47,410
 It's gonna be so perfect.
 
-1762
+1763
 01:40:50,420 --> 01:40:51,360
 I know how to do it.
 
-1763
+1764
 01:40:51,640 --> 01:40:52,820
 I know how to do it.
 
-1764
+1765
 01:40:55,040 --> 01:40:56,060
 This is actually big.
 
-1765
+1766
 01:40:56,720 --> 01:40:57,780
 I'm kind of excited about this.
 
-1766
+1767
 01:41:00,360 --> 01:41:01,660
 So we have water here.
 
-1767
+1768
 01:41:02,540 --> 01:41:03,680
 Let's get rid of all this first.
 
-1768
+1769
 01:41:06,570 --> 01:41:07,430
 Now, you know what?
 
-1769
+1770
 01:41:07,490 --> 01:41:09,650
 This is my... I'm gonna make another place.
 
-1770
+1771
 01:41:10,350 --> 01:41:14,970
 Let's have it... I don't even know.
 
-1771
+1772
 01:41:15,650 --> 01:41:17,570
 Let's do a quick test run over here.
 
-1772
+1773
 01:41:18,070 --> 01:41:18,550
 Okay?
 
-1773
+1774
 01:41:21,090 --> 01:41:21,770
 Like that.
 
-1774
+1775
 01:41:22,510 --> 01:41:23,650
 We're gonna have water there.
 
-1775
+1776
 01:41:24,330 --> 01:41:25,650
 So I'm gonna need a bucket.
 
-1776
+1777
 01:41:27,550 --> 01:41:29,210
 Actually very fitting with Jim, isn't it?
 
-1777
+1778
 01:41:30,470 --> 01:41:31,770
 The reassurance bucket.
 
-1778
+1779
 01:41:32,350 --> 01:41:33,250
 It's coming in.
 
-1779
+1780
 01:41:37,400 --> 01:41:38,760
 Here we go.
 
-1780
+1781
 01:41:41,980 --> 01:41:43,280
 Whoops.
 
-1781
+1782
 01:41:48,320 --> 01:41:49,620
 Nope.
 
-1782
+1783
 01:41:51,020 --> 01:41:52,560
 Water there.
 
-1783
+1784
 01:41:56,100 --> 01:41:57,880
 We need one more.
 
-1784
+1785
 01:41:58,640 --> 01:41:59,880
 Maybe two more.
 
-1785
+1786
 01:42:02,910 --> 01:42:04,310
 Right, I need to take it from the center.
 
-1786
+1787
 01:42:07,090 --> 01:42:07,550
 Ah!
 
-1787
+1788
 01:42:08,190 --> 01:42:08,910
 On this?
 
-1788
+1789
 01:42:09,930 --> 01:42:10,350
 Hey!
 
-1789
+1790
 01:42:10,950 --> 01:42:11,570
 Okay, that works.
 
-1790
+1791
 01:42:12,290 --> 01:42:12,750
 Wonderful.
 
-1791
+1792
 01:42:13,490 --> 01:42:14,170
 Now we have that.
 
-1792
+1793
 01:42:14,810 --> 01:42:20,150
 Let's say these ones over here are going to be the sugar cane areas.
 
-1793
+1794
 01:42:21,490 --> 01:42:22,150
 Like that.
 
-1794
+1795
 01:42:22,290 --> 01:42:22,850
 These are gonna grow.
 
-1795
+1796
 01:42:23,270 --> 01:42:23,530
 Okay.
 
-1796
+1797
 01:42:25,530 --> 01:42:25,990
 Now.
 
-1797
+1798
 01:42:26,650 --> 01:42:27,190
 Oh, dude!
 
-1798
+1799
 01:42:27,690 --> 01:42:30,310
 I wonder if they all grow at the same time.
 
-1799
+1800
 01:42:30,730 --> 01:42:31,790
 I don't think they do.
 
-1800
+1801
 01:42:32,010 --> 01:42:34,510
 Because if they did, I technically only need one observer.
 
-1801
+1802
 01:42:35,290 --> 01:42:37,190
 I'm gonna need a lot of observers.
 
-1802
+1803
 01:42:41,790 --> 01:42:42,810
 Give me that one.
 
-1803
+1804
 01:42:43,110 --> 01:42:43,910
 I need more observers.
 
-1804
+1805
 01:42:44,210 --> 01:42:44,770
 I don't have enough.
 
-1805
+1806
 01:42:50,250 --> 01:42:51,150
 What am I doing?
 
-1806
+1807
 01:42:53,290 --> 01:42:55,910
 Give me the... recipe.
 
-1807
+1808
 01:42:57,890 --> 01:42:59,170
 And the port's ready.
 
-1808
+1809
 01:43:07,590 --> 01:43:08,870
 Okay.
 
-1809
+1810
 01:43:09,750 --> 01:43:11,030
 Now.
 
-1810
+1811
 01:43:11,630 --> 01:43:16,190
 Recipe was... Observer.
 
-1811
+1812
 01:43:16,550 --> 01:43:19,470
 Quartz, redstone, and cobblestone.
 
-1812
+1813
 01:43:24,500 --> 01:43:25,320
 Redstone, I have it.
 
-1813
+1814
 01:43:25,440 --> 01:43:25,960
 Oh, shears.
 
-1814
+1815
 01:43:26,080 --> 01:43:26,660
 Let's put that away.
 
-1815
+1816
 01:43:28,840 --> 01:43:29,580
 Wheat seeds.
 
-1816
+1817
 01:43:31,980 --> 01:43:32,420
 Wheat.
 
-1817
+1818
 01:43:32,860 --> 01:43:35,600
 I guess this is more like food at this point.
 
-1818
+1819
 01:43:37,520 --> 01:43:38,740
 And we have all this crap.
 
-1819
+1820
 01:43:40,720 --> 01:43:41,980
 Don't need that right now.
 
-1820
+1821
 01:43:43,680 --> 01:43:45,040
 Maybe we don't need the button either.
 
-1821
+1822
 01:43:46,260 --> 01:43:47,240
 Not at the moment.
 
-1822
+1823
 01:43:49,800 --> 01:43:50,760
 Oh yeah, quartz.
 
-1823
+1824
 01:43:52,730 --> 01:43:53,490
 I got it.
 
-1824
+1825
 01:43:57,870 --> 01:43:58,230
 Nice!
 
-1825
+1826
 01:44:01,230 --> 01:44:02,190
 Exactly what I needed.
 
-1826
+1827
 01:44:02,510 --> 01:44:05,930
 Oh, we're also going to need a bunch of pistons, but I have a lot of that already.
 
-1827
+1828
 01:44:06,090 --> 01:44:06,350
 That's fine.
 
-1828
+1829
 01:44:07,970 --> 01:44:08,630
 Totally fine.
 
-1829
+1830
 01:44:12,760 --> 01:44:13,480
 Now watch.
 
-1830
+1831
 01:44:13,700 --> 01:44:15,680
 Here, here, here, here, here.
 
-1831
+1832
 01:44:16,280 --> 01:44:17,600
 Here ye, here ye.
 
-1832
+1833
 01:44:19,840 --> 01:44:21,780
 Ah, wait, I'm not gonna have a room here.
 
-1833
+1834
 01:44:23,060 --> 01:44:25,600
 The wall is gonna be really annoying.
 
-1834
+1835
 01:44:25,840 --> 01:44:26,620
 Ah, I can move it around.
 
-1835
+1836
 01:44:30,000 --> 01:44:35,460
 Let's just double check that there's no way to cheat the system here when I'm done.
 
-1836
+1837
 01:44:37,920 --> 01:44:38,360
 Fuck.
 
-1837
+1838
 01:44:41,100 --> 01:44:42,200
 We gotta do this.
 
-1838
+1839
 01:44:43,760 --> 01:44:44,700
 Temporary solution.
 
-1839
+1840
 01:44:45,840 --> 01:44:47,480
 I'm too lazy to move everything else.
 
-1840
+1841
 01:44:49,620 --> 01:44:50,740
 It is what it is.
 
-1841
+1842
 01:44:58,100 --> 01:44:58,680
 Goddammit.
 
-1842
+1843
 01:45:03,280 --> 01:45:03,860
 No!
 
-1843
+1844
 01:45:07,160 --> 01:45:08,260
 Fine.
 
-1844
+1845
 01:45:08,840 --> 01:45:10,340
 Temporary solution.
 
-1845
+1846
 01:45:10,700 --> 01:45:11,800
 It's okay.
 
-1846
+1847
 01:45:22,890 --> 01:45:23,330
 Beautiful.
 
-1847
+1848
 01:45:23,330 --> 01:45:24,590
 This is so silly.
 
-1848
+1849
 01:45:26,030 --> 01:45:26,470
 Alright.
 
-1849
+1850
 01:45:28,890 --> 01:45:29,630
 Like that?
 
-1850
+1851
 01:45:30,750 --> 01:45:32,370
 I need more redstone.
 
-1851
+1852
 01:45:32,530 --> 01:45:32,730
 Fuck.
 
-1852
+1853
 01:45:33,310 --> 01:45:36,130
 I knew I should have taken a redstone block when I saw it.
 
-1853
+1854
 01:45:36,330 --> 01:45:37,170
 Why didn't I take it?
 
-1854
+1855
 01:45:38,450 --> 01:45:38,890
 Crap.
 
-1855
+1856
 01:45:45,630 --> 01:45:46,290
 There we go.
 
-1856
+1857
 01:45:50,790 --> 01:45:51,430
 Good enough.
 
-1857
+1858
 01:45:55,150 --> 01:45:55,550
 Yep.
 
-1858
+1859
 01:45:56,770 --> 01:45:58,190
 64 is about right.
 
-1859
+1860
 01:45:59,470 --> 01:46:00,670
 Dude, look at that horizon.
 
-1860
+1861
 01:46:02,110 --> 01:46:03,310
 Blood was spilled this night.
 
-1861
+1862
 01:46:09,650 --> 01:46:10,830
 Oh, wait, they're all linked now.
 
-1862
+1863
 01:46:12,950 --> 01:46:14,130
 That may be a bad thing.
 
-1863
+1864
 01:46:15,350 --> 01:46:16,030
 Actually, it's not.
 
-1864
+1865
 01:46:16,170 --> 01:46:18,950
 It's just going to push out a... Oh, wait, we have an issue.
 
-1865
+1866
 01:46:25,140 --> 01:46:25,960
 Wait a minute.
 
-1866
+1867
 01:46:28,920 --> 01:46:31,380
 We actually may have an issue here.
 
-1867
+1868
 01:46:33,920 --> 01:46:35,560
 Yo, wait a minute, can I not just...
 
-1868
+1869
 01:46:46,110 --> 01:46:46,550
 Okay.
 
-1869
+1870
 01:46:47,090 --> 01:46:49,110
 I kind of want the water over there instead now.
 
-1870
+1871
 01:46:50,230 --> 01:46:51,690
 And I have a good reason for it.
 
-1871
+1872
 01:46:51,790 --> 01:46:52,250
 I'll show you.
 
-1872
+1873
 01:46:58,150 --> 01:46:58,590
 Bucket.
 
-1873
+1874
 01:47:12,410 --> 01:47:12,850
 Nice.
 
-1874
+1875
 01:47:13,230 --> 01:47:13,670
 Okay.
 
-1875
+1876
 01:47:17,320 --> 01:47:19,640
 On this side, we're gonna have the pistons.
 
-1876
+1877
 01:47:24,640 --> 01:47:25,360
 Like that.
 
-1877
+1878
 01:47:28,220 --> 01:47:29,400
 No, the other way.
 
-1878
+1879
 01:47:34,300 --> 01:47:34,780
 Onomasu.
 
-1879
+1880
 01:47:43,580 --> 01:47:43,860
 Okay.
 
-1880
+1881
 01:47:45,700 --> 01:47:47,220
 How am I gonna wire this shit, though?
 
-1881
+1882
 01:47:49,020 --> 01:47:50,040
 Below Earth.
 
-1882
+1883
 01:47:51,460 --> 01:47:51,880
 Oh, dude.
 
-1883
+1884
 01:47:52,360 --> 01:47:53,280
 I know, I know, I know.
 
-1884
+1885
 01:47:53,860 --> 01:47:55,280
 Ah, fuck, fuck, fuck, fuck, fuck, fuck, fuck.
 
-1885
+1886
 01:47:56,240 --> 01:47:57,140
 Bad, bad, bad, bad, bad.
 
-1886
+1887
 01:47:58,620 --> 01:47:59,300
 Need to go deeper.
 
-1887
+1888
 01:48:05,340 --> 01:48:06,040
 Wait a minute.
 
-1888
+1889
 01:48:07,180 --> 01:48:08,580
 If I put a torch...
 
-1889
+1890
 01:48:12,780 --> 01:48:13,160
 Here.
 
-1890
+1891
 01:48:13,160 --> 01:48:14,320
 And I grow over here.
 
-1891
+1892
 01:48:20,140 --> 01:48:20,520
 Wait.
 
-1892
+1893
 01:48:28,520 --> 01:48:30,020
 No, no, no, no, no, wait, wait, wait.
 
-1893
+1894
 01:48:30,580 --> 01:48:31,560
 How did this work again?
 
-1894
+1895
 01:48:33,560 --> 01:48:33,940
 I...
 
-1895
+1896
 01:48:36,820 --> 01:48:39,640
 Oh, I needed a, um... I need a block in between.
 
-1896
+1897
 01:48:40,940 --> 01:48:41,980
 Like this, I think.
 
-1897
+1898
 01:48:44,260 --> 01:48:45,020
 Torch here.
 
-1898
+1899
 01:48:46,800 --> 01:48:47,880
 Now, send the signal.
 
-1899
+1900
 01:48:48,380 --> 01:48:49,760
 Oh, but wait a minute, I think I know what's happening.
 
-1900
+1901
 01:48:51,100 --> 01:48:53,640
 Ah, the observer signal is, uh, too short.
 
-1901
+1902
 01:48:53,840 --> 01:48:55,700
 It's the same problem we had in the chamber.
 
-1902
+1903
 01:48:56,900 --> 01:48:58,840
 Ah, fuck, I need to solve that again now?
 
-1903
+1904
 01:49:00,760 --> 01:49:02,040
 No, I'm not gonna do that.
 
-1904
+1905
 01:49:03,960 --> 01:49:05,620
 We're gonna try something more simple then.
 
-1905
+1906
 01:49:06,880 --> 01:49:11,420
 Let's... Say what now?
 
-1906
+1907
 01:49:13,760 --> 01:49:14,700
 Surge protector?
 
-1907
+1908
 01:49:19,720 --> 01:49:22,780
 Protect a villager from an undesired shock without starting a fire.
 
-1908
+1909
 01:49:24,240 --> 01:49:24,720
 Huh?
 
-1909
+1910
 01:49:26,140 --> 01:49:26,620
 How?
 
-1910
+1911
 01:49:26,840 --> 01:49:27,720
 I don't have one of these.
 
-1911
+1912
 01:49:28,360 --> 01:49:29,900
 I'm pretty sure I don't have one of these.
 
-1912
+1913
 01:49:33,010 --> 01:49:33,690
 What the hell?
 
-1913
+1914
 01:49:35,110 --> 01:49:35,470
 Whatever.
 
-1914
+1915
 01:49:37,410 --> 01:49:39,410
 Okay, so this one is gonna come down here.
 
-1915
+1916
 01:49:41,670 --> 01:49:42,410
 To here.
 
-1916
+1917
 01:49:43,330 --> 01:49:43,690
 Nope.
 
-1917
+1918
 01:49:44,370 --> 01:49:44,710
 There.
 
-1918
+1919
 01:49:45,590 --> 01:49:47,850
 But now we need to go down... Oh, you know what?
 
-1919
+1920
 01:49:47,890 --> 01:49:54,270
 I could also... I'm trying to find a way to loop the signal all the way below and up to this one here.
 
-1920
+1921
 01:49:54,470 --> 01:49:55,730
 Along one block.
 
-1921
+1922
 01:49:56,730 --> 01:49:57,690
 That's what I'm doing right now.
 
-1922
+1923
 01:49:57,730 --> 01:49:58,510
 The only issue is this.
 
-1923
+1924
 01:49:58,690 --> 01:50:00,510
 If I do this, we start to have problems here.
 
-1924
+1925
 01:50:02,750 --> 01:50:04,450
 Maybe they need to have a space in between them.
 
-1925
+1926
 01:50:04,610 --> 01:50:06,530
 I mean, yeah, probably.
 
-1926
+1927
 01:50:06,790 --> 01:50:07,630
 Maybe it's not a big deal.
 
-1927
+1928
 01:50:07,830 --> 01:50:11,590
 It's just gonna fire all pistons every time one of them does a thing.
 
-1928
+1929
 01:50:12,670 --> 01:50:13,650
 May not be an issue.
 
-1929
+1930
 01:50:14,790 --> 01:50:15,270
 You know?
 
-1930
+1931
 01:50:16,450 --> 01:50:17,130
 But hold on.
 
-1931
+1932
 01:50:17,390 --> 01:50:18,250
 Oh, no, no, no, no, no.
 
-1932
+1933
 01:50:18,270 --> 01:50:19,850
 We're gonna have a bit of a problem here.
 
-1933
+1934
 01:50:20,530 --> 01:50:22,710
 We're gonna be stuck in an endless cycle then.
 
-1934
+1935
 01:50:24,250 --> 01:50:27,630
 If that's gonna trigger that, that's gonna trigger that, that's gonna trigger that, that's gonna trigger that, right?
 
-1935
+1936
 01:50:31,260 --> 01:50:31,860
 Shitcakes.
 
-1936
+1937
 01:50:33,720 --> 01:50:34,740
 Shitty balls.
 
-1937
+1938
 01:50:35,240 --> 01:50:35,780
 Uh-oh.
 
-1938
+1939
 01:50:37,980 --> 01:50:38,580
 Hmm.
 
-1939
+1940
 01:50:40,840 --> 01:50:42,200
 Hold on, this one grows.
 
-1940
+1941
 01:50:43,400 --> 01:50:44,640
 Oh, I see it.
 
-1941
+1942
 01:50:44,880 --> 01:50:45,740
 Poop the signal.
 
-1942
+1943
 01:50:46,240 --> 01:50:50,220
 That signal needs to be... Okay, okay, okay, okay.
 
-1943
+1944
 01:50:51,980 --> 01:50:53,600
 Can we somehow...
 
-1944
+1945
 01:50:55,130 --> 01:50:58,270
 Make this observer inert for a short period of time.
 
-1945
+1946
 01:50:58,430 --> 01:50:59,610
 Is that something I can do somehow?
 
-1946
+1947
 01:51:02,450 --> 01:51:04,430
 Maybe that's what a comparator could do.
 
-1947
+1948
 01:51:05,110 --> 01:51:06,910
 Because I haven't discovered the use on that.
 
-1948
+1949
 01:51:08,870 --> 01:51:11,730
 If I make this inert, then we can stop the cycle.
 
-1949
+1950
 01:51:19,430 --> 01:51:23,270
 I don't know what's... what I'm supposed to do here.
 
-1950
+1951
 01:51:24,790 --> 01:51:26,210
 Oh, one of them did something, look!
 
-1951
+1952
 01:51:26,750 --> 01:51:27,750
 I said, hi!
 
-1952
+1953
 01:51:28,850 --> 01:51:29,210
 Nice!
 
-1953
+1954
 01:51:29,670 --> 01:51:31,950
 What was that, like four minutes, five minutes, maybe?
 
-1954
+1955
 01:51:33,970 --> 01:51:35,010
 The earliest one.
 
-1955
+1956
 01:51:36,930 --> 01:51:37,290
 Okay.
 
-1956
+1957
 01:51:38,130 --> 01:51:42,550
 And then, so when this one fires... By the way, can I even loop this down here?
 
-1957
+1958
 01:51:47,720 --> 01:51:48,680
 Wait, wait, wait, wait, wait.
 
-1958
+1959
 01:51:50,000 --> 01:51:50,960
 There was something.
 
-1959
+1960
 01:51:53,200 --> 01:51:54,220
 I forgot what it was.
 
-1960
+1961
 01:51:54,380 --> 01:52:01,000
 If I had a... this one down here... Is it the other way around?
 
-1961
+1962
 01:52:02,760 --> 01:52:04,140
 I don't see how that helps me, actually.
 
-1962
+1963
 01:52:04,820 --> 01:52:07,340
 Okay, okay, that's actually... interesting.
 
-1963
+1964
 01:52:08,240 --> 01:52:11,680
 So if I now turn this off... Oh, wait, I can't, because this is on.
 
-1964
+1965
 01:52:12,000 --> 01:52:12,860
 Ah, fuck, never mind.
 
-1965
+1966
 01:52:15,220 --> 01:52:15,580
 Hmm.
 
-1966
+1967
 01:52:20,960 --> 01:52:22,660
 I mean, I could separate them...
 
-1967
+1968
 01:52:26,510 --> 01:52:27,630
 Also, we have an issue here.
 
-1968
+1969
 01:52:27,790 --> 01:52:28,710
 Where are they gonna land?
 
-1969
+1970
 01:52:29,890 --> 01:52:30,250
 Right?
 
-1970
+1971
 01:52:30,510 --> 01:52:31,990
 That's actually a whole nother issue.
 
-1971
+1972
 01:52:32,130 --> 01:52:33,430
 Holy shit, I fucked this one up.
 
-1972
+1973
 01:52:33,490 --> 01:52:34,250
 I shit the bed on this.
 
-1973
+1974
 01:52:34,990 --> 01:52:35,810
 We're gonna start over.
 
-1974
+1975
 01:52:36,470 --> 01:52:37,230
 This is horrible.
 
-1975
+1976
 01:52:38,150 --> 01:52:39,130
 It does not work.
 
-1976
+1977
 01:52:39,690 --> 01:52:44,850
 What I need to do is make one prototype of just a single, and then start thinking about how to make more.
 
-1977
+1978
 01:52:46,390 --> 01:52:50,510
 As long as I can make one of them fit a small space, I can just duplicate them, right?
 
-1978
+1979
 01:52:51,330 --> 01:52:52,430
 Let's not overthink this.
 
-1979
+1980
 01:52:55,730 --> 01:52:57,510
 So let's just think about a single one.
 
-1980
+1981
 01:52:58,050 --> 01:53:00,490
 We're gonna have one patch of water.
 
-1981
+1982
 01:53:01,230 --> 01:53:01,770
 Right?
 
-1982
+1983
 01:53:03,630 --> 01:53:04,610
 Give me the bucket.
 
-1983
+1984
 01:53:06,230 --> 01:53:06,790
 There.
 
-1984
+1985
 01:53:08,370 --> 01:53:12,190
 Now, with this... So we need to have sugarcane next to it.
 
-1985
+1986
 01:53:12,310 --> 01:53:12,870
 That's a given.
 
-1986
+1987
 01:53:13,370 --> 01:53:14,090
 It's a given.
 
-1987
+1988
 01:53:14,510 --> 01:53:14,750
 Okay.
 
-1988
+1989
 01:53:15,470 --> 01:53:16,030
 Now.
 
-1989
+1990
 01:53:16,990 --> 01:53:21,050
 We do need an observer on the second level.
 
-1990
+1991
 01:53:21,470 --> 01:53:22,570
 Or do we?
 
-1991
+1992
 01:53:23,400 --> 01:53:24,640
 Let me actually check something.
 
-1992
+1993
 01:53:25,960 --> 01:53:27,020
 Maybe we don't.
 
-1993
+1994
 01:53:30,280 --> 01:53:31,280
 Maybe we don't.
 
-1994
+1995
 01:53:37,500 --> 01:53:38,260
 We do.
 
-1995
+1996
 01:53:38,560 --> 01:53:39,160
 We do.
 
-1996
+1997
 01:53:39,320 --> 01:53:39,500
 Okay.
 
-1997
+1998
 01:53:40,360 --> 01:53:41,840
 So we are limited by that.
 
-1998
+1999
 01:53:48,350 --> 01:53:48,790
 There.
 
-1999
+2000
 01:53:50,350 --> 01:53:52,350
 So this is the minimum that we need.
 
-2000
+2001
 01:53:52,530 --> 01:53:53,970
 We need this right here.
 
-2001
+2002
 01:53:55,090 --> 01:53:56,450
 Although the water could be here.
 
-2002
+2003
 01:53:57,750 --> 01:54:01,590
 So that when it pushes out, hover over here, right?
 
-2003
+2004
 01:54:02,330 --> 01:54:03,370
 Actually, that makes more sense.
 
-2004
+2005
 01:54:04,190 --> 01:54:05,530
 Let's say the water is over here.
 
-2005
+2006
 01:54:09,790 --> 01:54:10,590
 There we go.
 
-2006
+2007
 01:54:12,490 --> 01:54:17,650
 And now, over here... Oh, we're also going to need a wall around this.
 
-2007
+2008
 01:54:22,890 --> 01:54:26,510
 Kind of looks like a man with two arms stretching out towards me.
 
-2008
+2009
 01:54:30,090 --> 01:54:32,670
 We have an issue here if it's going to fall into the water.
 
-2009
+2010
 01:54:32,790 --> 01:54:33,330
 We're going to have to see.
 
-2010
+2011
 01:54:36,540 --> 01:54:44,300
 And you know what, I guess the hopper could be located... on top of this.
 
-2011
+2012
 01:54:47,840 --> 01:54:49,580
 No, oh wait, that's... what am I doing?
 
-2012
+2013
 01:54:49,720 --> 01:54:49,960
 What am I doing?
 
-2013
+2014
 01:54:50,400 --> 01:54:50,760
 Here.
 
-2014
+2015
 01:54:53,320 --> 01:54:53,760
 Okay.
 
-2015
+2016
 01:54:57,300 --> 01:54:59,700
 Let me quickly test how this is gonna behave.
 
-2016
+2017
 01:55:06,420 --> 01:55:07,960
 Shit, we need a piston.
 
-2017
+2018
 01:55:09,500 --> 01:55:10,400
 We need a piston.
 
-2018
+2019
 01:55:11,640 --> 01:55:13,740
 Maybe the observer is also on the side then.
 
-2019
+2020
 01:55:16,580 --> 01:55:17,800
 And the piston is over there.
 
-2020
+2021
 01:55:18,360 --> 01:55:18,760
 Yeah, yeah, yeah.
 
-2021
+2022
 01:55:18,920 --> 01:55:19,480
 That seems better.
 
-2022
+2023
 01:55:20,260 --> 01:55:21,080
 So here.
 
-2023
+2024
 01:55:22,380 --> 01:55:26,440
 And then we're gonna have... Then we need water on the other side.
 
-2024
+2025
 01:55:26,940 --> 01:55:29,900
 Unless the... Okay, the observer is now on this side.
 
-2025
+2026
 01:55:31,800 --> 01:55:32,440
 Here we go.
 
-2026
+2027
 01:55:32,480 --> 01:55:35,560
 So we have one site dedicated to one operation, you know, it's kind of cool.
 
-2027
+2028
 01:55:39,440 --> 01:55:39,740
 There.
 
-2028
+2029
 01:55:44,960 --> 01:55:46,080
 Okay, that's pretty cool.
 
-2029
+2030
 01:55:46,840 --> 01:55:50,300
 Now we need to make a protective... wall.
 
-2030
+2031
 01:55:51,040 --> 01:55:52,240
 This I'm worried about.
 
-2031
+2032
 01:55:52,760 --> 01:55:53,920
 The water right there.
 
-2032
+2033
 01:55:54,060 --> 01:55:55,140
 But wait, wait, wait, wait, wait!
 
-2033
+2034
 01:55:56,860 --> 01:56:01,600
 If the water is here, that should eliminate everything, right?
 
-2034
+2035
 01:56:01,840 --> 01:56:03,260
 Every possible problem.
 
-2035
+2036
 01:56:03,960 --> 01:56:05,380
 Because it's not going to fall backwards.
 
-2036
+2037
 01:56:10,020 --> 01:56:11,680
 I mean, we don't really need this technically.
 
-2037
+2038
 01:56:12,240 --> 01:56:14,040
 Let's say this is the minimal working one.
 
-2038
+2039
 01:56:14,280 --> 01:56:15,100
 Now I need to get up.
 
-2039
+2040
 01:56:19,340 --> 01:56:19,780
 Okay!
 
-2040
+2041
 01:56:20,140 --> 01:56:20,840
 Not bad.
 
-2041
+2042
 01:56:21,600 --> 01:56:22,180
 Let's see.
 
-2042
+2043
 01:56:22,720 --> 01:56:23,640
 How would I do this?
 
-2043
+2044
 01:56:26,360 --> 01:56:29,980
 So... This one is gonna... Let me just check if this works.
 
-2044
+2045
 01:56:38,940 --> 01:56:39,840
 We need Jim.
 
-2045
+2046
 01:56:43,040 --> 01:56:44,120
 Did I put him away?
 
-2046
+2047
 01:56:45,360 --> 01:56:46,120
 Goddammit, Jim!
 
-2047
+2048
 01:56:47,780 --> 01:56:48,740
 I'm a doctor!
 
-2048
+2049
 01:56:53,100 --> 01:56:55,140
 Wait, where's my other button?
 
-2049
+2050
 01:56:56,000 --> 01:56:57,080
 Didn't I have another button?
 
-2050
+2051
 01:57:08,320 --> 01:57:12,800
 So now... Good.
 
-2051
+2052
 01:57:15,540 --> 01:57:18,240
 Oh, actually, it pushes it straight into it.
 
-2052
+2053
 01:57:18,320 --> 01:57:19,260
 It's actually wonderful!
 
-2053
+2054
 01:57:20,400 --> 01:57:24,740
 It's almost like it doesn't have time to flow upwards the way it did, you know?
 
-2054
+2055
 01:57:32,740 --> 01:57:35,480
 It's gonna get sucked up by that thing, no matter what.
 
-2055
+2056
 01:57:37,500 --> 01:57:37,940
 Hey!
 
-2056
+2057
 01:57:38,680 --> 01:57:39,680
 Not bad!
 
-2057
+2058
 01:57:40,200 --> 01:57:41,220
 Not bad at all.
 
-2058
+2059
 01:57:41,920 --> 01:57:42,760
 I like it.
 
-2059
+2060
 01:57:43,360 --> 01:57:46,580
 I do wonder... Hold on, just for argument's sake here.
 
-2060
+2061
 01:57:46,720 --> 01:57:52,080
 If I were to... or test's sake... Let's say I made the hopper up here.
 
-2061
+2062
 01:57:55,390 --> 01:57:56,110
 What then?
 
-2062
+2063
 01:57:57,010 --> 01:57:58,850
 Is it still gonna push it into the hopper?
 
-2063
+2064
 01:58:01,090 --> 01:58:01,590
 Oh!
 
-2064
+2065
 01:58:04,930 --> 01:58:05,430
 Massive!
 
-2065
+2066
 01:58:07,010 --> 01:58:07,510
 Ah!
 
-2066
+2067
 01:58:09,190 --> 01:58:10,030
 Mmm... problem.
 
-2067
+2068
 01:58:11,750 --> 01:58:12,250
 Ah!
 
-2068
+2069
 01:58:12,610 --> 01:58:13,330
 Problem detected!
 
-2069
+2070
 01:58:14,670 --> 01:58:15,610
 Okay, this sucks.
 
-2070
+2071
 01:58:16,070 --> 01:58:17,130
 The other one was better.
 
-2071
+2072
 01:58:18,870 --> 01:58:19,590
 There it is.
 
-2072
+2073
 01:58:19,750 --> 01:58:21,750
 This should... Okay, let me just do a test with a bunch.
 
-2073
+2074
 01:58:30,560 --> 01:58:31,860
 So far, so good.
 
-2074
+2075
 01:58:32,180 --> 01:58:33,660
 100% success rate.
 
-2075
+2076
 01:58:39,670 --> 01:58:40,430
 Very nice.
 
-2076
+2077
 01:58:40,610 --> 01:58:42,030
 Okay, this is definitely the way to go.
 
-2077
+2078
 01:58:43,190 --> 01:58:44,070
 So this is good.
 
-2078
+2079
 01:58:44,410 --> 01:58:47,850
 Now I need to... So I have one working solution here.
 
-2079
+2080
 01:58:47,950 --> 01:58:49,430
 Now I need to just duplicate it again and again.
 
-2080
+2081
 01:58:51,390 --> 01:58:55,990
 And what's going to happen is that these ones are going to be linked together.
 
-2081
+2082
 01:58:57,450 --> 01:59:04,870
 So imagine... Well, I guess we're going to... Hold on.
 
-2082
+2083
 01:59:05,730 --> 01:59:07,510
 Let's say this is the final one over here.
 
-2083
+2084
 01:59:10,240 --> 01:59:13,520
 Let's just make two working... I don't know, I haven't finished making one.
 
-2084
+2085
 01:59:13,800 --> 01:59:14,960
 I'm not done yet, actually.
 
-2085
+2086
 01:59:15,260 --> 01:59:15,920
 I'm not done.
 
-2086
+2087
 01:59:16,880 --> 01:59:19,200
 I haven't tested the whole Observer thing yet, have I?
 
-2087
+2088
 01:59:19,640 --> 01:59:23,040
 Because this is still gonna end up in a problem where they're gonna activate each other.
 
-2088
+2089
 01:59:23,720 --> 01:59:24,100
 Shit!
 
-2089
+2090
 01:59:25,540 --> 01:59:25,940
 Shit.
 
-2090
+2091
 01:59:28,480 --> 01:59:29,300
 Actually a problem.
 
-2091
+2092
 01:59:31,600 --> 01:59:32,000
 Hmm.
 
-2092
+2093
 01:59:36,580 --> 01:59:37,920
 Wait a minute.
 
-2093
+2094
 01:59:40,280 --> 01:59:41,340
 I have an idea.
 
-2094
+2095
 01:59:55,540 --> 01:59:57,100
 No, that's not gonna destroy, is it?
 
-2095
+2096
 02:00:04,960 --> 02:00:06,560
 Maybe if it's sticky, maybe.
 
-2096
+2097
 02:00:08,220 --> 02:00:10,920
 Maybe if it's sticky, then it's going to stick to it and pull it off.
 
-2097
+2098
 02:00:11,040 --> 02:00:14,520
 You know, instead of pushing it off, it's going to pull it off.
 
-2098
+2099
 02:00:16,380 --> 02:00:17,300
 That could be a thing.
 
-2099
+2100
 02:00:26,980 --> 02:00:28,680
 Yeah, I even have a bunch.
 
-2100
+2101
 02:00:37,920 --> 02:00:38,280
 Oh!
 
-2101
+2102
 02:00:38,280 --> 02:00:39,640
 I think I just did something.
 
-2102
+2103
 02:00:42,440 --> 02:00:43,180
 That was funny.
 
-2103
+2104
 02:00:43,820 --> 02:00:44,180
 Weird.
 
-2104
+2105
 02:00:46,200 --> 02:00:46,560
 Alright.
 
-2105
+2106
 02:00:47,680 --> 02:00:48,560
 So watch this now.
 
-2106
+2107
 02:00:48,680 --> 02:00:49,260
 This is gonna work.
 
-2107
+2108
 02:00:49,440 --> 02:00:55,220
 The reason I wanna do this, by the way, is that I don't wanna have the observer observe the movement of this thing right here.
 
-2108
+2109
 02:00:56,360 --> 02:00:57,220
 That's the whole point.
 
-2109
+2110
 02:01:00,040 --> 02:01:00,400
 Shit.
 
-2110
+2111
 02:01:00,680 --> 02:01:01,260
 Don't do that.
 
-2111
+2112
 02:01:02,680 --> 02:01:03,880
 I need to just be in here first.
 
-2112
+2113
 02:01:08,710 --> 02:01:10,050
 No, it's the wrong one.
 
-2113
+2114
 02:01:12,470 --> 02:01:13,870
 Oh no, what have I done?
 
-2114
+2115
 02:01:15,990 --> 02:01:16,430
 What?
 
-2115
+2116
 02:01:21,030 --> 02:01:22,350
 Okay, okay, here we go, here we go.
 
-2116
+2117
 02:01:22,850 --> 02:01:23,290
 Ready?
 
-2117
+2118
 02:01:23,550 --> 02:01:23,650
 Ready?
 
-2118
+2119
 02:01:24,330 --> 02:01:25,070
 It's gonna work.
 
-2119
+2120
 02:01:30,180 --> 02:01:30,840
 No!
 
-2120
+2121
 02:01:32,260 --> 02:01:34,620
 It doesn't stick to it, what the fuck, man?
 
-2121
+2122
 02:01:35,380 --> 02:01:36,300
 Why not?
 
-2122
+2123
 02:01:39,420 --> 02:01:41,280
 Gosh, shit.
 
-2123
+2124
 02:01:43,680 --> 02:01:44,340
 Okay.
 
-2124
+2125
 02:01:44,980 --> 02:01:45,800
 So wait.
 
-2125
+2126
 02:01:46,920 --> 02:01:48,840
 The thing grows, observer sees it.
 
-2126
+2127
 02:01:49,260 --> 02:01:50,560
 It poops the signal.
 
-2127
+2128
 02:01:53,840 --> 02:01:58,060
 Maybe... Maybe I...
 
-2128
+2129
 02:01:59,580 --> 02:02:00,820
 Store a signal?
 
-2129
+2130
 02:02:01,040 --> 02:02:02,140
 Am I overthinking this?
 
-2130
+2131
 02:02:02,300 --> 02:02:02,500
 Fuck.
 
-2131
+2132
 02:02:04,700 --> 02:02:06,320
 Let's just try it, naively.
 
-2132
+2133
 02:02:06,600 --> 02:02:09,000
 It's gonna keep cycling back and forth, though.
 
-2133
+2134
 02:02:09,080 --> 02:02:09,660
 We all know it.
 
-2134
+2135
 02:02:09,900 --> 02:02:10,620
 Everyone knows it.
 
-2135
+2136
 02:02:13,780 --> 02:02:14,260
 Wait.
 
-2136
+2137
 02:02:14,980 --> 02:02:16,420
 This needs to be here.
 
-2137
+2138
 02:02:17,500 --> 02:02:17,920
 Nope.
 
-2138
+2139
 02:02:20,260 --> 02:02:21,000
 There we go.
 
-2139
+2140
 02:02:22,820 --> 02:02:23,300
 Okay.
 
-2140
+2141
 02:02:25,880 --> 02:02:26,360
 Then...
 
-2141
+2142
 02:02:29,220 --> 02:02:30,620
 Now we're gonna need this.
 
-2142
+2143
 02:02:34,700 --> 02:02:35,120
 Right?
 
-2143
+2144
 02:02:37,000 --> 02:02:37,420
 Shit!
 
-2144
+2145
 02:02:38,240 --> 02:02:39,460
 Yeah, of course it is.
 
-2145
+2146
 02:02:39,560 --> 02:02:40,560
 Of course it's gonna do that.
 
-2146
+2147
 02:02:43,840 --> 02:02:44,260
 Hmm.
 
-2147
+2148
 02:02:44,800 --> 02:02:46,820
 What if we just put an inverter in the middle of it?
 
-2148
+2149
 02:02:48,600 --> 02:02:49,380
 Is that weird?
 
-2149
+2150
 02:02:49,880 --> 02:02:50,620
 Maybe it is.
 
-2150
+2151
 02:02:52,200 --> 02:02:54,700
 Maybe the act of inverting a signal is... I don't know.
 
-2151
+2152
 02:02:55,160 --> 02:02:55,820
 Does something.
 
-2152
+2153
 02:03:01,800 --> 02:03:02,540
 There we go.
 
-2153
+2154
 02:03:05,140 --> 02:03:05,460
 Ah!
 
-2154
+2155
 02:03:09,440 --> 02:03:11,440
 Oh, wait, wait, so, so, when I grow this?
 
-2155
+2156
 02:03:12,840 --> 02:03:16,200
 Oh, but I can't when... So, wait, we, um, hmm.
 
-2156
+2157
 02:03:16,920 --> 02:03:17,960
 So, wait, we start like this.
 
-2157
+2158
 02:03:20,000 --> 02:03:21,020
 Oh, no, how do I do this?
 
-2158
+2159
 02:03:23,680 --> 02:03:24,000
 Oh.
 
-2159
+2160
 02:03:38,250 --> 02:03:38,730
 Goddammit.
 
-2160
+2161
 02:03:38,730 --> 02:03:40,610
 Okay, it was just a test anyway.
 
-2161
+2162
 02:03:41,750 --> 02:03:43,270
 Okay, so that doesn't work.
 
-2162
+2163
 02:03:46,320 --> 02:03:52,480
 What I could try... I need some way to... Okay, so here's the thing.
 
-2163
+2164
 02:03:53,440 --> 02:03:59,280
 I need a way to suspend operations on either this one or this one for a brief period.
 
-2164
+2165
 02:04:00,940 --> 02:04:03,320
 I need a delay!
 
-2165
+2166
 02:04:04,940 --> 02:04:06,680
 A delay big enough.
 
-2166
+2167
 02:04:08,500 --> 02:04:09,660
 That should be it.
 
-2167
+2168
 02:04:14,450 --> 02:04:15,430
 That's a bit too much.
 
-2168
+2169
 02:04:15,530 --> 02:04:16,050
 It doesn't matter.
 
-2169
+2170
 02:04:18,330 --> 02:04:21,570
 So when I do this now... Let me think.
 
-2170
+2171
 02:04:21,730 --> 02:04:22,170
 So this grows.
 
-2171
+2172
 02:04:22,410 --> 02:04:22,990
 Send a signal.
 
-2172
+2173
 02:04:23,290 --> 02:04:23,730
 Delayed.
 
-2173
+2174
 02:04:25,570 --> 02:04:26,510
 Oh, no, no, wait.
 
-2174
+2175
 02:04:26,810 --> 02:04:27,730
 This doesn't work.
 
-2175
+2176
 02:04:27,910 --> 02:04:28,890
 It doesn't work.
 
-2176
+2177
 02:04:30,070 --> 02:04:32,890
 It's just gonna be a delayed cycle.
 
-2177
+2178
 02:04:33,190 --> 02:04:33,290
 Look.
 
-2178
+2179
 02:04:36,110 --> 02:04:36,550
 Yeah.
 
-2179
+2180
 02:04:38,830 --> 02:04:39,270
 Shit.
 
-2180
+2181
 02:04:42,130 --> 02:04:43,930
 Okay, well...
 
-2181
+2182
 02:04:46,960 --> 02:04:48,400
 So what is the problem here?
 
-2182
+2183
 02:04:48,520 --> 02:04:49,820
 I need to delay it somewhere else.
 
-2183
+2184
 02:04:51,540 --> 02:04:56,760
 I need to delay... No, delay is not the option.
 
-2184
+2185
 02:04:58,280 --> 02:04:59,560
 It is not the option.
 
-2185
+2186
 02:05:02,320 --> 02:05:10,420
 I need some way to tell this system that when the piston moves, it should not activate the observer.
 
-2186
+2187
 02:05:10,660 --> 02:05:11,700
 But how do I even do that?
 
-2187
+2188
 02:05:13,700 --> 02:05:19,760
 Maybe the act of... moving the piston... Hold on.
 
-2188
+2189
 02:05:20,680 --> 02:05:21,660
 The piston.
 
-2189
+2190
 02:05:23,120 --> 02:05:24,800
 What does that do with a comparator?
 
-2190
+2191
 02:05:26,720 --> 02:05:28,080
 Does that send a signal?
 
-2191
+2192
 02:05:32,280 --> 02:05:33,380
 It doesn't.
 
-2192
+2193
 02:05:34,780 --> 02:05:35,460
 Shit.
 
-2193
+2194
 02:05:40,220 --> 02:05:41,880
 Maybe it's facing the wrong way.
 
-2194
+2195
 02:05:42,460 --> 02:05:43,300
 What if I do that?
 
-2195
+2196
 02:05:44,900 --> 02:05:46,460
 Oh, yeah, actually.
 
-2196
+2197
 02:05:47,760 --> 02:05:48,680
 Actually, yeah.
 
-2197
+2198
 02:05:49,420 --> 02:05:50,340
 Like this.
 
-2198
+2199
 02:05:55,220 --> 02:05:55,980
 No, okay.
 
-2199
+2200
 02:05:56,140 --> 02:05:56,720
 I don't know.
 
-2200
+2201
 02:06:00,920 --> 02:06:02,980
 Ah, man, I feel like I'm so close.
 
-2201
+2202
 02:06:03,160 --> 02:06:06,260
 I need, like, one puzzle piece, and then everything sort of falls together here.
 
-2202
+2203
 02:06:08,780 --> 02:06:10,500
 I think I'm overcomplicating things.
 
-2203
+2204
 02:06:12,380 --> 02:06:16,240
 I could have... Let's think about this.
 
-2204
+2205
 02:06:16,540 --> 02:06:23,220
 Is there some other way to observe the growing of this weed?
 
-2205
+2206
 02:06:24,600 --> 02:06:26,660
 Out of range of the piston.
 
-2206
+2207
 02:06:27,800 --> 02:06:29,080
 Is that a possibility?
 
-2207
+2208
 02:06:30,200 --> 02:06:34,940
 No, because I'm observing the same block that the piston is supposed to destroy, right?
 
-2208
+2209
 02:06:36,320 --> 02:06:37,220
 That's an issue.
 
-2209
+2210
 02:06:41,420 --> 02:06:43,220
 Oh, oh, oh, oh, oh, oh, oh.
 
-2210
+2211
 02:06:44,300 --> 02:06:46,040
 We could do a three-stage rocket.
 
-2211
+2212
 02:06:49,620 --> 02:06:51,500
 We could do something like this.
 
-2212
+2213
 02:06:53,040 --> 02:06:58,960
 Where... the piston is gonna destroy the... top part, right?
 
-2213
+2214
 02:06:59,060 --> 02:06:59,520
 Hold on, hold on.
 
-2214
+2215
 02:06:59,640 --> 02:07:00,740
 I think I understand something here.
 
-2215
+2216
 02:07:01,000 --> 02:07:01,840
 This may be huge.
 
-2216
+2217
 02:07:03,060 --> 02:07:04,180
 Three-stage rocket.
 
-2217
+2218
 02:07:06,080 --> 02:07:09,500
 Because they were gonna have different levels, and they're not gonna trigger each other, right?
 
-2218
+2219
 02:07:12,730 --> 02:07:18,090
 So I guess I want to destroy the middle section, then.
 
-2219
+2220
 02:07:18,290 --> 02:07:19,550
 Actually, yeah, I want this one here.
 
-2220
+2221
 02:07:22,230 --> 02:07:22,590
 Right?
 
-2221
+2222
 02:07:23,430 --> 02:07:24,710
 And then... Yeah, yeah, yeah!
 
-2222
+2223
 02:07:25,250 --> 02:07:27,090
 Dude, it's just gonna take longer.
 
-2223
+2224
 02:07:27,410 --> 02:07:28,150
 But that's fine.
 
-2224
+2225
 02:07:28,310 --> 02:07:30,290
 It's gonna destroy two at a time every time, then.
 
-2225
+2226
 02:07:31,090 --> 02:07:32,770
 That's gonna circumvent the issue.
 
-2226
+2227
 02:07:34,890 --> 02:07:37,630
 I could even... Instead of having it on top of this, I could have it over here.
 
-2227
+2228
 02:07:38,670 --> 02:07:39,030
 Right?
 
-2228
+2229
 02:07:40,330 --> 02:07:43,410
 That way I won't have problems with wiring it up behind.
 
-2229
+2230
 02:07:43,770 --> 02:07:45,530
 Let's just see if that even is a problem.
 
-2230
+2231
 02:07:46,510 --> 02:07:47,670
 Let's try one thing at a time.
 
-2231
+2232
 02:07:50,530 --> 02:07:50,950
 There.
 
-2232
+2233
 02:07:51,850 --> 02:07:55,090
 So imagine... Piston has destroyed this now.
 
-2233
+2234
 02:07:57,030 --> 02:07:57,450
 Right?
 
-2234
+2235
 02:07:58,150 --> 02:07:59,110
 It's gonna grow one.
 
-2235
+2236
 02:07:59,250 --> 02:07:59,750
 Nothing happens.
 
-2236
+2237
 02:08:00,250 --> 02:08:00,770
 It's gonna grow again.
 
-2237
+2238
 02:08:00,890 --> 02:08:01,970
 But it sees it.
 
-2238
+2239
 02:08:03,050 --> 02:08:04,170
 Oh, actually, wait a minute.
 
-2239
+2240
 02:08:04,250 --> 02:08:04,530
 Wait a minute.
 
-2240
+2241
 02:08:14,280 --> 02:08:14,620
 Okay.
 
-2241
+2242
 02:08:14,620 --> 02:08:18,600
 I was just testing whether or not this was actually affecting the one below it, but it wasn't.
 
-2242
+2243
 02:08:20,640 --> 02:08:21,380
 What if I do that?
 
-2243
+2244
 02:08:23,700 --> 02:08:24,040
 Okay.
 
-2244
+2245
 02:08:26,760 --> 02:08:27,860
 Well, how do I do this then?
 
-2245
+2246
 02:08:29,340 --> 02:08:31,020
 This one needs to trigger the one below.
 
-2246
+2247
 02:08:34,450 --> 02:08:37,990
 Hold on, this is actually... How the fuck do I do this?
 
-2247
+2248
 02:08:38,430 --> 02:08:40,530
 I need to trigger the one right below.
 
-2248
+2249
 02:08:41,650 --> 02:08:46,230
 I need to somehow wire it up to straight below.
 
-2249
+2250
 02:08:48,450 --> 02:08:50,730
 Let's say I do that.
 
-2250
+2251
 02:08:52,630 --> 02:08:54,390
 I go down.
 
-2251
+2252
 02:08:55,210 --> 02:08:55,730
 Here.
 
-2252
+2253
 02:08:56,330 --> 02:08:56,850
 Here.
 
-2253
+2254
 02:08:57,010 --> 02:08:57,530
 Ah, shit.
 
-2254
+2255
 02:08:58,710 --> 02:08:59,850
 Here, here, here.
 
-2255
+2256
 02:09:01,590 --> 02:09:02,210
 Oh, yeah.
 
-2256
+2257
 02:09:02,410 --> 02:09:02,810
 That's it.
 
-2257
+2258
 02:09:04,470 --> 02:09:04,990
 Here.
 
-2258
+2259
 02:09:04,990 --> 02:09:08,690
 I mean, that works, but kinda ugly, isn't it?
 
-2259
+2260
 02:09:14,070 --> 02:09:14,590
 Nice!
 
-2260
+2261
 02:09:17,610 --> 02:09:21,270
 This right here is actually... working!
 
-2261
+2262
 02:09:21,550 --> 02:09:22,010
 This is it!
 
-2262
+2263
 02:09:22,630 --> 02:09:27,030
 Given enough time that will grow, it's gonna destroy it, it's gonna fall into this.
 
-2263
+2264
 02:09:28,630 --> 02:09:31,530
 Let me just double check that it actually does fall in there every time.
 
-2264
+2265
 02:09:34,930 --> 02:09:36,410
 Oh wait, yeah, yeah, yeah, yeah, yeah.
 
-2265
+2266
 02:09:43,340 --> 02:09:44,060
 Uh-oh.
 
-2266
+2267
 02:09:45,040 --> 02:09:49,720
 It's pushing the middle one into here, but the top one is just like the cartoons, you know?
 
-2267
+2268
 02:09:49,960 --> 02:09:52,020
 The guy is running, and then the ground underneath him is gone.
 
-2268
+2269
 02:09:52,020 --> 02:09:52,820
 It's like, oh shit.
 
-2269
+2270
 02:09:53,400 --> 02:09:54,400
 Fall straight down.
 
-2270
+2271
 02:09:55,840 --> 02:09:56,320
 Yikes.
 
-2271
+2272
 02:09:58,960 --> 02:10:01,420
 Um... How do I grab that one, then?
 
-2272
+2273
 02:10:02,420 --> 02:10:03,940
 We have an issue here.
 
-2273
+2274
 02:10:04,920 --> 02:10:05,400
 Houston?
 
-2274
+2275
 02:10:06,100 --> 02:10:07,100
 Problems have...
 
-2275
+2276
 02:10:07,730 --> 02:10:10,310
 They've begun to show themselves once again, but I am getting closer.
 
-2276
+2277
 02:10:10,430 --> 02:10:11,950
 This is actually not bad at all.
 
-2277
+2278
 02:10:19,800 --> 02:10:20,920
 I mean, maybe it doesn't matter.
 
-2278
+2279
 02:10:21,620 --> 02:10:22,860
 It's gonna be a little bit a lot.
 
-2279
+2280
 02:10:22,920 --> 02:10:24,600
 It's the cost of doing business, you know?
 
-2280
+2281
 02:10:25,440 --> 02:10:26,640
 I'm losing some of that.
 
-2281
+2282
 02:10:26,740 --> 02:10:27,400
 It's fine.
 
-2282
+2283
 02:10:28,200 --> 02:10:29,300
 It is what it is.
 
-2283
+2284
 02:10:31,080 --> 02:10:32,100
 Cost of... No, no.
 
-2284
+2285
 02:10:32,300 --> 02:10:33,660
 I need to find a way to grab this.
 
-2285
+2286
 02:10:33,860 --> 02:10:36,180
 Like, I would double the production if I figured this out.
 
-2286
+2287
 02:10:36,740 --> 02:10:37,720
 Is it every time, though?
 
-2287
+2288
 02:10:38,480 --> 02:10:39,760
 Let's see if it's, like, every time.
 
-2288
+2289
 02:10:47,250 --> 02:10:47,990
 Oh, wait, wait, wait.
 
-2289
+2290
 02:10:49,770 --> 02:10:50,330
 Oh, no!
 
-2290
+2291
 02:10:53,810 --> 02:10:54,750
 Gotta go a little higher.
 
-2291
+2292
 02:10:58,070 --> 02:10:58,350
 Goddammit.
 
-2292
+2293
 02:11:02,510 --> 02:11:02,790
 Shit.
 
-2293
+2294
 02:11:05,330 --> 02:11:06,630
 Ooh, wait, wait, wait, wait, wait.
 
-2294
+2295
 02:11:06,770 --> 02:11:07,150
 I have an idea.
 
-2295
+2296
 02:11:11,630 --> 02:11:13,630
 We're gonna have one right below as well.
 
-2296
+2297
 02:11:16,010 --> 02:11:28,410
 Oh wait, I need to... That way, if any... Okay, let's see.
 
-2297
+2298
 02:11:35,890 --> 02:11:36,370
 Huh?
 
-2298
+2299
 02:11:41,010 --> 02:11:41,410
 Okay.
 
-2299
+2300
 02:11:41,650 --> 02:11:45,210
 We have an issue when it lands right on the actual farmland.
 
-2300
+2301
 02:11:47,330 --> 02:11:48,570
 God fucking damn it.
 
-2301
+2302
 02:11:52,230 --> 02:11:52,630
 Oh!
 
-2302
+2303
 02:11:53,330 --> 02:11:56,010
 Oh, no, no, no, I'm an idiot.
 
-2303
+2304
 02:11:56,130 --> 02:11:56,350
 I'm an idiot.
 
-2304
+2305
 02:11:56,570 --> 02:11:59,650
 I was like, let's just have a piston below as well that pushes it this way.
 
-2305
+2306
 02:11:59,850 --> 02:12:02,370
 But that would destroy this thing, and then I would need to replant it.
 
-2306
+2307
 02:12:03,770 --> 02:12:04,170
 But!
 
-2307
+2308
 02:12:04,510 --> 02:12:05,530
 Wait a minute!
 
-2308
+2309
 02:12:05,530 --> 02:12:06,650
 I never tried this.
 
-2309
+2310
 02:12:07,930 --> 02:12:08,910
 Can I actually?
 
-2310
+2311
 02:12:13,120 --> 02:12:13,480
 Nope!
 
-2311
+2312
 02:12:13,480 --> 02:12:14,280
 Wrong place!
 
-2312
+2313
 02:12:17,040 --> 02:12:18,460
 I didn't try this one, I don't think.
 
-2313
+2314
 02:12:20,240 --> 02:12:21,140
 Did I try that one?
 
-2314
+2315
 02:12:25,930 --> 02:12:26,770
 I think I did, actually.
 
-2315
+2316
 02:12:26,830 --> 02:12:27,070
 Never mind.
 
-2316
+2317
 02:12:27,190 --> 02:12:28,090
 I did try that.
 
-2317
+2318
 02:12:28,750 --> 02:12:29,090
 Whoops.
 
-2318
+2319
 02:12:30,170 --> 02:12:30,730
 It's fine.
 
-2319
+2320
 02:12:32,210 --> 02:12:33,390
 So far, this is good, though.
 
-2320
+2321
 02:12:33,650 --> 02:12:37,650
 This here is already going to produce results over time.
 
-2321
+2322
 02:12:39,630 --> 02:12:40,630
 And it is wonderful.
 
-2322
+2323
 02:12:41,530 --> 02:12:42,950
 It is absolutely wonderful.
 
-2323
+2324
 02:12:44,810 --> 02:12:45,570
 I like it.
 
-2324
+2325
 02:12:45,770 --> 02:12:46,450
 I like it.
 
-2325
+2326
 02:12:46,550 --> 02:12:47,030
 I like it.
 
-2326
+2327
 02:12:48,310 --> 02:12:49,050
 And you know what?
 
-2327
+2328
 02:12:49,130 --> 02:12:52,370
 I can technically reduce my losses by making more of these.
 
-2328
+2329
 02:12:52,670 --> 02:12:53,150
 You know?
 
-2329
+2330
 02:12:55,490 --> 02:12:57,750
 Well... Actually, technically, it's gonna increase my losses.
 
-2330
+2331
 02:12:57,950 --> 02:12:59,650
 But it will also increase my gains.
 
-2331
+2332
 02:13:00,550 --> 02:13:02,210
 And I care about the gains, right?
 
-2332
+2333
 02:13:02,570 --> 02:13:04,590
 So... That's nice.
 
-2333
+2334
 02:13:04,730 --> 02:13:06,930
 Now, this is ugly as hell.
 
-2334
+2335
 02:13:08,070 --> 02:13:11,090
 There's gotta be a more elegant way to link these.
 
-2335
+2336
 02:13:11,370 --> 02:13:11,570
 Right?
 
-2336
+2337
 02:13:11,830 --> 02:13:12,510
 It's gotta be.
 
-2337
+2338
 02:13:13,730 --> 02:13:17,190
 I'm thinking... We do the whole thing I discovered.
 
-2338
+2339
 02:13:19,510 --> 02:13:20,750
 But how did I do that again?
 
-2339
+2340
 02:13:20,790 --> 02:13:22,210
 I need to see what I did down here.
 
-2340
+2341
 02:13:22,430 --> 02:13:23,390
 If it's even still there.
 
-2341
+2342
 02:13:25,610 --> 02:13:26,650
 I gotta see it.
 
-2342
+2343
 02:13:29,770 --> 02:13:30,330
 Let's go.
 
-2343
+2344
 02:13:34,790 --> 02:13:35,230
 Fuck!
 
-2344
+2345
 02:13:35,410 --> 02:13:36,150
 I got rid of it.
 
-2345
+2346
 02:13:55,220 --> 02:13:58,060
 I could sort of make a down like that.
 
-2346
+2347
 02:13:59,440 --> 02:14:00,340
 Is that it?
 
-2347
+2348
 02:14:02,300 --> 02:14:03,120
 No way.
 
-2348
+2349
 02:14:08,000 --> 02:14:08,600
 Hey!
 
-2349
+2350
 02:14:10,920 --> 02:14:13,140
 Wait, why does this even work?
 
-2350
+2351
 02:14:13,220 --> 02:14:13,900
 I don't understand.
 
-2351
+2352
 02:14:14,340 --> 02:14:15,560
 Why does that work?
 
-2352
+2353
 02:14:16,920 --> 02:14:18,200
 It's not even connected.
 
-2353
+2354
 02:14:21,420 --> 02:14:22,520
 It's so inconsistent.
 
-2354
+2355
 02:14:22,780 --> 02:14:25,200
 Sometimes they need to go straight in, other times they don't at all.
 
-2355
+2356
 02:14:25,460 --> 02:14:25,800
 Huh.
 
-2356
+2357
 02:14:27,000 --> 02:14:29,120
 I guess it matters what kind of block it is.
 
-2357
+2358
 02:14:33,940 --> 02:14:35,080
 This is beautiful.
 
-2358
+2359
 02:14:37,040 --> 02:14:38,160
 I'm growing!
 
-2359
+2360
 02:14:38,620 --> 02:14:39,280
 Actually sick.
 
-2360
+2361
 02:14:40,200 --> 02:14:41,140
 Oh man.
 
-2361
+2362
 02:14:41,560 --> 02:14:42,200
 Very nice.
 
-2362
+2363
 02:14:44,680 --> 02:14:47,160
 Now to build more of these.
 
-2363
+2364
 02:14:47,560 --> 02:14:52,180
 And preferably in a kind of distant location so I don't need to listen to these pistons.
 
-2364
+2365
 02:14:54,220 --> 02:14:55,140
 Wait a minute.
 
-2365
+2366
 02:14:55,780 --> 02:14:58,980
 Can I somehow push a button?
 
-2366
+2367
 02:15:01,140 --> 02:15:01,840
 Automatically.
 
-2367
+2368
 02:15:03,320 --> 02:15:03,960
 This one.
 
-2368
+2369
 02:15:06,780 --> 02:15:07,720
 Probably not, right?
 
-2369
+2370
 02:15:11,300 --> 02:15:15,020
 I would love for it to say, Jim, whenever it harvests.
 
-2370
+2371
 02:15:18,060 --> 02:15:19,660
 Oh, that would be funny as hell.
 
-2371
+2372
 02:15:22,820 --> 02:15:24,620
 I don't understand why this is working.
 
-2372
+2373
 02:15:24,720 --> 02:15:26,100
 Hold on, I gotta experiment with this, actually.
 
-2373
+2374
 02:15:33,390 --> 02:15:34,090
 Oh, wait a minute.
 
-2374
+2375
 02:15:35,310 --> 02:15:36,310
 Oh, wait, wait, wait, wait.
 
-2375
+2376
 02:15:41,530 --> 02:15:43,050
 Oh, okay, I understand.
 
-2376
+2377
 02:15:43,750 --> 02:15:44,730
 I understand what's happening.
 
-2377
+2378
 02:15:47,880 --> 02:15:50,040
 Okay, it was never connected there.
 
-2378
+2379
 02:15:51,460 --> 02:15:53,860
 It's basically like powering like this.
 
-2379
+2380
 02:15:54,080 --> 02:15:54,300
 Watch.
 
-2380
+2381
 02:15:56,020 --> 02:15:57,100
 That's what's happening.
 
-2381
+2382
 02:15:57,500 --> 02:15:59,080
 It's the same principle here.
 
-2382
+2383
 02:16:01,200 --> 02:16:03,520
 That's what... Okay, that's great.
 
-2383
+2384
 02:16:03,620 --> 02:16:04,860
 That's really good.
 
-2384
+2385
 02:16:08,040 --> 02:16:11,600
 Okay, I definitely reduced complexity on this one quite a bit.
 
-2385
+2386
 02:16:12,780 --> 02:16:14,340
 I just don't like the walls here.
 
-2386
+2387
 02:16:14,480 --> 02:16:15,580
 It takes up a lot of space.
 
-2387
+2388
 02:16:16,480 --> 02:16:18,620
 Let's see if we can find a better solution for this one.
 
-2388
+2389
 02:16:19,380 --> 02:16:20,480
 Let's say there's no walls.
 
-2389
+2390
 02:16:23,260 --> 02:16:24,360
 Let's say there's no walls.
 
-2390
+2391
 02:16:27,180 --> 02:16:28,940
 Yeah, let's just grow it and see what happens.
 
-2391
+2392
 02:16:35,190 --> 02:16:40,730
 I mean, they are gonna fall unless I only need a wall in a very specific part.
 
-2392
+2393
 02:16:42,130 --> 02:16:43,790
 Let's say the walls are only there.
 
-2393
+2394
 02:16:46,410 --> 02:16:48,150
 Are they being vectored?
 
-2394
+2395
 02:16:49,230 --> 02:16:50,130
 Not really.
 
-2395
+2396
 02:16:50,410 --> 02:16:51,410
 Also, they fall on top.
 
-2396
+2397
 02:16:52,090 --> 02:16:52,590
 Yikes.
 
-2397
+2398
 02:16:54,970 --> 02:16:55,470
 Whoops.
 
-2398
+2399
 02:16:57,670 --> 02:16:58,670
 How about this?
 
-2399
+2400
 02:16:59,710 --> 02:17:01,390
 Nah, it's gotta be below as well then.
 
-2400
+2401
 02:17:03,490 --> 02:17:05,690
 I mean, I'm approaching the same thing I had.
 
-2401
+2402
 02:17:07,950 --> 02:17:10,370
 I don't... I hate that it falls straight down.
 
-2402
+2403
 02:17:11,290 --> 02:17:11,770
 Hmm.
 
-2403
+2404
 02:17:16,770 --> 02:17:20,990
 I could... Um... Hmm.
 
-2404
+2405
 02:17:27,200 --> 02:17:29,640
 I mean, I can use something else other than dirt, I guess.
 
-2405
+2406
 02:17:32,480 --> 02:17:35,700
 I could make it... It doesn't need to be aesthetically pleasing.
 
-2406
+2407
 02:17:35,900 --> 02:17:36,440
 Come on.
 
-2407
+2408
 02:17:36,780 --> 02:17:37,820
 Who the fuck cares?
 
-2408
+2409
 02:17:39,760 --> 02:17:41,260
 Let's not overthink this right now.
 
-2409
+2410
 02:17:42,720 --> 02:17:48,980
 But look how... I mean, it looks nice already.
 
-2410
+2411
 02:17:49,080 --> 02:17:50,060
 This is actually kind of cool.
 
-2411
+2412
 02:17:51,660 --> 02:17:53,480
 Oh, hold on.
 
-2412
+2413
 02:17:54,470 --> 02:17:56,330
 I could bury it in the ground one.
 
-2413
+2414
 02:17:56,670 --> 02:17:58,250
 You know, have the water one below.
 
-2414
+2415
 02:17:58,630 --> 02:17:59,470
 One below.
 
-2415
+2416
 02:18:00,070 --> 02:18:02,350
 Just to move everything down a little bit.
 
-2416
+2417
 02:18:02,830 --> 02:18:05,370
 That would be one way to make it quite nice.
 
-2417
+2418
 02:18:06,330 --> 02:18:12,810
 And when it's moved down a little bit, that means we have two blocks on top of each other that we need to cover.
 
-2418
+2419
 02:18:13,710 --> 02:18:16,410
 So that already reduces its footprint quite a bit.
 
-2419
+2420
 02:18:20,670 --> 02:18:21,990
 I could use...
 
-2420
+2421
 02:18:22,910 --> 02:18:24,250
 What about a fence, actually?
 
-2421
+2422
 02:18:24,610 --> 02:18:25,570
 What about a wall?
 
-2422
+2423
 02:18:25,970 --> 02:18:28,510
 That is a little thinner, smaller profile.
 
-2423
+2424
 02:18:29,330 --> 02:18:31,170
 Could make it look... or even glass, actually.
 
-2424
+2425
 02:18:31,290 --> 02:18:31,790
 Ooh, glass.
 
-2425
+2426
 02:18:31,950 --> 02:18:32,530
 Glass pane.
 
-2426
+2427
 02:18:33,530 --> 02:18:34,570
 Glass panes.
 
-2427
+2428
 02:18:36,890 --> 02:18:37,930
 Glass panes.
 
-2428
+2429
 02:18:38,070 --> 02:18:43,250
 Let's also try... Iron bars, maybe.
 
-2429
+2430
 02:18:43,870 --> 02:18:46,070
 That could actually be really cool.
 
-2430
+2431
 02:18:48,370 --> 02:18:50,090
 Make it look a little industrial.
 
-2431
+2432
 02:18:57,370 --> 02:18:58,950
 Hey, that looks kinda cool!
 
-2432
+2433
 02:19:01,750 --> 02:19:03,290
 What about the glass?
 
-2433
+2434
 02:19:06,730 --> 02:19:08,610
 Yo, that's also amazing.
 
-2434
+2435
 02:19:10,330 --> 02:19:11,170
 I like it.
 
-2435
+2436
 02:19:14,390 --> 02:19:16,010
 So where's the hopper?
 
-2436
+2437
 02:19:16,250 --> 02:19:17,510
 It needs to be there.
 
-2437
+2438
 02:19:19,370 --> 02:19:20,450
 It's pushed out.
 
-2438
+2439
 02:19:23,370 --> 02:19:23,890
 Yeah.
 
-2439
+2440
 02:19:24,270 --> 02:19:27,090
 And then we have some losses down there, but it is what it is.
 
-2440
+2441
 02:19:28,410 --> 02:19:30,050
 It's disgusting, but you know.
 
-2441
+2442
 02:19:30,710 --> 02:19:30,850
 Whatever.
 
-2442
+2443
 02:19:31,750 --> 02:19:33,430
 Now, let's see it in action.
 
-2443
+2444
 02:19:42,090 --> 02:19:42,450
 No!
 
-2444
+2445
 02:19:45,450 --> 02:19:46,270
 Okay, yeah, yeah.
 
-2445
+2446
 02:19:49,450 --> 02:19:51,130
 It's not every time that I lose one.
 
-2446
+2447
 02:19:52,230 --> 02:19:54,090
 So sometimes I get two, sometimes I get one.
 
-2447
+2448
 02:19:54,190 --> 02:19:55,030
 But I always get one.
 
-2448
+2449
 02:19:56,630 --> 02:19:57,330
 That's not bad.
 
-2449
+2450
 02:19:57,490 --> 02:19:59,350
 That's like a little more than 50% efficiency.
 
-2450
+2451
 02:20:02,010 --> 02:20:02,590
 Not bad.
 
-2451
+2452
 02:20:13,590 --> 02:20:14,070
 Five?
 
-2452
+2453
 02:20:15,910 --> 02:20:16,390
 Okay.
 
-2453
+2454
 02:20:18,330 --> 02:20:19,910
 Yeah, okay.
 
-2454
+2455
 02:20:20,750 --> 02:20:22,550
 So we have ten on us right now, right?
 
-2455
+2456
 02:20:29,850 --> 02:20:31,110
 So one is down there.
 
-2456
+2457
 02:20:32,370 --> 02:20:33,210
 Six here.
 
-2457
+2458
 02:20:35,310 --> 02:20:35,810
 Okay.
 
-2458
+2459
 02:20:36,870 --> 02:20:39,490
 Again, a little more than 50% efficiency.
 
-2459
+2460
 02:20:40,110 --> 02:20:41,510
 In this case, 60%.
 
-2460
+2461
 02:20:41,510 --> 02:20:44,530
 But if you average it out, you know, it's probably around 60%.
 
-2461
+2462
 02:20:44,530 --> 02:20:44,850
 Yeah.
 
-2462
+2463
 02:20:46,030 --> 02:20:46,770
 Not bad.
 
-2463
+2464
 02:20:47,890 --> 02:20:50,250
 But are the walls actually helping at all?
 
-2464
+2465
 02:20:53,280 --> 02:20:53,640
 Whoops.
 
-2465
+2466
 02:20:54,440 --> 02:20:55,380
 No wait, I have silk touch.
 
-2466
+2467
 02:20:57,940 --> 02:21:00,100
 It just sounds so violent when they break.
 
-2467
+2468
 02:21:00,580 --> 02:21:02,140
 It sounds like I'm breaking it.
 
-2468
+2469
 02:21:02,240 --> 02:21:02,580
 Come on.
 
-2469
+2470
 02:21:03,480 --> 02:21:05,500
 They need a different sound for when you don't break it.
 
-2470
+2471
 02:21:10,460 --> 02:21:11,400
 So let me try now.
 
-2471
+2472
 02:21:16,460 --> 02:21:17,660
 Oh, I need to be up here.
 
-2472
+2473
 02:21:27,830 --> 02:21:29,190
 Okay, six in there.
 
-2473
+2474
 02:21:30,410 --> 02:21:33,250
 Wait, that seems... there's no way, that's just... that's just RNG.
 
-2474
+2475
 02:21:33,910 --> 02:21:34,870
 Did I just get lucky?
 
-2475
+2476
 02:21:41,310 --> 02:21:41,930
 Seven... hey!
 
-2476
+2477
 02:21:42,230 --> 02:21:42,870
 You know what?
 
-2477
+2478
 02:21:43,730 --> 02:21:45,530
 I don't even need the walls, what the hell?
 
-2478
+2479
 02:21:48,600 --> 02:21:52,620
 The thing that's being pushed out in the center is always going to be caught by this, no matter what it seems.
 
-2479
+2480
 02:21:54,220 --> 02:21:59,040
 Because it instantly gets pushed into this and it doesn't have a chance to go anywhere else before it gets sucked in.
 
-2480
+2481
 02:22:02,400 --> 02:22:03,260
 Eight this time!
 
-2481
+2482
 02:22:04,840 --> 02:22:06,080
 Wait, why do I only have nine?
 
-2482
+2483
 02:22:06,440 --> 02:22:07,000
 Ah, that's why.
 
-2483
+2484
 02:22:08,680 --> 02:22:09,340
 Let's try again.
 
-2484
+2485
 02:22:15,680 --> 02:22:16,600
 Look.
 
-2485
+2486
 02:22:16,600 --> 02:22:19,100
 It's almost like it's better now.
 
-2486
+2487
 02:22:19,640 --> 02:22:20,320
 Somehow.
 
-2487
+2488
 02:22:23,340 --> 02:22:24,600
 One more time.
 
-2488
+2489
 02:22:30,450 --> 02:22:32,470
 Between 60 and 70% efficiency.
 
-2489
+2490
 02:22:33,590 --> 02:22:34,390
 Sometimes more.
 
-2490
+2491
 02:22:34,610 --> 02:22:35,870
 I've seen 80%.
 
-2491
+2492
 02:22:35,870 --> 02:22:37,330
 This is good.
 
-2492
+2493
 02:22:37,630 --> 02:22:38,490
 This is fucking amazing.
 
-2493
+2494
 02:22:40,390 --> 02:22:41,570
 We don't need walls at all.
 
-2494
+2495
 02:22:41,850 --> 02:22:43,730
 That means footprint can be super small.
 
-2495
+2496
 02:22:43,850 --> 02:22:44,170
 Look at this.
 
-2496
+2497
 02:22:46,330 --> 02:22:48,230
 This is... Oh, this needs to be there, actually.
 
-2497
+2498
 02:22:48,730 --> 02:22:49,990
 And we move it all down one.
 
-2498
+2499
 02:22:50,090 --> 02:22:51,170
 Let's just do all of it now.
 
-2499
+2500
 02:22:52,410 --> 02:22:53,250
 I'm so excited.
 
-2500
+2501
 02:22:55,010 --> 02:22:56,170
 Wait, what's happening here?
 
-2501
+2502
 02:22:56,450 --> 02:22:57,190
 That ain't good.
 
-2502
+2503
 02:22:59,620 --> 02:23:00,440
 There we go.
 
-2503
+2504
 02:23:00,840 --> 02:23:01,820
 Here we are.
 
-2504
+2505
 02:23:02,140 --> 02:23:03,720
 This one gets moved down one.
 
-2505
+2506
 02:23:05,080 --> 02:23:05,680
 There.
 
-2506
+2507
 02:23:10,220 --> 02:23:10,660
 There.
 
-2507
+2508
 02:23:10,660 --> 02:23:13,720
 And then we're gonna have the thingy.
 
-2508
+2509
 02:23:14,780 --> 02:23:15,220
 Wait.
 
-2509
+2510
 02:23:15,700 --> 02:23:16,540
 What did I have here?
 
-2510
+2511
 02:23:16,600 --> 02:23:16,780
 Oh, yeah.
 
-2511
+2512
 02:23:17,640 --> 02:23:18,360
 Sugar King, of course.
 
-2512
+2513
 02:23:18,500 --> 02:23:18,860
 I'm an idiot.
 
-2513
+2514
 02:23:19,320 --> 02:23:21,140
 And here, we have the thingy.
 
-2514
+2515
 02:23:22,760 --> 02:23:26,600
 On top of... Oh, this needs to be the... the pusher.
 
-2515
+2516
 02:23:28,020 --> 02:23:28,740
 Push it in.
 
-2516
+2517
 02:23:29,440 --> 02:23:29,880
 Nice.
 
-2517
+2518
 02:23:30,620 --> 02:23:34,140
 On top of that, we're gonna have the... observer.
 
-2518
+2519
 02:23:35,980 --> 02:23:36,700
 There it is.
 
-2519
+2520
 02:23:37,500 --> 02:23:38,480
 Look at the footprint!
 
-2520
+2521
 02:23:39,700 --> 02:23:40,900
 Look how small it is!
 
-2521
+2522
 02:23:41,780 --> 02:23:42,800
 That is fantastic!
 
-2522
+2523
 02:23:43,180 --> 02:23:44,240
 That's what I got it down to!
 
-2523
+2524
 02:23:44,600 --> 02:23:45,040
 Huh?
 
-2524
+2525
 02:23:45,260 --> 02:23:46,040
 Oh, what's happening?
 
-2525
+2526
 02:23:47,460 --> 02:23:48,600
 Why was... what's happening?
 
-2526
+2527
 02:23:51,820 --> 02:23:53,060
 Guys, what's going on?
 
-2527
+2528
 02:23:53,440 --> 02:23:54,580
 I see you spamming.
 
-2528
+2529
 02:23:59,070 --> 02:23:59,730
 Oh, break!
 
-2529
+2530
 02:23:59,870 --> 02:24:00,630
 Fuck, you're right, yeah.
 
-2530
+2531
 02:24:02,650 --> 02:24:03,010
 True.
 
-2531
+2532
 02:24:03,330 --> 02:24:04,410
 I forgot about that.
 
-2532
+2533
 02:24:05,150 --> 02:24:06,190
 Good looking out, guys.
 
-2533
+2534
 02:24:06,430 --> 02:24:06,750
 Thank you.
 
-2534
+2535
 02:24:07,010 --> 02:24:08,050
 I thought something was wrong.
 
-2535
+2536
 02:24:08,170 --> 02:24:09,690
 I'm actually so happy to know nothing was wrong.
 
-2536
+2537
 02:24:10,710 --> 02:24:11,070
 Lovely.
 
-2537
+2538
 02:24:11,870 --> 02:24:13,450
 Alright, I'm gonna remember ads this time, yeah.
 
-2538
+2539
 02:24:14,190 --> 02:24:17,590
 That means there should be no ads for a good while after the break.
 
-2539
+2540
 02:24:17,990 --> 02:24:19,070
 That automatically play.
 
-2540
+2541
 02:24:19,970 --> 02:24:21,010
 Okay, I'll see you in a bit, guys.
 
-2541
+2542
 02:24:21,110 --> 02:24:21,330
 Thank you.
 
-2542
+2543
 02:30:30,260 --> 02:30:30,540
 There we are.
 
-2543
+2544
 02:30:30,740 --> 02:30:33,820
 Guys, I had an amazing idea during the break.
 
-2544
+2545
 02:30:33,980 --> 02:30:40,640
 I was in the bathroom, and I imagined a machine that would play music, okay?
 
-2545
+2546
 02:30:40,780 --> 02:30:42,420
 And I'm not talking about note blocks here.
 
-2546
+2547
 02:30:43,380 --> 02:30:48,060
 I'm talking about the music player that we already have, right?
 
-2547
+2548
 02:30:48,680 --> 02:30:55,080
 Like one of those automatic jukeboxes that would take a disc, put it in when I press a button... Ah, fuck off.
 
-2548
+2549
 02:30:55,340 --> 02:30:59,040
 And then when I press a different button, it takes the music disc out and puts in another music disc.
 
-2549
+2550
 02:30:59,730 --> 02:31:04,130
 Because it's a terrible fucking idea to just constantly take it out and in, out and in, out and in, right?
 
-2550
+2551
 02:31:05,230 --> 02:31:06,570
 Yo, he's helping!
 
-2551
+2552
 02:31:06,790 --> 02:31:07,070
 Lovely!
 
-2552
+2553
 02:31:09,670 --> 02:31:10,410
 Keep doing it!
 
-2553
+2554
 02:31:14,000 --> 02:31:15,580
 Oh, you're not helping that much.
 
-2554
+2555
 02:31:17,120 --> 02:31:17,820
 Thank you.
 
-2555
+2556
 02:31:18,380 --> 02:31:19,780
 I do need this, actually.
 
-2556
+2557
 02:31:21,420 --> 02:31:22,740
 Wait, I have a wall on me?
 
-2557
+2558
 02:31:24,960 --> 02:31:25,460
 Oh!
 
-2558
+2559
 02:31:26,660 --> 02:31:27,400
 No way.
 
-2559
+2560
 02:31:28,260 --> 02:31:28,680
 Huh.
 
-2560
+2561
 02:31:29,300 --> 02:31:30,440
 I guess I had enough.
 
-2561
+2562
 02:31:32,180 --> 02:31:32,680
 Okay.
 
-2562
+2563
 02:31:35,300 --> 02:31:36,880
 Let's pick this up a little bit here.
 
-2563
+2564
 02:31:39,880 --> 02:31:41,060
 My inventory sucks.
 
-2564
+2565
 02:31:46,210 --> 02:31:47,010
 This is good.
 
-2565
+2566
 02:31:48,790 --> 02:31:50,610
 Let's put the dispenser in there as well.
 
-2566
+2567
 02:31:50,750 --> 02:31:51,850
 Oh yeah, this is way better.
 
-2567
+2568
 02:31:52,090 --> 02:31:52,290
 Okay.
 
-2568
+2569
 02:31:52,810 --> 02:31:53,230
 Good.
 
-2569
+2570
 02:31:54,270 --> 02:31:55,130
 Now look at this.
 
-2570
+2571
 02:31:55,710 --> 02:31:58,330
 This right here, the smallest footprint ever.
 
-2571
+2572
 02:31:58,490 --> 02:31:59,110
 And it's gonna work.
 
-2572
+2573
 02:31:59,210 --> 02:31:59,450
 Watch.
 
-2573
+2574
 02:32:03,570 --> 02:32:05,970
 Oh wait, I haven't... There we go.
 
-2574
+2575
 02:32:08,150 --> 02:32:08,930
 So, okay.
 
-2575
+2576
 02:32:09,390 --> 02:32:10,650
 We have ten on us.
 
-2576
+2577
 02:32:10,890 --> 02:32:11,530
 Ten sugarcane.
 
-2577
+2578
 02:32:20,410 --> 02:32:21,910
 Efficiency of 60%.
 
-2578
+2579
 02:32:21,910 --> 02:32:24,170
 Not bad, eh?
 
-2579
+2580
 02:32:24,650 --> 02:32:25,270
 Not bad.
 
-2580
+2581
 02:32:26,690 --> 02:32:27,730
 One more time.
 
-2581
+2582
 02:32:30,620 --> 02:32:33,140
 Like, the first one is always guaranteed to go in.
 
-2582
+2583
 02:32:35,780 --> 02:32:36,440
 Wait a minute.
 
-2583
+2584
 02:32:36,720 --> 02:32:40,980
 There's gotta be a way to avoid having the three-stage rocket.
 
-2584
+2585
 02:32:42,680 --> 02:32:46,200
 I'm gonna retreat a little bit to the two-stage rocket here.
 
-2585
+2586
 02:32:46,280 --> 02:32:46,960
 There's gotta be a way.
 
-2586
+2587
 02:32:49,000 --> 02:32:50,020
 There's gotta be a way.
 
-2587
+2588
 02:32:54,250 --> 02:32:57,070
 Okay, let's say I do have an observer here, right?
 
-2588
+2589
 02:32:57,730 --> 02:32:58,050
 Okay.
 
-2589
+2590
 02:32:58,350 --> 02:33:02,330
 Uh-oh, you know, it's gonna fucking go back and forth all the time.
 
-2590
+2591
 02:33:02,470 --> 02:33:03,370
 Alarm, alarm, 911.
 
-2591
+2592
 02:33:03,830 --> 02:33:04,310
 We know.
 
-2592
+2593
 02:33:05,030 --> 02:33:09,550
 But can I somehow... Now, it's gonna be way too complicated.
 
-2593
+2594
 02:33:09,610 --> 02:33:10,250
 This is so simple.
 
-2594
+2595
 02:33:10,350 --> 02:33:11,330
 Look how beautiful this is.
 
-2595
+2596
 02:33:12,790 --> 02:33:13,230
 Right?
 
-2596
+2597
 02:33:14,010 --> 02:33:16,370
 It's like almost elegant, the way it is.
 
-2597
+2598
 02:33:18,410 --> 02:33:20,190
 You know what this almost looks like?
 
-2598
+2599
 02:33:20,810 --> 02:33:22,030
 It looks like a sphinx.
 
-2599
+2600
 02:33:22,350 --> 02:33:22,850
 From Egypt.
 
-2600
+2601
 02:33:23,230 --> 02:33:23,750
 Right?
 
-2601
+2602
 02:33:24,170 --> 02:33:25,070
 You have the head.
 
-2602
+2603
 02:33:25,370 --> 02:33:26,170
 The body.
 
-2603
+2604
 02:33:27,050 --> 02:33:28,650
 And the hands up front.
 
-2604
+2605
 02:33:29,530 --> 02:33:30,210
 Look at it.
 
-2605
+2606
 02:33:30,270 --> 02:33:30,830
 It's a sphinx.
 
-2606
+2607
 02:33:31,090 --> 02:33:31,870
 The tail in the back.
 
-2607
+2608
 02:33:32,670 --> 02:33:33,690
 Egyptian sphinx.
 
-2608
+2609
 02:33:33,870 --> 02:33:34,530
 Right there.
 
-2609
+2610
 02:33:37,520 --> 02:33:38,380
 Tell me I'm wrong.
 
-2610
+2611
 02:33:40,080 --> 02:33:41,100
 That is the solution.
 
-2611
+2612
 02:33:42,560 --> 02:33:44,300
 I mean, it already works.
 
-2612
+2613
 02:33:44,520 --> 02:33:45,600
 Let's not overthink it.
 
-2613
+2614
 02:33:45,760 --> 02:33:50,840
 And the best part is... We can have them in a straight line, essentially.
 
-2614
+2615
 02:33:51,520 --> 02:33:52,580
 Let me try and make more.
 
-2615
+2616
 02:33:55,960 --> 02:33:56,280
 Here.
 
-2616
+2617
 02:33:58,520 --> 02:33:59,920
 Let me just fill up a bit of water.
 
-2617
+2618
 02:34:01,600 --> 02:34:02,100
 Like there.
 
-2618
+2619
 02:34:02,240 --> 02:34:02,660
 Let's have three.
 
-2619
+2620
 02:34:03,920 --> 02:34:04,340
 No, no.
 
-2620
+2621
 02:34:04,920 --> 02:34:05,880
 Yeah, yeah, it's fine.
 
-2621
+2622
 02:34:07,600 --> 02:34:07,920
 That.
 
-2622
+2623
 02:34:08,220 --> 02:34:09,720
 Get out of here, Billy Bob.
 
-2623
+2624
 02:34:13,080 --> 02:34:13,780
 There we are.
 
-2624
+2625
 02:34:13,960 --> 02:34:14,880
 Now we're going to need this.
 
-2625
+2626
 02:34:16,900 --> 02:34:18,300
 These are going to be linked together.
 
-2626
+2627
 02:34:21,540 --> 02:34:22,840
 Let's say we have a chest at the end.
 
-2627
+2628
 02:34:27,410 --> 02:34:28,110
 Like that!
 
-2628
+2629
 02:34:28,770 --> 02:34:29,250
 Right?
 
-2629
+2630
 02:34:29,810 --> 02:34:30,430
 And then?
 
-2630
+2631
 02:34:32,870 --> 02:34:33,350
 Here.
 
-2631
+2632
 02:34:34,850 --> 02:34:35,330
 There.
 
-2632
+2633
 02:34:37,050 --> 02:34:40,230
 Look at me remembering where I need to be to place these perfectly first time.
 
-2633
+2634
 02:34:41,470 --> 02:34:41,950
 Genius.
 
-2634
+2635
 02:34:42,530 --> 02:34:43,650
 That may be okay, actually.
 
-2635
+2636
 02:34:44,870 --> 02:34:46,130
 Let's say one of them grows.
 
-2636
+2637
 02:34:47,670 --> 02:34:49,430
 I'll be up here so I can keep an eye on things.
 
-2637
+2638
 02:34:56,240 --> 02:34:56,720
 Wait.
 
-2638
+2639
 02:34:57,840 --> 02:35:00,000
 Yeah, they all go out, but that's no problem.
 
-2639
+2640
 02:35:00,160 --> 02:35:00,760
 It's actually fine.
 
-2640
+2641
 02:35:03,340 --> 02:35:03,980
 How many?
 
-2641
+2642
 02:35:05,120 --> 02:35:06,540
 Efficiency of 60%.
 
-2642
+2643
 02:35:06,540 --> 02:35:07,180
 Wonderful!
 
-2643
+2644
 02:35:08,200 --> 02:35:10,420
 And there it is, boys and girls.
 
-2644
+2645
 02:35:10,680 --> 02:35:11,540
 I have done it!
 
-2645
+2646
 02:35:12,300 --> 02:35:13,280
 It's wonderful.
 
-2646
+2647
 02:35:13,280 --> 02:35:14,440
 It's gonna grow on its own.
 
-2647
+2648
 02:35:15,620 --> 02:35:18,400
 This is actually so fucking simple.
 
-2648
+2649
 02:35:19,840 --> 02:35:20,860
 Look at that.
 
-2649
+2650
 02:35:21,240 --> 02:35:23,640
 Compared to the first one I had over here, holy shit.
 
-2650
+2651
 02:35:24,560 --> 02:35:25,420
 It's wonderful.
 
-2651
+2652
 02:35:27,140 --> 02:35:29,920
 Let's make a punch and hide it away somewhere.
 
-2652
+2653
 02:35:35,280 --> 02:35:37,460
 Oh yeah, this is gonna be so good!
 
-2653
+2654
 02:35:38,280 --> 02:35:41,360
 I can't wait to collect it the first time around.
 
-2654
+2655
 02:35:47,440 --> 02:35:48,840
 Okay, nothing ever happened here.
 
-2655
+2656
 02:35:51,580 --> 02:35:52,340
 There we are.
 
-2656
+2657
 02:35:59,720 --> 02:36:00,500
 Okay, perfect.
 
-2657
+2658
 02:36:01,020 --> 02:36:01,920
 Now, give me that one.
 
-2658
+2659
 02:36:03,480 --> 02:36:04,480
 This one needs to be fixed.
 
-2659
+2660
 02:36:05,240 --> 02:36:06,100
 What is that doing there?
 
-2660
+2661
 02:36:06,240 --> 02:36:06,820
 Get it out of there.
 
-2661
+2662
 02:36:10,400 --> 02:36:12,320
 Where's the rest of my wood?
 
-2662
+2663
 02:36:13,180 --> 02:36:14,720
 I guess it's in my box.
 
-2663
+2664
 02:36:16,700 --> 02:36:17,560
 That's fine.
 
-2664
+2665
 02:36:18,140 --> 02:36:22,580
 So I guess I'm gonna go off somewhere and put it... Oh, man.
 
-2665
+2666
 02:36:23,040 --> 02:36:23,800
 You know what?
 
-2666
+2667
 02:36:25,040 --> 02:36:25,760
 Dude.
 
-2667
+2668
 02:36:26,300 --> 02:36:26,900
 Okay.
 
-2668
+2669
 02:36:28,640 --> 02:36:30,320
 Oh, man.
 
-2669
+2670
 02:36:30,880 --> 02:36:31,740
 Oh, man.
 
-2670
-02:36:31,860 --> 02:36:32,060
-Oh, man.
-
 2671
-02:36:32,060 --> 02:36:32,200
+02:36:31,860 --> 02:36:32,200
 Oh, man.
 
 2672
@@ -16424,7 +16425,7 @@ Do I have any?
 
 4107
 04:07:36,880 --> 04:07:42,400
-Ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-ba-
+Ba-ba-ba-ba-ba-ba-ba-
 
 4108
 04:07:52,140 --> 04:07:52,820
@@ -20393,3 +20394,4 @@ Happy Friday, dammit!
 5099
 05:07:23,630 --> 05:07:24,250
 Oliver out!
+
