@@ -287,3709 +287,4533 @@ It ain't far.
 Come on.
 
 73
+00:03:51,180 --> 00:03:52,830
+Come on!
+
+74
 00:03:53,830 --> 00:03:58,590
 Oh yeah, right, so... Apparently we're not playing as John Marston, at least not in the beginning.
 
-74
+75
 00:03:59,250 --> 00:04:00,450
 Maybe that's just for the intro.
 
-75
+76
 00:04:02,790 --> 00:04:04,790
 So Dutch and Abigail were mentioned.
 
-76
+77
 00:04:04,930 --> 00:04:08,510
 I'm assuming it's the same Abigail from the first game.
 
-77
+78
 00:04:08,670 --> 00:04:10,270
 I mean, we knew she was in the gang, right?
 
-78
+79
 00:04:11,110 --> 00:04:12,250
 Chapter 1, Coulter.
 
-79
+80
 00:04:13,330 --> 00:04:14,530
 Isn't that like a gun brand?
 
-80
+81
 00:04:16,070 --> 00:04:17,590
 Or like a weapons manufacturer?
 
-81
+82
+00:04:29,730 --> 00:04:31,080
+Bring him in here.
+
+83
 00:04:49,230 --> 00:04:52,030
 Miss Gaskell, get that fire lip, quick.
 
-82
+84
 00:04:52,810 --> 00:04:55,590
 Miss Jones, bring in whatever blankets we have.
 
-83
+85
 00:04:56,090 --> 00:04:58,930
 Mr. Pearson, see what we've got in terms of food.
 
-84
+86
 00:05:02,100 --> 00:05:02,800
 Davy's dead.
 
-85
+87
 00:05:03,740 --> 00:05:07,280
 There was... nothing more you could have done.
 
-86
+88
 00:05:08,040 --> 00:05:09,080
 What are we gonna do?
 
-87
+89
 00:05:09,200 --> 00:05:09,900
 We need supplies.
 
-88
+90
 00:05:10,740 --> 00:05:12,700
 Well, first of all, you're gonna stay here.
 
-89
+91
 00:05:12,980 --> 00:05:14,840
 And you are gonna get yourself worn.
 
-90
+92
 00:05:15,480 --> 00:05:18,420
 Now, I sent John and Mike a scout now to head.
 
-91
+93
 00:05:19,460 --> 00:05:21,500
 Arthur and I, we're gonna ride out.
 
-92
+94
 00:05:21,840 --> 00:05:23,460
 See if we can find one of them.
 
-93
+95
 00:05:23,620 --> 00:05:24,120
 And this?
 
-94
+96
 00:05:25,120 --> 00:05:26,380
 Just for a short bit.
 
-95
+97
 00:05:26,920 --> 00:05:28,580
 And I don't see what other choice we have.
 
-96
+98
 00:05:30,920 --> 00:05:31,240
 Listen.
 
-97
+99
 00:05:33,000 --> 00:05:34,400
 Listen to me, Ollie, for a moment.
 
-98
+100
 00:05:35,980 --> 00:05:39,480
 Now, we've had, well, a bad couple of days.
 
-99
+101
 00:05:42,750 --> 00:05:52,030
 I loved Davey, Jenny, Sean, Mac, they may be okay.
 
-100
+102
 00:05:52,690 --> 00:05:53,670
 We don't know.
 
-101
+103
 00:05:55,630 --> 00:05:57,330
 But we lost some folks.
 
-102
+104
 00:05:58,570 --> 00:06:07,550
 Now, if I could throw myself in the ground, in their stead, I'd do it.
 
-103
+105
 00:06:08,090 --> 00:06:08,850
 Gladly.
 
-104
+106
 00:06:10,530 --> 00:06:11,290
 But...
 
-105
+107
 00:06:12,160 --> 00:06:16,340
 We are gonna ride out, and we are gonna find some food.
 
-106
+108
 00:06:17,000 --> 00:06:20,780
 Everybody, we're safe now.
 
-107
+109
 00:06:21,260 --> 00:06:26,000
 There ain't nobody following us through a storm like this one.
 
-108
+110
 00:06:26,640 --> 00:06:31,400
 And by the time they get here, well, we're gonna be... we're gonna be long gone.
 
-109
+111
 00:06:32,940 --> 00:06:35,180
 We've been through worse than this before.
 
-110
+112
 00:06:36,660 --> 00:06:37,380
 Mr. Pearson.
 
-111
+113
 00:06:37,940 --> 00:06:39,020
 Ms. Grimshaw.
 
-112
+114
 00:06:39,290 --> 00:06:42,110
 I need you to turn this place into a camp.
 
-113
+115
 00:06:42,590 --> 00:06:44,410
 We may be here for a few days.
 
-114
+116
 00:06:45,510 --> 00:06:50,890
 Now all of you, all of you, get yourselves warm.
 
-115
+117
 00:06:52,390 --> 00:06:53,910
 Stay strong.
 
-116
+118
 00:06:55,610 --> 00:06:57,970
 Stay with me.
 
-117
+119
 00:06:59,190 --> 00:07:01,250
 We ain't done yet.
 
-118
+120
 00:07:02,630 --> 00:07:03,830
 Come on, Arthur.
 
-119
+121
 00:07:04,190 --> 00:07:04,830
 Wow.
 
-120
+122
 00:07:06,700 --> 00:07:08,180
 We've got some work to do.
 
-121
+123
 00:07:08,340 --> 00:07:09,760
 We ain't run into them yet.
 
-122
+124
 00:07:10,320 --> 00:07:12,660
 So, they both must have headed down the hill.
 
-123
+125
 00:07:12,940 --> 00:07:13,180
 Sure.
 
-124
+126
 00:07:13,920 --> 00:07:17,100
 Hey, I ain't had time to ask them.
 
-125
+127
 00:07:19,180 --> 00:07:21,940
 What really went down back there on that boat?
 
-126
+128
 00:07:22,600 --> 00:07:23,600
 We missed you.
 
-127
+129
 00:07:24,240 --> 00:07:25,140
 That's what happened.
 
-128
+130
 00:07:25,440 --> 00:07:25,840
 Come on.
 
-129
+131
+00:07:28,840 --> 00:07:29,710
+Hey!
+
+132
+00:07:29,760 --> 00:07:30,730
+You need horses?
+
+133
+00:07:30,730 --> 00:07:31,540
+Oh yeah...
+
+134
+00:07:31,560 --> 00:07:34,280
+and Mr. Smith, get yourself indoors.
+
+135
+00:07:34,280 --> 00:07:35,610
+You need to rest that hand.
+
+136
+00:07:36,210 --> 00:07:37,160
+I'll live.
+
+137
+00:07:37,210 --> 00:07:38,780
+Get indoors, son!
+
+138
+00:07:39,340 --> 00:07:40,060
+I..
+
+139
+00:07:41,090 --> 00:07:43,280
+we, need you strong.
+
+140
+00:07:44,040 --> 00:07:44,760
+Okay.
+
+141
 00:07:45,080 --> 00:07:47,300
 Oh my god, man.
 
-130
+142
 00:07:47,400 --> 00:07:48,480
 This game is gorgeous.
 
-131
+143
 00:07:49,600 --> 00:07:50,280
 Damn.
 
-132
+144
 00:07:53,370 --> 00:07:54,550
 Find out here, Dutch.
 
-133
+145
 00:07:54,850 --> 00:07:56,030
 We have to try.
 
-134
+146
 00:07:56,410 --> 00:07:57,230
 Stay close.
 
-135
+147
 00:07:57,610 --> 00:07:59,530
 We'll do our best to stick to the trail.
 
-136
+148
 00:08:00,350 --> 00:08:01,830
 This goddamn weather.
 
-137
+149
 00:08:02,390 --> 00:08:04,210
 Been two days or more like this now.
 
-138
+150
 00:08:04,750 --> 00:08:06,350
 Oh, it has to blow over soon.
 
-139
+151
 00:08:12,420 --> 00:08:14,480
 Okay, so I think that was maybe Jack in there.
 
-140
+152
 00:08:14,640 --> 00:08:15,480
 It would make sense, right?
 
-141
+153
 00:08:15,940 --> 00:08:16,740
 Ten years earlier?
 
-142
+154
 00:08:19,280 --> 00:08:20,020
 I'm not sure.
 
-143
+155
 00:08:23,720 --> 00:08:25,680
 I don't recognize a lot of the names, to be honest.
 
-144
+156
 00:08:27,980 --> 00:08:29,380
 Could just be my memory is shot.
 
-145
+157
 00:08:33,600 --> 00:08:36,620
 Man, look at the lighting through the trees.
 
-146
+158
 00:08:37,160 --> 00:08:37,660
 Damn.
 
-147
+159
 00:08:38,740 --> 00:08:40,960
 Can't believe we lost Davey, too.
 
-148
+160
 00:08:41,420 --> 00:08:43,400
 He's the last one, Arthur.
 
-149
+161
 00:08:43,740 --> 00:08:44,820
 No more.
 
-150
+162
 00:08:45,260 --> 00:08:48,600
 We need to get those people warm and fed.
 
-151
+163
 00:08:49,200 --> 00:08:53,020
 At least we don't need to worry about Pinkerton's tailing us in this.
 
-152
+164
 00:08:53,380 --> 00:08:56,560
 A couple more days, we'll be on the other side.
 
-153
+165
 00:08:57,300 --> 00:09:00,600
 You need to help me pick the others back up.
 
-154
+166
 00:09:01,120 --> 00:09:05,960
 You're the only one I can rely on to stay strong right now.
 
-155
+167
 00:09:06,300 --> 00:09:09,420
 We got fire and shelter as you start.
 
-156
+168
+00:09:13,340 --> 00:09:17,910
+So... do you think it was a trap? In Blackwater?
+
+169
+00:09:18,410 --> 00:09:21,360
+That many men? Oh, they knew we were coming.
+
+170
+00:09:22,060 --> 00:09:26,360
+But there was money on that boat alright, lots of it.
+
+171
+00:09:27,040 --> 00:09:30,460
+I stashed what we took with all our money in town,
+
+172
+00:09:30,480 --> 00:09:31,840
+right before we fled.
+
+173
 00:09:33,070 --> 00:09:37,030
 Is that the same boat they mentioned in the first game?
 
-157
+174
 00:09:37,190 --> 00:09:38,270
 They mentioned something about it.
 
-158
+175
 00:09:42,680 --> 00:09:44,740
 Something about Dutch and, of course, John, I think.
 
-159
+176
+00:09:51,160 --> 00:09:52,310
+You up ahead!
+
+177
+00:09:52,490 --> 00:09:53,380
+Who's there?
+
+178
+00:09:58,410 --> 00:09:59,560
+Micah.
+
+179
 00:10:00,460 --> 00:10:01,140
 Micah.
 
-160
+180
 00:10:01,140 --> 00:10:01,820
 Gentlemen.
 
-161
+181
 00:10:02,460 --> 00:10:03,500
 Found anything?
 
-162
+182
 00:10:04,160 --> 00:10:05,160
 I think so.
 
-163
+183
 00:10:05,620 --> 00:10:07,880
 Found a little homestead down that-a-way.
 
-164
+184
 00:10:08,260 --> 00:10:08,680
 Okay.
 
-165
+185
 00:10:09,320 --> 00:10:10,100
 Anyone home?
 
-166
+186
 00:10:10,920 --> 00:10:11,300
 Sure.
 
-167
+187
 00:10:11,840 --> 00:10:14,320
 Place is blazing with light and noise.
 
-168
+188
 00:10:14,660 --> 00:10:15,940
 Sounded like a party.
 
-169
+189
 00:10:16,000 --> 00:10:16,680
 Let's go see.
 
-170
+190
 00:10:16,920 --> 00:10:17,620
 Follow me.
 
-171
+191
 00:10:18,380 --> 00:10:19,680
 How's Davey doing?
 
-172
+192
 00:10:19,960 --> 00:10:21,060
 He didn't make it.
 
-173
+193
 00:10:21,500 --> 00:10:22,580
 Nor did little Jenny.
 
-174
+194
 00:10:23,300 --> 00:10:24,180
 That's too bad.
 
-175
+195
 00:10:24,540 --> 00:10:26,060
 Davey was a real fighter.
 
-176
+196
+00:10:26,710 --> 00:10:30,660
+Both of them Callander boys is, or... was.
+
+197
+00:10:30,660 --> 00:10:31,160
+Yeah.
+
+198
+00:10:31,790 --> 00:10:33,410
+And Mac and Sean?
+
+199
+00:10:33,440 --> 00:10:34,380
+We don't know.
+
+200
+00:10:35,110 --> 00:10:37,280
+Quite a business...
+
+201
 00:10:39,250 --> 00:10:40,850
 Love the voice acting so far.
 
-177
+202
+00:10:43,310 --> 00:10:44,590
+Always.
+
+203
+00:10:44,910 --> 00:10:47,040
+Ask him if he's seen John.
+
+204
+00:10:47,540 --> 00:10:50,330
+Hey, have you seen John, Micah?
+
+205
+00:10:50,780 --> 00:10:54,490
+Didn't see much of anything once this storm came in.
+
+206
+00:10:54,880 --> 00:10:56,410
+He hasn't seen him.
+
+207
+00:10:56,610 --> 00:11:01,190
+He'll be fine. Things always turn out right for that boy.
+
+208
+00:11:01,690 --> 00:11:06,290
+I hope... Mac and Sean are still out there somewhere too.
+
+209
+00:11:06,580 --> 00:11:09,030
+Move up, Arthur, I'll cover the rear.
+
+210
 00:11:11,920 --> 00:11:15,060
 Things do not always turn out right for that boy, we know that.
 
-178
+211
+00:11:19,980 --> 00:11:21,790
+You run into anybody else?
+
+212
+00:11:21,910 --> 00:11:25,430
+I-I reckon we're the only ones crazy enough
+
+213
+00:11:25,883 --> 00:11:27,294
+to be out in this, Morgan.
+
+214
+00:11:27,840 --> 00:11:31,830
+Yeah, well don't talk to me about crazy.
+
+215
+00:11:32,040 --> 00:11:35,940
+Oh, so no "Glad you're alright, I was worried, Micah"?
+
+216
+00:11:36,060 --> 00:11:42,090
+Look, it's all gonna work out, Morgan. We lost a few folks,
+
+217
+00:11:42,110 --> 00:11:45,180
+but that's just how it goes sometimes.
+
+218
+00:11:45,280 --> 00:11:47,730
+I'm glad you're feeling so good about it.
+
+219
+00:11:48,280 --> 00:11:49,910
+Where are all the others?
+
+220
+00:11:50,110 --> 00:11:55,660
+Old mining camp, back up the hill. It ain't much but it's shelter.
+
+221
+00:11:55,860 --> 00:11:59,530
+So, this house.. you speak to the people there already?
+
+222
+00:11:59,690 --> 00:12:03,910
+No, like Dutch told us... look, but don't talk to no one.
+
+223
+00:12:04,110 --> 00:12:06,590
+Just following orders, you know me.
+
+224
+00:12:06,810 --> 00:12:07,660
+Right...
+
+225
+00:12:11,790 --> 00:12:12,890
+How much further?
+
+226
+00:12:13,310 --> 00:12:14,410
+Not far.
+
+227
+00:12:14,830 --> 00:12:15,980
+What does that mean?
+
+228
+00:12:16,730 --> 00:12:18,160
+Not far.
+
+229
+00:12:19,940 --> 00:12:20,740
+Thanks.
+
+230
 00:12:21,540 --> 00:12:25,240
 Dude, I love that I can actually respond and choose sometimes.
 
-179
+231
+00:12:26,060 --> 00:12:29,290
+Oh, goddamn this snow. Gets right to the bone.
+
+232
 00:12:31,540 --> 00:12:33,980
 Dude, look at the snow trails being made here.
 
-180
+233
 00:12:35,500 --> 00:12:39,100
 And the lighting from those lanterns is crazy.
 
-181
+234
 00:12:41,380 --> 00:12:43,240
 How is this a 2018 game?
 
-182
+235
 00:12:43,280 --> 00:12:44,080
 That's insane.
 
-183
+236
 00:12:47,680 --> 00:12:48,920
 This looks wild.
 
-184
+237
 00:12:52,690 --> 00:12:55,870
 The weather effects... the horses are so well animated.
 
-185
+238
 00:12:58,050 --> 00:13:00,010
 What a step up from the first game, huh?
 
-186
+239
 00:13:01,070 --> 00:13:02,590
 Like a massive improvement.
 
-187
+240
+00:13:06,660 --> 00:13:11,890
+Snuff and stash those lanterns, boys. Best you two lie low on this.
+
+241
+00:13:16,090 --> 00:13:17,030
+Okay...
+
+242
+00:13:17,530 --> 00:13:18,930
+let's head down there.
+
+243
 00:13:23,990 --> 00:13:26,090
 Look at the glitter in the snow as well.
 
-188
+244
 00:13:28,490 --> 00:13:30,230
 Oh man, that's beautiful.
 
-189
+245
 00:13:35,310 --> 00:13:37,570
 Health is displayed in the lower left corner.
 
-190
+246
 00:13:37,970 --> 00:13:38,510
 Right.
 
-191
+247
 00:13:40,130 --> 00:13:40,890
 Got it.
 
-192
+248
 00:13:47,200 --> 00:13:49,460
 The outer bar shows your remaining health.
 
-193
+249
 00:13:49,620 --> 00:13:52,880
 The level of the inner core influences how quickly your health refills.
 
-194
+250
 00:13:54,340 --> 00:13:54,820
 Okay.
 
-195
+251
+00:13:55,410 --> 00:13:56,440
+Let's hitch up here.
+
+252
 00:14:05,600 --> 00:14:07,020
 It does sound like a party.
 
-196
+253
 00:14:07,180 --> 00:14:08,300
 I thought he was kidding before.
 
-197
+254
 00:14:10,040 --> 00:14:11,400
 He sounded sarcastic.
 
-198
+255
 00:14:16,310 --> 00:14:17,250
 Let me handle this.
 
-199
+256
 00:14:17,450 --> 00:14:19,910
 We don't want to spook these fine people.
 
-200
+257
 00:14:23,210 --> 00:14:23,810
 Okay.
 
-201
+258
 00:14:24,530 --> 00:14:26,310
 Someone's having fun in there.
 
-202
+259
 00:14:30,370 --> 00:14:32,550
 You two, get yourself out of sight.
 
-203
+260
 00:14:32,830 --> 00:14:37,970
 One lonely man is a lot less intimidating than three nasty-looking degenerates.
 
-204
+261
 00:14:38,430 --> 00:14:40,950
 Arthur, in that cattle shed on the left.
 
-205
+262
 00:14:41,390 --> 00:14:43,470
 I could get down behind that wagon in front.
 
-206
+263
 00:14:48,610 --> 00:14:49,450
 You got it.
 
-207
+264
+00:14:54,360 --> 00:14:56,140
+Look who we got here...
+
+265
+00:15:01,640 --> 00:15:02,490
+Hello?
+
+266
+00:15:02,960 --> 00:15:04,580
+Shut up, Billy. Shh, shh, shh!
+
+267
+00:15:04,580 --> 00:15:07,590
+Excuse me? Hello?
+
+268
 00:15:10,110 --> 00:15:11,330
 What you want?
 
-208
+269
 00:15:11,790 --> 00:15:14,970
 I am very sorry to disturb you.
 
-209
+270
 00:15:15,630 --> 00:15:21,330
 My friends and I, well, we got into some trouble up the way, lost in the storm.
 
-210
+271
 00:15:24,040 --> 00:15:24,640
 Gentlemen.
 
-211
+272
 00:15:24,960 --> 00:15:26,680
 We can't help you, mister.
 
-212
+273
 00:15:27,840 --> 00:15:31,240
 I got folks dying on the trail.
 
-213
+274
 00:15:31,240 --> 00:15:32,120
 Arthur, we got a problem.
 
-214
+275
 00:15:33,760 --> 00:15:34,360
 Folks.
 
-215
+276
 00:15:34,720 --> 00:15:35,760
 There's a corpse right here.
 
-216
+277
 00:15:37,060 --> 00:15:40,860
 Arthur, there's a body in the wagon.
 
-217
+278
 00:15:41,360 --> 00:15:42,200
 I hear you.
 
-218
+279
 00:15:42,400 --> 00:15:44,880
 Just keep your eyes on Dutch.
 
-219
+280
 00:15:45,260 --> 00:15:45,280
 Please.
 
-220
+281
 00:15:46,040 --> 00:15:48,260
 I think you should go now, buddy.
 
-221
+282
 00:15:51,500 --> 00:15:52,560
 Here we go.
 
-222
+283
+00:15:54,710 --> 00:16:00,210
+Now, friend... I ain't asking for much.
+
+284
 00:16:04,560 --> 00:16:10,180
 The tension is crazy.
 
-223
+285
+00:16:15,180 --> 00:16:16,590
+It's goddamn Dutch van der Linde you morons! Colm is going to shit his pants.
+
+286
 00:16:17,120 --> 00:16:17,560
 Yeah.
 
-224
+287
 00:16:19,940 --> 00:16:20,700
 Oh, wait, what?
 
-225
+288
 00:16:22,020 --> 00:16:23,540
 Wait, you reload on shooting?
 
-226
+289
 00:16:23,760 --> 00:16:24,140
 Wait, what the?
 
-227
+290
 00:16:24,220 --> 00:16:24,900
 That's so weird.
 
-228
+291
 00:16:26,380 --> 00:16:26,820
 Oh.
 
-229
+292
+00:16:27,290 --> 00:16:29,730
+Watch out! One up top in the window!
+
+293
 00:16:30,580 --> 00:16:31,240
 I see him.
 
-230
+294
 00:16:32,220 --> 00:16:32,880
 Oh, yeah.
 
-231
+295
 00:16:33,840 --> 00:16:35,820
 Oh, I feel so good with a mouse.
 
-232
+296
 00:16:41,140 --> 00:16:42,140
 Oh, you fucker.
 
-233
+297
 00:16:43,500 --> 00:16:44,480
 He was on the john.
 
-234
+298
 00:16:49,040 --> 00:16:49,980
 I see him.
 
-235
+299
 00:16:55,540 --> 00:16:56,180
 Wow!
 
-236
+300
 00:16:59,780 --> 00:17:00,820
 What a shot!
 
-237
+301
+00:17:03,860 --> 00:17:06,180
+Goddamn O'Driscoll's boys here?
+
+302
+00:17:06,380 --> 00:17:10,210
+Why?
+
+303
+00:17:10,530 --> 00:17:13,280
+Micah, go bring the horses closer to the house.
+
+304
+00:17:13,610 --> 00:17:15,460
+Arthur, let's go search the cabin.
+
+305
 00:17:18,180 --> 00:17:18,660
 Okay.
 
-238
+306
 00:17:18,660 --> 00:17:19,920
 Dude, that was so good.
 
-239
+307
 00:17:20,020 --> 00:17:20,780
 It looked so good.
 
-240
+308
 00:17:20,860 --> 00:17:21,720
 It felt so good.
 
-241
+309
 00:17:21,980 --> 00:17:22,680
 Oh, man.
 
-242
+310
 00:17:22,960 --> 00:17:23,680
 It's gonna be great.
 
-243
+311
+00:17:24,390 --> 00:17:26,110
+Smells like a party in here.
+
+312
+00:17:26,560 --> 00:17:30,540
+Turn the place upside down, grab as many supplies as you can.
+
+313
+00:17:31,080 --> 00:17:35,940
+We need the essentials. Food, medicine... whiskey.
+
+314
 00:17:36,380 --> 00:17:36,860
 Right.
 
-244
+315
 00:17:38,680 --> 00:17:39,740
 Whiskey is an essential.
 
-245
+316
 00:17:43,800 --> 00:17:46,380
 Take canned vegetable.
 
-246
+317
 00:17:46,660 --> 00:17:47,940
 Alright.
 
-247
+318
+00:17:48,290 --> 00:17:51,210
+O'Driscolls! I don't believe it.
+
+319
 00:17:52,280 --> 00:17:55,140
 Dude, look at the way...
 
-248
+320
+00:17:56,110 --> 00:17:58,810
+There's a big price on Colm O'Driscoll's head...
+
+321
+00:17:59,010 --> 00:18:01,240
+.….nearly as big as the one on yours.
+
+322
+00:18:01,760 --> 00:18:06,190
+Wanting Colm dead is about the only thing me and Uncle Sam agree on.
+
+323
+00:18:06,290 --> 00:18:08,190
+I'm starving.
+
+324
+00:18:08,430 --> 00:18:12,180
+You should eat something now. Get your strength up for the ride back.
+
+325
 00:18:14,420 --> 00:18:17,080
 Dude, the animations are crazy.
 
-249
+326
 00:18:17,520 --> 00:18:22,800
 When he was looting, he actually took them and put them in his pocket.
 
-250
+327
 00:18:23,640 --> 00:18:24,940
 Canned peaches.
 
-251
+328
 00:18:25,620 --> 00:18:26,520
 Baked beans.
 
-252
+329
 00:18:26,900 --> 00:18:27,680
 Oh, I like that.
 
-253
+330
 00:18:31,560 --> 00:18:32,720
 Just drinks it up.
 
-254
+331
 00:18:33,260 --> 00:18:34,860
 Different items have different effects.
 
-255
+332
+00:18:39,890 --> 00:18:45,280
+Maybe. We'll see how they are when we get back. I don't really want us to split up.
+
+333
 00:18:46,960 --> 00:18:47,440
 Right.
 
-256
+334
 00:18:48,040 --> 00:18:48,500
 Okay.
 
-257
+335
 00:18:48,660 --> 00:18:49,940
 We're not done searching, it seems.
 
-258
+336
 00:18:55,170 --> 00:18:56,210
 Canned vegetable.
 
-259
+337
 00:18:57,370 --> 00:18:59,850
 Dude, look at the way he's actually grabbing them.
 
-260
+338
 00:19:03,010 --> 00:19:04,030
 That's crazy.
 
-261
+339
+00:19:06,140 --> 00:19:09,280
+I'm going to start packing the horses. You keep looking.
+
+340
 00:19:10,030 --> 00:19:10,550
 Okay.
 
-262
+341
 00:19:12,370 --> 00:19:13,970
 I mean, the whole area is yellow.
 
-263
+342
 00:19:18,510 --> 00:19:19,390
 You got it.
 
-264
+343
 00:19:24,310 --> 00:19:26,310
 I got a little bathtub there.
 
-265
+344
 00:19:26,650 --> 00:19:28,590
 Man, the details are impeccable.
 
-266
+345
 00:19:29,050 --> 00:19:30,530
 Game is really beautiful.
 
-267
+346
 00:19:34,110 --> 00:19:35,690
 Open to health cure.
 
-268
+347
 00:19:38,070 --> 00:19:39,270
 So smooth.
 
-269
+348
 00:19:45,070 --> 00:19:46,190
 Medicine chest.
 
-270
+349
 00:19:47,490 --> 00:19:49,350
 Wouldn't that be a medicine cabinet?
 
-271
+350
 00:19:56,310 --> 00:19:56,970
 Wow.
 
-272
+351
 00:19:57,710 --> 00:19:59,110
 Listen to the sound, too.
 
-273
+352
 00:20:00,010 --> 00:20:01,030
 The wind outside.
 
-274
+353
 00:20:02,390 --> 00:20:03,370
 So nice.
 
-275
+354
 00:20:06,190 --> 00:20:06,850
 Photograph.
 
-276
+355
+00:20:07,860 --> 00:20:10,910
+Poor bastard was married too.
+
+356
 00:20:13,550 --> 00:20:15,010
 Oh, the guy in the wagon?
 
-277
+357
 00:20:24,180 --> 00:20:25,880
 Jake and Sadie.
 
-278
+358
 00:20:25,980 --> 00:20:26,460
 Wedding.
 
-279
+359
 00:20:26,720 --> 00:20:28,940
 September 4th, 1896.
 
-280
+360
 00:20:29,640 --> 00:20:30,720
 Three years ago.
 
-281
+361
 00:20:34,760 --> 00:20:35,760
 Okay.
 
-282
+362
 00:20:37,200 --> 00:20:38,020
 Cool.
 
-283
+363
 00:20:38,980 --> 00:20:40,180
 Anything else I can loot?
 
-284
+364
 00:20:42,660 --> 00:20:44,220
 Classic oatcakes.
 
-285
+365
 00:20:44,900 --> 00:20:46,400
 Look at that calendar there.
 
-286
+366
+00:20:48,560 --> 00:20:50,610
+What are you doing in there, Arthur?
+
+367
 00:20:50,740 --> 00:20:52,540
 Hey, give me a moment, man.
 
-287
+368
+00:20:53,910 --> 00:20:55,460
+I'm still looking, Dutch.
+
+369
 00:20:56,840 --> 00:20:58,120
 Hey, give me a second here.
 
-288
+370
 00:20:58,940 --> 00:20:59,800
 I'm not done.
 
-289
+371
 00:21:00,020 --> 00:21:00,500
 Wait, what's that?
 
-290
+372
 00:21:02,940 --> 00:21:03,860
 A sausage!
 
-291
+373
 00:21:04,240 --> 00:21:05,300
 No, salted meat.
 
-292
+374
 00:21:07,220 --> 00:21:08,640
 I guess sausage is meat.
 
-293
+375
 00:21:09,660 --> 00:21:10,620
 There's a chest here.
 
-294
+376
 00:21:14,630 --> 00:21:15,730
 Coin purse.
 
-295
+377
 00:21:16,270 --> 00:21:17,410
 Don't mind if I do.
 
-296
+378
 00:21:18,710 --> 00:21:20,470
 Dude, everything is animated.
 
-297
+379
 00:21:23,170 --> 00:21:27,610
 But I mean like... That's really crazy, right?
 
-298
+380
 00:21:29,450 --> 00:21:31,490
 Look at the way he's actually picking them up.
 
-299
+381
 00:21:31,490 --> 00:21:32,130
 It's so smooth.
 
-300
+382
 00:21:33,550 --> 00:21:34,450
 The drawer.
 
-301
+383
 00:21:34,770 --> 00:21:35,390
 What's in there?
 
-302
+384
 00:21:35,990 --> 00:21:36,990
 Premium cigarettes.
 
-303
+385
 00:21:38,350 --> 00:21:39,530
 Okay, thanks.
 
-304
+386
 00:21:41,010 --> 00:21:42,090
 Inspect card.
 
-305
+387
 00:21:47,330 --> 00:21:48,450
 Cylinder phonograph.
 
-306
+388
 00:21:49,090 --> 00:21:50,550
 Jolly Jack cigarettes.
 
-307
+389
 00:21:52,430 --> 00:21:52,990
 Okay.
 
-308
+390
 00:21:55,050 --> 00:21:56,050
 Amazing inventions.
 
-309
+391
 00:21:58,990 --> 00:22:00,170
 Like a collectible.
 
-310
+392
 00:22:02,370 --> 00:22:02,930
 Nice.
 
-311
+393
 00:22:04,250 --> 00:22:05,170
 Oh, man.
 
-312
+394
 00:22:05,270 --> 00:22:06,310
 I don't want to go too fast.
 
-313
+395
 00:22:06,410 --> 00:22:07,790
 I want to see it all, you know?
 
-314
+396
 00:22:09,610 --> 00:22:10,430
 Am I done?
 
-315
+397
 00:22:10,710 --> 00:22:11,350
 Wait, there's a ladder.
 
-316
+398
 00:22:20,040 --> 00:22:20,720
 Hey!
 
-317
+399
+00:22:21,760 --> 00:22:23,960
+Just let me finish searching the place.
+
+400
 00:22:26,400 --> 00:22:27,680
 I'll be out in a minute.
 
-318
+401
 00:22:29,800 --> 00:22:31,000
 More oatcakes?
 
-319
+402
 00:22:31,120 --> 00:22:31,500
 Why not?
 
-320
+403
 00:22:33,420 --> 00:22:34,100
 Okay.
 
-321
+404
 00:22:38,210 --> 00:22:40,190
 Dude, this is sick.
 
-322
+405
 00:22:41,910 --> 00:22:43,210
 Alright, I'm coming.
 
-323
+406
 00:22:44,070 --> 00:22:44,990
 Calm down.
 
-324
+407
 00:22:46,350 --> 00:22:48,230
 You told me to search, I did it.
 
-325
+408
+00:22:49,580 --> 00:22:51,960
+Micah, Arthur, keep looking for stuff.
+
+409
+00:22:53,190 --> 00:22:56,010
+Arthur, go see if there's anything in that barn.
+
+410
+00:22:56,730 --> 00:22:59,660
+Micah, you search the cabin, see what we missed.
+
+411
+00:23:00,330 --> 00:23:00,880
+Sure.
+
+412
 00:23:01,690 --> 00:23:02,330
 Okay.
 
-326
+413
 00:23:02,930 --> 00:23:04,010
 Investigate the barn.
 
-327
+414
 00:23:05,410 --> 00:23:06,050
 Alright.
 
-328
+415
 00:23:06,640 --> 00:23:08,100
 Dude, look at the lighting though.
 
-329
+416
 00:23:12,360 --> 00:23:13,580
 Okay, we got two dollars.
 
-330
+417
 00:23:15,960 --> 00:23:17,160
 Dude, I can't get over that snow.
 
-331
+418
 00:23:17,280 --> 00:23:18,760
 Look at the way the snow deforms.
 
-332
+419
 00:23:20,140 --> 00:23:21,020
 That's like unreal.
 
-333
+420
 00:23:29,200 --> 00:23:33,100
 Love the tone... in the back there.
 
-334
+421
 00:23:34,080 --> 00:23:35,240
 Filled with tension.
 
-335
+422
 00:23:36,140 --> 00:23:36,780
 Oh!
 
-336
+423
 00:23:39,460 --> 00:23:41,060
 Oh ho, here we go.
 
-337
+424
+00:23:41,480 --> 00:23:43,180
+I'm gonna break your neck!
+
+425
 00:23:44,580 --> 00:23:45,480
 Oh yeah?
 
-338
+426
 00:23:47,100 --> 00:23:48,200
 Let's try it then.
 
-339
+427
 00:23:51,480 --> 00:23:52,560
 Can I dodge?
 
-340
+428
 00:23:54,960 --> 00:23:56,180
 Are you just watching?
 
-341
+429
 00:23:56,420 --> 00:23:56,940
 Help me!
 
-342
+430
 00:24:01,690 --> 00:24:02,390
 Come on, bro.
 
-343
+431
 00:24:04,890 --> 00:24:07,270
 Oh, yeah.
 
-344
+432
+00:24:09,410 --> 00:24:10,530
+No...
+
+433
+00:24:11,840 --> 00:24:12,930
+Not yet...
+
+434
+00:24:14,010 --> 00:24:15,830
+Find out what they're doing here,
+
+435
+00:24:16,330 --> 00:24:17,990
+and where Colm is.
+
+436
 00:24:18,050 --> 00:24:18,490
 Oh,
 
-345
+437
 00:24:22,630 --> 00:24:23,810
 we can beat him or question him.
 
-346
+438
+00:24:24,560 --> 00:24:26,560
+Where's Colm O'Driscoll?
+
+439
+00:24:29,390 --> 00:24:30,890
+With the others...
+
+440
 00:24:32,500 --> 00:24:35,900
 The mining camp southwest of here, near the lake.
 
-347
+441
 00:24:37,840 --> 00:24:39,720
 What are you bastards doing?
 
-348
+442
 00:24:40,380 --> 00:24:42,200
 Why are you up here?
 
-349
+443
 00:24:43,280 --> 00:24:45,540
 We're fixing to rob some train.
 
-350
+444
 00:24:46,040 --> 00:24:47,500
 Gonna blow the tracks.
 
-351
+445
 00:24:47,960 --> 00:24:49,660
 I don't know more than that, I swear.
 
-352
+446
 00:24:52,980 --> 00:24:55,860
 Well, I would say it looks like you have this, Arthur.
 
-353
+447
 00:24:56,380 --> 00:24:57,340
 Do what you want with him.
 
-354
+448
 00:24:57,580 --> 00:24:58,380
 I don't care.
 
-355
+449
 00:24:58,860 --> 00:25:00,800
 But bring that horse when you're done.
 
-356
+450
+00:25:03,480 --> 00:25:05,160
+I don't know anything else...
+
+451
 00:25:05,210 --> 00:25:06,930
 Oh, we can choke him.
 
-357
+452
+00:25:09,080 --> 00:25:09,890
+please, spare me.
+
+453
 00:25:15,550 --> 00:25:16,350
 Oh yeah?
 
-358
+454
 00:25:21,290 --> 00:25:22,170
 Okay then.
 
-359
+455
+00:25:23,660 --> 00:25:25,940
+Get the hell outta here. Go.
+
+456
 00:25:27,860 --> 00:25:28,840
 Freaking bastard.
 
-360
+457
 00:25:31,220 --> 00:25:32,280
 Pick up with gun.
 
-361
+458
 00:25:33,120 --> 00:25:33,300
 Oh!
 
-362
+459
 00:25:37,120 --> 00:25:38,040
 And hat.
 
-363
+460
 00:25:39,640 --> 00:25:41,820
 Oh yeah, I didn't even realize our hat fell off.
 
-364
+461
 00:25:48,220 --> 00:25:49,240
 Approach the horse.
 
-365
+462
 00:25:51,660 --> 00:25:53,880
 Look at that horse, it's so well animated.
 
-366
+463
 00:26:06,640 --> 00:26:08,400
 The detail on his hat is crazy.
 
-367
+464
 00:26:08,600 --> 00:26:17,220
 Like the little piece of cloth or whatever that is, or leather binding, I don't know what it is, but it is remarkably detailed.
 
-368
+465
+00:26:17,690 --> 00:26:21,680
+You let him go, huh? Saw the little bastard scurrying off.
+
+466
+00:26:21,690 --> 00:26:25,690
+Yeah, figured he won't get far in this anyway.
+
+467
+00:26:26,440 --> 00:26:30,030
+That looks like a decent horse, you should keep him.
+
+468
+00:26:30,310 --> 00:26:32,890
+You need to hitch him, he's already skittish.
+
+469
 00:26:40,510 --> 00:26:40,990
 Okay.
 
-369
+470
 00:26:40,990 --> 00:26:42,390
 Oh shit, what the hell?
 
-370
+471
+00:26:44,640 --> 00:26:46,440
+I got you now!
+
+472
+00:26:46,480 --> 00:26:48,110
+Wild thing ain't you?
+
+473
 00:26:48,230 --> 00:26:50,450
 Where the hell did she come from?
 
-371
+474
+00:26:51,260 --> 00:26:52,840
+She's one of them O'Driscolls.
+
+475
+00:26:52,840 --> 00:26:54,660
+No she ain't, Micah. Look at her.
+
+476
 00:26:55,610 --> 00:26:56,590
 Uh-oh.
 
-372
+477
+00:26:58,040 --> 00:27:00,160
+Oh, you fool, Micah.
+
+478
+00:27:02,130 --> 00:27:05,690
+Miss, now it is gonna be okay.
+
+479
+00:27:05,910 --> 00:27:08,530
+We mean you no harm.
+
+480
+00:27:08,530 --> 00:27:10,110
+Miss! Miss...
+
+481
+00:27:11,010 --> 00:27:13,610
+Come on, it'll be okay.
+
+482
+00:27:14,080 --> 00:27:16,590
+We need to get out of here, and quick.
+
+483
+00:27:16,734 --> 00:27:17,940
+Come on now.
+
+484
 00:27:19,470 --> 00:27:20,950
 Dude, where the hell was she?
 
-373
+485
 00:27:21,070 --> 00:27:22,270
 I searched the entire place.
 
-374
+486
+00:27:22,640 --> 00:27:23,530
+You okay, miss?
+
+487
+00:27:23,530 --> 00:27:26,860
+They came three days ago...
+
+488
+00:27:27,010 --> 00:27:29,010
+and my husband, they...
+
+489
 00:27:31,490 --> 00:27:33,990
 Miss, you are safe now.
 
-375
+490
 00:27:34,590 --> 00:27:36,810
 And you can't stay here.
 
-376
+491
 00:27:40,030 --> 00:27:41,390
 You come with us.
 
-377
+492
 00:27:41,830 --> 00:27:42,310
 Of course.
 
-378
+493
 00:27:43,470 --> 00:27:45,750
 Miss, it's okay.
 
-379
+494
 00:27:46,530 --> 00:27:47,790
 We're bad men.
 
-380
+495
+00:27:48,880 --> 00:27:51,060
+we ain't them, so..
+
+496
 00:27:51,480 --> 00:27:52,620
 It's okay.
 
-381
+497
 00:27:54,180 --> 00:27:55,180
 Get on.
 
-382
+498
 00:27:55,740 --> 00:27:59,040
 We'll keep you safe until you figure out what you want to do.
 
-383
+499
 00:27:59,280 --> 00:28:00,400
 What's your name, miss?
 
-384
+500
 00:28:01,560 --> 00:28:02,200
 Miss.
 
-385
+501
 00:28:03,200 --> 00:28:03,980
 Adler.
 
-386
+502
 00:28:04,380 --> 00:28:05,160
 Adler.
 
-387
+503
 00:28:06,080 --> 00:28:07,420
 Sadie Adler.
 
-388
+504
 00:28:07,860 --> 00:28:15,320
 Mrs. I... He... He was my husband.
 
-389
+505
 00:28:20,740 --> 00:28:23,480
 Dude, I can tell this is gonna be really good.
 
-390
+506
 00:28:27,260 --> 00:28:29,580
 Look at that shot, holy shit.
 
-391
+507
 00:28:31,580 --> 00:28:32,040
 Wow.
 
-392
+508
 00:28:33,520 --> 00:28:35,480
 How the hell is this game eight years old?
 
-393
+509
+00:28:36,280 --> 00:28:38,930
+Hey, somebody's coming!
+
+510
+00:28:40,110 --> 00:28:41,830
+Looks like it's Dutch.
+
+511
+00:28:42,010 --> 00:28:43,910
+Hey everybody, Dutch is back.
+
+512
+00:28:44,280 --> 00:28:45,890
+How'd you get on?
+
+513
+00:28:46,610 --> 00:28:50,790
+Micah found a homestead, but...
+
+514
 00:28:51,610 --> 00:28:54,070
 Tom O'Driscoll and his scum, they beat us to it.
 
-394
+515
 00:28:55,330 --> 00:28:59,850
 We found some of them there, but there is more about.
 
-395
+516
 00:29:02,740 --> 00:29:03,860
 Scouting the train.
 
-396
+517
 00:29:04,240 --> 00:29:05,040
 Thank you.
 
-397
+518
 00:29:05,480 --> 00:29:07,520
 That's the last thing we need right now, Dutch.
 
-398
+519
 00:29:07,780 --> 00:29:08,960
 Well, it is what it is.
 
-399
+520
 00:29:09,180 --> 00:29:13,340
 But we found some supplies, some blankets, a little bit of food.
 
-400
+521
 00:29:13,640 --> 00:29:19,420
 And this poor soul, Mrs. Adler... Miss Tilly, Miss Karen, would you warm her up?
 
-401
+522
 00:29:19,740 --> 00:29:20,840
 Give her a drink or something?
 
-402
+523
 00:29:21,900 --> 00:29:24,800
 And Mrs. Adler, it's gonna be okay.
 
-403
+524
 00:29:25,260 --> 00:29:26,340
 You're safe now.
 
-404
+525
 00:29:27,240 --> 00:29:29,220
 They turned her into a widow.
 
-405
+526
 00:29:29,900 --> 00:29:30,380
 Animals.
 
-406
+527
+00:29:31,760 --> 00:29:35,330
+I need some rest.
+
+528
+00:29:35,690 --> 00:29:36,980
+You're over here...
+
+529
+00:29:36,980 --> 00:29:42,030
+Miss O'Shea will show you the way.
+
+530
+00:29:42,230 --> 00:29:43,790
+Thank you, Miss Grimshaw.
+
+531
+00:29:43,790 --> 00:29:46,280
+Mr. Bell, you're with the fellers over there.
+
+532
+00:29:47,230 --> 00:29:51,180
+How come Arthur gets a room...
+
+533
 00:29:52,030 --> 00:29:53,250
 Ooh!
 
-407
+534
 00:29:53,250 --> 00:29:54,470
 Bill!
 
-408
+535
 00:29:54,890 --> 00:29:56,310
 Bill Williamson!
 
-409
+536
 00:29:56,810 --> 00:29:58,410
 No shit.
 
-410
+537
 00:29:59,240 --> 00:30:00,140
 Where the hell is John?
 
-411
+538
 00:30:01,460 --> 00:30:02,660
 They said he was out there, right?
 
-412
+539
 00:30:03,600 --> 00:30:04,740
 But I don't know where he is now.
 
-413
+540
 00:30:06,180 --> 00:30:07,260
 Oh, that's a flashbang.
 
-414
+541
 00:30:08,400 --> 00:30:08,700
 Damn.
 
-415
+542
 00:30:12,670 --> 00:30:14,450
 Enter pursued by a memory.
 
-416
+543
+00:30:14,990 --> 00:30:16,740
+He ain't been seen in days.
+
+544
 00:30:35,960 --> 00:30:36,760
 I'm sorry.
 
-417
+545
 00:30:36,880 --> 00:30:39,000
 I'm sorry to ask, but... It's little John.
 
-418
+546
 00:30:39,260 --> 00:30:42,020
 He's got himself caught into a scrape again.
 
-419
+547
 00:30:42,140 --> 00:30:45,880
 He ain't been seen in two... two days.
 
-420
+548
 00:30:46,200 --> 00:30:47,780
 Your John will be fine.
 
-421
+549
 00:30:48,220 --> 00:30:56,880
 I mean, he may be as dumb as rocks and as dull as rusted iron, but that ain't changing because he got caught in some snowstorm.
 
-422
+550
 00:30:57,000 --> 00:30:58,140
 At least go take a look.
 
-423
+551
 00:30:58,500 --> 00:30:58,980
 Javier?
 
-424
+552
 00:30:59,200 --> 00:30:59,540
 Yes.
 
-425
+553
 00:31:00,200 --> 00:31:04,120
 Javier, will you ride out with Arthur to take a look for John?
 
-426
+554
 00:31:04,780 --> 00:31:07,060
 You're the two best fit men we've got.
 
-427
+555
 00:31:07,500 --> 00:31:07,860
 Now?
 
-428
+556
 00:31:09,120 --> 00:31:13,380
 She's... we're all... we're pretty worried about him.
 
-429
+557
 00:31:13,800 --> 00:31:20,360
 I know... the situation were reversed and... he'd look for me.
 
-430
+558
 00:31:23,360 --> 00:31:24,360
 Thank you.
 
-431
+559
 00:31:26,100 --> 00:31:27,540
 Wait, is it that Javier?
 
-432
+560
 00:31:28,030 --> 00:31:32,570
 This way, lest I know, John was headed up the river.
 
-433
+561
 00:31:33,090 --> 00:31:37,770
 For all we know, he kept riding north and never looked back.
 
-434
+562
 00:31:38,170 --> 00:31:39,090
 You wouldn't leave.
 
-435
+563
 00:31:39,510 --> 00:31:40,430
 Not like that.
 
-436
+564
 00:31:41,090 --> 00:31:43,010
 Well, it wouldn't be the first time.
 
-437
+565
 00:31:52,200 --> 00:31:54,760
 It's Javier, the same guy from Red Dead 1.
 
-438
+566
 00:31:57,280 --> 00:32:00,380
 It's so weird seeing these people again.
 
-439
+567
 00:32:04,760 --> 00:32:07,180
 So I guess we're gonna find John and then we get to play as him.
 
-440
+568
+00:32:31,690 --> 00:32:32,836
+Sure, well, come on then.
+
+569
 00:32:33,450 --> 00:32:35,750
 Dude, that was a sick transition.
 
-441
+570
 00:32:37,310 --> 00:32:38,330
 Wow.
 
-442
+571
 00:32:41,070 --> 00:32:42,090
 Damn.
 
-443
+572
 00:32:44,740 --> 00:32:45,580
 Let's cross.
 
-444
+573
 00:32:46,440 --> 00:32:48,080
 See, they continue up that way.
 
-445
+574
 00:32:48,300 --> 00:32:50,180
 I can see the tracks here, Arthur.
 
-446
+575
 00:32:52,780 --> 00:32:53,300
 Okay.
 
-447
+576
 00:32:53,940 --> 00:32:54,680
 I'm with you.
 
-448
+577
 00:32:55,760 --> 00:32:56,900
 You think it's John?
 
-449
+578
 00:32:57,260 --> 00:32:58,020
 You tell me.
 
-450
+579
 00:32:58,840 --> 00:33:01,940
 These are horse tracks for sure, but... could be anyone.
 
-451
+580
 00:33:02,460 --> 00:33:03,540
 Let's just see where they need.
 
-452
+581
 00:33:04,760 --> 00:33:05,140
 So?
 
-453
+582
 00:33:06,420 --> 00:33:07,740
 You were there, Javier.
 
-454
+583
 00:33:10,960 --> 00:33:13,220
 We had the money, it seemed fine.
 
-455
+584
 00:33:13,740 --> 00:33:15,540
 Then suddenly they were everywhere.
 
-456
+585
 00:33:15,920 --> 00:33:16,700
 Bounty hunters?
 
-457
+586
 00:33:17,040 --> 00:33:18,260
 No, Pinkertons.
 
-458
+587
 00:33:18,860 --> 00:33:20,000
 It was crazy.
 
-459
+588
 00:33:20,360 --> 00:33:21,320
 Raining bullets.
 
-460
+589
 00:33:25,860 --> 00:33:27,700
 Watch out for this crevice.
 
-461
+590
+00:33:31,985 --> 00:33:35,585
+Dutch killed a girl in a... bad way, but it was a bad situation.
+
+591
 00:33:35,760 --> 00:33:36,460
 Oh, sick.
 
-462
+592
 00:33:41,240 --> 00:33:43,280
 Yeah, they mentioned something like that in Red Dead 1.
 
-463
+593
+00:33:44,690 --> 00:33:47,250
+They continue along the cliff wall here.
+
+594
 00:33:51,520 --> 00:33:55,180
 Davey got shot, Mac and John both shot too.
 
-464
+595
 00:33:56,040 --> 00:33:57,080
 Sean, we don't even know.
 
-465
+596
 00:33:57,660 --> 00:33:59,500
 I'm surprised we escaped at all.
 
-466
+597
 00:34:00,140 --> 00:34:04,440
 By the time you boys showed up from the other side of town, we were only just holding on.
 
-467
+598
 00:34:06,600 --> 00:34:08,340
 Bad business, all right.
 
-468
+599
 00:34:10,300 --> 00:34:11,760
 Damn, nice basho.
 
-469
+600
 00:34:12,940 --> 00:34:15,200
 Damn snow's coming in hard again.
 
-470
+601
 00:34:15,780 --> 00:34:17,800
 We'll lose these tracks if we don't move fast.
 
-471
+602
 00:34:23,350 --> 00:34:26,770
 Dude, this is like a movie.
 
-472
+603
 00:34:28,810 --> 00:34:29,910
 Holy shit.
 
-473
+604
 00:34:41,030 --> 00:34:42,690
 This music is fantastic.
 
-474
+605
 00:34:47,950 --> 00:34:49,950
 Watch yourself, it's not very wide here.
 
-475
+606
 00:34:51,970 --> 00:34:53,150
 Oh shit, yeah.
 
-476
+607
 00:34:53,530 --> 00:34:54,650
 Whoa, careful, careful.
 
-477
+608
 00:34:56,110 --> 00:34:56,910
 Horses scared.
 
-478
+609
+00:34:59,374 --> 00:35:00,836
+Come on, boy.
+
+610
+00:35:01,190 --> 00:35:02,490
+Horses are getting tired.
+
+611
+00:35:02,780 --> 00:35:05,310
+Yeah, a lot of fresh snow here.
+
+612
+00:35:09,190 --> 00:35:13,418
+Let's push on a little bit, maybe we'll pick up the trail again.
+
+613
 00:35:15,380 --> 00:35:16,820
 I mean, we know he's gonna be alright.
 
-479
+614
 00:35:17,100 --> 00:35:18,180
 You know, cause it's a prequel.
 
-480
+615
+00:35:18,472 --> 00:35:20,000
+Almost there, boy, come on now!
+
+616
+00:35:24,190 --> 00:35:27,752
+Hey, look. Over there, you see that?
+
+617
 00:35:28,680 --> 00:35:29,200
 Oh yeah.
 
-481
+618
+00:35:45,690 --> 00:35:47,592
+Hey! Help! Here!
+
+619
 00:35:47,730 --> 00:35:48,870
 Oh shit.
 
-482
+620
+00:35:50,640 --> 00:35:52,327
+Come on... up there!
+
+621
 00:35:54,550 --> 00:35:55,490
 Let's go.
 
-483
+622
 00:35:57,430 --> 00:35:58,790
 Oh man, look at that.
 
-484
+623
 00:35:59,430 --> 00:36:00,690
 That's gruesome.
 
-485
+624
+00:36:14,392 --> 00:36:15,390
+walk from here.
+
+625
+00:36:16,190 --> 00:36:19,060
+I'd grab that shotgun from your horse.
+
+626
+00:36:19,060 --> 00:36:20,280
+Who knows what's up ahead.
+
+627
 00:36:21,180 --> 00:36:23,860
 Okay, you can only carry one sidearm at a time.
 
-486
+628
 00:36:24,120 --> 00:36:26,780
 You can swap your carried weapons with weapons stored on your horse.
 
-487
+629
+00:36:27,127 --> 00:36:29,214
+Grab your shotgun, come on.
+
+630
+00:36:35,250 --> 00:36:36,058
+Down this way.
+
+631
 00:36:36,480 --> 00:36:44,360
 Dude, I feel the GTA 6 where they got the inspiration from here for some of this stuff.
 
-488
+632
 00:36:48,060 --> 00:36:49,100
 This is excellent.
 
-489
+633
+00:36:54,123 --> 00:36:55,796
+You sure about this?
+
+634
+00:36:58,610 --> 00:36:59,510
+Help!
+
+635
+00:37:03,380 --> 00:37:04,380
+Careful here.
+
+636
 00:37:05,910 --> 00:37:07,390
 Man, you don't want to slip here.
 
-490
+637
 00:37:07,490 --> 00:37:08,210
 Holy crap.
 
-491
+638
 00:37:13,610 --> 00:37:16,710
 Dude, this guy seems nothing like the Javier from the first game.
 
-492
+639
 00:37:17,490 --> 00:37:21,010
 But then again, we didn't really see him for that long.
 
-493
+640
+00:37:21,690 --> 00:37:25,680
+Drops down here, watch yourself.
+
+641
 00:37:26,570 --> 00:37:27,090
 Okay.
 
-494
+642
 00:37:29,150 --> 00:37:29,670
 Whoa.
 
-495
+643
+00:37:29,890 --> 00:37:30,860
+Watch out here.
+
+644
 00:37:32,170 --> 00:37:32,990
 I'm careful.
 
-496
+645
+00:37:37,060 --> 00:37:38,180
+Watch your head here.
+
+646
+00:37:48,690 --> 00:37:51,180
+Watch your step, this is real slippery.
+
+647
+00:37:51,530 --> 00:37:52,940
+Stay close to the wall.
+
+648
 00:37:53,870 --> 00:37:55,230
 Oh, wait.
 
-497
+649
 00:37:57,170 --> 00:37:58,410
 I gotta eat something.
 
-498
+650
 00:37:59,870 --> 00:38:00,850
 Stamina core.
 
-499
+651
 00:38:02,270 --> 00:38:03,510
 Canned kidney beans?
 
-500
+652
+00:38:09,760 --> 00:38:10,260
+Come on.
+
+653
+00:38:10,460 --> 00:38:13,160
+Hey! Over here!
+
+654
+00:38:13,190 --> 00:38:15,610
+That sounds closer now. Come on.
+
+655
+00:38:20,910 --> 00:38:22,360
+We're coming, John!
+
+656
 00:38:26,060 --> 00:38:27,880
 Oh, get up there!
 
-501
+657
 00:38:28,200 --> 00:38:28,520
 Careful!
 
-502
+658
 00:38:34,820 --> 00:38:36,100
 Oh, come on!
 
-503
+659
 00:38:36,360 --> 00:38:37,160
 There we go.
 
-504
+660
 00:38:48,700 --> 00:38:53,720
 The game runs really well, too.
 
-505
+661
+00:39:01,260 --> 00:39:01,890
+John!
+
+662
+00:39:03,930 --> 00:39:05,260
+John, you there?
+
+663
+00:39:05,540 --> 00:39:06,360
+I'm here!
+
+664
+00:39:06,880 --> 00:39:08,060
+Out on the ledge!
+
+665
+00:39:09,025 --> 00:39:10,330
+That's John! We're coming!
+
+666
 00:39:12,350 --> 00:39:13,790
 Oh my god, we're gonna see him!
 
-506
+667
 00:39:14,030 --> 00:39:15,230
 This is gonna be so weird.
 
-507
+668
+00:39:17,590 --> 00:39:18,510
+He's down here.
+
+669
+00:39:18,760 --> 00:39:20,060
+Down here!
+
+670
 00:39:23,070 --> 00:39:24,750
 Yeah, there we go.
 
-508
+671
 00:39:39,460 --> 00:39:40,880
 It's good to hear his voice again.
 
-509
+672
 00:39:55,160 --> 00:40:04,220
 Up you go.
 
-510
+673
 00:40:08,660 --> 00:40:10,140
 We can't go back the way we came.
 
-511
+674
 00:40:11,060 --> 00:40:12,240
 Let's try this way.
 
-512
+675
 00:40:12,480 --> 00:40:14,520
 Ain't you a sorry sign?
 
-513
+676
 00:40:15,260 --> 00:40:17,780
 Can't argue with you there.
 
-514
+677
 00:40:18,560 --> 00:40:18,920
 See?
 
-515
+678
 00:40:19,420 --> 00:40:22,380
 I told Dutch you weren't the right man for this.
 
-516
+679
 00:40:31,140 --> 00:40:33,300
 Dude, that was an excellent shot.
 
-517
+680
 00:40:34,120 --> 00:40:34,580
 Wow.
 
-518
+681
 00:40:36,620 --> 00:40:37,700
 Uh-oh.
 
-519
+682
 00:40:58,000 --> 00:40:58,400
 Man.
 
-520
+683
 00:40:58,400 --> 00:41:00,440
 Keep the wolves away from Javier and John.
 
-521
+684
 00:41:00,640 --> 00:41:01,580
 Yes, you got it.
 
-522
+685
 00:41:01,660 --> 00:41:02,100
 Oh, there they are.
 
-523
+686
 00:41:07,360 --> 00:41:08,760
 Do I really want to be calling out?
 
-524
+687
 00:41:13,340 --> 00:41:13,820
 Uh-oh.
 
-525
+688
 00:41:15,640 --> 00:41:16,220
 Oh, shit.
 
-526
+689
 00:41:16,440 --> 00:41:16,640
 Oh!
 
-527
+690
 00:41:19,300 --> 00:41:19,960
 Oh, my God.
 
-528
+691
 00:41:20,060 --> 00:41:20,780
 Oh, my God.
 
-529
+692
 00:41:21,760 --> 00:41:22,700
 I'm gonna get rabies.
 
-530
+693
 00:41:25,580 --> 00:41:26,420
 Pull!
 
-531
+694
 00:41:31,300 --> 00:41:32,340
 I'm coming.
 
-532
+695
 00:41:38,700 --> 00:41:41,600
 Oh, man.
 
-533
+696
 00:41:48,040 --> 00:41:49,760
 Dude, this is great!
 
-534
+697
 00:41:52,300 --> 00:41:53,380
 I'm with you.
 
-535
+698
 00:42:12,820 --> 00:42:16,420
 Yeah, exactly.
 
-536
+699
 00:42:17,380 --> 00:42:18,740
 You will at some point.
 
-537
+700
 00:42:20,040 --> 00:42:21,600
 Man, that's actually so sad.
 
-538
+701
 00:42:22,160 --> 00:42:25,220
 I was just reminded of that ending.
 
-539
+702
 00:42:31,760 --> 00:42:32,860
 I can't hit for shit!
 
-540
+703
 00:42:36,580 --> 00:42:37,020
 Yeah!
 
-541
+704
+00:42:38,380 --> 00:42:39,980
+Shit, there's more on the right!
+
+705
+00:42:40,160 --> 00:42:41,710
+We got more wolves on the left!
+
+706
 00:42:41,820 --> 00:42:43,220
 Oh, right or left?
 
-542
+707
+00:42:43,560 --> 00:42:44,560
+Get outta here!
+
+708
 00:42:49,710 --> 00:42:51,390
 The game runs so well.
 
-543
+709
 00:42:51,810 --> 00:42:52,870
 Holy fuck.
 
-544
+710
+00:42:52,890 --> 00:42:54,260
+You see any more, Arthur?
+
+711
+00:42:54,410 --> 00:42:55,640
+Don't think so.
+
+712
+00:42:56,140 --> 00:42:57,230
+Jesus.
+
+713
+00:42:57,340 --> 00:42:58,840
+You still with us, Marston?
+
+714
+00:42:59,380 --> 00:43:00,230
+Just about.
+
+715
+00:43:00,590 --> 00:43:03,160
+You're gonna be okay. We have some shelter now.
+
+716
+00:43:03,460 --> 00:43:05,130
+Thanks for coming for me.
+
+717
+00:43:05,280 --> 00:43:10,240
+Of course. That bullet in Blackwater, now this? You had a hell of a time.
+
+718
+00:43:10,430 --> 00:43:13,910
+And Arthur always says... I'm lucky.
+
+719
+00:43:14,260 --> 00:43:16,040
+None of us are lucky right now.
+
+720
 00:43:17,580 --> 00:43:19,460
 Man, this music is just amazing.
 
-545
+721
+00:43:20,360 --> 00:43:25,860
+We should ride in the water for a bit, try to lose the scent. Don't want to leave a trail right back to camp.
+
+722
+00:43:25,980 --> 00:43:30,940
+You know, we're gonna need to come up with a better story for that scar.
+
+723
+00:43:31,510 --> 00:43:39,030
+So, freezing, bleeding, starving, damn near getting eaten to death, ain't good enough for you?
+
+724
+00:43:39,290 --> 00:43:41,390
+Here, let's cross to the left.
+
+725
+00:43:42,680 --> 00:43:46,540
+Yeah...c'mon. Let's push hard and get back.
+
+726
 00:43:54,900 --> 00:43:57,280
 This looks insanely good.
 
-546
+727
 00:43:57,600 --> 00:44:00,620
 I can't get over how good this looks.
 
-547
+728
 00:44:02,060 --> 00:44:03,580
 And it's an older game.
 
-548
+729
+00:44:03,640 --> 00:44:06,760
+Come on! Someone help John down off this horse.
+
+730
+00:44:07,290 --> 00:44:08,960
+Can we get some help here?
+
+731
+00:44:16,610 --> 00:44:17,780
+Can we get some help?
+
+732
+00:44:18,440 --> 00:44:19,640
+We need some help here!
+
+733
+00:44:19,640 --> 00:44:20,680
+C'mon, help him down.
+
+734
+00:44:20,680 --> 00:44:24,680
+You're alive! Oh you're alive!
+
+735
 00:44:26,860 --> 00:44:27,960
 Idiotas, it's his leg.
 
-549
+736
 00:44:28,500 --> 00:44:29,820
 Come on, let's get you warm.
 
-550
+737
 00:44:30,360 --> 00:44:31,960
 Thank you, thank you both.
 
-551
+738
 00:44:32,860 --> 00:44:35,340
 This is a new low, even by your standards.
 
-552
+739
 00:44:36,420 --> 00:44:37,280
 Thank you, Arthur.
 
-553
+740
 00:44:37,820 --> 00:44:38,340
 Thank you.
 
-554
+741
 00:44:38,380 --> 00:44:41,020
 You got any other lost maidens need saving?
 
-555
+742
 00:44:41,800 --> 00:44:42,660
 Not today.
 
-556
+743
 00:44:43,420 --> 00:44:46,100
 Have you and Dutch talked about how we're gonna get out of this?
 
-557
+744
 00:44:46,380 --> 00:44:51,900
 I was just discussing with Herr Strauss when the weather breaks, I suppose we'll have to keep heading east.
 
-558
+745
 00:44:52,060 --> 00:44:52,420
 East?
 
-559
+746
 00:44:52,720 --> 00:44:53,480
 Into all that?
 
-560
+747
+00:44:54,090 --> 00:44:55,340
+that civilization?
+
+748
+00:44:55,340 --> 00:44:56,340
+I know...
+
+749
+00:44:56,630 --> 00:44:59,480
+the west is where our problems are worse.
+
+750
+00:44:59,960 --> 00:45:02,380
+Come on, Herr Strauss. Let's get warm.
+
+751
+00:45:02,380 --> 00:45:04,080
+Thank you, Mr. Morgan.
+
+752
 00:45:06,670 --> 00:45:11,490
 That civilization... Nothing scarier than that.
 
-561
+753
 00:45:16,200 --> 00:45:22,660
 We found shelter and been resting here in some old abandoned mining town while we wait the thaw.
 
-562
+754
 00:45:23,980 --> 00:45:26,640
 Hardly the spring I had been hoping for.
 
-563
+755
 00:45:30,880 --> 00:45:32,100
 Man, alright.
 
-564
+756
 00:45:32,960 --> 00:45:36,140
 Events in interesting locations are noted in your journal as you explore.
 
-565
+757
 00:45:36,320 --> 00:45:37,180
 Hold ye to view it.
 
-566
+758
+00:45:41,480 --> 00:45:43,190
+When the storm breaks, we move.
+
+759
 00:45:44,110 --> 00:45:45,810
 I actually knew there was a journal in this game.
 
-567
+760
 00:45:47,170 --> 00:45:47,830
 It's awesome.
 
-568
+761
 00:45:48,330 --> 00:45:49,290
 Okay, hold on, someone's talking.
 
-569
+762
+00:45:52,110 --> 00:45:53,860
+You sound doubtful.
+
+763
+00:45:53,910 --> 00:45:56,960
+Not... doubtful, just worried.
+
+764
+00:45:57,960 --> 00:46:03,880
+We have been shot at before, Hosea.
+
+765
+00:46:04,490 --> 00:46:05,280
+I hope not.
+
+766
+00:46:06,730 --> 00:46:08,340
+We had a bit of bad luck,
+
+767
+00:46:08,460 --> 00:46:11,461
+but then the storm covered our tracks, so now we wait a bit...
+
+768
+00:46:12,450 --> 00:46:16,872
+or we get some more money and we keep heading west.
+
+769
+00:46:16,980 --> 00:46:18,730
+But we're heading east.
+
+770
+00:46:19,460 --> 00:46:22,880
+For now... for now.
+
+771
 00:46:23,790 --> 00:46:25,410
 We got this.
 
-570
+772
 00:46:26,070 --> 00:46:27,270
 We're safe.
 
-571
+773
 00:46:29,190 --> 00:46:30,950
 Stay strong, Jose.
 
-572
+774
 00:46:34,120 --> 00:46:35,520
 What about you, Arthur?
 
-573
+775
 00:46:36,020 --> 00:46:37,080
 You doubting me too?
 
-574
+776
 00:46:37,600 --> 00:46:37,940
 Never.
 
-575
+777
 00:46:38,880 --> 00:46:39,220
 Good.
 
-576
+778
 00:46:40,020 --> 00:46:41,340
 Because you know me, son.
 
-577
+779
 00:46:41,900 --> 00:46:43,300
 I'm just getting started.
 
-578
+780
 00:46:44,220 --> 00:46:50,880
 Once we get some money, well, they... they better send some good men after us, because they ain't never gonna find us.
 
-579
+781
 00:46:51,400 --> 00:46:53,060
 But we need money.
 
-580
+782
 00:46:53,900 --> 00:46:54,600
 Of course, Dutch.
 
-581
+783
 00:46:55,880 --> 00:46:58,440
 Thank you, son, for your strength.
 
-582
+784
 00:46:59,040 --> 00:47:00,460
 It means a lot to me.
 
-583
+785
 00:47:03,680 --> 00:47:07,400
 Dude, he seems so different compared to the first game.
 
-584
+786
 00:47:07,560 --> 00:47:10,520
 He seemed like a wild man in that first game.
 
-585
+787
 00:47:12,320 --> 00:47:14,500
 But we know he wasn't always like that, right?
 
-586
+788
 00:47:15,140 --> 00:47:22,780
 I mean, we know that John learned to read and write because Dutch taught him and stuff like that, you know?
 
-587
+789
 00:47:23,280 --> 00:47:24,680
 Almost like a father to him.
 
-588
+790
 00:47:25,300 --> 00:47:29,040
 It's so weird, man, seeing these people sit.
 
-589
+791
 00:47:31,380 --> 00:47:31,860
 Oh?
 
-590
+792
 00:47:32,680 --> 00:47:34,240
 Oh, you wanted to sit over here instead?
 
-591
+793
 00:47:34,740 --> 00:47:35,400
 Okay, that's fine.
 
-592
+794
 00:47:36,160 --> 00:47:37,440
 Let me check out this journal thing.
 
-593
+795
 00:47:38,920 --> 00:47:40,940
 Oh, I can look at it while sitting.
 
-594
+796
 00:47:41,080 --> 00:47:41,640
 I love that.
 
-595
+797
 00:47:41,780 --> 00:47:42,280
 I love that.
 
-596
+798
 00:47:43,440 --> 00:47:43,880
 Blackwater.
 
-597
+799
 00:47:44,500 --> 00:47:47,980
 Dude, I remember the freaking layout of Blackwater.
 
-598
+800
 00:47:48,480 --> 00:47:49,320
 That's crazy.
 
-599
+801
 00:47:50,280 --> 00:47:51,900
 That's exactly what it looked like.
 
-600
+802
 00:47:52,680 --> 00:47:55,120
 But I guess this is Blackwater ten years ago or so.
 
-601
+803
 00:47:56,340 --> 00:47:58,560
 So the town hall or whatever in the top there.
 
-602
+804
 00:47:58,680 --> 00:47:59,680
 The river on the right.
 
-603
+805
 00:48:01,100 --> 00:48:01,620
 Yeah.
 
-604
+806
 00:48:03,140 --> 00:48:06,040
 Dude, it actually feels like yesterday I played Red Dead 1.
 
-605
+807
 00:48:07,580 --> 00:48:08,620
 Even though it's not.
 
-606
+808
 00:48:11,320 --> 00:48:11,840
 Damn.
 
-607
+809
 00:48:13,780 --> 00:48:14,880
 This guy can draw.
 
-608
+810
 00:48:15,700 --> 00:48:16,440
 That's nice.
 
-609
+811
 00:48:16,560 --> 00:48:17,220
 Is that Blackwater?
 
-610
+812
 00:48:20,130 --> 00:48:21,150
 Oh, here we go.
 
-611
+813
 00:48:21,470 --> 00:48:26,450
 I bought this new journal after the last one got destroyed in that fire all those months ago.
 
-612
+814
 00:48:27,010 --> 00:48:28,070
 Whenever it was.
 
-613
+815
 00:48:28,870 --> 00:48:34,370
 Haven't written or drawn much in the past few months, but I was missing it more than I thought I would.
 
-614
+816
 00:48:34,630 --> 00:48:37,730
 And finally near a store, so here I am, I guess.
 
-615
+817
 00:48:38,430 --> 00:48:46,850
 After all that business up north and the fire, we spent a few months in the wilderness, traveling down from the northern grizzlies.
 
-616
+818
 00:48:49,650 --> 00:48:50,130
 Okay.
 
-617
+819
 00:48:50,130 --> 00:48:51,810
 Kind of hard to read handwriting.
 
-618
+820
 00:48:53,570 --> 00:48:56,230
 Stuck mostly in the western foothills of the mountains.
 
-619
+821
 00:48:57,290 --> 00:48:59,050
 During the worst of the winter.
 
-620
+822
 00:48:59,870 --> 00:49:02,190
 Food was easy to find and life was good.
 
-621
+823
 00:49:02,950 --> 00:49:04,710
 Dutch had a lead for some land.
 
-622
+824
 00:49:04,910 --> 00:49:06,390
 And we were going to buy.
 
-623
+825
 00:49:06,690 --> 00:49:09,370
 But the land did not match up to his criteria.
 
-624
+826
 00:49:09,750 --> 00:49:12,450
 Or he got spooked we were being watched by the law.
 
-625
+827
 00:49:12,670 --> 00:49:14,430
 And that somebody knew who he was.
 
-626
+828
 00:49:14,770 --> 00:49:15,990
 And we never bought it.
 
-627
+829
 00:49:16,590 --> 00:49:18,030
 And we are wandering still.
 
-628
+830
 00:49:18,970 --> 00:49:21,290
 We picked up a couple of new folk in the Grizzlies.
 
-629
+831
 00:49:21,670 --> 00:49:22,810
 Dude, this is so cool.
 
-630
+832
 00:49:22,930 --> 00:49:23,910
 I love this system.
 
-631
+833
 00:49:24,710 --> 00:49:26,750
 Reminds me of The Last of Us, too.
 
-632
+834
 00:49:27,450 --> 00:49:28,310
 Which I loved.
 
-633
+835
 00:49:28,410 --> 00:49:30,050
 I loved that journal system in that game.
 
-634
+836
 00:49:31,550 --> 00:49:32,450
 Okay, who's that?
 
-635
+837
 00:49:33,150 --> 00:49:33,410
 Jenny.
 
-636
+838
 00:49:33,730 --> 00:49:36,530
 A sweet young girl we met abandoned on the roadside.
 
-637
+839
 00:49:36,810 --> 00:49:37,310
 And Micah.
 
-638
+840
 00:49:37,530 --> 00:49:39,930
 An outlaw Dutch met in a bar someplace.
 
-639
+841
 00:49:40,630 --> 00:49:42,810
 Dutch seems very taken with Micah.
 
-640
+842
 00:49:42,950 --> 00:49:44,330
 Who is pretty hot-headed.
 
-641
+843
 00:50:00,900 --> 00:50:06,640
 So, this is all in the past, right?
 
-642
+844
 00:50:06,780 --> 00:50:08,320
 Obviously, since he's writing about it.
 
-643
+845
 00:50:08,740 --> 00:50:10,200
 So, they were in Blackwater.
 
-644
+846
 00:50:10,880 --> 00:50:12,240
 Something about a boat...
 
-645
+847
 00:50:12,300 --> 00:50:12,840
 Went down.
 
-646
+848
 00:50:13,100 --> 00:50:14,060
 It went bad.
 
-647
+849
 00:50:14,720 --> 00:50:17,460
 And Dutch had to leave a bunch of money and other things behind.
 
-648
+850
 00:50:18,880 --> 00:50:20,100
 And I guess it's still there.
 
-649
+851
 00:50:20,700 --> 00:50:22,320
 So we're probably going to come back for that.
 
-650
+852
 00:50:26,400 --> 00:50:26,840
 Okay?
 
-651
+853
 00:50:26,840 --> 00:50:33,600
 Unless we're gonna, you know, travel back in time to that, and this is just, like, the prologue, and we're gonna, you know, have flashbacks or something.
 
-652
+854
 00:50:34,780 --> 00:50:36,100
 I might be onto something.
 
-653
+855
 00:50:36,400 --> 00:50:46,280
 We got plenty of money, and the trail we took was so torturous and slow, nobody could have followed us south and east, or figured out where we was heading.
 
-654
+856
 00:50:46,860 --> 00:50:52,700
 We was thinking about California, but then Dutch and Hosea brought us down to Blackwater.
 
-655
+857
 00:50:53,320 --> 00:50:54,040
 Okay.
 
-656
+858
 00:50:57,300 --> 00:50:59,120
 These are awesome drawings.
 
-657
+859
 00:51:01,040 --> 00:51:02,440
 That's kind of cool.
 
-658
+860
 00:51:05,580 --> 00:51:06,780
 People working away.
 
-659
+861
 00:51:08,000 --> 00:51:10,200
 He's journaling someone else who's journaling.
 
-660
+862
 00:51:10,440 --> 00:51:11,080
 That's funny.
 
-661
+863
 00:51:12,000 --> 00:51:16,900
 Blackwater has apparently grown a whole lot since any of them was leased here.
 
-662
+864
 00:51:17,100 --> 00:51:17,920
 Or last here.
 
-663
+865
 00:51:18,340 --> 00:51:20,900
 I was told to expect little more than a trading post.
 
-664
+866
 00:51:21,220 --> 00:51:22,780
 But the place is growing fast.
 
-665
+867
 00:51:22,980 --> 00:51:24,540
 And it's almost a small city.
 
-666
+868
 00:51:24,840 --> 00:51:27,220
 The town seems to be riddled with corruption.
 
-667
+869
 00:51:27,580 --> 00:51:29,360
 But there's certainly plenty of money here.
 
-668
+870
 00:51:30,100 --> 00:51:32,500
 It's good to be sleeping in a bed from time to time.
 
-669
+871
 00:51:32,830 --> 00:51:37,310
 And living a mere civilized life after a long... under canvas?
 
-670
+872
 00:51:38,950 --> 00:51:39,790
 I guess.
 
-671
+873
 00:51:40,150 --> 00:51:43,730
 But I do not particularly like being this near a town.
 
-672
+874
 00:51:44,590 --> 00:51:47,170
 Yeah, he seems kind of scared of civilization.
 
-673
+875
 00:51:47,790 --> 00:51:48,010
 Right?
 
-674
+876
 00:51:49,870 --> 00:51:51,190
 Scared of change, maybe.
 
-675
+877
 00:51:53,610 --> 00:51:55,090
 What is that on the left there?
 
-676
+878
 00:51:56,110 --> 00:51:57,130
 A fireplace?
 
-677
+879
 00:51:58,150 --> 00:51:59,210
 And some guards?
 
-678
+880
 00:52:00,320 --> 00:52:02,920
 We are living here, camping outside town mostly.
 
-679
+881
 00:52:03,200 --> 00:52:04,940
 Hidden in plain sight, I guess.
 
-680
+882
 00:52:05,460 --> 00:52:06,700
 Life seems pretty easy.
 
-681
+883
 00:52:07,520 --> 00:52:09,760
 Abigail and Marston keep arguing.
 
-682
+884
 00:52:10,140 --> 00:52:12,200
 I wonder why exactly he came back.
 
-683
+885
 00:52:12,620 --> 00:52:16,360
 He cannot seem to decide if he wants to be a father to that boy of his or not.
 
-684
+886
 00:52:17,300 --> 00:52:18,600
 Oh, shit.
 
-685
+887
 00:52:19,800 --> 00:52:20,620
 That's right.
 
-686
+888
 00:52:21,280 --> 00:52:23,940
 In the first game, he did leave for a while, right?
 
-687
+889
 00:52:25,060 --> 00:52:28,260
 And then he came back and decided to, you know, take care of his family.
 
-688
+890
 00:52:28,750 --> 00:52:30,210
 And we know what happened after that.
 
-689
+891
 00:52:31,050 --> 00:52:35,070
 Like he felt guilty about the way he wasn't there for... for his kid.
 
-690
+892
 00:52:36,510 --> 00:52:37,330
 Oh man.
 
-691
+893
 00:52:38,730 --> 00:52:40,250
 The arguing is exhausting.
 
-692
+894
 00:52:40,710 --> 00:52:44,790
 I heard talk of a man sounded like... Trelon?
 
-693
+895
 00:52:45,990 --> 00:52:46,550
 Freylon?
 
-694
+896
 00:52:46,670 --> 00:52:47,250
 What does that say?
 
-695
+897
 00:52:48,710 --> 00:52:50,930
 A man sounded like Trelawney.
 
-696
+898
 00:52:51,130 --> 00:52:53,010
 But we haven't seen him for many months.
 
-697
+899
 00:52:53,610 --> 00:52:54,170
 Okay.
 
-698
+900
 00:52:57,270 --> 00:52:58,990
 Hosea and I are onto something.
 
-699
+901
 00:52:59,530 --> 00:53:00,570
 Something pretty big.
 
-700
+902
 00:53:00,810 --> 00:53:05,470
 Might be a lot of cash coming in to do with the real estate scam Hosea thinks he may have discovered.
 
-701
+903
 00:53:06,130 --> 00:53:07,350
 I'm not sure yet.
 
-702
+904
 00:53:08,510 --> 00:53:10,010
 The perfect crime, we think.
 
-703
+905
 00:53:11,270 --> 00:53:13,550
 One where we rob crooks.
 
-704
+906
 00:53:13,890 --> 00:53:15,250
 We are being real careful.
 
-705
+907
 00:53:17,390 --> 00:53:19,330
 It's fun working with Hosea again.
 
-706
+908
 00:53:19,830 --> 00:53:22,490
 The man is an artist of... nonsense.
 
-707
+909
 00:53:23,630 --> 00:53:25,170
 Even if nothing comes of it...
 
-708
+910
 00:53:25,400 --> 00:53:27,080
 We are having an amusing enough time.
 
-709
+911
 00:53:29,080 --> 00:53:31,300
 I have to analyze this to understand what's written.
 
-710
+912
 00:53:32,660 --> 00:53:36,100
 Is that the boat that they're all talking about?
 
-711
+913
 00:53:37,120 --> 00:53:39,380
 It's good to be running scams again.
 
-712
+914
 00:53:39,940 --> 00:53:41,300
 Hosea is a born huckster.
 
-713
+915
 00:53:41,560 --> 00:53:48,320
 He's getting anxious, worried that by lingering in town, we are going to bring under undue attention on ourselves.
 
-714
+916
 00:53:48,740 --> 00:53:51,120
 But Dutch thinks he's also onto something big.
 
-715
+917
 00:53:51,380 --> 00:53:52,580
 His words, not mine.
 
-716
+918
 00:53:52,970 --> 00:53:55,370
 Bank money being brought in by boat, apparently.
 
-717
+919
 00:53:55,870 --> 00:53:57,710
 So for now, we are working on both.
 
-718
+920
 00:53:59,270 --> 00:54:00,630
 Things and seeing what happens.
 
-719
+921
 00:54:00,790 --> 00:54:01,090
 Oh, okay.
 
-720
+922
 00:54:01,410 --> 00:54:01,830
 Both things.
 
-721
+923
 00:54:02,530 --> 00:54:05,970
 Plan is to flee west into the desert country someplace if we can.
 
-722
+924
 00:54:08,810 --> 00:54:12,010
 Micah and Dutch are planning to rob the ferry in town.
 
-723
+925
 00:54:12,390 --> 00:54:13,990
 They think it's laden with riches.
 
-724
+926
 00:54:14,350 --> 00:54:16,210
 Cash coming in for the banks.
 
-725
+927
 00:54:16,630 --> 00:54:17,710
 Coming in by boat.
 
-726
+928
 00:54:18,270 --> 00:54:20,610
 For once, I'm not getting involved in the job.
 
-727
+929
 00:54:21,090 --> 00:54:25,990
 Jose and I are too taken up with our business, which I believe could go very well.
 
-728
+930
 00:54:26,390 --> 00:54:31,310
 And Dutch seems confident that with the group of... or the group assembled, all will be okay.
 
-729
+931
 00:54:32,750 --> 00:54:33,430
 All right.
 
-730
+932
 00:54:34,010 --> 00:54:38,830
 So that's why Dutch was like, we were missing you when they were talking about the boat.
 
-731
+933
 00:54:38,970 --> 00:54:40,010
 So I wasn't there for that.
 
-732
+934
 00:54:41,770 --> 00:54:45,830
 Plan is for them to carry out the job, then flee into the wilderness out to the west.
 
-733
+935
 00:54:46,300 --> 00:54:49,400
 The next day, Hosea and I carry out our own scam and join them.
 
-734
+936
 00:54:49,960 --> 00:54:51,560
 Dutch seems happy and excited.
 
-735
+937
 00:54:52,000 --> 00:54:53,640
 He's talking again about California.
 
-736
+938
 00:54:53,940 --> 00:54:56,080
 But he's also talking about a lot of other places.
 
-737
+939
 00:54:57,880 --> 00:54:58,360
 Right.
 
-738
+940
 00:55:00,720 --> 00:55:01,700
 Blackwater Saloon.
 
-739
+941
 00:55:04,590 --> 00:55:05,270
 That's nice.
 
-740
+942
 00:55:06,850 --> 00:55:09,270
 Is that what the saloon looked like in the first game?
 
-741
+943
 00:55:09,750 --> 00:55:11,590
 I think it actually did look like this.
 
-742
+944
 00:55:13,570 --> 00:55:14,930
 Now that I think back on it.
 
-743
+945
 00:55:17,450 --> 00:55:18,350
 A nice horse.
 
-744
+946
 00:55:19,990 --> 00:55:21,830
 Oh, Blackwater no-go.
 
-745
+947
 00:55:22,790 --> 00:55:24,150
 We've been running for weeks.
 
-746
+948
 00:55:24,430 --> 00:55:25,670
 I mean, running more than usual.
 
-747
+949
 00:55:26,070 --> 00:55:30,850
 The job they were talking about in Blackwater, robbing that ferry, it turned into a disaster.
 
-748
+950
 00:55:40,440 --> 00:55:41,840
 Yeah.
 
-749
+951
 00:55:54,760 --> 00:55:56,340
 Davy T.
 
-750
+952
 00:55:57,260 --> 00:56:01,020
 Then as we were fleeing east over the grizzlies, an almighty storm hit us.
 
-751
+953
 00:56:01,400 --> 00:56:02,740
 Oh, so that's what we just saw.
 
-752
+954
 00:56:03,660 --> 00:56:09,180
 Davy Callender, who got shot in the gut on the road, passed away.
 
-753
+955
 00:56:09,540 --> 00:56:10,940
 It was brutal to watch.
 
-754
+956
 00:56:11,440 --> 00:56:13,940
 And the rest of us nearly froze.
 
-755
+957
 00:56:14,300 --> 00:56:19,980
 But we found shelter and have been resting here in some old abandoned mining town while we await the thaw.
 
-756
+958
 00:56:23,100 --> 00:56:24,120
 Camp Coulter.
 
-757
+959
 00:56:27,400 --> 00:56:28,700
 So that's where we are now.
 
-758
+960
 00:56:29,780 --> 00:56:31,100
 What the hell is going on?
 
-759
+961
 00:56:33,920 --> 00:56:35,460
 Someone has a bit of trouble.
 
-760
+962
 00:56:38,180 --> 00:56:38,900
 Choo-choo.
 
-761
+963
 00:56:55,020 --> 00:56:55,940
 Cowering up here.
 
-762
+964
 00:56:56,880 --> 00:56:57,600
 Found a girl.
 
-763
+965
 00:56:57,840 --> 00:56:59,320
 Well, a woman, I should say.
 
-764
+966
 00:56:59,920 --> 00:57:03,680
 Her husband had been murdered by some of Como Driscoll's boys.
 
-765
+967
 00:57:04,340 --> 00:57:05,360
 Nasty business.
 
-766
+968
 00:57:06,480 --> 00:57:07,520
 And that's it.
 
-767
+969
 00:57:07,660 --> 00:57:07,940
 Okay.
 
-768
+970
 00:57:08,280 --> 00:57:08,840
 Cool.
 
-769
+971
 00:57:10,040 --> 00:57:10,960
 Very nice.
 
-770
+972
 00:57:11,820 --> 00:57:13,000
 There's also chapters.
 
-771
+973
 00:57:15,220 --> 00:57:17,660
 Oh, because we're in chapter one, or...?
 
-772
+974
 00:57:17,660 --> 00:57:18,580
 No.
 
-773
+975
 00:57:19,060 --> 00:57:19,600
 Okay, I'm not sure.
 
-774
+976
 00:57:20,380 --> 00:57:20,760
 Cool.
 
-775
+977
 00:57:21,300 --> 00:57:22,440
 That is awesome.
 
-776
+978
 00:57:22,900 --> 00:57:24,480
 It's gonna get filled out, I guess, as we play.
 
-777
+979
 00:57:27,000 --> 00:57:27,660
 What is he doing?
 
-778
+980
 00:57:31,140 --> 00:57:33,320
 Oh, he's scribbling in a journal as well, that's cool.
 
-779
+981
 00:57:49,850 --> 00:57:53,430
 Speaking of John, are we actually not going to play as him at all?
 
-780
+982
 00:57:55,030 --> 00:57:56,050
 Maybe at some point.
 
-781
+983
 00:57:57,250 --> 00:57:58,690
 Like, the hell?
 
-782
+984
 00:58:00,110 --> 00:58:01,290
 It's kind of weird, isn't it?
 
-783
+985
 00:58:02,410 --> 00:58:03,450
 Can I read that book?
 
-784
+986
 00:58:03,590 --> 00:58:03,750
 No?
 
-785
+987
 00:58:06,320 --> 00:58:06,880
 Hosea.
 
-786
+988
 00:58:07,000 --> 00:58:07,480
 Oh, shit!
 
-787
+989
 00:58:08,400 --> 00:58:09,440
 How's it going, man?
 
-788
+990
 00:58:10,020 --> 00:58:10,880
 Resting by the fire.
 
-789
+991
 00:58:27,440 --> 00:58:28,580
 Man, dude!
 
-790
+992
 00:58:29,040 --> 00:58:30,780
 Oh my god, this is so good.
 
-791
+993
 00:58:31,480 --> 00:58:32,420
 Search the drawer.
 
-792
+994
 00:58:33,800 --> 00:58:34,360
 Nothing.
 
-793
+995
 00:58:35,440 --> 00:58:37,800
 Oh man, I love this pace.
 
-794
+996
 00:58:39,160 --> 00:58:40,300
 This is fantastic.
 
-795
+997
 00:58:41,700 --> 00:58:43,180
 Listen to the sounds outside.
 
-796
+998
 00:58:46,900 --> 00:58:47,840
 There's someone in here.
 
-797
+999
 00:58:48,680 --> 00:58:49,440
 Who is that?
 
-798
+1000
 00:58:52,380 --> 00:58:54,700
 Wait, I can go and talk to John, I guess, at some point?
 
-799
+1001
 00:58:56,160 --> 00:58:56,620
 Molly.
 
-800
+1002
 00:59:03,520 --> 00:59:04,380
 Wow, okay.
 
-801
+1003
 00:59:08,640 --> 00:59:10,060
 I have to process that one, huh?
 
-802
+1004
 00:59:10,680 --> 00:59:11,800
 Look at the cobwebs.
 
-803
+1005
 00:59:11,940 --> 00:59:12,720
 Dude, the detail.
 
-804
+1006
 00:59:13,440 --> 00:59:14,580
 I'm not gonna say it.
 
-805
+1007
 00:59:14,780 --> 00:59:18,200
 This looks pretty much as good as Grand Theft Auto 6.
 
-806
+1008
 00:59:18,460 --> 00:59:19,260
 Am I crazy?
 
-807
+1009
 00:59:19,540 --> 00:59:21,220
 How the fuck is this even possible?
 
-808
+1010
 00:59:22,580 --> 00:59:26,280
 Well, I guess I am playing it on PC in 4K and, you know, full framerate and all that.
 
-809
+1011
 00:59:26,360 --> 00:59:26,680
 But still.
 
-810
+1012
 00:59:27,320 --> 00:59:28,220
 Oh my god.
 
-811
+1013
 00:59:29,920 --> 00:59:31,460
 That is wild, bro.
 
-812
+1014
 00:59:36,240 --> 00:59:37,640
 Damn!
 
-813
+1015
 00:59:37,640 --> 00:59:39,040
 Man!
 
-814
+1016
 00:59:42,970 --> 00:59:44,130
 Let me eat something.
 
-815
+1017
 00:59:44,630 --> 00:59:45,350
 What's that?
 
-816
+1018
 00:59:45,790 --> 00:59:46,970
 Oh, the card we found.
 
-817
+1019
 00:59:48,110 --> 00:59:49,230
 Salted beef.
 
-818
+1020
 00:59:49,490 --> 00:59:50,650
 I have a necklace?
 
-819
+1021
 00:59:51,270 --> 00:59:53,830
 A valuable gold pendant necklace can be sold.
 
-820
+1022
 00:59:56,370 --> 00:59:57,050
 Journal.
 
-821
+1023
 00:59:57,430 --> 00:59:58,970
 Oh, I guess that's the one we just looked at.
 
-822
+1024
 00:59:59,490 --> 01:00:00,510
 Premium cigarettes.
 
-823
+1025
 01:00:00,910 --> 01:00:03,970
 Slightly damages stamina core, slightly restores deadeye core.
 
-824
+1026
 01:00:05,330 --> 01:00:06,470
 Mmm, deadeye.
 
-825
+1027
 01:00:07,030 --> 01:00:08,150
 Like me some of that.
 
-826
+1028
 01:00:09,770 --> 01:00:11,330
 Provisions, tonics.
 
-827
+1029
 01:00:12,200 --> 01:00:13,220
 Miracle tonic.
 
-828
+1030
 01:00:14,220 --> 01:00:15,120
 Health cure.
 
-829
+1031
 01:00:17,540 --> 01:00:19,080
 Oh, binoculars!
 
-830
+1032
 01:00:19,340 --> 01:00:20,000
 Thank you, game!
 
-831
+1033
 01:00:20,760 --> 01:00:23,260
 Thank you for giving me binoculars early on.
 
-832
+1034
 01:00:23,580 --> 01:00:26,960
 And not, like, at the end of the game like they did in Red Dead 1.
 
-833
+1035
 01:00:27,000 --> 01:00:28,020
 That was such a blunder.
 
-834
+1036
 01:00:28,420 --> 01:00:29,640
 I can't believe it.
 
-835
+1037
 01:00:30,440 --> 01:00:30,960
 Bandana.
 
-836
+1038
 01:00:31,360 --> 01:00:33,460
 Hide your identity while committing crimes!
 
-837
+1039
 01:00:33,680 --> 01:00:33,980
 Okay.
 
-838
+1040
 01:00:34,660 --> 01:00:35,220
 Sweet.
 
-839
+1041
 01:00:36,840 --> 01:00:37,900
 Cigarette cards.
 
-840
+1042
 01:00:38,260 --> 01:00:38,760
 Alright.
 
-841
+1043
 01:00:39,790 --> 01:00:40,550
 Very cool.
 
-842
+1044
 01:00:43,330 --> 01:00:44,810
 Let me see what else I can do in here.
 
-843
+1045
 01:00:46,710 --> 01:00:48,410
 Can I actually keep talking to these people?
 
-844
+1046
+01:00:51,060 --> 01:00:51,910
+Hey.
+
+1047
 01:00:54,910 --> 01:00:55,350
 Alright.
 
-845
+1048
+01:00:58,430 --> 01:00:59,230
+Good.
+
+1049
 01:01:01,110 --> 01:01:03,610
 I think he's tired of me talking to him.
 
-846
+1050
 01:01:04,030 --> 01:01:06,410
 He's busy scribbling in his journal.
 
-847
+1051
 01:01:08,250 --> 01:01:09,070
 Damn.
 
-848
+1052
 01:01:10,010 --> 01:01:13,910
 So I guess this is where I save my game or... or not.
 
-849
+1053
 01:01:15,910 --> 01:01:16,730
 Beautiful.
 
-850
+1054
 01:01:17,350 --> 01:01:17,810
 Beautiful.
 
-851
+1055
 01:01:21,530 --> 01:01:22,690
 What's in here?
 
-852
+1056
 01:01:24,690 --> 01:01:26,310
 That's a freaking grindstone.
 
-853
+1057
 01:01:26,950 --> 01:01:28,070
 And a shovel.
 
-854
+1058
 01:01:31,220 --> 01:01:32,040
 Carpentry tools.
 
-855
+1059
 01:01:32,540 --> 01:01:33,100
 All right.
 
-856
+1060
 01:01:33,700 --> 01:01:35,220
 Abandoned mining town, right?
 
-857
+1061
 01:01:36,460 --> 01:01:37,140
 Oh, man.
 
-858
+1062
 01:01:37,200 --> 01:01:38,120
 It's so bright out here.
 
-859
+1063
 01:01:38,280 --> 01:01:38,520
 Damn.
 
-860
+1064
 01:01:40,160 --> 01:01:40,500
 Ooh.
 
-861
+1065
 01:01:41,200 --> 01:01:41,720
 Wow.
 
-862
+1066
 01:01:42,000 --> 01:01:42,940
 Whoa, man.
 
-863
+1067
 01:01:43,620 --> 01:01:44,960
 This looks so good.
 
-864
+1068
 01:01:45,520 --> 01:01:46,300
 Fucking hell.
 
-865
+1069
 01:01:48,420 --> 01:01:53,220
 Okay, so we got a couple things down that way, but I want to explore all these places here.
 
-866
+1070
 01:01:55,140 --> 01:01:56,480
 There's houses over there, too.
 
-867
+1071
 01:01:56,620 --> 01:01:57,600
 Actually, it looks more...
 
-868
+1072
 01:01:59,210 --> 01:02:00,090
 Abandoned, really.
 
-869
+1073
 01:02:01,050 --> 01:02:02,270
 In disrepair.
 
-870
+1074
 01:02:06,610 --> 01:02:08,050
 Whoa, everyone's in here.
 
-871
+1075
 01:02:14,070 --> 01:02:15,190
 Oh, that's the new girl.
 
-872
+1076
 01:02:21,610 --> 01:02:24,210
 Dude, the fact that I respond to this is crazy good.
 
-873
+1077
 01:02:24,570 --> 01:02:25,830
 It's almost like an RPG.
 
-874
+1078
+01:02:31,880 --> 01:02:34,210
+Fine, but I would kill for a whiskey.
+
+1079
+01:02:34,390 --> 01:02:37,534
+Keep warm, all of you... keep warm... just a few more days and we'll get off this hill.
+
+1080
 01:02:56,580 --> 01:02:59,160
 Is that actually Jack down there?
 
-875
+1081
 01:02:59,840 --> 01:03:01,300
 Oh, it is.
 
-876
+1082
 01:03:02,200 --> 01:03:03,620
 That's so weird.
 
-877
+1083
 01:03:04,000 --> 01:03:11,680
 ...so impoverished that he hath no oblation, chooseth the tree that will not rot.
 
-878
+1084
 01:03:12,800 --> 01:03:19,920
 He seeketh unto him a cunning workman to prepare a graven image that shall not be moved.
 
-879
+1085
 01:03:21,040 --> 01:03:22,500
 Have ye not known?
 
-880
+1086
 01:03:22,780 --> 01:03:24,140
 Have ye not heard?
 
-881
+1087
 01:03:24,460 --> 01:03:27,320
 Hath it not been told to you from the beginning?
 
-882
+1088
 01:03:27,960 --> 01:03:33,380
 Have ye not understood from the foundations of the earth?
 
-883
+1089
 01:03:35,140 --> 01:03:52,080
 Is it he that sitteth upon the circle of the earth, and the inhabitants thereof are as grasshoppers, that stretcheth out the heavens as a curtain, and spreadeth them out as a tent to dwell in?
 
-884
+1090
 01:03:53,160 --> 01:04:01,240
 That bringeth the princes to nothing, he maketh the judges of the earth as vanity.
 
-885
+1091
 01:04:01,580 --> 01:04:06,220
 Yea, they shall not be planted.
 
-886
+1092
 01:04:06,660 --> 01:04:09,420
 Yea, they shall not be sown.
 
-887
+1093
 01:04:09,880 --> 01:04:21,600
 Yea, their stock shall not take root in the earth, and he shall also blow upon them, and they shall wither, and the whirlwind shall take them away as stubble.
 
-888
+1094
 01:04:24,180 --> 01:04:30,380
 To whom then will ye liken me, or shall I be equal, saith the Holy One?
 
-889
+1095
 01:04:31,720 --> 01:04:43,880
 Lift up your eyes on high, and behold, who hath created these things, that bringeth out their hosts by number, and calleth them all by names, by the greatness of his might.
 
-890
+1096
 01:04:44,120 --> 01:04:48,340
 For that he hath strong in power, not one faileth.
 
-891
+1097
 01:04:50,160 --> 01:05:00,620
 Why sayest thou, O Jacob, and speaketh O Israel, my way is hid from the Lord, and my judgment is passed over from God?
 
-892
+1098
 01:05:02,360 --> 01:05:03,940
 Hast thou not known?
 
-893
+1099
 01:05:04,440 --> 01:05:13,740
 Hast thou not heard that the everlasting God, the Lord, the creator of the ends of the earth, fainteth not, neither is weary?
 
-894
+1100
 01:05:14,590 --> 01:05:18,810
 There is no searching of his understanding.
 
-895
+1101
 01:05:20,090 --> 01:05:26,750
 He giveth power to the faint, and to them that hath no might he increaseth their strength.
 
-896
+1102
 01:05:27,970 --> 01:05:34,530
 Even the youths shall faint and be weary, and the young men shall utterly fail.
 
-897
+1103
 01:05:35,450 --> 01:05:40,130
 But they that wait upon the Lord shall renew their strength.
 
-898
+1104
 01:05:40,750 --> 01:05:43,870
 They shall mount up with wings as eagles.
 
-899
+1105
 01:05:44,130 --> 01:05:49,630
 They shall run and not be weary, and they shall walk... and not think.
 
-900
+1106
 01:05:58,770 --> 01:05:59,490
 Yeah.
 
-901
+1107
 01:06:07,190 --> 01:06:07,910
 Huh.
 
-902
+1108
 01:06:13,010 --> 01:06:16,670
 Yeah, Jesse, what the fuck are you talking about, actually?
 
-903
+1109
 01:06:17,190 --> 01:06:18,510
 Reverend Swanson.
 
-904
+1110
 01:06:19,250 --> 01:06:20,290
 Alright, then.
 
-905
+1111
 01:06:23,250 --> 01:06:24,090
 Thank you for that.
 
-906
+1112
 01:06:24,890 --> 01:06:25,470
 Who are you?
 
-907
+1113
 01:06:26,830 --> 01:06:27,190
 Strauss.
 
-908
+1114
 01:06:33,950 --> 01:06:39,430
 Speaking of, is that him in the back there?
 
-909
+1115
 01:06:39,550 --> 01:06:40,130
 I think it is.
 
-910
+1116
 01:06:46,850 --> 01:06:48,110
 He sounds German to me.
 
-911
+1117
 01:06:48,910 --> 01:06:50,570
 And since his name is Strauss...
 
-912
+1118
 01:06:50,990 --> 01:06:52,570
 I think he may be of German origin.
 
-913
+1119
 01:06:54,990 --> 01:06:55,710
 Susan.
 
-914
+1120
 01:07:04,210 --> 01:07:06,710
 What about Jack?
 
-915
+1121
 01:07:22,690 --> 01:07:24,330
 Oh my god, it's Jack.
 
-916
+1122
 01:07:25,190 --> 01:07:26,010
 Little Jack.
 
-917
+1123
 01:07:28,910 --> 01:07:29,390
 Wait!
 
-918
+1124
 01:07:31,070 --> 01:07:31,550
 Uncle!
 
-919
+1125
 01:07:32,610 --> 01:07:34,650
 That's the guy from the first game at the end.
 
-920
+1126
 01:07:35,210 --> 01:07:36,070
 What the hell, man?
 
-921
+1127
 01:07:53,740 --> 01:07:58,300
 Dude, the fact that I can interact with all these people makes me so happy.
 
-922
+1128
 01:07:58,760 --> 01:08:01,620
 It means they really took their time with this shit, man.
 
-923
+1129
 01:08:02,000 --> 01:08:04,220
 This is gonna be some good stuff, I think.
 
-924
+1130
 01:08:04,580 --> 01:08:04,860
 Tilly.
 
-925
+1131
 01:08:10,120 --> 01:08:10,600
 Right.
 
-926
+1132
 01:08:14,720 --> 01:08:15,200
 Abigail.
 
-927
+1133
 01:08:27,710 --> 01:08:29,090
 Wait a minute, was this like a school?
 
-928
+1134
 01:08:29,310 --> 01:08:30,090
 Look at the blackboard.
 
-929
+1135
 01:08:32,190 --> 01:08:33,670
 Looks like a tiny schoolroom.
 
-930
+1136
 01:08:34,270 --> 01:08:35,290
 Or schoolhouse.
 
-931
+1137
 01:08:37,150 --> 01:08:37,870
 What's up, dude?
 
-932
+1138
 01:08:39,110 --> 01:08:39,550
 John!
 
-933
+1139
 01:08:52,460 --> 01:08:55,860
 Dude, it's so weird seeing John there and not playing him.
 
-934
+1140
 01:08:56,060 --> 01:08:57,480
 You know, hearing his voice?
 
-935
+1141
 01:08:58,200 --> 01:08:59,180
 It's crazy.
 
-936
+1142
 01:09:01,280 --> 01:09:01,800
 Okay.
 
-937
+1143
 01:09:02,380 --> 01:09:03,980
 Well, good catching up, guys.
 
-938
+1144
 01:09:04,600 --> 01:09:05,460
 What was your name again?
 
-939
+1145
 01:09:06,600 --> 01:09:08,580
 Karen, and then we had... who's that?
 
-940
+1146
 01:09:09,460 --> 01:09:10,420
 Mary Beth?
 
-941
+1147
 01:09:13,630 --> 01:09:16,590
 And this one was Sadie.
 
-942
+1148
 01:09:23,710 --> 01:09:38,650
 Yeah, that sucks, I guess.
 
-943
+1149
 01:09:39,160 --> 01:09:42,780
 Seemed like they had a nice thing going there at that place, you know?
 
-944
+1150
 01:09:43,740 --> 01:09:46,400
 Until those boys came by and ruined it all.
 
-945
+1151
 01:09:46,740 --> 01:09:47,560
 Partied for three days.
 
-946
+1152
 01:09:48,320 --> 01:09:50,880
 I still don't understand where the hell she was in there.
 
-947
+1153
 01:09:50,940 --> 01:09:51,880
 Because I was looking everywhere.
 
-948
+1154
 01:09:52,500 --> 01:09:54,920
 I did not find a woman hiding in there.
 
-949
+1155
 01:09:55,100 --> 01:09:55,900
 Maybe she was under the bed.
 
-950
+1156
 01:09:58,080 --> 01:09:58,480
 Damn.
 
-951
+1157
 01:09:58,920 --> 01:10:00,240
 Dude, this looks incredible!
 
-952
+1158
 01:10:00,760 --> 01:10:02,280
 Like, I didn't even have to go in there!
 
-953
+1159
 01:10:03,300 --> 01:10:04,720
 Oh, man, I love it!
 
-954
+1160
 01:10:05,340 --> 01:10:07,320
 This is gonna be some good shit.
 
-955
+1161
 01:10:08,380 --> 01:10:09,140
 Wow.
 
-956
+1162
 01:10:10,080 --> 01:10:11,680
 Let me try these binoculars.
 
-957
+1163
 01:10:12,880 --> 01:10:15,020
 Uh... Like that.
 
-958
+1164
 01:10:16,320 --> 01:10:17,440
 How was it?
 
-959
+1165
 01:10:25,320 --> 01:10:26,320
 Oh, yeah.
 
-960
+1166
 01:10:27,620 --> 01:10:29,680
 Wait, what the hell are those keybinds?
 
-961
+1167
 01:10:31,620 --> 01:10:32,380
 Uh...
 
-962
+1168
 01:10:35,240 --> 01:10:37,800
 I have no idea what those buttons are on my keyboard.
 
-963
+1169
 01:10:39,980 --> 01:10:40,800
 Looks nice, though.
 
-964
+1170
 01:10:41,200 --> 01:10:43,320
 I'm gonna have to... Maybe I'll go through the settings.
 
-965
+1171
 01:10:44,260 --> 01:10:45,960
 And actually change some of these hotkeys.
 
-966
+1172
 01:10:46,240 --> 01:10:47,520
 Because some of them are weird, man.
 
-967
+1173
 01:10:47,660 --> 01:10:49,180
 Like, going back is backspace?
 
-968
+1174
 01:10:49,720 --> 01:10:50,120
 Really?
 
-969
+1175
 01:10:50,320 --> 01:10:51,020
 Of all keys?
 
-970
+1176
 01:10:51,720 --> 01:10:54,120
 I mean, sure, you know, but... Okay.
 
-971
+1177
 01:10:54,280 --> 01:10:55,380
 Guys, I'm gonna take a break here.
 
-972
+1178
 01:10:55,520 --> 01:10:58,100
 This is freaking fantastic.
 
-973
+1179
 01:10:58,820 --> 01:11:01,940
 So far, 10 out of 10 opening to the game.
 
-974
+1180
 01:11:02,060 --> 01:11:02,440
 Wow.
 
-975
+1181
 01:11:02,830 --> 01:11:04,730
 I can't believe how good this game looks.
 
-976
+1182
 01:11:04,950 --> 01:11:07,530
 The voice acting is crazy good.
 
-977
+1183
 01:11:07,930 --> 01:11:21,750
 The quality step-up from the first game, in terms of cutscenes, and just the way characters are moving, how they're animated, and just the general flow of the storytelling, is, like, completely next level.
 
-978
+1184
 01:11:22,410 --> 01:11:28,590
 I actually do not remember when Red Dead Redemption 1 came out, but, like, it must have been...
 
-979
+1185
 01:11:29,550 --> 01:11:30,870
 Many years before this.
 
-980
+1186
 01:11:31,130 --> 01:11:32,690
 I mean, this game came out in 2018.
 
-981
+1187
 01:11:33,530 --> 01:11:35,310
 And fucking look at it!
 
-982
+1188
 01:11:36,410 --> 01:11:39,290
 Now, I don't know if it actually got, like, a next-gen update since then.
 
-983
+1189
 01:11:39,430 --> 01:11:40,310
 Could have been the case.
 
-984
+1190
 01:11:40,310 --> 01:11:41,110
 I'm not entirely sure.
 
-985
+1191
 01:11:41,710 --> 01:11:43,890
 But I am blown away.
 
-986
+1192
 01:11:44,290 --> 01:11:47,850
 You could have shown me this and told me this was from Grand Theft Auto 6.
 
-987
+1193
 01:11:48,530 --> 01:11:49,570
 I would believe it.
 
-988
+1194
 01:11:50,050 --> 01:11:52,290
 If you said, there's a snow level in that game, you know?
 
-989
+1195
 01:11:52,530 --> 01:11:53,330
 Looks like this.
 
-990
+1196
 01:11:53,330 --> 01:11:53,890
 I'll say, yeah.
 
-991
+1197
 01:11:54,090 --> 01:11:54,430
 Okay.
 
-992
+1198
 01:11:54,710 --> 01:11:55,110
 Cool.
 
-993
+1199
 01:11:55,630 --> 01:11:56,490
 I would believe it.
 
-994
+1200
 01:11:56,570 --> 01:11:57,170
 It's insane.
 
-995
+1201
 01:11:58,300 --> 01:11:59,400
 I mean, yeah.
 
-996
+1202
 01:11:59,760 --> 01:11:59,860
 Okay.
 
-997
+1203
 01:12:00,620 --> 01:12:01,820
 Guys, I'm gonna love this.
 
-998
+1204
 01:12:02,040 --> 01:12:03,860
 Thanks for watching, and I'll see you in the next episode.
 
-999
+1205
 01:12:04,220 --> 01:12:04,860
 Over and out.
